@@ -11,3 +11,47 @@ my %hash;
 Perl allows you to collect similar functions and variables into their own unique named spaces
 .namespaces (Packages). A namespace is a collection of symbols grouped under a globally unique
 name. Perl allows multilevel namespaces, with names joined by double colons (::).
+
+Variables
+A variable in Perl is a storage location for a value (Values).
+
+Variable Sigils
+The sigil of the variable in a declaration determines the type of the variable: scalar, array, or hash.
+
+Anonymous Variables
+Perl variables do not require names. Names exist to help you, the programmer, keep track of an
+$apple, @barrels, or %cookie_recipes. Variables created without literal names in your source code are
+anonymous. The only way to access anonymous variables is by reference
+
+Characters in a single-quoted string are exactly and only ever what they appear to be, with two
+exceptions. To include a single quote inside a single-quoted string, you must escape it with a leading
+backslash:
+my $reminder = 'Don\'t forget to escape '
+. 'the single quote!' ;
+To include a backslash at the end of a string, escape it with another leading backslash. Otherwise Perl
+will think you.re trying to escape the closing delimiter:
+my $exception = 'This string ends with a '
+. 'backslash, not a quote: \\' ;
+
+
+
+When you interpolate the value of a scalar variable or the values of an array within a double-quoted
+string, the current contents of the variable become part of the string as if you.d concatenated them:
+my $factoid = " $name lives at $address !" ;
+# equivalent to
+my $factoid = $name . ' lives at ' . $address . '!' ;
+
+Interpolation:
+
+When you interpolate the value of a scalar variable or the values of an array within a double-quoted
+string, the current contents of the variable become part of the string as if you.d concatenated them
+
+The q operator indicates single quoting (no interpolation)
+
+whereas the qq operator provides double-quoting behavior (interpolation).
+
+26.12 - Perl O'reily
+
+Perl - Practical Extraction and Report Language
+
+
