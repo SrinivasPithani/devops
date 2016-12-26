@@ -1,0 +1,10 @@
+26.12
+
+Variable Names and Sigils
+Variable names always have a leading sigil (a symbol), which indicates the type of the variable.s
+value. Scalar variables (Scalars) use the dollar sign ($). Array variables (Arrays) use the at sign (@).
+Hash variables (Hashes) use the percent sign (%):
+my $scalar;
+my @array;
+my %hash;
+
