@@ -8,3 +8,6 @@ my $scalar;
 my @array;
 my %hash;
 
+Perl allows you to collect similar functions and variables into their own unique named spaces
+.namespaces (Packages). A namespace is a collection of symbols grouped under a globally unique
+name. Perl allows multilevel namespaces, with names joined by double colons (::).
