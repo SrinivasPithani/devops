@@ -65,4 +65,18 @@ Special string operator is the string repetition operator, consisting of the sin
 
 When a string literal is double-quoted, it is subject to variable interpolation*
 
+27.12 Perl notes on Arrays
+
+If a scalar is the .singular. in Perl, as we described it at the beginning of Chapter 2, the
+.plural. in Perl is represented by lists and arrays.
+
+The qw shortcut makes it easy to generate them without typing a lot
+of extra quote marks:
+qw( fred barney betty wilma dino ) # same as above, but less typing
+
+qw( fred barney betty wilma dino )
+qw{ fred barney betty wilma dino }
+qw[ fred barney betty wilma dino ]
+qw< fred barney betty wilma dino >
+
 
