@@ -54,4 +54,15 @@ whereas the qq operator provides double-quoting behavior (interpolation).
 
 Perl - Practical Extraction and Report Language
 
+Scalar is the simplest kind of data that Perl manipulates. Most scalars are either a number (like
+255 or 3.25e20) or a string of characters (like hello. or the Gettysburg Address).
+
+Literal strings come in two different flavors: single-quoted string
+literals and double-quoted string literals.
+
+Special string operator is the string repetition operator, consisting of the single lowercase letter x.
+
+
+When a string literal is double-quoted, it is subject to variable interpolation*
+
 
