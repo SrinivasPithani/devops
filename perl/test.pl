@@ -1,5 +1,13 @@
 #!/usr/bin/perl
 
-chomp(@lines = <STDIN>);
+@list = (1, 2, 3);
 
-print @lines;
+sub add{
+
+	foreach (@_) {
+	$sum += $_;
+	}
+	print $sum ;
+}
+
+&add;
