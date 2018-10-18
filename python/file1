@@ -1,0 +1,8 @@
+eon@db0:~/Desktop$ cd python/
+neon@db0:~/Desktop/python$ ls
+greater_than_54.py  python_test.py  square_of_numbers.py
+neon@db0:~/Desktop/python$ ls -lrt
+total 12
+-rw-r--r-- 1 neon neon 263 Sep 16 19:28 python_test.py
+-rw-r--r-- 1 neon neon 120 Sep 17 14:29 square_of_numbers.py
+-rw-r--r-- 1 neon neon 219 Sep 17 14:55 greater_than_54.py

@@ -1,0 +1,24 @@
+#Print funciton
+- In python 3 , print has changed drastically
+- print(value) - Prints the actual value/data associated with variable 'value'
+- print("value") - Prints the string "value"
+##- print("There are {} cats".format())
+
+#Lists:
+- They are like the arrays in other prog languages
+- They are accessed by indicies
+- Ex: colors = ["Orange", "Black", "Blue" ]
+- Access: colors[1] , gives Black 
+- Lists are mutable i.e values can be changed 
+- Lists provides append,delete,...etc methods
+
+#Tuples:
+- Tuples are intialised using ()
+- Tuples are immutable, i.e. you can't change the values
+- Ex: colors = ("orange", "blue" )
+- Accessed using indicies colors[0]
+
+# Dictonary
+- Set don't have duplicates
+- Dictonary is form of set with unique key i.e. no duplicate key
+- dict.items() - gives completes list of dictonries
