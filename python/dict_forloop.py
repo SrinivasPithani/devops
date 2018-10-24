@@ -2,5 +2,6 @@ animals = { "snap": "dog",
             "kiki": "cat",
             "choo": "rat",
         }
-animals.update(("drip": "cow"))
+dict = {"drip": "cow"}
+animals.update(dict)
 print (animals)
