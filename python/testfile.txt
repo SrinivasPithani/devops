@@ -1,0 +1,1035 @@
+     Google for Education 
+
+All Products
+
+Copy Special Python Exercise
+
+The Copy Special exercise goes with the file-system and external commands material in the Python Utilities section. This exercise is in the "copyspecial" directory within google-python-exercises (download google-python-exercises.zip if you have not already, see Set Up for details). Add your code in copyspecial.py.
+
+The copyspecial.py program takes one or more directories as its arguments. We'll say that a "special" file is one where the name contains the pattern __w__ somewhere, where the w is one or more word chars. The provided main() includes code to parse the command line arguments, but the rest is up to you. Write functions to implement the features below and modify main() to call your functions.
+
+Suggested functions for your solution(details below):
+
+    get_special_paths(dir) -- returns a list of the absolute paths of the special files in the given directory
+    copy_to(paths, dir) given a list of paths, copies those files into the given directory
+    zip_to(paths, zippath) given a list of paths, zip those files up into the given zipfile 
+
+Part A (manipulating file paths)
+
+Gather a list of the absolute paths of the special files in all the directories. In the simplest case, just print that list (here the "." after the command is a single argument indicating the current directory). Print one absolute path per line.
+
+$ ./copyspecial.py .
+/Users/nparlante/pycourse/day2/xyz__hello__.txt
+/Users/nparlante/pycourse/day2/zz__something__.jpg
+
+We'll assume that names are not repeated across the directories (optional: check that assumption and error out if it's violated).
+Part B (file copying)
+
+If the "--todir dir" option is present at the start of the command line, do not print anything and instead copy the files to the given directory, creating it if necessary. Use the python module "shutil" for file copying.
+
+$ ./copyspecial.py --todir /tmp/fooby .
+$ ls /tmp/fooby
+xyz__hello__.txt        zz__something__.jpg
+
+Part C (calling an external program)
+
+If the "--tozip zipfile" option is present at the start of the command line, run this command: "zip -j zipfile <list all the files>". This will create a zipfile containing the files. Just for fun/reassurance, also print the command line you are going to do first (as shown in lecture). (Windows note: windows does not come with a program to produce standard .zip archives by default, but you can get download the free and open zip program from www.info-zip.org.)
+
+$ ./copyspecial.py --tozip tmp.zip .
+
+Command I'm going to do:zip -j tmp.zip /Users/nparlante/pycourse/day2/xyz__hello__.txt
+/Users/nparlante/pycourse/day2/zz__something__.jpg
+
+If the child process exits with an error code, exit with an error code and print the command's output. Test this by trying to write a zip file to a directory that does not exist.
+
+$ ./copyspecial.py --tozip /no/way.zip .
+
+Command I'm going to do:zip -j /no/way.zip /Users/nparlante/pycourse/day2/xyz__hello__.txt
+/Users/nparlante/pycourse/day2/zz__something__.jpg
+
+zip I/O error: No such file or directory
+
+zip error: Could not create output file (/no/way.zip)
+
+Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
+
+Last updated December 13, 2012.
+
+    Connect
+        Blog
+        Facebook
+        Google+
+        Medium
+        Twitter
+        YouTube 
+    Programs
+        Women Techmakers
+        Agency Program
+        GDG
+        Google Developers Experts
+        Startup Launchpad 
+    Developer Consoles
+        Google API Console
+        Google Cloud Platform Console
+        Google Play Console
+        Firebase Console
+        Actions on Google Console
+        Cast SDK Developer Console
+        Chrome Web Store Dashboard 
+    Google Developers
+        Android
+        Chrome
+        Firebase
+        Google Cloud Platform
+        All Products 
+
+English
+Terms Privacy
+Sign up for the Google Developers newsletter
+Subscribe
+
+Accessibility links
+Skip to main content
+Accessibility help
+Accessibility feedback
+Google
+About 13,600 results (0.62 seconds) 
+Sponsored
+See 15k sas 146GB P/N:9Z2066-054 ST3146855SS...
+Dell 146GB SAS 15k 3.5" 3G Hard Drive TN937 Ref
+Dell 146GB SAS 15k 3.5" 3G Hard
+£24.00
+Refurbished
+ETB Technologi...
+By Google
+Seagate ST3146855SS 146GB SAS 6G 15k Disk Drive
+Seagate ST3146855SS ...
+£142.80
+The ScsiShop
+By Google
+Dell TN937 ST3146855SS Cheetah 15K.5 146GB SAS 15K 3.5" HDD | S527 9Z2066-054
+Dell TN937 ST3146855SS ...
+£49.99
+Used
+eBay.co.uk
+By McDiscount.co.uk
+Dell 146GB RY491 Known as ST3146855SS
+Dell 146GB RY491 Known ...
+£11.99
+Refurbished
+Ultratec
+By Google
+Dell 146GB 9Z2066-080 Known as ST3146855SS
+Dell 146GB 9Z2066-080 ...
+£30.00
+Refurbished
+Ultratec
+By Google
+146GB SAS SEAGATE CHEETAH 15K.5 ST3146855SS Dell Poweredge Caddy 3.5" 15000 RPM
+146GB SAS SEAGATE ...
+£59.97
+Used
+ebay.co.uk
+By SalesStocker.com
+Dell Hard Drive 300GB 15K SAS
+Dell Hard Drive 300GB 15K SAS
+£44.35
+Refurbished
+Techbuyer
+By Google
+X2 Dell Cheetah 15K.5 SAS 146GB HDD Hard Disc Drives ST3146855SS
+X2 Dell Cheetah 15K.5 SAS ...
+£20.00
+Used
+ebay.co.uk
+By SalesStocker.com
+DELL TN937 TK237 SEGATE ST3146855SS 9Z2066-052 9Z2066-054 3.5" 146GB 15K SAS HDD
+DELL TN937 TK237 SEGATE
+£39.99
+Used
+eBay
+By RedBrain
+DELL TK237 / ST3146855SS / 9Z2066-052 - DELL 146GB 15K LFF SAS HARD DRIVE
+DELL TK237 / ST3146855SS /
+£34.98
+Used
+eBay
+By Twenga
+Seagate 146GB 15K 3.5" SAS Hard Drive ST3146855SS TN937
+Seagate 146GB 15K 3.5" SAS ...
+£24.99
+Used
+eBay
+By Shopping.com
+Dell RY491 ST3146855SS 9Z2066-051 seagate 146GB 15K RPM SAS 3.5" Firmware S513
+Dell RY491 ST3146855SS ...
+£69.98
+Used
+ebay.co.uk
+By SalesStocker.com
+Dell Seagate 146GB 15K SAS 3.5 " Drive TK237 ST3146855SS Hot Swap 1950 2950
+Dell Seagate 146GB 15K SAS
+£34.98
+Used
+eBay
+By Twenga
+0TK237 - Dell 146GB 15K RPM 3.5" SAS Hard Drive Seagate ST3146855SS F/W S515
+0TK237 - Dell 146GB 15K RPM
+£34.98
+Used
+eBay
+By Twenga
+Dell Cheetah 146GB 15K RPM SAS 3.5" Hard Drive Seagate ST3146855SS TK237 W/ Tray
+Dell Cheetah 146GB 15K RPM
+£34.98
+Used
+eBay
+By Twenga
+Visit:
+Google
+McDiscount.co.uk
+SalesStocker.com
+RedBrain
+Twenga
+Shopping.com
+Search Results
+Web results
+Dell TN937 | ST3146855SS | 9Z2066-054 - Serverworlds
+https://www.serverworlds.com/dell-tn937-146gb-sas-15k-3gbps-3-5-drive-9z2066-05...
+
+28 May 2015 - Dell TN937 146GB SAS 15K 3GBPS 3.5" Drive 9Z2066-054 ... Dell PN: TN937. Seagate Model: ST3146855SS. Seagate PN: 9Z2066-054.
+Seagate ST3146855SS-DELL 146GB CHEETAH 15K.5 SAS ...
+https://www.amazon.co.uk/...ST3146855SS-DELL-146GB...ST3146855SSDELL/.../B...
+
+Plug it back right to the server, works like a charm. Detail of the HD: Seagate Cheetah 15K.5. Model: *ST3146855SS* Part Number: *9Z2066-054* Firmware: ...
+Missing: p ?| ?Must include: ?p
+Seagate Cheetah 15.5K ST3146855SS 9Z2066-054 146GB 15K RPM ...
+https://www.itinstock.com › Server Components › Server Hard Drives
+
+£19.00
+Seagate Cheetah 15 5K ST3146855SS 9Z2066-054 146GB 15K RPM Hard Drive in Caddy P N 9Z2066-054 Model ST3146855SS Firmware S527 Good ...
+Dell 0RY491 RY491 ST3146855SS 146GB 15K RPM SAS 3.5 ...
+https://www.itinstock.com › Server Components › Server Hard Drives
+
+£33.25
+Dell 146GB 15K RPM SAS 3 5 Hotswap Hard Drive Dell P N 0RY491 RY491 Model ST3146855SS In ... 9DK066-042, 9X4066-145, 9z2066-050, 9DK066-051, 9Z2066-054 ... PowerEdge 1900PowerEdge 1950PowerEdge 2900PowerEdge ...
+ST3146855SS :: Fifth-generation Cheetah 15K drive - The Broker Site
+https://www.thebrokersite.com/hardware/HardDrives/ST3146855SS.php
+
+Compare prices for Seagate's ST3146855SS (Cheetah® 15K.5) from Several Members. ... Dell 146GB 15K SAS 3G 3.5" Server Hard Drive ST3146855SS 9Z2066 ... SEAGATE ST3146855SS 3.5" SAS 146GB HDD 15KRPM P/N 9Z2066-054 ...
+Seagate Cheetah ST3146855SS 146GB 15K SAS Hard Drive P/N ...
+https://www.ebay.co.uk › ... › Internal Hard Disk Drives
+Dell 146GB 15K SAS 3G 3.5" Server Hard Drive ST3146855SS 9Z2066-051 RY491 ... Cheetah ST3146855SS 146GB 15K SAS Hard Drive P/N: 9Z2066-054.
+Seagate Cheetah ST3146855SS 9Z2066-054 146GB SAS 15K RPM ...
+https://www.ebay.com › ... › Internal Hard Disk Drives
+
+US$31.25 - ?In stock
+Dell Seagate Cheetah 146GB 15K RPM SAS 3.5" Server Hard Drive TN937 ... Seagate ST3146855SS 9Z2006-054 3.5" 146GB SAS 15K RPM Hard Drive w/ ...
+Dell Ry491 146gb 15k SAS 3.5" Hard Drive in Tray | eBay
+https://www.ebay.com › ... › Internal Hard Disk Drives
+Product Key Features. Model. 9Z2066-051. Rotation Speed. 15000RPM. Cache. 16MB. Storage Capacity. 146GB. SATA Form Factor. 3.5". Interface. SAS.
+4x Dell 0TN937 ST3146855SS 9Z2066-054 TN937 146GB 15K 3.5 ...
+https://www.ebay.com › ... › Internal Hard Disk Drives
+$56.99. + Shipping. SEAGATE ST3146855SS 146GB 15K 3.5 SAS HDD - 9Z2066-054, TN937 ... DELL TK237 ST3146855SS 9Z2066-052 146GB 15K 3.5" sas hard drive .... They come ready to work with IBM, Western Digital, and Dell PowerEdge servers based on the SAS standard. Big iron ... P/N: 9Z2066-054. Dell P/N: ...
+Seagate 15000RPM 146GB Internal Hard Disk Drives for sale | eBay
+https://www.ebay.com › ... › Seagate 15000RPM 146GB Internal Hard Disk Drives
+
+Results 1 - 48 of 381 - Seagate ST3146855SS 146GB 15000 RPM 3.5" SAS Hard Drive ... Lot of 10 Dell Seagate ST3146356SS 146GB 15000RPM 3.5" SAS ..... LOT 5 SEAGATE 15K.5 ST3146855SS 146GB SAS HARD DRIVE P/N:9Z2066-054 F/W:S527 ... Cheetah ST3146855SS 146GB 15K 3.5" SAS Server Hard Drives.
+Ads
+
+    600GB SAS 15K at Amazon.co.uk | Low Prices on 600GB SAS 15K?
+    Adwww.amazon.co.uk/600GB+SAS+15K?
+    Rating for amazon.co.uk: 4.6 - Email reply time: 3 hours
+    Check Out our Selection & Order Now. Free UK Delivery on Eligible Orders!
+        Today's DealsPrime Instant VideoGift CardsKindle StorePrime Same Day Shipping
+    Welcome to The SCSI Shop | SeagateST3146855SS?
+    Adwww.scsishop.co.uk/?
+    01604 780633
+    147gb SAS 3.5" 15k disk Buy Online Today or Call Us. Call for Expert Advice. Wide Range of SCSI Drives. From Adaptors to Drives. View our Bestsellers Now!.
+
+Page navigation
+	1	
+2
+	
+3
+	
+4
+	
+5
+	
+6
+	
+7
+	
+8
+	
+9
+	
+10
+	
+Next
+Footer links
+United Kingdom EC2Y, London - From your Internet address - Use precise location - Learn more
+HelpSend feedbackPrivacyTerms
+
+
+
+Skip to main content
+eBay
+	
+	
+Enter your search keyword
+	
+Advanced
+
+    Daily Deals Sell Help & ContactShop now
+
+    My eBay
+    Expand My eBay
+
+     
+    	
+    Back to home page
+    	
+    |Listed in category: 
+    	
+        Computers/Tablets & Networking
+        >
+        Enterprise Networking, Servers
+        >
+        Servers, Clients & Terminals
+        >
+        Server Tray Sleds/Caddies
+
+	
+Email to friends
+Share on Facebook - opens in a new window or tab
+Share on Twitter - opens in a new window or tab
+Share on Pinterest - opens in a new window or tab
+Add to Watch list	
+|
+SAVE UP TO 5% See all eligible items See all eligible items
+Picture Information
+Free P&P
+146GB-SAS-SEAGATE-CHEETAH-15K-5-ST3146855SS-Dell-Poweredge-Caddy-3-5-034-15000-RPM
+Have one to sell? Sell it yourself
+Shop with confidence
+eBay Money Back Guarantee
+Get the item you ordered or your money back. Learn more - opens in new window or tab
+Seller information
+anisatech (9460 Feedback score: 9460)
+100% Positive Feedback
+Save this seller
+Contact seller
+Visit Shop
+Registered as a business seller
+Details about  146GB SAS SEAGATE CHEETAH 15K.5 ST3146855SS Dell Poweredge Caddy 3.5" 15000 RPM
+Item information
+Condition:
+Used
+Offer ends in:
+05d 08h 25m
+Quantity:
+2 available
+  	
+£56.97
+£59.97   
+save £3.00 (5% OFF*)
+Offer ends in:
+05d 08h 25m
+Buy it now -
+Add to basket -
+	 
+  	
+Make offer -
+	 
+  	
+Add to Watch list
+	 
+Click & Collect
+Posts from United Kingdom
+	Pay only £46.97 [Show me how]
+Collection:
+Click & Collect
+Postage:
+FAST & FREE
+Estimated via eBay FAST & FREE Between Fri. 26 Oct. and Sat. 27 Oct. to HA14RN
+ 
+Item location:
+Ealing, London, United Kingdom
+ 
+Posts to:
+Americas, Europe, Asia, Australia
+Payments:
+PayPal Visa/MasterCard, American Express Processed by PayPal  |  See payment information
+Returns:
+14 days refund, buyer pays return postage |  See details
+Report item
+- opens in a new window or tab
+Description
+Postage and payments
+eBay item number:
+150870191230
+Seller assumes all responsibility for this listing.
+Last updated on  06 Aug, 2018 04:47:38 BST  View all revisions
+Item specifics
+Condition: 	
+Used: An item that has been previously used. The item may have some signs of cosmetic wear, but is fully operational and functions as intended. This item may be a floor model or an item that has been returned to the seller after a period of use. See the seller’s listing for full details and description of any imperfections. See all condition definitions
+- opens in a new window or tab
+	Computer Type: 	SERVERS & WORKSTATIONS ONLY- NOT FOR DESKTOP PCs !
+NOTICE 1: 	Will work on Servers and Workstations ONLY 	NOTICE 2: 	They will not work in Standard Desktops or PCs
+Item description
+Genuine 146GB 15K SAS 3.5" Hard Drive for Dell 1950, 2950, 2900, 6950 MD1000 MD3000 and others. Capacity 146GB. 1x Dell 146GB 15K SAS 3.5" Hard Drive with Dell Caddy. Dell Poweredge 1950 II - 2x 2.33Ghz Dual core 5148 1333Mhz FSB 16GB PC2-5300F.
+See full item description -
+Business seller information
+Anisa Technologies LTD
+Arif Yusuf
+Unit 4 Bell Business Centre
+48 Bell Street
+MAIDENHEAD
+Berkshire
+SL6 1BR
+United Kingdom
+Complete information
+Return address, Anisa Technologies LTD Unit 4 Bell Business Centre, 48 Bell Street, Maidenhead, SL6 1BR, United Kingdom Tel: +44 208 1506608
+Company registration number: 7063958
+VAT number:
+GB 138267007
+I provide invoices with VAT separately displayed.
+Terms and conditions of the sale
+Shipping & Handling fees are not refundable. Refunds are for the bid amount only.
+ 
+We strive to make sure our customers are 100 percent happy with their transactions. If you feel we have not done this, Please call us on this! We leave positive feedback automatically for all customers who have completed a successful transaction with us. Please contact us per email before before leaving neutral or negative feedback. We will work with you to correct any problems.
+
+Please know that the title and description are subject to change without prior notice, and we are not responsible for typos.
+Returns policy
+After receiving the item, cancel the purchase within
+	
+Return postage
+14 days
+	
+Buyer pays return postage
+Take a look at our Returning an item help page for more details. You're covered by the eBay Money Back Guarantee if you receive an item that is not as described in the listing.
+The buyer is responsible for return postage costs.
+Return policy details
+Returns accepted
+Most purchases from business sellers are protected by the Consumer Contract Regulations 2013 which give you the right to cancel the purchase within 14 days after the day you receive the item. Find out more about your rights as a buyer
+- opens in a new window or tab
+and exceptions
+- opens in a new window or tab
+.	
+
+
+
+
+01282
+SAVE UP TO 5%See all eligible items
+HP Proliant Dell Poweredge SALE UPTO 5%
+Marked down item price reflects all savings. Items provided by anisatech
+All promotional offers from anisatech
+2.5" SATA SAS HDD Hard Drive Tray Caddy for HP 378343-002 DL360 DL380 G5 ML350
+2.5" SATA SAS HDD Hard Drive Tray Caddy for HP 378343-002 DL360 DL380 G5 ML350
+
+Was:£9.95
+
+Now:£9.45
+HP DL380 G5 PSU HP 403781-001 1000W Power Supply FIT DL380 G5 ML370 G5 ML350 G5
+HP DL380 G5 PSU HP 403781-001 1000W Power Supply FIT DL380 G5 ML370 G5 ML350 G5
+
+Was:£59.73
+
+Now:£56.74
+Dell Poweredge 2950 PE 2950 Processor Heatsink GF449 | LONDON SELLER
+Dell Poweredge 2950 PE 2950 Processor Heatsink GF449 | LONDON SELLER
+
+Was:£13.89
+
+Now:£13.20
+Intel PRO/1000 MT Gigabit Quad Port Server Adapter PCIX PCI-X HP NIC CARD £189
+Intel PRO/1000 MT Gigabit Quad Port Server Adapter PCIX PCI-X HP NIC CARD £189
+
+Was:£74.94
+
+Now:£71.19
+Memory Ram Upgrade kit HP Proliant DL360 G4p DL380 G4 ML350 G4p | 4GB (2x2GB)
+Memory Ram Upgrade kit HP Proliant DL360 G4p DL380 G4 ML350 G4p | 4GB (2x2GB)
+
+Was:£22.93
+
+Now:£21.78
+See all
+* Savings are reflected in item price. Prices are subject to change without notice, while supplies last.Offer conditionsGo to offer conditions page
+You can change quantities in your basket.
+More from this seller
+Feedback on our suggestions - More from this seller
+
+    300GB 15K SAS 3.5" Hard Drive Seagate Cheetah T10 for Dell Poweredge with Caddy-
+    300GB 15K SAS 3.5" Hard Drive Seagate Cheetah T10 for Dell Po…
+
+    £132.97
+
+    Free P&P
+
+     
+    DELL POWEREDGE 1950 2 x 2.66 GHz QUAD CORE 16GB RAM 146gb 2.5" SAS SFF Caddy
+    DELL POWEREDGE 1950 2 x 2.66 GHz QUAD CORE 16GB RAM 1…
+
+    £332.93
+
+    P&P: + £9.95
+
+     
+    HP 376597-001 72GB 2.5" SAS 10K Hard Disk Drive in ProLiant Caddy RRP
+    HP 376597-001 72GB 2.5" SAS 10K Hard Disk Drive in ProLiant…
+
+    £29.42
+
+    Free P&P
+
+     
+    Dell Poweredge R310 R510 T310 T410 NX3000 MD3200 MD3220 SAS CADDY F238F £99
+    Dell Poweredge R310 R510 T310 T410 NX3000 MD3200 MD3220…
+
+    £18.94
+
+    Free P&P
+
+     
+    2.5" SATA SAS HDD Hard Drive Tray Caddy for HP 378343-002 DL360 DL380 G5 ML350
+    2.5" SATA SAS HDD Hard Drive Tray Caddy for HP 378343-002…
+
+    £9.45
+
+    Free P&P
+
+     
+    DELL PowerEdge R410 1U 2 x E5530 2.40Ghz 16GB DDR3 Ram 2 x 146GB SAS 3.5" caddy
+    DELL PowerEdge R410 1U 2 x E5530 2.40Ghz 16GB DDR3 Ra…
+
+    £436.94
+
+    Free P&P
+
+     
+
+People were also interested in
+
+    HP ML310e Gen8 V2 1 x Xeon E3-1220 v3 8GB RAM 3 x Caddy P420 1GB 2 x PSU
+    HP ML310e Gen8 V2 1 x Xeon E3-1220 v3 8GB RAM 3 x Caddy…
+
+    £190.00
+
+    P&P: Free
+
+     
+    2.5" SATA SAS Hard Drive Caddy HDD Tray for HP Proliant DL360 DL370 DL380 G6
+    2.5" SATA SAS Hard Drive Caddy HDD Tray for HP Proliant DL360…
+
+    £4.00
+
+    P&P: Free
+
+     
+    Dell 3.5" SAS SATA LFF Hot Plug Hard Drive Tray Caddy G11 R410 R510 R710 0F238F
+    Dell 3.5" SAS SATA LFF Hot Plug Hard Drive Tray Caddy G11 R41…
+
+    £6.00
+
+    P&P: Free
+
+     
+    Hot Swap Caddy foxcon 541-2123 SUN 2.5" SATA SAS HDD
+    Hot Swap Caddy foxcon 541-2123 SUN 2.5" SATA SAS HDD
+
+    £4.89
+
+    P&P: + £0.99
+
+     
+    2x Chenbro Caddy SK33502-10A 3.5" Hot Swap HDD Tray RM13604 RM13704 RM21706
+    2x Chenbro Caddy SK33502-10A 3.5" Hot Swap HDD Tray RM136…
+
+    £24.00
+
+    P&P: Free
+
+     
+    Dell EqualLogic 94558-01 Hard Disk Drive Tray Caddy
+    Dell EqualLogic 94558-01 Hard Disk Drive Tray Caddy
+
+    £116.50
+
+    P&P: + £2.79
+
+     
+
+People who viewed this item also viewed
+Feedback on our suggestions - People who viewed this item also viewed
+
+    DELL 0XX518 146GB 15k Hot Swap SAS 15000RPM Hard Drive 3.5" Caddy-0F238F
+    DELL 0XX518 146GB 15k Hot Swap SAS 15000RPM Hard Driv…
+
+    £47.01
+
+    Free P&P
+
+     
+    146GB SAS SEAGATE CHEETAH 15K.5 ST3146855SS Dell Poweredge Caddy 3.5" 2950 1950
+    146GB SAS SEAGATE CHEETAH 15K.5 ST3146855SS Dell Power…
+
+    £56.97
+
+    Free P&P
+
+     
+    Dell Seagate 73GB SAS 3Gb/s 2.5" 15K Hot Plug HDD In Caddy XT764 ST973451SS
+    Dell Seagate 73GB SAS 3Gb/s 2.5" 15K Hot Plug HDD In Caddy XT7…
+
+    £36.00
+
+    Free P&P
+
+     
+    Dell GP879 0GP879 146GB 10K SAS 3.5"Hard Drive Seagate ST3146755SS W/Caddy-0D981
+    Dell GP879 0GP879 146GB 10K SAS 3.5"Hard Drive Seagate ST…
+
+    £56.99
+
+    Free P&P
+
+     
+
+Sponsored links
+This is a private listing and your identity will not be disclosed to anyone except the seller.
+Back to home page
+Return to top
+
+    More to explore:
+    Dell SAS Computer Drive Bay Caddies,
+    Dell SAS LTO-5 Tape & Data Cartridge Drives,
+    Dell SAS Internal Hard Disk Drives 146GB Storage Capacity,
+    Seagate SAS Internal Hard Disk Drives 146GB Storage Capacity,
+    Dell SAS 146GB Storage Capacity Hard Drives (HDD, SSD & NAS),
+    Unbranded Dell PowerEdge R610 PowerEdge Computer Servers
+
+Additional site navigation
+
+    About eBay Announcements Community Safety Centre Resolution Centre Seller Centre VeRO: Protecting Intellectual Property Policies Help & Contact Site Map
+
+Copyright © 1995-2018 eBay Inc. All Rights Reserved. User Agreement, Privacy, Cookies and AdChoice	
+Norton Secured - powered by Verisign
+
+skip to primary navigation
+skip to content
+University of Cambridge
+
+    Study at Cambridge
+    About the University
+    Research at Cambridge
+
+Quick links
+
+    Log in
+
+    Home
+    Department of Genetics
+    Info for Dept Members
+    Lists of Department members and meetings
+    Useful generic e-mail addresses for Department members
+
+Department of Genetics
+
+    Home
+    About Dept
+        About Dept Overview
+        Contact us
+        Key personnel in the Dept
+        Talks & events in the Dept of Genetics
+            Talks & events in the Dept of Genetics Overview
+            Department of Genetics Seminars
+            Cambridge Epigenetics Club
+            RNA Club
+            Evolution Group
+            Graduate Student Seminars
+            Other Talks and Events of Interest
+        Getting here
+        Access to the building for those with limited mobility
+        Work experience in labs
+        Genetics Library
+            Genetics Library Overview
+            Genetics Library - For Dept members
+            Genetics Library - For visitors
+            Genetics Library - For other libraries
+            Genetics Library - Holdings
+            Finding information
+            Help with common e-resource problems
+            Library handouts
+            Application to use the Genetics Library
+        Fly Facility
+        Bioinformatics Training Facility
+        Outreach activities 2018
+        Athena SWAN : Women in Science
+        History of the Department
+        The Evolution of Genetics : From Darwin to DNA
+        Genetics Centenary Fund
+        Site Index
+    People
+        People Overview
+        Group Leaders
+        Research Staff
+        Professional support staff
+        Graduate students
+        People in the Department - Using the directory
+    Research
+        Research Overview
+        Research Groups listing
+        Ahringer Group
+        Durbin Group
+        Farr Group
+        Ferguson-Smith Group
+        Frye Group
+        Furner Group
+        Geymonat Group
+        Glover Group
+        Illingworth Group
+        Imbeault Group
+        Jiggins Group
+        Karam Teixeira Group
+        Ma Group
+        Martinez Arias Group
+        Masuda-Nakagawa Group
+        Micklem Group
+        Miska Group
+        O'Kane Group
+        Prabakaran Group
+        Russell Group
+        Scally Group
+        Segal Group
+        St Johnston Group
+        Steventon Group
+        Summers Group
+        Welch Group
+        More research by the Department
+    Undergraduate Study
+        Undergraduate Study Overview
+        Why study Genetics?
+        Studying Genetics at Cambridge - for Year 13 students
+        Genetics in Parts IA and IB
+        Studying Genetics at Pt II - a guide for Pt IB students
+        Part II brochure 2018/9
+        NST Part II Genetics overview
+        Module outlines for Pt II Genetics
+        Recent titles of Research Projects offered
+        Examples of recent BBS Dissertation titles for Genetics 'Majors'
+        Vacation research opportunities
+        Fincham Bursary info 2018
+        Johnson Bursary info 2018
+        Richard Wilson Bursary 2018
+        Suggested reading before you begin Part II Genetics
+        Information for current Pt II Genetics students
+    Postgraduate Study
+        Postgraduate Study Overview
+        Applying for Postgraduate study in the Department of Genetics
+        The application process
+        Postgrad topics in Genetics
+        Getting funding
+        Quick Guide to Postgrad applications
+        Genetics in Part III Systems Biology and MPhil Computational Biology
+        Quick Guide to Graduate Admissions 2017
+    Postdocs
+        Postdocs Overview
+        Information for incoming PostDocs
+        Upcoming Seminars & Workshops
+        Past Events
+    Info for Dept Members
+        Info for Dept Members Overview
+        Contacts for reporting problems
+        Lists of Department members and meetings
+            Lists of Department members and meetings Overview
+            Useful generic e-mail addresses for Department members
+            Departmental Committee members
+            Calendar of Departmental Committee meetings 2018-2019
+            Graduate students at October 2016
+        Departmental information and policy
+            Departmental information and policy Overview
+            Assistant Staff leave and flexible working policy
+            Procedure for claiming expenses
+            Department of Genetics visitor guidance
+            Visitor application form [Excel File]
+            Template training agreement for Erasmus lab placements
+            Visitor agreement for Erasmus lab placements
+        Information for groups of people
+            Information for groups of people Overview
+            Info for new Dept members
+            Information for women working in science
+        Information on working conditions
+            Information on working conditions Overview
+            Balancing Work and Family
+            Personal Development and Promotions
+            Assistant Staff leave and flexible working policy
+        Computing & IT in Genetics
+            Computing & IT in Genetics Overview
+            IT News
+            Email
+                Email Overview
+                Hermes Webmail
+                Genetics Webmail
+                Departmental Database
+                Email forgery
+                Exchange On-line
+            Hardware
+                Hardware Overview
+                Purchasing
+                Repairing
+                Recycling
+            Network
+                Network Overview
+                Audio/Visual
+                MAC Address
+                Wired ethernet
+                Wireless
+                Dynamic Host Configuration Protocol
+            Printing
+            Storage
+                Storage Overview
+                File Permissions
+                Secure File Transfer Protocol (SFTP)
+                ZFS Talk
+                Offsite Backup
+                Backup Client Configuration
+                Data Archival
+                Cloud storage
+                Apple Time Machine Backup
+                Pricing
+            Software
+                Software Overview
+                Free
+                Purchasing
+            Electricity
+                Electricity Overview
+                Power adaptors
+                Power outage protocol
+            Projects
+                Projects Overview
+                New password server
+                Printer consumables and page monitor
+                RAID5 data recovery
+                UPS Monitoring in Perl
+                Requisiton system
+                Convert a v20z to use SATA disks
+                Getting Apple iCalendar server working
+                Overriding reverse DNS for a single IP
+                Ubuntu, cgroups and trying to stop users making a system unusable
+            DEPT account
+            Priorities
+            Taking screenshots
+        Safety information
+            Safety information Overview
+            Actions to be taken in the event of power failure
+            Department of Genetics safety management team
+            Fire Warden zones of responsibility (Dec 2016)
+            University health & Safety policy
+            Part II Project safety talk 2018
+        Resources in the Department, School, University
+    News
+    Events
+
+ 
+Useful generic e-mail addresses for Department members
+
+    Department of Genetics
+    Info for Dept Members
+
+    Contacts for reporting problems
+    Lists of Department members and meetings
+        Useful generic e-mail addresses for Department members
+        Departmental Committee members
+        Calendar of Departmental Committee meetings 2018-2019
+        Graduate students at October 2016
+    Departmental information and policy
+    Information for groups of people
+    Information on working conditions
+    Computing & IT in Genetics
+    Safety information
+    Resources in the Department, School, University
+
+Generic
+
+Everyone in the Genetics Department, including those working in buildings other than the main Department, and including Part IIs : everyone@gen.cam.ac.uk
+
+Members of research groups in the main Genetics Building [ie not Wellcome Building] and admin staff, but not Part IIs : main.department@gen.cam.ac.uk
+
+Genetics Department members at the Wellcome Gurdon Institute : wellcome@gen.cam.ac.uk
+
+Group leaders from other departments who have chosen to be affiliated with the Department of Genetics : affiliates@gen.cam.ac.uk
+Role addresses
+
+Reception : reception@gen.cam.ac.uk
+
+Head of Department's secretary : hodsec@gen.cam.ac.uk
+
+Accounts : accounts.office@gen.cam.ac.uk  [Deborah Ford and Susan Omo]
+
+Safety : safety@gen.cam.ac.uk  [goes to Andy Jessop ?and Sara Singlehurst]
+
+IT help : itsupport@gen.cam.ac.uk  [goes to Ian Clark - picked up by other computer staff if he is on leave]
+
+Postmaster : postmaster@gen.cam.ac.uk  [to request a Departmental e-mail address, get your e-mail rerouted on leaving, etc - goes to Ian Clark]
+
+Hostmaster : hostmaster@gen.cam.ac.uk  [for hardware help - goes to Ian Clark]
+
+Webmaster : webmaster@gen.cam.ac.uk [for webserver problems, but not website content - goes to Ian Clark]
+
+Department e-mail accounts / network accounts : user.accounts@gen.cam.ac.uk [goes to Ian Clark]
+
+Part II admin : partii.admin@gen.cam.ac.uk [use this for sending lecture notes for printing or loading to Moodle, general questions about PartII, etc - goes to Part II Administrator, Reception, Moodle Co-ordinator]
+
+Library : library@gen.cam.ac.uk [goes to Christine Alexander and Cahir O'Kane]
+
+News : send your news items to news@gen.cam.ac.uk [goes to Charlotte Groocock and Christine Alexander]
+Categories of Department members
+
+Group leaders : group.leaders@gen.cam.ac.uk
+
+Postdocs and research associates : postdocs@gen.cam.ac.uk
+
+Assistant staff : asst@gen.cam.ac.uk
+
+Administrative staff : admin@gen.cam.ac.uk
+
+Staff, all research staff, and assistant staff : allstaff@gen.cam.ac.uk
+
+CUFS users : cufs.users@gen.cam.ac.uk
+
+Postgraduates : research.students@gen.cam.ac.uk
+
+Undergraduates : partii.students@gen.cam.ac.uk
+
+Ex-Part IIs : [may be discontinued because of GDPR]
+Facilities
+
+Media : media@gen.cam.ac.uk
+Research groups
+
+The formula is: Ahringer : ahringer_group@gen.cam.ac.uk   ... and so on
+
+Less-obvious ones:
+
+FlyChip : flychip@sysbiol.cam.ac.uk
+
+FlyMine : all@flymine.org
+
+Ferguson-Smith : fergusonsmith_group@gen.cam.ac.uk
+
+Martinez Arias : arias_group@gen.cam.ac.uk
+
+O'Kane : okane_group@gen.cam.ac.uk
+
+St. Johnston : stjohnston_group@gen.cam.ac.uk
+Departmental Committees
+
+Assistant Staff Consultative Committee : asc-cttee@gen.cam.ac.uk
+
+Equality and Wellbeing Committee [ex: AthenaSWAN Committee] : athena.swan@gen.cam.ac.uk
+
+Graduate Education Committee : graded-cttee@gen.cam.ac.uk
+
+Library Committee : library-cttee@gen.cam.ac.uk
+
+Infrastructure Committee : its-cttee@gen.cam.ac.uk
+
+Postdoc Committee : postdoc-cttee@gen.cam.ac.uk
+
+Research Strategy Group : rsg@gen.cam.ac.uk
+
+Safety Committee : safety-cttee@gen.cam.ac.uk
+
+Social Fund : socfund-cttee@gen.cam.ac.uk
+
+Staff Committee : staff-cttee@gen.cam.ac.uk
+
+Teaching Committee : teaching-cttee@gen.cam.ac.uk
+Individuals
+
+For members of staff who have been in the department for some time, where possible, a personal e-mail address uses the formula :
+
+g.mendel@gen.cam.ac.uk [ie first initial.surname@gen.cam.ac.uk]
+
+However, members of staff who recently joined the department are using firstname.surname@gen.cam.ac.uk
+
+To ensure the message gets through, please send to both initial.surname and firstname.surname
+
+To determine a University e-mail address, please use Lookup
+Contact us
+
+    Postal Address:
+    Department of Genetics
+    University of Cambridge
+    Downing Street
+    Cambridge CB2 3EH
+    United Kingdom
+
+    Phone: +44 [0]1223 333999
+    Information provided by:
+       caa30@gen.cam.ac.uk
+
+Study in the Department
+
+    Undergraduate study
+    Postgraduate study
+
+About the Department
+
+    Contact us
+    Key personnel
+    Visit us
+
+Research in the Department
+
+    List of labs
+    Research by subject area
+    Research news
+
+University of Cambridge
+
+© 2017 University of Cambridge
+
+    University A-Z
+    Contact the University
+    Accessibility
+    Freedom of information
+    Terms and conditions
+
+Study at Cambridge
+
+    Undergraduate
+    Graduate
+    International students
+    Continuing education
+    Executive and professional education
+    Courses in education
+
+About the University
+
+    How the University and Colleges work
+    Visiting the University
+    Map
+    News
+    Events
+    Jobs
+    Give to Cambridge
+
+Research at Cambridge
+
+    News
+    Features
+    Discussion
+    Spotlight on...
+    About research at Cambridge
+
+This Site Uses Cookies
+
+We may use cookies to record some preference settings and to analyse how you use our web site. We may also use external analysis systems which may set additional cookies to perform their analysis.These cookies (and any others in use) are detailed in our site privacy and cookie policies and are integral to our web site. You can delete or disable these cookies in your web browser if you wish but then our site may not work correctly.
+I have read and understood this message.
+
+
