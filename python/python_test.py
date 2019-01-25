@@ -1,5 +1,4 @@
 import os
-#Test print
 print ("Hello World")
 
 #OS values 
