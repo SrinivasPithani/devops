@@ -1,0 +1,163 @@
+SI                                                           © 2019 by S&P Global Inc.,190119
+SI AAQUA0000000c AAQUA00c           DW USD DMU 171201 190114 Iron Ore Lump Premium ppr swaps BalMo $/dmtu
+SI AAQUA0100000c AAQUA01c           DW USD DMU 171201 190118 Iron Ore Lump Premium ppr swaps Mo01 $/dmtu
+SI AAQUA0200000c AAQUA02c           DW USD DMU 171201 190118 Iron Ore Lump Premium ppr swaps Mo02 $/dmtu
+SI AAQUA0300000c AAQUA03c           DW USD DMU 171201 190118 Iron Ore Lump Premium ppr swaps Mo03 $/dmtu
+SI IOADF1000000c IOADF10c           DW USD DMT 140623 190118 Iron ore Alumina differential per 1% within 1-2.5% $/DMT
+SI IOALA0000000c IOALA00c           DW USD DMT 180102 190118 Iron Ore 58% Fe Low Alumina Differential to IODEX
+SI IOALA0300000c IOALA03c           MA USD DMT 180101 181201 Iron Ore 58% Fe Low Alumina Differential to IODEX MAvg
+SI IOALB0000000c IOALB00c           DW USD DMT 180102 190118 Iron Ore 65% Fe Differential to IODEX
+SI IOALB0300000c IOALB03c           MA USD DMT 180101 181201 Iron Ore 65% Fe Differential to IODEX MAvg
+SI IOALC0000000c IOALC00c           DW USD DMT 180102 190118 Iron Ore 58%Fe Differential to IODEX
+SI IOALC0300000c IOALC03c           MA USD DMT 180101 181201 Iron Ore 58%Fe Differential to IODEX MAvg
+SI IOALE0000000c IOALE00c           DW USD DMT 180102 190118 Iron Ore Alumina Differential per 1% with 2.5-4% $/DMT
+SI IOALE0300000c IOALE03c           MA USD DMT 180101 181201 Iron Ore Alumina Differential per 1% with 2.5-4% $/DMT MAvg
+SI IOALF0000000c IOALF00c           DW USD DMT 180102 190118 Iron Ore Silica Differential per 1% with <4.5% $/DMT
+SI IOALF0300000c IOALF03c           MA USD DMT 180101 181201 Iron Ore Silica Differential per 1% with <4.5% $/DMT MAvg
+SI IOBBA0000000c IOBBA00c           DW USD DMT 180903 190118 Brazilian Blend Fines CFR Qingdao $/DMT
+SI IOBBA0300000c IOBBA03c           MA USD DMT 180901 181201 Brazilian Blend Fines CFR Qingdao $/DMT MAvg
+SI IOBBB0000000c IOBBB00c           DW USD DMT 180903 190118 Brazilian Blend Fines CFR Qingdao (Floating) $/DMT
+SI IOBBB0300000c IOBBB03c           MA USD DMT 180901 181201 Brazilian Blend Fines CFR Qingdao (Floating) $/DMT MAvg
+SI IOBFC0300000c IOBFC03c           MA USD DMT 151001 181201 Iron Ore Blast Furnace Pellet Premium CFR China $/DMT MAvg
+SI IOBFC0400000c IOBFC04c           WA USD DMT 151007 190116 Iron Ore Blast Furnace Pellet Premium CFR China $/DMT Wkly
+SI IOBFP0000000c IOBFP00c           MA USD DMT 130101 190101 Atlantic Iron ore blast furnace pellet CP premium
+SI IOCLP0000000c IOCLP00c           DW USD DMU 130515 190118 Iron Ore Spot Lump Premium China $/dmtu
+SI IOCLP0000000h IOCLP00h           DW USD DMU 130515 190118 Iron Ore Spot Lump Premium China $/dmtu
+SI IOCLP0000000l IOCLP00l           DW USD DMU 130515 190118 Iron Ore Spot Lump Premium China $/dmtu
+SI IOCLP0300000c IOCLP03c           MA USD DMU 130501 181201 Iron Ore Spot Lump Premium China $/dmtu MAvg
+SI IOCLP0300000h IOCLP03h           MA USD DMU 130501 181201 Iron Ore Spot Lump Premium China $/dmtu MAvg
+SI IOCLP0300000l IOCLP03l           MA USD DMU 130501 181201 Iron Ore Spot Lump Premium China $/dmtu MAvg
+SI IOCLZ0300000c IOCLZ03c           DW USD DMU 171201 190118 Iron Ore Spot Lump Premium China $/dmtu Rolling MAvg
+SI IOCLZ0300000h IOCLZ03h           DW USD DMU 171201 190118 Iron Ore Spot Lump Premium China $/dmtu Rolling MAvg
+SI IOCLZ0300000l IOCLZ03l           DW USD DMU 171201 190118 Iron Ore Spot Lump Premium China $/dmtu Rolling MAvg
+SI IOCQR0300000c IOCQR03c           MA USD DMT 181001 181201 Iron Ore Blast Furnace 64% Fe Pellet CFR China $/DMT MAvg
+SI IOCQR0300000h IOCQR03h           MA USD DMT 181001 181201 Iron Ore Blast Furnace 64% Fe Pellet CFR China $/DMT MAvg
+SI IOCQR0300000l IOCQR03l           MA USD DMT 181001 181201 Iron Ore Blast Furnace 64% Fe Pellet CFR China $/DMT MAvg
+SI IOCQR0400000c IOCQR04c           WA USD DMT 181017 190116 Iron Ore Blast Furnace 64% Fe Pellet CFR China $/DMT Wkly
+SI IOCQR0400000h IOCQR04h           WA USD DMT 181017 190116 Iron Ore Blast Furnace 64% Fe Pellet CFR China $/DMT Wkly
+SI IOCQR0400000l IOCQR04l           WA USD DMT 181017 190116 Iron Ore Blast Furnace 64% Fe Pellet CFR China $/DMT Wkly
+SI IOCQS0300000c IOCQS03c           MA USD DMT 181001 181201 Iron Ore Blast Furnace 64% Fe Pellet Premium CFR China $/DMT MAvg
+SI IOCQS0300000h IOCQS03h           MA USD DMT 181001 181201 Iron Ore Blast Furnace 64% Fe Pellet Premium CFR China $/DMT MAvg
+SI IOCQS0300000l IOCQS03l           MA USD DMT 181001 181201 Iron Ore Blast Furnace 64% Fe Pellet Premium CFR China $/DMT MAvg
+SI IOCQS0400000c IOCQS04c           WA USD DMT 181017 190116 Iron Ore Blast Furnace 64% Fe Pellet Premium CFR China $/DMT Wkly
+SI IOCQS0400000h IOCQS04h           WA USD DMT 181017 190116 Iron Ore Blast Furnace 64% Fe Pellet Premium CFR China $/DMT Wkly
+SI IOCQS0400000l IOCQS04l           WA USD DMT 181017 190116 Iron Ore Blast Furnace 64% Fe Pellet Premium CFR China $/DMT Wkly
+SI IODBZ0000000c IODBZ00c           DW USD DMT 080602 190118 IODEX CFR CHINA 62% Fe $/DMt
+SI IODBZ0000000h IODBZ00h           DW USD DMT 080602 190118 IODEX CFR CHINA 62% Fe $/DMt
+SI IODBZ0000000l IODBZ00l           DW USD DMT 080602 190118 IODEX CFR CHINA 62% Fe $/DMt
+SI IODBZ0200000c IODBZ02c           WA USD DMT 080606 190118 IODEX CFR CHINA 62% Fe $/DMt WA
+SI IODBZ0300000c IODBZ03c           MA USD DMT 080601 181201 IODEX CFR CHINA 62% Fe $/DMt MA
+SI IODBZ0400000c IODBZ04c           DW USD DMT 090817 190118 IODEX CFR CHINA 62% Fe $/DMt MTD
+SI IODFA0000000c IODFA00c           DW USD DMT 170904 190118 Iron Ore Supramax 58% Fe FOB WC India Netback
+SI IODFA0300000c IODFA03c           MA USD DMT 170901 181201 Iron Ore Supramax 58% Fe FOB WC India Netback MAvg
+SI IODFE0000000h IODFE00h           DW USD DMT 091001 190118 IO fines Fe 58% $/DMt
+SI IODFE0000000l IODFE00l           DW USD DMT 091001 190118 IO fines Fe 58% $/DMt
+SI IODFE0000000u IODFE00u           DW USD DMT 091001 190118 IO fines Fe 58% $/DMt
+SI IODFE0300000c IODFE03c           MA USD DMT 091001 181201 IO fines Fe 58% $/DMt MAvg
+SI IODRP0000000c IODRP00c           MA USD DMT 150701 190101 Iron Ore Direct Reduction Pellet Premium Mthly
+SI IOJBA0000000c IOJBA00c           DW USD DMT 180903 190118 Jimblebar Fines CFR Qingdao $/DMT
+SI IOJBA0300000c IOJBA03c           MA USD DMT 180901 181201 Jimblebar Fines CFR Qingdao $/DMT MAvg
+SI IOJBB0000000c IOJBB00c           DW USD DMT 180903 190118 Jimblebar Fines CFR Qingdao (Floating) $/DMT
+SI IOJBB0300000c IOJBB03c           MA USD DMT 180901 181201 Jimblebar Fines CFR Qingdao (Floating) $/DMT MAvg
+SI IOMAA0000000c IOMAA00c           DW USD DMT 180903 190118 Mining Area C Fines CFR Qingdao $/DMT
+SI IOMAA0300000c IOMAA03c           MA USD DMT 180901 181201 Mining Area C Fines CFR Qingdao $/DMT MAvg
+SI IOMAB0000000c IOMAB00c           DW USD DMT 180903 190118 Mining Area C Fines CFR Qingdao (Floating) $/DMT
+SI IOMAB0300000c IOMAB03c           MA USD DMT 180901 181201 Mining Area C Fines CFR Qingdao (Floating) $/DMT MAvg
+SI IOMGD0000000h IOMGD00h           DW USD DMT 090202 190118 Mid Range Diff 60-63.5 Fe $/DMt
+SI IOMGD0000000l IOMGD00l           DW USD DMT 090202 190118 Mid Range Diff 60-63.5 Fe $/DMt
+SI IOMGD0000000u IOMGD00u           DW USD DMT 090202 190118 Mid Range Diff 60-63.5 Fe $/DMt
+SI IOMGD0300000c IOMGD03c           MA USD DMT 110101 181201 MidRange Diff 60-63.5Fe $/DMt MA
+SI IONC58000000c IONC580c           DW USD DMT 131209 190118 Iron Ore 58% Fe Low Alumina CFR North China $/DMT
+SI IONC58000000h IONC580h           DW USD DMT 131209 190118 Iron Ore 58% Fe Low Alumina CFR North China $/DMT
+SI IONC58000000l IONC580l           DW USD DMT 131209 190118 Iron Ore 58% Fe Low Alumina CFR North China $/DMT
+SI IONC58300000c IONC583c           MA USD DMT 131201 181201 Iron Ore 58% Fe Low Alumina CFR North China $/DMT MAvg
+SI IONC58300000h IONC583h           MA USD DMT 131201 181201 Iron Ore 58% Fe Low Alumina CFR North China $/DMT MAvg
+SI IONC58300000l IONC583l           MA USD DMT 131201 181201 Iron Ore 58% Fe Low Alumina CFR North China $/DMT MAvg
+SI IONHA0000000c IONHA00c           DW USD DMT 180903 190118 Newman High Grade Fines CFR Qingdao $/DMT
+SI IONHA0300000c IONHA03c           MA USD DMT 180901 181201 Newman High Grade Fines CFR Qingdao $/DMT MAvg
+SI IONHB0000000c IONHB00c           DW USD DMT 180903 190118 Newman High Grade Fines CFR Qingdao (Floating) $/DMT
+SI IONHB0300000c IONHB03c           MA USD DMT 180901 181201 Newman High Grade Fines CFR Qingdao (Floating) $/DMT MAvg
+SI IOPBA0000000c IOPBA00c           DW RMB DMT 170801 190118 61.5% Fe FOT Pilbara Blend North China RMB/DMT
+SI IOPBA0300000c IOPBA03c           MA RMB DMT 170801 181201 61.5% Fe FOT Pilbara Blend North China RMB/DMT MAvg
+SI IOPBB0000000c IOPBB00c           DW RMB DMT 170801 190118 63% Fe FOT Newman North China RMB/DMT
+SI IOPBB0300000c IOPBB03c           MA RMB DMT 170801 181201 63% Fe FOT Newman North China RMB/DMT MAvg
+SI IOPBC0000000c IOPBC00c           DW RMB DMT 170801 190118 61.5% Fe FOT Pilbara Blend East China RMB/DMT
+SI IOPBC0300000c IOPBC03c           MA RMB DMT 170801 181201 61.5% Fe FOT Pilbara Blend East China RMB/DMT MAvg
+SI IOPBD0000000c IOPBD00c           DW RMB DMT 170801 190118 63% Fe FOT Newman East China RMB/DMT
+SI IOPBD0300000c IOPBD03c           MA RMB DMT 170801 181201 63% Fe FOT Newman East China RMB/DMT MAvg
+SI IOPBE0000000c IOPBE00c           DW RMB WMT 180723 190118 Pilbara Blend Fines FOT North China RMB/WMT
+SI IOPBE0300000c IOPBE03c           MA RMB WMT 180701 181201 Pilbara Blend Fines FOT North China RMB/WMT MAvg
+SI IOPBF0000000c IOPBF00c           DW RMB WMT 180723 190118 Newman High Grade Fines FOT North China RMB/WMT
+SI IOPBF0300000c IOPBF03c           MA RMB WMT 180701 181201 Newman High Grade Fines FOT North China RMB/WMT MAvg
+SI IOPBG0000000c IOPBG00c           DW RMB WMT 180723 190118 Pilbara Blend Fines FOT East China RMB/WMT
+SI IOPBG0300000c IOPBG03c           MA RMB WMT 180701 181201 Pilbara Blend Fines FOT East China RMB/WMT MAvg
+SI IOPBH0000000c IOPBH00c           DW RMB WMT 180723 190118 Newman High Grade Fines FOT East China RMB/WMT
+SI IOPBH0300000c IOPBH03c           MA RMB WMT 180701 181201 Newman High Grade Fines FOT East China RMB/WMT MAvg
+SI IOPBL0000000c IOPBL00c           DW RMB WMT 180723 190118 IOPEX 62% Fe FOT North China RMB/WMT
+SI IOPBL0300000c IOPBL03c           MA RMB WMT 180701 181201 IOPEX 62% Fe FOT North China RMB/WMT MAvg
+SI IOPBM0000000c IOPBM00c           DW RMB WMT 180723 190118 IOPEX 62% Fe FOT North China RMB/WMT Rolling MAvg
+SI IOPBN0000000c IOPBN00c           DW RMB WMT 180723 190118 IOPEX 62% Fe FOT East China RMB/WMT
+SI IOPBN0300000c IOPBN03c           MA RMB WMT 180701 181201 IOPEX 62% Fe FOT East China RMB/WMT MAvg
+SI IOPBO0000000c IOPBO00c           DW RMB WMT 180723 190118 IOPEX 62% Fe FOT East China RMB/WMT Rolling MAvg
+SI IOPBQ0000000c IOPBQ00c           DW USD DMT 180903 190118 Pilbara Blend Fines CFR Qingdao $/DMT
+SI IOPBQ0300000c IOPBQ03c           MA USD DMT 180901 181201 Pilbara Blend Fines CFR Qingdao $/DMT MAvg
+SI IOPBS0000000c IOPBS00c           DW USD DMT 180903 190118 Pilbara Blend Fines CFR Qingdao (Floating) $/DMT
+SI IOPBS0300000c IOPBS03c           MA USD DMT 180901 181201 Pilbara Blend Fines CFR Qingdao (Floating) $/DMT MAvg
+SI IOPCC0000000c IOPCC00c           DW USD DMT 170801 190118 IOPEX 62% Fe FOT North China USD/DMT
+SI IOPCC0300000c IOPCC03c           MA USD DMT 170801 181201 IOPEX 62% Fe FOT North China USD/DMT MAvg
+SI IOPDC0000000c IOPDC00c           DW USD DMT 170801 190118 IOPEX 62% Fe FOT East China USD/DMT
+SI IOPDC0300000c IOPDC03c           MA USD DMT 170801 181201 IOPEX 62% Fe FOT East China USD/DMT MAvg
+SI IOPEC0000000c IOPEC00c           DW RMB DMT 170801 190118 IOPEX 62% Fe FOT East China RMB/DMT
+SI IOPEC0300000c IOPEC03c           MA RMB DMT 170801 181201 IOPEX 62% Fe FOT East China RMB/DMT MAvg
+SI IOPEM0300000c IOPEM03c           DW RMB DMT 170801 190118 IOPEX 62% Fe FOT East China RMB/DMT Rolling MAvg
+SI IOPNC0000000c IOPNC00c           DW RMB DMT 170801 190118 IOPEX 62% Fe FOT North China RMB /DMT
+SI IOPNC0300000c IOPNC03c           MA RMB DMT 170801 181201 IOPEX 62% Fe FOT North China RMB/DMT MAvg
+SI IOPNM0300000c IOPNM03c           DW RMB DMT 170801 190118 IOPEX 62% Fe FOT North China RMB/DMT Rolling MAvg
+SI IOPPQ0000000c IOPPQ00c           DW USD DMT 150518 190118 Iron Ore Phosphorus Differential per 0.01% for 0.09%-0.12% $/DMT
+SI IOPPR0000000c IOPPR00c           DW USD DMT 181101 190118 Iron Ore Phosphorus Differential per 0.01% for 0.09%-0.10% $/DMT
+SI IOPPS1000000c IOPPS10c           DW USD DMT 140623 190118 Iron ore Silica differential per 1% within 4.5-6.5% $/DMT
+SI IOPPS2000000c IOPPS20c           DW USD DMT 140623 190118 Iron ore Silica differential per 1% within 6.5-9% $/DMT
+SI IOPPSI000000u IOPPSI0u           DW USD DMT               Penalties & Premia Silica (SiO2) per 1% for 60-63.5%-Fe ore cont $/dmt
+SI IOPPT0000000c IOPPT00c           DW USD DMT 181101 190118 Iron Ore Phosphorus Differential per 0.01% for 0.10%-0.11% $/DMT
+SI IOPPU0000000c IOPPU00c           DW USD DMT 181101 190118 Iron Ore Phosphorus Differential per 0.01% for 0.11%-0.12% $/DMT
+SI IOPPV0000000c IOPPV00c           DW USD DMT 181101 190118 Iron Ore Phosphorus Differential per 0.01% for 0.12%-0.15% $/DMT
+SI IOPRM0000000h IOPRM00h           DW USD DMT 090817 190118 IO fines Fe 65% $/DMt
+SI IOPRM0000000l IOPRM00l           DW USD DMT 090817 190118 IO fines Fe 65% $/DMt
+SI IOPRM0000000u IOPRM00u           DW USD DMT 090817 190118 IO fines Fe 65% $/DMt
+SI IOPRM0300000c IOPRM03c           MA USD DMT 090801 181201 IO fines Fe 65% $/DMt MAvg
+SI SBMAJ0300000c SBMAJ03c           MA USD DMT 130101 190101 IO Concentrate 66% Fe DDP Tangshan VAT-inclusive MAvg
+SI SBMAJ0300000h SBMAJ03h           MA USD DMT 130101 190101 IO Concentrate 66% Fe DDP Tangshan VAT-inclusive MAvg
+SI SBMAJ0300000l SBMAJ03l           MA USD DMT 130101 190101 IO Concentrate 66% Fe DDP Tangshan VAT-inclusive MAvg
+SI SBMAV0300000c SBMAV03c           MA USD TON 180401 181201 HBI Venezuela Exp FOB Venezuelan Ports MAvg
+SI SBMAV0300000h SBMAV03h           MA USD TON 180401 181201 HBI Venezuela Exp FOB Venezuelan Ports MAvg
+SI SBMAV0300000l SBMAV03l           MA USD TON 180401 181201 HBI Venezuela Exp FOB Venezuelan Ports MAvg
+SI SB0109500000c SB01095c           MA USD DMU 930101 190101 Atlantic Basin Iron Ore Pellets Est Mthly CtrPr Brazil Exp FOB Mthly
+SI SB0109500000h SB01095h           MA USD DMU 930101 190101 Atlantic Basin Iron Ore Pellets Est Mthly CtrPr Brazil Exp FOB Mthly
+SI SB0109500000l SB01095l           MA USD DMU 930101 190101 Atlantic Basin Iron Ore Pellets Est Mthly CtrPr Brazil Exp FOB Mthly
+SI SB0111600000c SB01116c           WA USD TON 081201 190118 HBI Venezuela Exp FOB Venezuelan Ports Wkly
+SI SB0111600000h SB01116h           WA USD TON 081201 190118 HBI Venezuela Exp FOB Venezuelan Ports Wkly
+SI SB0111600000l SB01116l           WA USD TON 081201 190118 HBI Venezuela Exp FOB Venezuelan Ports Wkly
+SI SB0115900000c SB01159c           WA CNY DMT 050501 190118 IO Concentrate 66% Fe DDP Tangshan VAT-inclusive Wkly
+SI SB0115900000h SB01159h           WA CNY DMT 050501 190118 IO Concentrate 66% Fe DDP Tangshan VAT-inclusive Wkly
+SI SB0115900000l SB01159l           WA CNY DMT 050501 190118 IO Concentrate 66% Fe DDP Tangshan VAT-inclusive Wkly
+SI TS0102100000c TS01021c           DW USD DMT 081117 190118 TSI Iron Ore Fines 62% Fe CFR China
+SI TS0103700000c TS01037c           WA USD MT  140120 190118 HMS 1/2 80:20 Containerized CFR Taiwan Port Wkly
+SI TS0104700000c TS01047c           DW USD DMT 131001 190118 TSI Iron Ore Fines 58% Fe 1.5% Al China Imports CFR Qingdao Port
+SI TSIAD0000000c TSIAD00c           DW USD DMT 141103 190118 Iron Ore Fe Differential per 1% Fe within 55-60% Fe Fines
+SI TSIAD0300000c TSIAD03c           MA USD DMT 150401 181201 Iron Ore Fe Differential per 1% Fe within 55-60% Fe Fines MAvg
+SI TSIAF0000000c TSIAF00c           DW USD DMT 141103 190118 Iron Ore Alumina Differential per 1% within <5% (55-60% Fe Fines)
+SI TSIAF0300000c TSIAF03c           MA USD DMT 150401 181201 Iron Ore Alumina Differential per 1% within <5% (55-60% Fe Fines) MAvg
+SI TSIAI0000000c TSIAI00c           DW USD DMT 141103 190118 Iron Ore Silica Differential per 1% within 55-60% Fe Fines
+SI TSIAI0300000c TSIAI03c           MA USD DMT 150401 181201 Iron Ore Silica Differential per 1% within 55-60% Fe Fines MAvg
+SI TSIPM0000000c TSIPM00c           DW USD DMT 140401 190114 TSI Iron Ore 62% Fe Paper Swaps M0
+SI TSIPM0100000c TSIPM01c           DW USD DMT 091009 190118 TSI Iron Ore 62% Fe Paper Swaps M1
+SI TSIPM0200000c TSIPM02c           DW USD DMT 091009 190118 TSI Iron Ore 62% Fe Paper Swaps M2
+SI TSIPM0300000c TSIPM03c           DW USD DMT 100802 190118 TSI Iron Ore 62% Fe Paper Swaps M3
+SI TSIPQ0100000c TSIPQ01c           DW USD DMT 091009 190118 TSI Iron Ore 62% Fe Paper Swaps Q1
+SI TSIPQ0200000c TSIPQ02c           DW USD DMT 100802 190118 TSI Iron Ore 62% Fe Paper Swaps Q2
+SI TSIPQ0300000c TSIPQ03c           DW USD DMT 120301 190118 TSI Iron Ore 62% Fe Paper Swaps Q3
+SI TSIPY0100000c TSIPY01c           DW USD DMT 100802 190118 TSI Iron Ore 62% Fe Paper Swaps CY1
+SI TSMAU0300000c TSMAU03c           MA USD DMT 121201 181201 TSI Iron Ore Fines 62% Fe CFR China MAvg
+SI TSMBK0300000c TSMBK03c           MA USD MT  140101 181201 HMS 1/2 80:20 Containerized CFR Taiwan Port MAvg
+SI TSMBX0300000c TSMBX03c           DW USD DMT 171101 190118 TSI Iron Ore Fines 58% Fe 1.5% Al China Imports CFR Qingdao Port Rolling MAvg
+SI TSMBY0300000c TSMBY03c           DW USD DMT 171101 190118 TSI Iron Ore Fines 62% Fe CFR China Rolling MAvg

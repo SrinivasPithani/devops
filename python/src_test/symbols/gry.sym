@@ -1,0 +1,40 @@
+GRY                                                           © 2019 by S&P Global Inc.,190119
+GRY DBSBS0000000c DBSBS00c           DW USD MT                DBF Grains Santos Brazil-Qingdao China 50kt $/mt Supramax
+GRY DBSBS0300000c DBSBS03c           MA USD MT                DBF Grains Santos Brazil-Qingdao China 50kt $/mt Supramax MAvg
+GRY DBSBSSZ00000u DBSBSSZu           DW N/A KT                DBF Grains Santos Brazil-Qingdao China 50kt Supramax Cargo Size
+GRY DBWBS0000000c DBWBS00c           DW USD MT                DBF Grains Yuzhny Ukraine-Cigading Indonesia 50kt $/mt Supramax
+GRY DBWBS0300000c DBWBS03c           MA USD MT                DBF Grains Yuzhny Ukraine-Cigading Indonesia 50kt $/mt Supramax MAvg
+GRY DBWBSSZ00000u DBWBSSZu           DW N/A KT                DBF Grains Yuzhny Ukraine-Cigading Indonesia 50kt Supramax Cargo Size
+GRY GRNAE0000000c GRNAE00c           DW USD MT  141201 190118 DBF Grain New Orleans Louisiana US Gulf Coast-Alexandria Egypt 60kt $/mt Panamax
+GRY GRNAE0300000c GRNAE03c           MA USD MT  141201 181201 DBF Grain New Orleans Louisiana US Gulf Coast-Alexandria Egypt 60kt $/mt Panamax MAvg
+GRY GRNAESZ00000u GRNAESZu           DW N/A KT  180301 190118 DBF Grain New Orleans Louisiana USGC-Alexandria Egypt 60kt Panamax Cargo Size
+GRY GRNOESZ00000u GRNOESZu           DW N/A KT  180301 190118 DBF Grain New Orleans Louisiana USGC-Alexandria Egypt 50kt Supramax Cargo Size
+GRY GRNOF0000000c GRNOF00c           DW USD MT  141201 190118 DBF Grain New Orleans Louisiana US Gulf Coast-Fangcheng S China 66kt $/mt Panamax
+GRY GRNOF0300000c GRNOF03c           MA USD MT  141201 181201 DBF Grain New Orleans Louisiana US Gulf Coast-Fangcheng S China 66kt $/mt Panamax MAvg
+GRY GRNOFSZ00000u GRNOFSZu           DW N/A KT  180301 190118 DBF Grain New Orleans Louisiana US Gulf Coast-Fangcheng S China 66kt Panamax Cargo Size
+GRY GRNOJ0000000c GRNOJ00c           DW USD MT  141201 190118 DBF Grain New Orleans Louisiana US Gulf Coast-Kashima Japan 50kt $/mt Supramax
+GRY GRNOJ0300000c GRNOJ03c           MA USD MT  141201 181201 DBF Grain New Orleans Louisiana US Gulf Coast-Kashima Japan 50kt $/mt Supramax MAvg
+GRY GRNOJSZ00000u GRNOJSZu           DW N/A KT  180301 190118 DBF Grain New Orleans Louisiana US Gulf Coast-Kashima Japan 50kt Supramax Cargo Size
+GRY GRNOQ0000000c GRNOQ00c           DW USD MT  141201 190118 DBF Grain New Orleans Louisiana US Gulf Coast-Qingdao China 66kt $/mt Panamax
+GRY GRNOQ0300000c GRNOQ03c           MA USD MT  141201 181201 DBF Grain New Orleans Louisiana US Gulf Coast-Qingdao China 66kt $/mt Panamax MAvg
+GRY GRNOQSZ00000u GRNOQSZu           DW N/A KT  180301 190118 DBF Grain New Orleans Louisiana US Gulf Coast-Qingdao China 66kt Panamax Cargo Size
+GRY GROAE0000000c GROAE00c           DW USD MT  141201 190118 DBF Grain Odessa Ukraine-Alexandria Egypt 60kt $/mt Panamax
+GRY GROAE0300000c GROAE03c           MA USD MT  141201 181201 DBF Grain Odessa Ukraine-Alexandria Egypt 60kt $/mt Panamax MAvg
+GRY GROAESZ00000u GROAESZu           DW N/A KT  180301 190118 DBF Grain Odessa Ukraine-Alexandria Egypt 60kt Panamax Cargo Size
+GRY GRSQC0000000c GRSQC00c           DW USD MT  140624 190118 DBF Grains Santos Brazil-Qingdao N China 60kt Panamax $/Mt
+GRY GRSQC0300000c GRSQC03c           MA USD MT  140901 181201 DBF Grains Santos Brazil-Qingdao N China 60kt Panamax $/Mt MAvg
+GRY GRSQCSZ00000u GRSQCSZu           DW N/A KT  180301 190118 DBF Grains Santos Brazil-Qingdao N China 60kt Panamax Cargo Size
+GRY GRUAE0000000c GRUAE00c           DW USD MT  141201 190118 DBF Grain Nikolaev Ukraine-Alexandria Egypt 25kt $/mt Handysize
+GRY GRUAE0300000c GRUAE03c           MA USD MT  141201 181201 DBF Grain Nikolaev Ukraine-Alexandria Egypt 25kt $/mt Handysize MAvg
+GRY GRUAESZ00000u GRUAESZu           DW N/A KT  180301 190118 DBF Grain Nikolaev Ukraine-Alexandria Egypt 25kt Handysize Cargo Size
+GRY GRUSA0000000c GRUSA00c           DW USD MT  141201 190118 DBF Grain Odessa Ukraine-Dammam Saudi Arabia 60kt $/mt Panamax
+GRY GRUSA0300000c GRUSA03c           MA USD MT  141201 181201 DBF Grain Odessa Ukraine-Dammam Saudi Arabia 60kt $/mt Panamax MAvg
+GRY GRUSASZ00000u GRUSASZu           DW N/A KT  180301 190118 DBF Grain Odessa Ukraine-Dammam Saudi Arabia 60kt Panamax Cargo Size
+GRY GSBQA0000000c GSBQA00c           DW USD DAY 180301 190118 DBF Grains Santos Brazil-Qingdao China 60kt $/day DOP Singapore Panamax
+GRY GSBQA0300000c GSBQA03c           MA USD DAY 180301 181201 DBF Grains Santos Brazil-Qingdao China 60kt $/day DOP Singapore Panamax MAvg
+GRY GSBQB0000000c GSBQB00c           DW USD DAY 180301 190118 DBF Grains Santos Brazil-Qingdao China 60kt $/day DOP Gibraltar Panamax
+GRY GSBQB0300000c GSBQB03c           MA USD DAY 180301 181201 DBF Grains Santos Brazil-Qingdao China 60kt $/day DOP Gibraltar Panamax MAvg
+GRY GNOLA0000000c GNOLA00c           DW USD DAY 180301 190118 DBF Grains New Orleans Louisiana-Kashima Japan 50kt $/day DOP SWP Supramax
+GRY GNOLA0300000c GNOLA03c           MA USD DAY 180301 181201 DBF Grains New Orleans Louisiana-Kashima Japan 50kt $/day DOP SWP Supramax MAvg
+GRY GNOLB0000000c GNOLB00c           DW USD DAY 180301 190118 DBF Grains New Orleans Louisiana-Kashima Japan 50kt $/day DOP Gibraltar Supramax
+GRY GNOLB0300000c GNOLB03c           MA USD DAY 180301 181201 DBF Grains New Orleans Louisiana-Kashima Japan 50kt $/day DOP Gibraltar Supramax MAvg

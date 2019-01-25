@@ -1,0 +1,15 @@
+CC                                                           © 2019 by S&P Global Inc.,190119
+CC PVAAS0000000c PVAAS00c           DW USD MT                FO No.6 2.0%S Caribbean Cargo $/mt
+CC PVAAS0300000c PVAAS03c           MA USD MT                FO No.6 2.0%S Caribbean Cargo $/mt MAvg
+CC PRP620CRBBRYc PUAAS00c           DW USD BBL 800101 190118 FO No.6 2.0%S Caribbean Cargo
+CC PRP620CRBBRYh PUAAS00h           DW USD BBL 800101 190118 FO No.6 2.0%S Caribbean Cargo
+CC PRP620CRBBRYl PUAAS00l           DW USD BBL 800101 190118 FO No.6 2.0%S Caribbean Cargo
+CC PRPJK$CRBCKQc PJAAD00c           DW USD MT  780102 190118 Jet Kero Caribbean Cargo $/mt
+CC PRPJK$CRBCKQh PJAAD00h           DW USD MT  780102 190118 Jet Kero Caribbean Cargo $/mt
+CC PRPJK$CRBCKQl PJAAD00l           DW USD MT  780102 190118 Jet Kero Caribbean Cargo $/mt
+CC PRPJK$CRBCKRc PJAAD10c           DW USC GAL 800101 190118 Jet Kero Caribbean Cargo cts/gal
+CC PRPJK$CRBCKRh PJAAD10h           DW USC GAL 800101 190118 Jet Kero Caribbean Cargo cts/gal
+CC PRPJK$CRBCKRl PJAAD10l           DW USC GAL 800101 190118 Jet Kero Caribbean Cargo cts/gal
+CC PJAAD1300000c PJAAD13c           MA USC GAL 120501 181201 Jet Kero Caribbean Cargo cts/gal MAvg
+CC PJAAD1300000h PJAAD13h           MA USC GAL 120501 181201 Jet Kero Caribbean Cargo cts/gal MAvg
+CC PJAAD1300000l PJAAD13l           MA USC GAL 120501 181201 Jet Kero Caribbean Cargo cts/gal MAvg

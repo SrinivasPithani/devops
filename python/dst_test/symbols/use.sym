@@ -1,0 +1,97 @@
+USE                                                           © 2019 by S&P Global Inc.,190119
+USE GGWSP0100000c GGWSP01c           DW USD BBL               FtS Spore Gasoline USGC + RBOB Frontline WTI Crack Swap Mo01
+USE GGWSP0200000c GGWSP02c           DW USD BBL               FtS Spore Gasoline USGC + RBOB Frontline WTI Crack Swap Mo02
+USE GGWSP0300000c GGWSP03c           DW USD BBL               FtS Spore Gasoline USGC + RBOB Frontline WTI Crack Swap Mo03
+USE GGWSP0400000c GGWSP04c           DW USD BBL               FtS Spore Gasoline USGC + RBOB Frontline WTI Crack Swap Mo04
+USE GGWSP0500000c GGWSP05c           DW USD BBL               FtS Spore Gasoline USGC + RBOB Frontline WTI Crack Swap Mo05
+USE GGWSP0600000c GGWSP06c           DW USD BBL               FtS Spore Gasoline USGC + RBOB Frontline WTI Crack Swap Mo06
+USE GGWSP0700000c GGWSP07c           DW USD BBL               FtS Spore Gasoline USGC + RBOB Frontline WTI Crack Swap Mo07
+USE GGWSP0800000c GGWSP08c           DW USD BBL               FtS Spore Gasoline USGC + RBOB Frontline WTI Crack Swap Mo08
+USE GGWSP0900000c GGWSP09c           DW USD BBL               FtS Spore Gasoline USGC + RBOB Frontline WTI Crack Swap Mo09
+USE GGWSP1000000c GGWSP10c           DW USD BBL               FtS Spore Gasoline USGC + RBOB Frontline WTI Crack Swap Mo10
+USE GGWSP1100000c GGWSP11c           DW USD BBL               FtS Spore Gasoline USGC + RBOB Frontline WTI Crack Swap Mo11
+USE GGWSP1200000c GGWSP12c           DW USD BBL               FtS Spore Gasoline USGC + RBOB Frontline WTI Crack Swap Mo12
+USE GGWSR0100000c GGWSR01c           DW USD BBL               FtS Spore Gasoline USGC + RBOB Frontline WTI Crack Swap Qr01
+USE GGWSR0200000c GGWSR02c           DW USD BBL               FtS Spore Gasoline USGC + RBOB Frontline WTI Crack Swap Qr02
+USE GGWSR0300000c GGWSR03c           DW USD BBL               FtS Spore Gasoline USGC + RBOB Frontline WTI Crack Swap Qr03
+USE GGWSR0400000c GGWSR04c           DW USD BBL               FtS Spore Gasoline USGC + RBOB Frontline WTI Crack Swap Qr04
+USE GWBSP0100000c GWBSP01c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Brent Crack Swap Mo01
+USE GWBSP0200000c GWBSP02c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Brent Crack Swap Mo02
+USE GWBSP0300000c GWBSP03c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Brent Crack Swap Mo03
+USE GWBSP0400000c GWBSP04c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Brent Crack Swap Mo04
+USE GWBSP0500000c GWBSP05c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Brent Crack Swap Mo05
+USE GWBSP0600000c GWBSP06c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Brent Crack Swap Mo06
+USE GWBSP0700000c GWBSP07c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Brent Crack Swap Mo07
+USE GWBSP0800000c GWBSP08c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Brent Crack Swap Mo08
+USE GWBSP0900000c GWBSP09c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Brent Crack Swap Mo09
+USE GWBSP1000000c GWBSP10c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Brent Crack Swap Mo10
+USE GWBSP1100000c GWBSP11c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Brent Crack Swap Mo11
+USE GWBSP1200000c GWBSP12c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Brent Crack Swap Mo12
+USE GWBSR0100000c GWBSR01c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Brent Crack Swap Qr01
+USE GWBSR0200000c GWBSR02c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Brent Crack Swap Qr02
+USE GWBSR0300000c GWBSR03c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Brent Crack Swap Qr03
+USE GWBSR0400000c GWBSR04c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Brent Crack Swap Qr04
+USE GWDSP0100000c GWDSP01c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Dubai Crack Swap Mo01
+USE GWDSP0200000c GWDSP02c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Dubai Crack Swap Mo02
+USE GWDSP0300000c GWDSP03c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Dubai Crack Swap Mo03
+USE GWDSP0400000c GWDSP04c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Dubai Crack Swap Mo04
+USE GWDSP0500000c GWDSP05c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Dubai Crack Swap Mo05
+USE GWDSP0600000c GWDSP06c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Dubai Crack Swap Mo06
+USE GWDSP0700000c GWDSP07c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Dubai Crack Swap Mo07
+USE GWDSP0800000c GWDSP08c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Dubai Crack Swap Mo08
+USE GWDSP0900000c GWDSP09c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Dubai Crack Swap Mo09
+USE GWDSP1000000c GWDSP10c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Dubai Crack Swap Mo10
+USE GWDSP1100000c GWDSP11c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Dubai Crack Swap Mo11
+USE GWDSP1200000c GWDSP12c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Dubai Crack Swap Mo12
+USE GWDSR0100000c GWDSR01c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Dubai Crack Swap Qr01
+USE GWDSR0200000c GWDSR02c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Dubai Crack Swap Qr02
+USE GWDSR0300000c GWDSR03c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Dubai Crack Swap Qr03
+USE GWDSR0400000c GWDSR04c           DW USD BBL 130327 190118 FtS Spore Gasoline USWC + RBOB Dubai Crack Swap Qr04
+USE GWWSP0100000c GWWSP01c           DW USD BBL               FtS Spore Gasoline USWC + RBOB WTI Crack Swap Mo01
+USE GWWSP0200000c GWWSP02c           DW USD BBL               FtS Spore Gasoline USWC + RBOB WTI Crack Swap Mo02
+USE GWWSP0300000c GWWSP03c           DW USD BBL               FtS Spore Gasoline USWC + RBOB WTI Crack Swap Mo03
+USE GWWSP0400000c GWWSP04c           DW USD BBL               FtS Spore Gasoline USWC + RBOB WTI Crack Swap Mo04
+USE GWWSP0500000c GWWSP05c           DW USD BBL               FtS Spore Gasoline USWC + RBOB WTI Crack Swap Mo05
+USE GWWSP0600000c GWWSP06c           DW USD BBL               FtS Spore Gasoline USWC + RBOB WTI Crack Swap Mo06
+USE GWWSP0700000c GWWSP07c           DW USD BBL               FtS Spore Gasoline USWC + RBOB WTI Crack Swap Mo07
+USE GWWSP0800000c GWWSP08c           DW USD BBL               FtS Spore Gasoline USWC + RBOB WTI Crack Swap Mo08
+USE GWWSP0900000c GWWSP09c           DW USD BBL               FtS Spore Gasoline USWC + RBOB WTI Crack Swap Mo09
+USE GWWSP1000000c GWWSP10c           DW USD BBL               FtS Spore Gasoline USWC + RBOB WTI Crack Swap Mo10
+USE GWWSP1100000c GWWSP11c           DW USD BBL               FtS Spore Gasoline USWC + RBOB WTI Crack Swap Mo11
+USE GWWSP1200000c GWWSP12c           DW USD BBL               FtS Spore Gasoline USWC + RBOB WTI Crack Swap Mo12
+USE GWWSR0100000c GWWSR01c           DW USD BBL               FtS Spore Gasoline USWC + RBOB WTI Crack Swap Qr01
+USE GWWSR0200000c GWWSR02c           DW USD BBL               FtS Spore Gasoline USWC + RBOB WTI Crack Swap Qr02
+USE GWWSR0300000c GWWSR03c           DW USD BBL               FtS Spore Gasoline USWC + RBOB WTI Crack Swap Qr03
+USE GWWSR0400000c GWWSR04c           DW USD BBL               FtS Spore Gasoline USWC + RBOB WTI Crack Swap Qr04
+USE GGBSP0100000c GGBSP01c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Brent Crack Swap Mo01
+USE GGBSP0200000c GGBSP02c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Brent Crack Swap Mo02
+USE GGBSP0300000c GGBSP03c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Brent Crack Swap Mo03
+USE GGBSP0400000c GGBSP04c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Brent Crack Swap Mo04
+USE GGBSP0500000c GGBSP05c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Brent Crack Swap Mo05
+USE GGBSP0600000c GGBSP06c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Brent Crack Swap Mo06
+USE GGBSP0700000c GGBSP07c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Brent Crack Swap Mo07
+USE GGBSP0800000c GGBSP08c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Brent Crack Swap Mo08
+USE GGBSP0900000c GGBSP09c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Brent Crack Swap Mo09
+USE GGBSP1000000c GGBSP10c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Brent Crack Swap Mo10
+USE GGBSP1100000c GGBSP11c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Brent Crack Swap Mo11
+USE GGBSP1200000c GGBSP12c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Brent Crack Swap Mo12
+USE GGBSR0100000c GGBSR01c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Brent Crack Swap Qr01
+USE GGBSR0200000c GGBSR02c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Brent Crack Swap Qr02
+USE GGBSR0300000c GGBSR03c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Brent Crack Swap Qr03
+USE GGBSR0400000c GGBSR04c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Brent Crack Swap Qr04
+USE GGDSP0100000c GGDSP01c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Dubai Crack Swap Mo01
+USE GGDSP0200000c GGDSP02c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Dubai Crack Swap Mo02
+USE GGDSP0300000c GGDSP03c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Dubai Crack Swap Mo03
+USE GGDSP0400000c GGDSP04c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Dubai Crack Swap Mo04
+USE GGDSP0500000c GGDSP05c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Dubai Crack Swap Mo05
+USE GGDSP0600000c GGDSP06c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Dubai Crack Swap Mo06
+USE GGDSP0700000c GGDSP07c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Dubai Crack Swap Mo07
+USE GGDSP0800000c GGDSP08c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Dubai Crack Swap Mo08
+USE GGDSP0900000c GGDSP09c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Dubai Crack Swap Mo09
+USE GGDSP1000000c GGDSP10c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Dubai Crack Swap Mo10
+USE GGDSP1100000c GGDSP11c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Dubai Crack Swap Mo11
+USE GGDSP1200000c GGDSP12c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Dubai Crack Swap Mo12
+USE GGDSR0100000c GGDSR01c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Dubai Crack Swap Qr01
+USE GGDSR0200000c GGDSR02c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Dubai Crack Swap Qr02
+USE GGDSR0300000c GGDSR03c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Dubai Crack Swap Qr03
+USE GGDSR0400000c GGDSR04c           DW USD BBL 130327 190118 FtS Spore Gasoline USGC + RBOB Frontline Dubai Crack Swap Qr04

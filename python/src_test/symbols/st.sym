@@ -1,0 +1,181 @@
+ST                                                           © 2019 by S&P Global Inc.,190119
+ST AATIV0000000c AATIV00c           DW USD MT  160701 190118 US Scrap Iron Ore Daily Ratio
+ST AATIV0300000c AATIV03c           MA USD MT                US Scrap Iron Ore Ratio MAvg
+ST AAYIV0000000c AAYIV00c           DW USD MT  160701 190118 Turkey Scrap Iron Ore Daily Ratio
+ST AAYIV0300000c AAYIV03c           MA USD MT                Turkey Scrap Iron Ore Ratio MAvg
+ST AAXWB0300000c AAXWB03c           MA JPY MT  160101 181201 H2 Ferrous Scrap FOB Japan Yen/mt MAvg
+ST AAXWB0300000h AAXWB03h           MA JPY MT  160101 181201 H2 Ferrous Scrap FOB Japan Yen/mt MAvg
+ST AAXWB0300000l AAXWB03l           MA JPY MT  160101 181201 H2 Ferrous Scrap FOB Japan Yen/mt MAvg
+ST AAXWB0400000c AAXWB04c           WA JPY MT  160120 190116 H2 Ferrous Scrap FOB Japan Yen/mt Weekly
+ST AAXWB0400000h AAXWB04h           WA JPY MT  160120 190116 H2 Ferrous Scrap FOB Japan Yen/mt Weekly
+ST AAXWB0400000l AAXWB04l           WA JPY MT  160120 190116 H2 Ferrous Scrap FOB Japan Yen/mt Weekly
+ST AAXWC0300000c AAXWC03c           MA USD MT  160101 181201 H2 Ferrous Scrap FOB Japan US$/mt MAvg
+ST AAXWC0300000h AAXWC03h           MA USD MT  160101 181201 H2 Ferrous Scrap FOB Japan US$/mt MAvg
+ST AAXWC0300000l AAXWC03l           MA USD MT  160101 181201 H2 Ferrous Scrap FOB Japan US$/mt MAvg
+ST AAXWC0400000c AAXWC04c           WA USD MT  160120 190116 H2 Ferrous Scrap FOB Japan US$/mt Weekly
+ST AAXWC0400000h AAXWC04h           WA USD MT  160120 190116 H2 Ferrous Scrap FOB Japan US$/mt Weekly
+ST AAXWC0400000l AAXWC04l           WA USD MT  160120 190116 H2 Ferrous Scrap FOB Japan US$/mt Weekly
+ST ACTAB0000000c ACTAB00c           DW USD MT  171201 190116 HMS 1/2 80:20 CFR Turkey Swap Current Month
+ST ACTAM0100000c ACTAM01c           DW USD MT  171201 190118 HMS 1/2 80:20 CFR Turkey Swap Mo01
+ST ACTAM0200000c ACTAM02c           DW USD MT  171201 190118 HMS 1/2 80:20 CFR Turkey Swap Mo02
+ST ACTAM0300000c ACTAM03c           DW USD MT  171201 190118 HMS 1/2 80:20 CFR Turkey Swap Mo03
+ST AAXRQ0400000c AAXRQ03c           MA USD MT  141201 181201 Platts TSI Shredded Scrap CFR Nhava Sheva India MAvg
+ST AAXRQ0400000h AAXRQ03h           MA USD MT  141201 181201 Platts TSI Shredded Scrap CFR Nhava Sheva India MAvg
+ST AAXRQ0400000l AAXRQ03l           MA USD MT  141201 181201 Platts TSI Shredded Scrap CFR Nhava Sheva India MAvg
+ST AAXRQ0400000c AAXRQ04c           WA USD MT  141205 190118 Platts TSI Shredded Scrap CFR Nhava Sheva India Wkly
+ST AAXRQ0400000h AAXRQ04h           WA USD MT  141205 190118 Platts TSI Shredded Scrap CFR Nhava Sheva India Wkly
+ST AAXRQ0400000l AAXRQ04l           WA USD MT  141205 190118 Platts TSI Shredded Scrap CFR Nhava Sheva India Wkly
+ST FEBSD0000000c FEBSD00c           DW USD MT  070904 190118 Platts TSI A3 CFR Turkey
+ST FEBSD0000000h FEBSD00h           DW USD MT  070904 190118 Platts TSI A3 CFR Turkey
+ST FEBSD0000000l FEBSD00l           DW USD MT  070904 190118 Platts TSI A3 CFR Turkey
+ST FEBSD0300000c FEBSD03c           MA USD MT  070901 181201 Platts TSI A3 CFR Turkey MAvg
+ST FEBSD0400000u FEBSD04u           WA USD MT  070907 190118 Platts TSI A3 CFR Turkey WAvg
+ST FEECD0000000c FEECD00c           DW USD MT  050201 190118 Shredded FOB US East Coast USD/MT
+ST FEECD0000000h FEECD00h           DW USD MT  050201 190118 Shredded FOB US East Coast USD/MT
+ST FEECD0000000l FEECD00l           DW USD MT  050201 190118 Shredded FOB US East Coast USD/MT
+ST FEECD0300000c FEECD03c           MA USD MT  101201 181201 Shredded FOB US East Coast USD/MT MAvg
+ST FEECD0400000u FEECD04u           WA USD MT  101203 190118 Shredded FOB US East Coast USD/MT WAvg
+ST FEECH0000000c FEECH00c           DW USD MT  101201 190118 HMS FOB US East Coast USD/MT
+ST FEECH0000000h FEECH00h           DW USD MT  101201 190118 HMS FOB US East Coast USD/MT
+ST FEECH0000000l FEECH00l           DW USD MT  101201 190118 HMS FOB US East Coast USD/MT
+ST FEECH0300000c FEECH03c           MA USD MT  101201 181201 HMS FOB US East Coast USD/MT MAvg
+ST FEECH0400000u FEECH04u           WA USD MT  101203 190118 HMS FOB US East Coast USD/MT WAvg
+ST FEMWD0000000c FEMWD00c           DW USD LGT 050207 190118 Platts TSI Shredded Scrap Delivered US Midwest USD/LT
+ST FEMWD0000000h FEMWD00h           DW USD LGT 050207 190118 Platts TSI Shredded Scrap Delivered US Midwest USD/LT
+ST FEMWD0000000l FEMWD00l           DW USD LGT 050207 190118 Platts TSI Shredded Scrap Delivered US Midwest USD/LT
+ST FEMWD0300000c FEMWD03c           MA USD LGT 070901 181201 Platts TSI Shredded Scrap Delivered US Midwest USD/LT MAvg
+ST FEMWD0400000u FEMWD04u           WA USD LGT 070907 190118 Platts TSI Shredded Scrap Delivered US Midwest USD/LT WAvg
+ST FERDD0000000c FERDD00c           DW USD MT  070904 190118 Platts TSI HMS 1/2 75:25 FOB Rotterdam
+ST FERDD0000000h FERDD00h           DW USD MT  070904 190118 Platts TSI HMS 1/2 75:25 FOB Rotterdam
+ST FERDD0000000l FERDD00l           DW USD MT  070904 190118 Platts TSI HMS 1/2 75:25 FOB Rotterdam
+ST FERDD0300000c FERDD03c           MA USD MT  070901 181201 Platts TSI HMS 1/2 75:25 FOB Rotterdam MAvg
+ST FERDD0400000u FERDD04u           WA USD MT  070907 190118 Platts TSI HMS 1/2 75:25 FOB Rotterdam WAvg
+ST FEWCD0000000c FEWCD00c           DW USD LGT               FeScrap FOB USWC $/Lt Dly
+ST FEWCD0000000h FEWCD00h           DW USD LGT               FeScrap FOB USWC $/Lt Dly
+ST FEWCD0000000l FEWCD00l           DW USD LGT               FeScrap FOB USWC $/Lt Dly
+ST FEWCD0300000c FEWCD03c           MA USD LGT               FeScrap FOB USWC $/Lt MA
+ST FEWCD0400000u FEWCD04u           WA USD LGT               FeScrap FOB USWC $/Lt WA
+ST FSRDE0000000c FSRDE00c           DW EUR MT                FeScrap FOB Rdam Eur/Mt Dly
+ST FSRDE0000000h FSRDE00h           DW EUR MT                FeScrap FOB Rdam Eur/Mt Dly
+ST FSRDE0000000l FSRDE00l           DW EUR MT                FeScrap FOB Rdam Eur/Mt Dly
+ST FSRDE0300000c FSRDE03c           MA EUR MT                FeScrap FOB Rdam Eur/Mt MA
+ST FSRDE0400000u FSRDE04u           WA EUR MT                FeScrap FOB Rdam Eur/Mt WA
+ST MEMPIGIMPAAAu MMAPJ03u           MA UNS MT  981007 181101 Pig Iron Imp China
+ST MEMPIGEXPAAAu MMAPS03u           MA UNS MT  981007 181101 Pig Iron Exp China
+ST MEMPIGIMVAAAu MMARA03u           MA USD UNS 981007 181101 Pig Iron Imp Value China
+ST MEMPIGEXVAAAu MMARJ03u           MA USD UNS 981007 181101 Pig Iron Exp Value China
+ST MMAWY0300000c MMAWY03c           MA USD TON 130701 181201 Pig Iron Black Sea Exp FOB Black Sea Port MAvg
+ST MMPNO0300000c MMPNO03c           MA USD MT  180201 181201 Pig Iron CIF New Orleans MAvg
+ST MMPNO0400000c MMPNO04c           WA USD MT  180202 190118 Pig Iron CIF New Orleans Wkly
+ST SBMAA0300000c SBMAA03c           MA USD LGT 121201 181201 #1 Busheling Scrap N Amer Dom Prod Dlvd Mill MAvg $/Long Ton
+ST SBMAA0300000h SBMAA03h           MA USD LGT 121201 181201 #1 Busheling Scrap N Amer Dom Prod Dlvd Mill MAvg $/Long Ton
+ST SBMAA0300000l SBMAA03l           MA USD LGT 121201 181201 #1 Busheling Scrap N Amer Dom Prod Dlvd Mill MAvg $/Long Ton
+ST SBMAD0300000c SBMAD03c           MA USD TON 130101 190101 H2 Scrap Tokyo Steel Purchase Prc Dom Prod Dlvd Okayama Mthly $/Ton
+ST SBMAD0300000h SBMAD03h           MA USD TON 130101 190101 H2 Scrap Tokyo Steel Purchase Prc Dom Prod Dlvd Okayama Mthly $/Ton
+ST SBMAD0300000l SBMAD03l           MA USD TON 130101 190101 H2 Scrap Tokyo Steel Purchase Prc Dom Prod Dlvd Okayama Mthly $/Ton
+ST SBMAE0300000c SBMAE03c           MA USD TON 130101 190101 H2 Scrap Tokyo Steel Purchase Prc Dom Prod Dlvd Utsunomiya Mthly $/Ton
+ST SBMAE0300000h SBMAE03h           MA USD TON 130101 190101 H2 Scrap Tokyo Steel Purchase Prc Dom Prod Dlvd Utsunomiya Mthly $/Ton
+ST SBMAE0300000l SBMAE03l           MA USD TON 130101 190101 H2 Scrap Tokyo Steel Purchase Prc Dom Prod Dlvd Utsunomiya Mthly $/Ton
+ST SBMAF0300000c SBMAF03c           MA USD TON 121201 181201 HMS DDP Jiangsu steel mill VAT-inclusive $/MT MAvg
+ST SBMAF0300000h SBMAF03h           MA USD TON 121201 181201 HMS DDP Jiangsu steel mill VAT-inclusive $/MT MAvg
+ST SBMAF0300000l SBMAF03l           MA USD TON 121201 181201 HMS DDP Jiangsu steel mill VAT-inclusive $/MT MAvg
+ST SBMAG0300000c SBMAG03c           MA USD TON 121201 181201 HMS 1/2 80:20 E Asia Imp CFR MAvg $/Ton
+ST SBMAG0300000h SBMAG03h           MA USD TON 121201 181201 HMS 1/2 80:20 E Asia Imp CFR MAvg $/Ton
+ST SBMAG0300000l SBMAG03l           MA USD TON 121201 181201 HMS 1/2 80:20 E Asia Imp CFR MAvg $/Ton
+ST SBMAH0300000c SBMAH03c           MA BRL TON 121201 181201 HMS 1/2 Brazil SE Dom Prod Dlvd Mill MAvg $/Ton
+ST SBMAH0300000h SBMAH03h           MA BRL TON 121201 181201 HMS 1/2 Brazil SE Dom Prod Dlvd Mill MAvg $/Ton
+ST SBMAH0300000l SBMAH03l           MA BRL TON 121201 181201 HMS 1/2 Brazil SE Dom Prod Dlvd Mill MAvg $/Ton
+ST SBMAI0300000c SBMAI03c           MA USD LGT 121201 181201 HMS 1/2 N Amer Dom Prod Dlvd Mill MAvg $/Long Ton
+ST SBMAI0300000h SBMAI03h           MA USD LGT 121201 181201 HMS 1/2 N Amer Dom Prod Dlvd Mill MAvg $/Long Ton
+ST SBMAI0300000l SBMAI03l           MA USD LGT 121201 181201 HMS 1/2 N Amer Dom Prod Dlvd Mill MAvg $/Long Ton
+ST SBMAK0300000c SBMAK03c           MA USD TON 121201 181201 Grade OA Plate and Structural UK Dom Prod Dlvd Mill MAvg $/Ton
+ST SBMAK0300000h SBMAK03h           MA USD TON 121201 181201 Grade OA Plate and Structural UK Dom Prod Dlvd Mill MAvg $/Ton
+ST SBMAK0300000l SBMAK03l           MA USD TON 121201 181201 Grade OA Plate and Structural UK Dom Prod Dlvd Mill MAvg $/Ton
+ST SBMAM0300000c SBMAM03c           MA USD LGT 121201 181201 Plate and Structural N Amer Dom Prod Dlvd Mill MAvg $/Long Ton
+ST SBMAM0300000h SBMAM03h           MA USD LGT 121201 181201 Plate and Structural N Amer Dom Prod Dlvd Mill MAvg $/Long Ton
+ST SBMAM0300000l SBMAM03l           MA USD LGT 121201 181201 Plate and Structural N Amer Dom Prod Dlvd Mill MAvg $/Long Ton
+ST SBMAP0300000c SBMAP03c           MA USD TON 130101 190101 Shredded Scrap Auto Tokyo Steel Purchase Prc Dom Prod Dlvd Okayama Mthly $/Ton
+ST SBMAP0300000h SBMAP03h           MA USD TON 130101 190101 Shredded Scrap Auto Tokyo Steel Purchase Prc Dom Prod Dlvd Okayama Mthly $/Ton
+ST SBMAP0300000l SBMAP03l           MA USD TON 130101 190101 Shredded Scrap Auto Tokyo Steel Purchase Prc Dom Prod Dlvd Okayama Mthly $/Ton
+ST SBMAQ0300000c SBMAQ03c           MA USD TON 130101 190101 Shredded Scrap Auto Tokyo Steel Purchase Prc Dom Prod Dlvd Utsunomiya Mthly $/Ton
+ST SBMAQ0300000h SBMAQ03h           MA USD TON 130101 190101 Shredded Scrap Auto Tokyo Steel Purchase Prc Dom Prod Dlvd Utsunomiya Mthly $/Ton
+ST SBMAQ0300000l SBMAQ03l           MA USD TON 130101 190101 Shredded Scrap Auto Tokyo Steel Purchase Prc Dom Prod Dlvd Utsunomiya Mthly $/Ton
+ST SBMAR0300000c SBMAR03c           MA USD TON 130101 190101 Shredded Scrap N Europe Dom Prod Dlvd Mthly $/Ton
+ST SBMAR0300000h SBMAR03h           MA USD TON 130101 190101 Shredded Scrap N Europe Dom Prod Dlvd Mthly $/Ton
+ST SBMAR0300000l SBMAR03l           MA USD TON 130101 190101 Shredded Scrap N Europe Dom Prod Dlvd Mthly $/Ton
+ST SBMAS0300000c SBMAS03c           MA USD TON 121201 181201 Shredded Scrap S Europe Dom Prod Dlvd MAvg $/Ton
+ST SBMAS0300000h SBMAS03h           MA USD TON 121201 181201 Shredded Scrap S Europe Dom Prod Dlvd MAvg $/Ton
+ST SBMAS0300000l SBMAS03l           MA USD TON 121201 181201 Shredded Scrap S Europe Dom Prod Dlvd MAvg $/Ton
+ST SBPIB0400000c SBPIB04c           WA USD TON 171013 190118 Pig Iron Brazil Exp FOB Southeastern ports Wkly
+ST SBPIB0400000h SBPIB04h           WA USD TON 171013 190118 Pig Iron Brazil Exp FOB Southeastern ports Wkly
+ST SB0100100000c SB01001c           WA USD LGT 050131 190118 #1 Busheling Scrap N Amer Dom Prod Dlvd Mill Wkly
+ST SB0100100000h SB01001h           WA USD LGT 050131 190118 #1 Busheling Scrap N Amer Dom Prod Dlvd Mill Wkly
+ST SB0100100000l SB01001l           WA USD LGT 050131 190118 #1 Busheling Scrap N Amer Dom Prod Dlvd Mill Wkly
+ST SB0100400000c SB01004c           WA GBP TON 110711 190118 3B Shredded Scrap UK Dom Prod Dlvd Mill Wkly
+ST SB0100400000h SB01004h           WA GBP TON 110711 190118 3B Shredded Scrap UK Dom Prod Dlvd Mill Wkly
+ST SB0100400000l SB01004l           WA GBP TON 110711 190118 3B Shredded Scrap UK Dom Prod Dlvd Mill Wkly
+ST SB0100700000c SB01007c           WA GBP TON 110606 190118 4A New Steel Bales UK Dom Prod Dlvd Mill Wkly
+ST SB0100700000h SB01007h           WA GBP TON 110606 190118 4A New Steel Bales UK Dom Prod Dlvd Mill Wkly
+ST SB0100700000l SB01007l           WA GBP TON 110606 190118 4A New Steel Bales UK Dom Prod Dlvd Mill Wkly
+ST SB0104600000c SB01046c           WA BRL TON 100802 190114 Clean Steel Scrap Brazil SE Dom Prod Dlvd Mill Wkly
+ST SB0104600000h SB01046h           WA BRL TON 100802 190114 Clean Steel Scrap Brazil SE Dom Prod Dlvd Mill Wkly
+ST SB0104600000l SB01046l           WA BRL TON 100802 190114 Clean Steel Scrap Brazil SE Dom Prod Dlvd Mill Wkly
+ST SB0110900000c SB01109c           MA JPY TON 051001 190101 H2 Scrap Tokyo Steel Purchase Prc Dom Prod Dlvd Okayama Mthly
+ST SB0110900000h SB01109h           MA JPY TON 051001 190101 H2 Scrap Tokyo Steel Purchase Prc Dom Prod Dlvd Okayama Mthly
+ST SB0110900000l SB01109l           MA JPY TON 051001 190101 H2 Scrap Tokyo Steel Purchase Prc Dom Prod Dlvd Okayama Mthly
+ST SB0111000000c SB01110c           MA JPY TON 051001 190101 H2 Scrap Tokyo Steel Purchase Prc Dom Prod Dlvd Utsunomiya Mthly
+ST SB0111000000h SB01110h           MA JPY TON 051001 190101 H2 Scrap Tokyo Steel Purchase Prc Dom Prod Dlvd Utsunomiya Mthly
+ST SB0111000000l SB01110l           MA JPY TON 051001 190101 H2 Scrap Tokyo Steel Purchase Prc Dom Prod Dlvd Utsunomiya Mthly
+ST SB0112900000c SB01129c           WA CNY TON 050301 190118 HMS DDP Jiangsu steel mill VAT-inclusive Wkly
+ST SB0112900000h SB01129h           WA CNY TON 050301 190118 HMS DDP Jiangsu steel mill VAT-inclusive Wkly
+ST SB0112900000l SB01129l           WA CNY TON 050301 190118 HMS DDP Jiangsu steel mill VAT-inclusive Wkly
+ST SB0113000000c SB01130c           WA USD TON 031006 190116 HMS 1/2 80:20 E Asia Imp CFR Wkly
+ST SB0113000000h SB01130h           WA USD TON 031006 190116 HMS 1/2 80:20 E Asia Imp CFR Wkly
+ST SB0113000000l SB01130l           WA USD TON 031006 190116 HMS 1/2 80:20 E Asia Imp CFR Wkly
+ST SB0113300000c SB01133c           WA BRL TON 100607 190114 HMS 1/2 Brazil SE Dom Prod Dlvd Mill Wkly
+ST SB0113300000h SB01133h           WA BRL TON 100607 190114 HMS 1/2 Brazil SE Dom Prod Dlvd Mill Wkly
+ST SB0113300000l SB01133l           WA BRL TON 100607 190114 HMS 1/2 Brazil SE Dom Prod Dlvd Mill Wkly
+ST SB0113500000c SB01135c           WA USD LGT 081006 190118 HMS 1/2 N Amer Dom Prod Dlvd Mill Wkly
+ST SB0113500000h SB01135h           WA USD LGT 081006 190118 HMS 1/2 N Amer Dom Prod Dlvd Mill Wkly
+ST SB0113500000l SB01135l           WA USD LGT 081006 190118 HMS 1/2 N Amer Dom Prod Dlvd Mill Wkly
+ST SB0117000000c SB01170c           WA GBP TON 061002 190118 Grade OA Plate and Structural UK Dom Prod Dlvd Mill Wkly
+ST SB0117000000h SB01170h           WA GBP TON 061002 190118 Grade OA Plate and Structural UK Dom Prod Dlvd Mill Wkly
+ST SB0117000000l SB01170l           WA GBP TON 061002 190118 Grade OA Plate and Structural UK Dom Prod Dlvd Mill Wkly
+ST SB0117100000c SB01171c           WA USD TON 070501 190118 Pig Iron Black Sea Exp FOB Black Sea Port Wkly
+ST SB0117100000h SB01171h           WA USD TON 070501 190118 Pig Iron Black Sea Exp FOB Black Sea Port Wkly
+ST SB0117100000l SB01171l           WA USD TON 070501 190118 Pig Iron Black Sea Exp FOB Black Sea Port Wkly
+ST SB0117200000c SB01172c           MA USD TON 070401 181201 Pig Iron Brazil Exp FOB Southeastern ports MAvg
+ST SB0117200000h SB01172h           MA USD TON 070401 181201 Pig Iron Brazil Exp FOB Southeastern ports MAvg
+ST SB0117200000l SB01172l           MA USD TON 070401 181201 Pig Iron Brazil Exp FOB Southeastern ports MAvg
+ST SB0117400000c SB01174c           WA USD LGT 081006 190118 Plate and Structural N Amer Dom Prod Dlvd Mill Wkly
+ST SB0117400000h SB01174h           WA USD LGT 081006 190118 Plate and Structural N Amer Dom Prod Dlvd Mill Wkly
+ST SB0117400000l SB01174l           WA USD LGT 081006 190118 Plate and Structural N Amer Dom Prod Dlvd Mill Wkly
+ST SB0122300000c SB01223c           MA JPY TON 051001 190101 Shredded Scrap Auto Tokyo Steel Purchase Prc Dom Prod Dlvd Okayama Mthly
+ST SB0122300000h SB01223h           MA JPY TON 051001 190101 Shredded Scrap Auto Tokyo Steel Purchase Prc Dom Prod Dlvd Okayama Mthly
+ST SB0122300000l SB01223l           MA JPY TON 051001 190101 Shredded Scrap Auto Tokyo Steel Purchase Prc Dom Prod Dlvd Okayama Mthly
+ST SB0122400000c SB01224c           MA JPY TON 051001 190101 Shredded Scrap Auto Tokyo Steel Purchase Prc Dom Prod Dlvd Utsunomiya Mthly
+ST SB0122400000h SB01224h           MA JPY TON 051001 190101 Shredded Scrap Auto Tokyo Steel Purchase Prc Dom Prod Dlvd Utsunomiya Mthly
+ST SB0122400000l SB01224l           MA JPY TON 051001 190101 Shredded Scrap Auto Tokyo Steel Purchase Prc Dom Prod Dlvd Utsunomiya Mthly
+ST SB0122700000c SB01227c           MA EUR TON 090101 190101 Shredded Scrap N Europe Dom Prod Dlvd Mthly
+ST SB0122700000h SB01227h           MA EUR TON 090101 190101 Shredded Scrap N Europe Dom Prod Dlvd Mthly
+ST SB0122700000l SB01227l           MA EUR TON 090101 190101 Shredded Scrap N Europe Dom Prod Dlvd Mthly
+ST SB0122800000c SB01228c           WA USD TON 031103 190118 Shredded Scrap Rotterdam Exp FOB Wkly
+ST SB0122800000h SB01228h           WA USD TON 031103 190118 Shredded Scrap Rotterdam Exp FOB Wkly
+ST SB0122800000l SB01228l           WA USD TON 031103 190118 Shredded Scrap Rotterdam Exp FOB Wkly
+ST SB0122900000c SB01229c           WA EUR TON 090105 190118 Shredded Scrap S Europe Dom Prod Dlvd Eur/Ton Wkly
+ST SB0122900000h SB01229h           WA EUR TON 090105 190118 Shredded Scrap S Europe Dom Prod Dlvd Eur/Ton Wkly
+ST SB0122900000l SB01229l           WA EUR TON 090105 190118 Shredded Scrap S Europe Dom Prod Dlvd Eur/Ton Wkly
+ST SB0123000000c SB01230c           MA USD TON 110301 190102 Shredded Scrap USA Exp CFR E Asia Port Mthly
+ST SB0123000000h SB01230h           MA USD TON 110301 190102 Shredded Scrap USA Exp CFR E Asia Port Mthly
+ST SB0123000000l SB01230l           MA USD TON 110301 190102 Shredded Scrap USA Exp CFR E Asia Port Mthly
+ST SB0123800000c SB01238c           WA BRL TON 100614 190114 Turnings Brazil SE Dom Prod Dlvd Mill Wkly
+ST SB0123800000h SB01238h           WA BRL TON 100614 190114 Turnings Brazil SE Dom Prod Dlvd Mill Wkly
+ST SB0123800000l SB01238l           WA BRL TON 100614 190114 Turnings Brazil SE Dom Prod Dlvd Mill Wkly
+ST SB0126300000c SB01263c           WA USD TON 090109 190118 Shredded Scrap S Europe Dom Prod Dlvd $/Ton Wkly
+ST SB0126300000h SB01263h           WA USD TON 090109 190118 Shredded Scrap S Europe Dom Prod Dlvd $/Ton Wkly
+ST SB0126300000l SB01263l           WA USD TON 090109 190118 Shredded Scrap S Europe Dom Prod Dlvd $/Ton Wkly
+ST SBPIB0400000l SBPIB04l           WA USD TON 171013 190118 Pig Iron Brazil Exp FOB Southeastern ports Wkly
+ST TS0101100000c TS01011c           DW USD MT  100405 190118 Platts TSI HMS 1/2 80:20 CFR Turkey
+ST TS0104900000c TS01049c           DW USD MT  151116 190118 Platts TSI HMS 1/2 80:20 CFR Turkey Rolling MAvg
+ST TS1100300000c TS11003c           MA USD LGT 150911 190110 Platts TSI Shredded Scrap 10-day Average USA Domestic Prod Dlvd US Midwest Mthly
+ST TSMAK0300000c TSMAK03c           MA USD MT  121201 181201 Platts TSI HMS 1/2 80:20 CFR Turkey MAvg

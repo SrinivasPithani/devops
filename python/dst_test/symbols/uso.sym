@@ -1,0 +1,109 @@
+USO                                                           © 2019 by S&P Global Inc.,190119
+USO FGBSP0100000c FGBSP01c           DW USD BBL 130327 190118 FtS Spore FO 3% Resid USGC Brent Crack Swap Mo01
+USO FGBSP0200000c FGBSP02c           DW USD BBL 130327 190118 FtS Spore FO 3% Resid USGC Brent Crack Swap Mo02
+USO FGBSP0300000c FGBSP03c           DW USD BBL 130327 190118 FtS Spore FO 3% Resid USGC Brent Crack Swap Mo03
+USO FGBSP0400000c FGBSP04c           DW USD BBL 130327 190118 FtS Spore FO 3% Resid USGC Brent Crack Swap Mo04
+USO FGBSP0500000c FGBSP05c           DW USD BBL 130327 190118 FtS Spore FO 3% Resid USGC Brent Crack Swap Mo05
+USO FGBSP0600000c FGBSP06c           DW USD BBL 130327 190118 FtS Spore FO 3% Resid USGC Brent Crack Swap Mo06
+USO FGBSP0700000c FGBSP07c           DW USD BBL 130327 190118 FtS Spore FO 3% Resid USGC Brent Crack Swap Mo07
+USO FGBSP0800000c FGBSP08c           DW USD BBL 130327 190118 FtS Spore FO 3% Resid USGC Brent Crack Swap Mo08
+USO FGBSP0900000c FGBSP09c           DW USD BBL 130327 190118 FtS Spore FO 3% Resid USGC Brent Crack Swap Mo09
+USO FGBSP1000000c FGBSP10c           DW USD BBL 130327 190118 FtS Spore FO 3% Resid USGC Brent Crack Swap Mo10
+USO FGBSP1100000c FGBSP11c           DW USD BBL 130327 190118 FtS Spore FO 3% Resid USGC Brent Crack Swap Mo11
+USO FGBSP1200000c FGBSP12c           DW USD BBL 130327 190118 FtS Spore FO 3% Resid USGC Brent Crack Swap Mo12
+USO FGBSR0100000c FGBSR01c           DW USD BBL 130327 190118 FtS Spore FO 3% Resid USGC Brent Crack Swap Qr01
+USO FGBSR0200000c FGBSR02c           DW USD BBL 130327 190118 FtS Spore FO 3% Resid USGC Brent Crack Swap Qr02
+USO FGBSR0300000c FGBSR03c           DW USD BBL 130327 190118 FtS Spore FO 3% Resid USGC Brent Crack Swap Qr03
+USO FGBSR0400000c FGBSR04c           DW USD BBL 130327 190118 FtS Spore FO 3% Resid USGC Brent Crack Swap Qr04
+USO FGBSS0100000c FGBSS01c           DW USD BBL 130327 190118 FtS Spore FO 3% Resid USGC Brent Crack Swap Yr01
+USO FGBSS0200000c FGBSS02c           DW USD BBL 130327 190118 FtS Spore FO 3% Resid USGC Brent Crack Swap Yr02
+USO FGDSP0100000c FGDSP01c           DW USD BBL 130327 190118 FtS Spore FO 3%S Resid USGC Dubai Crack Swap Mo01
+USO FGDSP0200000c FGDSP02c           DW USD BBL 130327 190118 FtS Spore FO 3%S Resid USGC Dubai Crack Swap Mo02
+USO FGDSP0300000c FGDSP03c           DW USD BBL 130328 190118 FtS Spore FO 3%S Resid USGC Dubai Crack Swap Mo03
+USO FGDSP0400000c FGDSP04c           DW USD BBL 130327 190118 FtS Spore FO 3%S Resid USGC Dubai Crack Swap Mo04
+USO FGDSP0500000c FGDSP05c           DW USD BBL 130327 190118 FtS Spore FO 3%S Resid USGC Dubai Crack Swap Mo05
+USO FGDSP0600000c FGDSP06c           DW USD BBL 130327 190118 FtS Spore FO 3%S Resid USGC Dubai Crack Swap Mo06
+USO FGDSP0700000c FGDSP07c           DW USD BBL 130327 190118 FtS Spore FO 3%S Resid USGC Dubai Crack Swap Mo07
+USO FGDSP0800000c FGDSP08c           DW USD BBL 130327 190118 FtS Spore FO 3%S Resid USGC Dubai Crack Swap Mo08
+USO FGDSP0900000c FGDSP09c           DW USD BBL 130327 190118 FtS Spore FO 3%S Resid USGC Dubai Crack Swap Mo09
+USO FGDSP1000000c FGDSP10c           DW USD BBL 130327 190118 FtS Spore FO 3%S Resid USGC Dubai Crack Swap Mo10
+USO FGDSP1100000c FGDSP11c           DW USD BBL 130327 190118 FtS Spore FO 3%S Resid USGC Dubai Crack Swap Mo11
+USO FGDSP1200000c FGDSP12c           DW USD BBL 130327 190118 FtS Spore FO 3%S Resid USGC Dubai Crack Swap Mo12
+USO FGDSR0100000c FGDSR01c           DW USD BBL 130327 190118 FtS Spore FO 3%S Resid USGC Dubai Crack Swap Qr01
+USO FGDSR0200000c FGDSR02c           DW USD BBL 130327 190118 FtS Spore FO 3%S Resid USGC Dubai Crack Swap Qr02
+USO FGDSR0300000c FGDSR03c           DW USD BBL 130327 190118 FtS Spore FO 3%S Resid USGC Dubai Crack Swap Qr03
+USO FGDSR0400000c FGDSR04c           DW USD BBL 130327 190118 FtS Spore FO 3%S Resid USGC Dubai Crack Swap Qr04
+USO FGDSS0100000c FGDSS01c           DW USD BBL 130327 190118 FtS Spore FO 3%S Resid USGC Dubai Crack Swap Yr01
+USO FGDSS0200000c FGDSS02c           DW USD BBL 130327 190118 FtS Spore FO 3%S Resid USGC Dubai Crack Swap Yr02
+USO FABSP0100000c FABSP01c           DW USD BBL 130327 190118 FtS Spore FO 1% Resid USAC Brent Crack Swap Mo01
+USO FABSP0200000c FABSP02c           DW USD BBL 130327 190118 FtS Spore FO 1% Resid USAC Brent Crack Swap Mo02
+USO FABSP0300000c FABSP03c           DW USD BBL 130327 190118 FtS Spore FO 1% Resid USAC Brent Crack Swap Mo03
+USO FABSP0400000c FABSP04c           DW USD BBL 130327 190118 FtS Spore FO 1% Resid USAC Brent Crack Swap Mo04
+USO FABSP0500000c FABSP05c           DW USD BBL 130327 190118 FtS Spore FO 1% Resid USAC Brent Crack Swap Mo05
+USO FABSP0600000c FABSP06c           DW USD BBL 130327 190118 FtS Spore FO 1% Resid USAC Brent Crack Swap Mo06
+USO FABSP0700000c FABSP07c           DW USD BBL 130327 190118 FtS Spore FO 1% Resid USAC Brent Crack Swap Mo07
+USO FABSP0800000c FABSP08c           DW USD BBL 130327 190118 FtS Spore FO 1% Resid USAC Brent Crack Swap Mo08
+USO FABSP0900000c FABSP09c           DW USD BBL 130327 190118 FtS Spore FO 1% Resid USAC Brent Crack Swap Mo09
+USO FABSP1000000c FABSP10c           DW USD BBL 130327 190118 FtS Spore FO 1% Resid USAC Brent Crack Swap Mo10
+USO FABSP1100000c FABSP11c           DW USD BBL 130327 190118 FtS Spore FO 1% Resid USAC Brent Crack Swap Mo11
+USO FABSP1200000c FABSP12c           DW USD BBL 130327 190118 FtS Spore FO 1% Resid USAC Brent Crack Swap Mo12
+USO FABSR0100000c FABSR01c           DW USD BBL 130327 190118 FtS Spore FO 1% Resid USAC Brent Crack Swap Qr01
+USO FABSR0200000c FABSR02c           DW USD BBL 130327 190118 FtS Spore FO 1% Resid USAC Brent Crack Swap Qr02
+USO FABSR0300000c FABSR03c           DW USD BBL 130327 190118 FtS Spore FO 1% Resid USAC Brent Crack Swap Qr03
+USO FABSR0400000c FABSR04c           DW USD BBL 130327 190118 FtS Spore FO 1% Resid USAC Brent Crack Swap Qr04
+USO FABSS0100000c FABSS01c           DW USD BBL 130327 190118 FtS Spore FO 1% Resid USAC Brent Crack Swap Yr01
+USO FABSS0200000c FABSS02c           DW USD BBL 130327 190118 FtS Spore FO 1% Resid USAC Brent Crack Swap Yr02
+USO FADSP0100000c FADSP01c           DW USD BBL 130327 190118 FtS Spore FO 1%S Resid USAC Dubai Crack Swap Mo01
+USO FADSP0200000c FADSP02c           DW USD BBL 130327 190118 FtS Spore FO 1%S Resid USAC Dubai Crack Swap Mo02
+USO FADSP0300000c FADSP03c           DW USD BBL 130327 190118 FtS Spore FO 1%S Resid USAC Dubai Crack Swap Mo03
+USO FADSP0400000c FADSP04c           DW USD BBL 130327 190118 FtS Spore FO 1%S Resid USAC Dubai Crack Swap Mo04
+USO FADSP0500000c FADSP05c           DW USD BBL 130328 190118 FtS Spore FO 1%S Resid USAC Dubai Crack Swap Mo05
+USO FADSP0600000c FADSP06c           DW USD BBL 130327 190118 FtS Spore FO 1%S Resid USAC Dubai Crack Swap Mo06
+USO FADSP0700000c FADSP07c           DW USD BBL 130327 190118 FtS Spore FO 1%S Resid USAC Dubai Crack Swap Mo07
+USO FADSP0800000c FADSP08c           DW USD BBL 130328 190118 FtS Spore FO 1%S Resid USAC Dubai Crack Swap Mo08
+USO FADSP0900000c FADSP09c           DW USD BBL 130327 190118 FtS Spore FO 1%S Resid USAC Dubai Crack Swap Mo09
+USO FADSP1000000c FADSP10c           DW USD BBL 130328 190118 FtS Spore FO 1%S Resid USAC Dubai Crack Swap Mo10
+USO FADSP1100000c FADSP11c           DW USD BBL 130327 190118 FtS Spore FO 1%S Resid USAC Dubai Crack Swap Mo11
+USO FADSP1200000c FADSP12c           DW USD BBL 130327 190118 FtS Spore FO 1%S Resid USAC Dubai Crack Swap Mo12
+USO FADSR0100000c FADSR01c           DW USD BBL 130327 190118 FtS Spore FO 1%S Resid USAC Dubai Crack Swap Qr01
+USO FADSR0200000c FADSR02c           DW USD BBL 130327 190118 FtS Spore FO 1%S Resid USAC Dubai Crack Swap Qr02
+USO FADSR0300000c FADSR03c           DW USD BBL 130327 190118 FtS Spore FO 1%S Resid USAC Dubai Crack Swap Qr03
+USO FADSR0400000c FADSR04c           DW USD BBL 130327 190118 FtS Spore FO 1%S Resid USAC Dubai Crack Swap Qr04
+USO FADSS0100000c FADSS01c           DW USD BBL 130328 190118 FtS Spore FO 1%S Resid USAC Dubai Crack Swap Yr01
+USO FADSS0200000c FADSS02c           DW USD BBL 130327 190118 FtS Spore FO 1%S Resid USAC Dubai Crack Swap Yr02
+USO FAWSP0100000c FAWSP01c           DW USD BBL               FtS Spore FO 1% Resid USAC WTI Crack Swap Mo01
+USO FAWSP0200000c FAWSP02c           DW USD BBL               FtS Spore FO 1% Resid USAC WTI Crack Swap Mo02
+USO FAWSP0300000c FAWSP03c           DW USD BBL               FtS Spore FO 1% Resid USAC WTI Crack Swap Mo03
+USO FAWSP0400000c FAWSP04c           DW USD BBL               FtS Spore FO 1% Resid USAC WTI Crack Swap Mo04
+USO FAWSP0500000c FAWSP05c           DW USD BBL               FtS Spore FO 1% Resid USAC WTI Crack Swap Mo05
+USO FAWSP0600000c FAWSP06c           DW USD BBL               FtS Spore FO 1% Resid USAC WTI Crack Swap Mo06
+USO FAWSP0700000c FAWSP07c           DW USD BBL               FtS Spore FO 1% Resid USAC WTI Crack Swap Mo07
+USO FAWSP0800000c FAWSP08c           DW USD BBL               FtS Spore FO 1% Resid USAC WTI Crack Swap Mo08
+USO FAWSP0900000c FAWSP09c           DW USD BBL               FtS Spore FO 1% Resid USAC WTI Crack Swap Mo09
+USO FAWSP1000000c FAWSP10c           DW USD BBL               FtS Spore FO 1% Resid USAC WTI Crack Swap Mo10
+USO FAWSP1100000c FAWSP11c           DW USD BBL               FtS Spore FO 1% Resid USAC WTI Crack Swap Mo11
+USO FAWSP1200000c FAWSP12c           DW USD BBL               FtS Spore FO 1% Resid USAC WTI Crack Swap Mo12
+USO FAWSR0100000c FAWSR01c           DW USD BBL               FtS Spore FO 1% Resid USAC WTI Crack Swap Qr01
+USO FAWSR0200000c FAWSR02c           DW USD BBL               FtS Spore FO 1% Resid USAC WTI Crack Swap Qr02
+USO FAWSR0300000c FAWSR03c           DW USD BBL               FtS Spore FO 1% Resid USAC WTI Crack Swap Qr03
+USO FAWSR0400000c FAWSR04c           DW USD BBL               FtS Spore FO 1% Resid USAC WTI Crack Swap Qr04
+USO FAWSS0100000c FAWSS01c           DW USD BBL               FtS Spore FO 1% Resid USAC WTI Crack Swap Yr01
+USO FAWSS0200000c FAWSS02c           DW USD BBL               FtS Spore FO 1% Resid USAC WTI Crack Swap Yr02
+USO FGWSP0100000c FGWSP01c           DW USD BBL               FtS Spore FO 3% Resid USGC WTI Crack Swap Mo01
+USO FGWSP0200000c FGWSP02c           DW USD BBL               FtS Spore FO 3% Resid USGC WTI Crack Swap Mo02
+USO FGWSP0300000c FGWSP03c           DW USD BBL               FtS Spore FO 3% Resid USGC WTI Crack Swap Mo03
+USO FGWSP0400000c FGWSP04c           DW USD BBL               FtS Spore FO 3% Resid USGC WTI Crack Swap Mo04
+USO FGWSP0500000c FGWSP05c           DW USD BBL               FtS Spore FO 3% Resid USGC WTI Crack Swap Mo05
+USO FGWSP0600000c FGWSP06c           DW USD BBL               FtS Spore FO 3% Resid USGC WTI Crack Swap Mo06
+USO FGWSP0700000c FGWSP07c           DW USD BBL               FtS Spore FO 3% Resid USGC WTI Crack Swap Mo07
+USO FGWSP0800000c FGWSP08c           DW USD BBL               FtS Spore FO 3% Resid USGC WTI Crack Swap Mo08
+USO FGWSP0900000c FGWSP09c           DW USD BBL               FtS Spore FO 3% Resid USGC WTI Crack Swap Mo09
+USO FGWSP1000000c FGWSP10c           DW USD BBL               FtS Spore FO 3% Resid USGC WTI Crack Swap Mo10
+USO FGWSP1100000c FGWSP11c           DW USD BBL               FtS Spore FO 3% Resid USGC WTI Crack Swap Mo11
+USO FGWSP1200000c FGWSP12c           DW USD BBL               FtS Spore FO 3% Resid USGC WTI Crack Swap Mo12
+USO FGWSR0100000c FGWSR01c           DW USD BBL               FtS Spore FO 3% Resid USGC WTI Crack Swap Qr01
+USO FGWSR0200000c FGWSR02c           DW USD BBL               FtS Spore FO 3% Resid USGC WTI Crack Swap Qr02
+USO FGWSR0300000c FGWSR03c           DW USD BBL               FtS Spore FO 3% Resid USGC WTI Crack Swap Qr03
+USO FGWSR0400000c FGWSR04c           DW USD BBL               FtS Spore FO 3% Resid USGC WTI Crack Swap Qr04
+USO FGWSS0100000c FGWSS01c           DW USD BBL               FtS Spore FO 3% Resid USGC WTI Crack Swap Yr01
+USO FGWSS0200000c FGWSS02c           DW USD BBL               FtS Spore FO 3% Resid USGC WTI Crack Swap Yr02

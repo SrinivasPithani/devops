@@ -1,0 +1,102 @@
+NW                                                           © 2019 by S&P Global Inc.,190119
+NW FNAAV0000000u FNAAV00u           WA USD BBL 020104 190111 Arab Heavy ARA Cracking Netback WAvg
+NW FNABT0000000u FNABT00u           WA USD BBL 020104 190111 Arab Light ARA Cracking Netback WAvg
+NW FNACZ0000000u FNACZ00u           WA USD BBL 020104 190111 Arab Medium ARA Cracking Netback WAvg
+NW FNAEB0000000u FNAEB00u           WA USD BBL 020104 190111 Azeri Light ARA Cracking Netback WAvg
+NW FNAFP0000000u FNAFP00u           WA USD BBL 020104 190111 Basrah Light ARA Cracking Netback WAvg
+NW FNAHF0000000u FNAHF00u           WA USD BBL 020104 190111 Brent ARA Cracking Netback WAvg
+NW FNAJV0000000u FNAJV00u           WA USD BBL 020104 190111 Ekofisk ARA Cracking Netback WAvg
+NW FNAKP0000000u FNAKP00u           WA USD BBL 020104 190111 Flotta Gold ARA Cracking Netback WAvg
+NW FNALB0000000u FNALB00u           WA USD BBL 020104 190111 Forties ARA Cracking Netback WAvg
+NW FNALF0000000u FNALF00u           WA USD BBL 020104 190111 Gullfaks ARA Cracking Netback WAvg
+NW FNALV0000000u FNALV00u           WA USD BBL 020104 190111 Iran Heavy ARA Cracking Netback WAvg
+NW FNAMD0000000u FNAMD00u           WA USD BBL 020104 190111 Iran Light ARA Cracking Netback WAvg
+NW FNAMX0000000u FNAMX00u           WA USD BBL 020104 190111 Kuwait ARA Cracking Netback WAvg
+NW FNASD0000000u FNASD00u           WA USD BBL 020104 190111 Statfjord ARA Cracking Netback WAvg
+NW FNATN0000000u FNATN00u           WA USD BBL 020104 190111 Urals ARA Cracking Netback WAvg
+NW FNATQ0000000u FNATQ00u           WA USD BBL 030404 190111 Murban ARA Cracking Netback WAvg
+NW FNATS0000000u FNATS00u           WA USD BBL 030404 190111 Brass River ARA Cracking Netback WAvg
+NW FNATU0000000u FNATU00u           WA USD BBL 040910 190111 Kirkuk ARA Cracking Netback WAvg
+NW FNATY0000000u FNATY00u           WA USD BBL 040910 190111 Saharan Blend ARA Cracking Netback WAvg
+NW FNAUC0000000u FNAUC00u           WA USD BBL 040910 190111 Zueitina ARA Cracking Netback WAvg
+NW FNAVI0000000u FNAVI00u           WA USD BBL 130503 190111 Hungo ARA Cracking Netback WAvg
+NW FNAVJ0000000u FNAVJ00u           WA USD BBL 130503 190111 Oseberg ARA Cracking Netback WAvg
+NW FNAVK0000000u FNAVK00u           WA USD BBL 130503 190111 Cabinda ARA Cracking Netback WAvg
+NW TNALB0000000u TNALB00u           DW USD BBL 020102 190118 Forties ARA Cracking Netback
+NW TNALB0300000u TNALB03u           MA USD BBL 020101 181201 Forties ARA Cracking Netback MAvg
+NW TNALBMR00000c TNALBMRc           DW USD BBL 130501 190118 Forties ARA Cracking Netback Margin
+NW TNALF0000000u TNALF00u           DW USD BBL 020102 190118 Gullfaks ARA Cracking Netback
+NW TNALF0300000u TNALF03u           MA USD BBL 020101 181201 Gullfaks ARA Cracking Netback MAvg
+NW TNALFMR00000c TNALFMRc           DW USD BBL 130501 190118 Gullfaks ARA Cracking Netback Margin
+NW TNALV0000000u TNALV00u           DW USD BBL 020102 190118 Iran Heavy ARA Cracking Netback
+NW TNALV0300000u TNALV03u           MA USD BBL 020101 181201 Iran Heavy ARA Cracking Netback MAvg
+NW TNALVMR00000c TNALVMRc           DW USD BBL 130501 190118 Iran Heavy ARA Cracking Netback Margin
+NW TNAMD0000000u TNAMD00u           DW USD BBL 020102 190118 Iran Light ARA Cracking Netback
+NW TNAMD0300000u TNAMD03u           MA USD BBL 020101 181201 Iran Light ARA Cracking Netback MAvg
+NW TNAMDMR00000c TNAMDMRc           DW USD BBL 130501 190118 Iran Light ARA Cracking Netback Margin
+NW TNAMX0000000u TNAMX00u           DW USD BBL 020102 190118 Kuwait ARA Cracking Netback
+NW TNAMX0300000u TNAMX03u           MA USD BBL 020101 181201 Kuwait ARA Cracking Netback MAvg
+NW TNAMXMR00000c TNAMXMRc           DW USD BBL 130501 190118 Kuwait ARA Cracking Netback Margin
+NW TNASD0000000u TNASD00u           DW USD BBL 020102 190118 Statfjord ARA Cracking Netback
+NW TNASD0300000u TNASD03u           MA USD BBL 020101 181201 Statfjord ARA Cracking Netback MAvg
+NW TNASDMR00000c TNASDMRc           DW USD BBL 130501 190118 Statfjord ARA Cracking Netback Margin
+NW TNATN0000000u TNATN00u           DW USD BBL 020102 190118 Urals ARA Cracking Netback
+NW TNATN0300000u TNATN03u           MA USD BBL 020101 181201 Urals ARA Cracking Netback MAvg
+NW TNATNMR00000c TNATNMRc           DW USD BBL 130501 190118 Urals ARA Cracking Netback Margin
+NW TNATQ0000000u TNATQ00u           DW USD BBL 030401 190118 Murban ARA Cracking Netback
+NW TNATQ0300000u TNATQ03u           MA USD BBL 030401 181201 Murban ARA Cracking Netback MAvg
+NW TNATQMR00000c TNATQMRc           DW USD BBL 130501 190118 Murban ARA Cracking Netback Margin
+NW TNATS0000000u TNATS00u           DW USD BBL 030401 190118 Brass River ARA Cracking Netback
+NW TNATS0300000u TNATS03u           MA USD BBL 030401 181201 Brass River ARA Cracking NetbackMAvg
+NW TNATSMR00000c TNATSMRc           DW USD BBL 130501 190118 Brass River ARA Cracking Netback Margin
+NW TNATU0000000u TNATU00u           DW USD BBL 040901 190118 Kirkuk ARA Cracking Netback
+NW TNATU0300000u TNATU03u           MA USD BBL 040901 181201 Kirkuk ARA Cracking Netback MAvg
+NW TNATUMR00000c TNATUMRc           DW USD BBL 130501 190118 Kirkuk ARA Cracking Netback Margin
+NW TNATY0000000u TNATY00u           DW USD BBL 040901 190118 Saharan Blend ARA Cracking Netback
+NW TNATY0300000u TNATY03u           MA USD BBL 040901 181201 Saharan Blend ARA Cracking Netback MAvg
+NW TNATYMR00000c TNATYMRc           DW USD BBL 130501 190118 Saharan Blend ARA Cracking Netback Margin
+NW TNAUC0000000u TNAUC00u           DW USD BBL 040901 190118 Zueitina ARA Cracking Netback
+NW TNAUC0300000u TNAUC03u           MA USD BBL 040901 181201 Zueitina ARA Cracking Netback MAvg
+NW TNAUCMR00000c TNAUCMRc           DW USD BBL 130501 190118 Zueitina ARA Cracking Netback Margin
+NW TNAAV0000000u TNAAV00u           DW USD BBL 020102 190118 Arab Heavy ARA Cracking Netback
+NW TNAAV0300000u TNAAV03u           MA USD BBL 020101 181201 Arab Heavy ARA Cracking Netback MAvg
+NW TNAAVMR00000c TNAAVMRc           DW USD BBL 130425 190118 Arab Heavy ARA Cracking Netback Margin
+NW TNABT0000000u TNABT00u           DW USD BBL 020102 190118 Arab Light ARA Cracking Netback
+NW TNABT0300000u TNABT03u           MA USD BBL 020101 181201 Arab Light ARA Cracking Netback MAvg
+NW TNABTMR00000c TNABTMRc           DW USD BBL 130425 190118 Arab Light ARA Cracking Netback Margin
+NW TNACZ0000000u TNACZ00u           DW USD BBL 020102 190118 Arab Medium ARA Cracking Netback
+NW TNACZ0300000u TNACZ03u           MA USD BBL 020101 181201 Arab Medium ARA Cracking Netback MAvg
+NW TNACZMR00000c TNACZMRc           DW USD BBL 130425 190118 Arab Medium ARA Cracking Netback Margin
+NW TNAEB0000000u TNAEB00u           DW USD BBL 020102 190118 Azeri Light ARA Cracking Netback
+NW TNAEB0300000u TNAEB03u           MA USD BBL 020101 181201 Azeri Light ARA Cracking Netback MAvg
+NW TNAEBMR00000c TNAEBMRc           DW USD BBL 130501 190118 Azeri Light ARA Cracking Netback Margin
+NW TNAFP0000000u TNAFP00u           DW USD BBL 020102 190118 Basrah Light ARA Cracking Netback
+NW TNAFP0300000u TNAFP03u           MA USD BBL 020101 181201 Basrah Light ARA Cracking Netback MAvg
+NW TNAFPMR00000c TNAFPMRc           DW USD BBL 130501 190118 Basrah Light ARA Cracking Netback Margin
+NW TNAHF0000000u TNAHF00u           DW USD BBL 020102 190118 Brent ARA Cracking Netback
+NW TNAHF0300000u TNAHF03u           MA USD BBL 020101 181201 Brent ARA Cracking Netback MAvg
+NW TNAHFMR00000c TNAHFMRc           DW USD BBL 130501 190118 Brent ARA Cracking Netback Margin
+NW TNAJV0000000u TNAJV00u           DW USD BBL 020102 190118 Ekofisk ARA Cracking Netback
+NW TNAJV0300000u TNAJV03u           MA USD BBL 020101 181201 Ekofisk ARA Cracking Netback MAvg
+NW TNAJVMR00000c TNAJVMRc           DW USD BBL 130501 190118 Ekofisk ARA Cracking Netback Margin
+NW TNAKP0000000u TNAKP00u           DW USD BBL 020102 190118 Flotta Gold ARA Cracking Netback
+NW TNAKP0300000u TNAKP03u           MA USD BBL 020101 181201 Flotta Gold ARA Cracking Netback MAvg
+NW TNAKPMR00000c TNAKPMRc           DW USD BBL 130501 190118 Flotta Gold ARA Cracking Netback Margin
+NW TNAVI0000000u TNAVI00u           DW USD BBL 130501 190118 Hungo ARA Cracking Netback
+NW TNAVI0300000u TNAVI03u           MA USD BBL 130501 181201 Hungo ARA Cracking Netback MAvg
+NW TNAVIMR00000c TNAVIMRc           DW USD BBL 130501 190118 Hungo ARA Cracking Netback Margin
+NW TNAVJ0000000u TNAVJ00u           DW USD BBL 130501 190118 Oseberg ARA Cracking Netback
+NW TNAVJ0300000u TNAVJ03u           MA USD BBL 130501 181201 Oseberg ARA Cracking Netback MAvg
+NW TNAVJMR00000c TNAVJMRc           DW USD BBL 130501 190118 Oseberg ARA Cracking Netback Margin
+NW TNAVK0000000u TNAVK00u           DW USD BBL 130501 190118 Cabinda ARA Cracking Netback
+NW TNAVK0300000u TNAVK03u           MA USD BBL 130501 181201 Cabinda ARA Cracking Netback MAvg
+NW TNAVKMR00000c TNAVKMRc           DW USD BBL 130501 190118 Cabinda ARA Cracking Netback Margin
+NW TNEAB0000000c TNEAB00c           DW USD BBL 160701 190118 Eagle Ford ARA Cracking Netback
+NW TNEAB0400000c TNEAB04c           WA USD BBL 160708 190111 Eagle Ford ARA Cracking Netback WAvg
+NW TNEABMR00000c TNEABMRc           DW USD BBL 160701 190118 Eagle Ford Condensate ARA Cracking Margin
+NW TNEAE0000000c TNEAE00c           DW USD BBL 160701 190118 Light Houston Sweet ARA Cracking Netback
+NW TNEAEMR00000c TNEAEMRc           DW USD BBL 160701 190118 Light Houston Sweet ARA Cracking Margin
+NW TNEAF0400000c TNEAF04c           WA USD BBL 160708 190111 Light Houston Sweet ARA Cracking Netback WAvg
+NW TNEAH0000000c TNEAH00c           DW USD BBL               WCS ARA Coking Netback
+NW TNEAH0400000c TNEAH04c           WA USD BBL               WCS ARA Coking Netback WAvg
+NW TNEAHMR00000c TNEAHMRc           DW USD BBL               WCS ARA Coking Margin

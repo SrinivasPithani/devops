@@ -1,0 +1,284 @@
+ULM                                                           © 2019 by S&P Global Inc.,190119
+ULM HFMLP0100000c HFMLP01c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo01
+ULM HFMLP0200000c HFMLP02c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo02
+ULM HFMLP0300000c HFMLP03c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo03
+ULM HFMLP0400000c HFMLP04c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo04
+ULM HFMLP0500000c HFMLP05c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo05
+ULM HFMLP0600000c HFMLP06c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo06
+ULM HFMLP0700000c HFMLP07c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo07
+ULM HFMLP0800000c HFMLP08c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo08
+ULM HFMLP0900000c HFMLP09c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo09
+ULM HFMLP1000000c HFMLP10c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo10
+ULM HFMLP1100000c HFMLP11c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo11
+ULM HFMLP1200000c HFMLP12c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo12
+ULM HFMLP1300000c HFMLP13c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo13
+ULM HFMLP1400000c HFMLP14c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo14
+ULM HFMLP1500000c HFMLP15c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo15
+ULM HFMLP1600000c HFMLP16c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo16
+ULM HFMLP1700000c HFMLP17c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo17
+ULM HFMLP1800000c HFMLP18c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo18
+ULM HFMLP1900000c HFMLP19c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo19
+ULM HFMLP2000000c HFMLP20c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo20
+ULM HFMLP2100000c HFMLP21c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo21
+ULM HFMLP2200000c HFMLP22c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo22
+ULM HFMLP2300000c HFMLP23c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo23
+ULM HFMLP2400000c HFMLP24c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo24
+ULM HFMLP2500000c HFMLP25c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo25
+ULM HFMLP2600000c HFMLP26c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo26
+ULM HFMLP2700000c HFMLP27c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo27
+ULM HFMLP2800000c HFMLP28c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo28
+ULM HFMLP2900000c HFMLP29c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo29
+ULM HFMLP3000000c HFMLP30c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo30
+ULM HFMLP3100000c HFMLP31c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo31
+ULM HFMLP3200000c HFMLP32c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo32
+ULM HFMLP3300000c HFMLP33c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo33
+ULM HFMLP3400000c HFMLP34c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo34
+ULM HFMLP3500000c HFMLP35c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo35
+ULM HFMLP3600000c HFMLP36c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Mo36
+ULM HFMLR0100000c HFMLR01c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Qr01
+ULM HFMLR0200000c HFMLR02c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Qr02
+ULM HFMLR0300000c HFMLR03c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Qr03
+ULM HFMLR0400000c HFMLR04c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Qr04
+ULM HFMLR0500000c HFMLR05c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Qr05
+ULM HFMLR0600000c HFMLR06c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Qr06
+ULM HFMLR0700000c HFMLR07c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Qr07
+ULM HFMLR0800000c HFMLR08c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Qr08
+ULM HFMLR0900000c HFMLR09c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Qr09
+ULM HFMLR1000000c HFMLR10c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Qr10
+ULM HFMLR1100000c HFMLR11c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Qr11
+ULM HFMLR1200000c HFMLR12c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Qr12
+ULM HFMLS0100000c HFMLS01c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Yr01
+ULM HFMLS0200000c HFMLS02c           DW USC GAL 131001 190118 FtS London Heating Oil Frontline Swap Yr02
+ULM HFMLS0300000c HFMLS03c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Swap Yr03
+ULM HFTLP0100000c HFTLP01c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo01/02
+ULM HFTLP0200000c HFTLP02c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo02/03
+ULM HFTLP0300000c HFTLP03c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo03/04
+ULM HFTLP0400000c HFTLP04c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo04/05
+ULM HFTLP0500000c HFTLP05c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo05/06
+ULM HFTLP0600000c HFTLP06c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo06/07
+ULM HFTLP0700000c HFTLP07c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo07/08
+ULM HFTLP0800000c HFTLP08c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo08/09
+ULM HFTLP0900000c HFTLP09c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo09/10
+ULM HFTLP1000000c HFTLP10c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo10/11
+ULM HFTLP1100000c HFTLP11c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo11/12
+ULM HFTLP1200000c HFTLP12c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo12/13
+ULM HFTLP1300000c HFTLP13c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo13/14
+ULM HFTLP1400000c HFTLP14c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo14/15
+ULM HFTLP1500000c HFTLP15c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo15/16
+ULM HFTLP1600000c HFTLP16c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo16/17
+ULM HFTLP1700000c HFTLP17c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo17/18
+ULM HFTLP1800000c HFTLP18c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo18/19
+ULM HFTLP1900000c HFTLP19c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo19/20
+ULM HFTLP2000000c HFTLP20c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo20/21
+ULM HFTLP2100000c HFTLP21c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo21/22
+ULM HFTLP2200000c HFTLP22c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo22/23
+ULM HFTLP2300000c HFTLP23c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo23/24
+ULM HFTLP2400000c HFTLP24c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo24/25
+ULM HFTLP2500000c HFTLP25c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo25/26
+ULM HFTLP2600000c HFTLP26c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo26/27
+ULM HFTLP2700000c HFTLP27c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo27/28
+ULM HFTLP2800000c HFTLP28c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo28/29
+ULM HFTLP2900000c HFTLP29c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo29/30
+ULM HFTLP3000000c HFTLP30c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo30/31
+ULM HFTLP3100000c HFTLP31c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo31/32
+ULM HFTLP3200000c HFTLP32c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo32/33
+ULM HFTLP3300000c HFTLP33c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo33/34
+ULM HFTLP3400000c HFTLP34c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo34/35
+ULM HFTLP3500000c HFTLP35c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Mo35/36
+ULM HFTLR0100000c HFTLR01c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Qr01/02
+ULM HFTLR0200000c HFTLR02c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Qr02/03
+ULM HFTLR0300000c HFTLR03c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Qr03/04
+ULM HFTLR0400000c HFTLR04c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Qr04/05
+ULM HFTLR0500000c HFTLR05c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Qr05/06
+ULM HFTLR0600000c HFTLR06c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Qr06/07
+ULM HFTLR0700000c HFTLR07c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Qr07/08
+ULM HFTLR0800000c HFTLR08c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Qr08/09
+ULM HFTLR0900000c HFTLR09c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Qr09/10
+ULM HFTLR1000000c HFTLR10c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Qr10/11
+ULM HFTLR1100000c HFTLR11c           DW USC GAL 130327 190118 FtS London Heating Oil Frontline Time Spread Swap Qr11/12
+ULM HFTLS0100000c HFTLS01c           DW USC GAL 131001 190118 FtS London Heating Oil Frontline Time Spread Swap Yr01/02
+ULM HFTLS0200000c HFTLS02c           DW USC GAL 131001 190118 FtS London Heating Oil Frontline Time Spread Swap Yr02/03
+ULM JAFLP0100000c JAFLP01c           DW USC GAL 130327 190118 FtS London Jet Kero USAC + HO Frontline Flat Prc Swap Mo01
+ULM JAFLP0200000c JAFLP02c           DW USC GAL 130327 190118 FtS London Jet Kero USAC + HO Frontline Flat Prc Swap Mo02
+ULM JAFLP0300000c JAFLP03c           DW USC GAL 130327 190118 FtS London Jet Kero USAC + HO Frontline Flat Prc Swap Mo03
+ULM JAFLP0400000c JAFLP04c           DW USC GAL 130327 190118 FtS London Jet Kero USAC + HO Frontline Flat Prc Swap Mo04
+ULM JAFLP0500000c JAFLP05c           DW USC GAL 130327 190118 FtS London Jet Kero USAC + HO Frontline Flat Prc Swap Mo05
+ULM JAFLP0600000c JAFLP06c           DW USC GAL 130327 190118 FtS London Jet Kero USAC + HO Frontline Flat Prc Swap Mo06
+ULM JAFLP0700000c JAFLP07c           DW USC GAL 130327 190118 FtS London Jet Kero USAC + HO Frontline Flat Prc Swap Mo07
+ULM JAFLP0800000c JAFLP08c           DW USC GAL 130327 190118 FtS London Jet Kero USAC + HO Frontline Flat Prc Swap Mo08
+ULM JAFLP0900000c JAFLP09c           DW USC GAL 130327 190118 FtS London Jet Kero USAC + HO Frontline Flat Prc Swap Mo09
+ULM JAFLP1000000c JAFLP10c           DW USC GAL 130327 190118 FtS London Jet Kero USAC + HO Frontline Flat Prc Swap Mo10
+ULM JAFLP1100000c JAFLP11c           DW USC GAL 130327 190118 FtS London Jet Kero USAC + HO Frontline Flat Prc Swap Mo11
+ULM JAFLP1200000c JAFLP12c           DW USC GAL 130327 190118 FtS London Jet Kero USAC + HO Frontline Flat Prc Swap Mo12
+ULM JAFLR0100000c JAFLR01c           DW USC GAL 130327 190118 FtS London Jet Kero USAC + HO Frontline Flat Prc Swap Qr01
+ULM JAFLR0200000c JAFLR02c           DW USC GAL 130327 190118 FtS London Jet Kero USAC + HO Frontline Flat Prc Swap Qr02
+ULM JAFLR0300000c JAFLR03c           DW USC GAL 130327 190118 FtS London Jet Kero USAC + HO Frontline Flat Prc Swap Qr03
+ULM JAFLR0400000c JAFLR04c           DW USC GAL 130327 190118 FtS London Jet Kero USAC + HO Frontline Flat Prc Swap Qr04
+ULM JWFLP0100000c JWFLP01c           DW USC GAL 130327 190118 FtS London Jet Kero USWC + HO Frontline Flat Prc Swap Mo01
+ULM JWFLP0200000c JWFLP02c           DW USC GAL 130327 190118 FtS London Jet Kero USWC + HO Frontline Flat Prc Swap Mo02
+ULM JWFLP0300000c JWFLP03c           DW USC GAL 130327 190118 FtS London Jet Kero USWC + HO Frontline Flat Prc Swap Mo03
+ULM JWFLP0400000c JWFLP04c           DW USC GAL 130327 190118 FtS London Jet Kero USWC + HO Frontline Flat Prc Swap Mo04
+ULM JWFLP0500000c JWFLP05c           DW USC GAL 130327 190118 FtS London Jet Kero USWC + HO Frontline Flat Prc Swap Mo05
+ULM JWFLP0600000c JWFLP06c           DW USC GAL 130327 190118 FtS London Jet Kero USWC + HO Frontline Flat Prc Swap Mo06
+ULM JWFLP0700000c JWFLP07c           DW USC GAL 130327 190118 FtS London Jet Kero USWC + HO Frontline Flat Prc Swap Mo07
+ULM JWFLP0800000c JWFLP08c           DW USC GAL 130327 190118 FtS London Jet Kero USWC + HO Frontline Flat Prc Swap Mo08
+ULM JWFLP0900000c JWFLP09c           DW USC GAL 130327 190118 FtS London Jet Kero USWC + HO Frontline Flat Prc Swap Mo09
+ULM JWFLP1000000c JWFLP10c           DW USC GAL 130327 190118 FtS London Jet Kero USWC + HO Frontline Flat Prc Swap Mo10
+ULM JAMLP0100000c JAMLP01c           DW USC GAL 130816 190118 FtS London Jet Kero USAC vs HO Frontline Swap Mo01
+ULM JAMLP0200000c JAMLP02c           DW USC GAL 130816 190118 FtS London Jet Kero USAC vs HO Frontline Swap Mo02
+ULM JAMLP0300000c JAMLP03c           DW USC GAL 130816 190118 FtS London Jet Kero USAC vs HO Frontline Swap Mo03
+ULM JAMLP0400000c JAMLP04c           DW USC GAL 130816 190118 FtS London Jet Kero USAC vs HO Frontline Swap Mo04
+ULM JAMLP0500000c JAMLP05c           DW USC GAL 130816 190118 FtS London Jet Kero USAC vs HO Frontline Swap Mo05
+ULM JAMLP0600000c JAMLP06c           DW USC GAL 130816 190118 FtS London Jet Kero USAC vs HO Frontline Swap Mo06
+ULM JAMLP0700000c JAMLP07c           DW USC GAL 130816 190118 FtS London Jet Kero USAC vs HO Frontline Swap Mo07
+ULM JAMLP0800000c JAMLP08c           DW USC GAL 130816 190118 FtS London Jet Kero USAC vs HO Frontline Swap Mo08
+ULM JAMLP0900000c JAMLP09c           DW USC GAL 130816 190118 FtS London Jet Kero USAC vs HO Frontline Swap Mo09
+ULM JAMLP1000000c JAMLP10c           DW USC GAL 130816 190118 FtS London Jet Kero USAC vs HO Frontline Swap Mo10
+ULM JAMLP1100000c JAMLP11c           DW USC GAL 130816 190118 FtS London Jet Kero USAC vs HO Frontline Swap Mo11
+ULM JAMLP1200000c JAMLP12c           DW USC GAL 130816 190118 FtS London Jet Kero USAC vs HO Frontline Swap Mo12
+ULM JAMLR0100000c JAMLR01c           DW USC GAL 130816 190118 FtS London Jet Kero USAC vs HO Frontline Swap Qr01
+ULM JAMLR0200000c JAMLR02c           DW USC GAL 130816 190118 FtS London Jet Kero USAC vs HO Frontline Swap Qr02
+ULM JAMLR0300000c JAMLR03c           DW USC GAL 130816 190118 FtS London Jet Kero USAC vs HO Frontline Swap Qr03
+ULM JAMLR0400000c JAMLR04c           DW USC GAL 130816 190118 FtS London Jet Kero USAC vs HO Frontline Swap Qr04
+ULM JATLP0100000c JATLP01c           DW USC GAL 130327 190118 FtS London Jet Kero USAC + HO Frontline Time Spread Swap Mo01/02
+ULM JATLP0200000c JATLP02c           DW USC GAL 130327 190118 FtS London Jet Kero USAC + HO Frontline Time Spread Swap Mo02/03
+ULM JATLP0300000c JATLP03c           DW USC GAL 130327 190118 FtS London Jet Kero USAC + HO Frontline Time Spread Swap Mo03/04
+ULM JATLP0400000c JATLP04c           DW USC GAL 130327 190118 FtS London Jet Kero USAC + HO Frontline Time Spread Swap Mo04/05
+ULM JATLP0500000c JATLP05c           DW USC GAL 130327 190118 FtS London Jet Kero USAC + HO Frontline Time Spread Swap Mo05/06
+ULM JATLP0600000c JATLP06c           DW USC GAL 130327 190118 FtS London Jet Kero USAC + HO Frontline Time Spread Swap Mo06/07
+ULM JATLP0700000c JATLP07c           DW USC GAL 130327 190118 FtS London Jet Kero USAC + HO Frontline Time Spread Swap Mo07/08
+ULM JATLP0800000c JATLP08c           DW USC GAL 130327 190118 FtS London Jet Kero USAC + HO Frontline Time Spread Swap Mo08/09
+ULM JATLP0900000c JATLP09c           DW USC GAL 130327 190118 FtS London Jet Kero USAC + HO Frontline Time Spread Swap Mo09/10
+ULM JATLP1000000c JATLP10c           DW USC GAL 130327 190118 FtS London Jet Kero USAC + HO Frontline Time Spread Swap Mo10/11
+ULM JATLP1100000c JATLP11c           DW USC GAL 130327 190118 FtS London Jet Kero USAC + HO Frontline Time Spread Swap Mo11/12
+ULM JWFLP1100000c JWFLP11c           DW USC GAL 130327 190118 FtS London Jet Kero USWC + HO Frontline Flat Prc Swap Mo11
+ULM JWFLP1200000c JWFLP12c           DW USC GAL 130327 190118 FtS London Jet Kero USWC + HO Frontline Flat Prc Swap Mo12
+ULM JWFLR0100000c JWFLR01c           DW USC GAL 130327 190118 FtS London Jet Kero USWC + HO Frontline Flat Prc Swap Qr01
+ULM JWFLR0200000c JWFLR02c           DW USC GAL 130327 190118 FtS London Jet Kero USWC + HO Frontline Flat Prc Swap Qr02
+ULM JWFLR0300000c JWFLR03c           DW USC GAL 130327 190118 FtS London Jet Kero USWC + HO Frontline Flat Prc Swap Qr03
+ULM JWFLR0400000c JWFLR04c           DW USC GAL 130327 190118 FtS London Jet Kero USWC + HO Frontline Flat Prc Swap Qr04
+ULM JWMLP0100000c JWMLP01c           DW USC GAL 130327 190118 FtS London Jet Kero USWC vs HO Frontline Swap Mo01
+ULM JWMLP0200000c JWMLP02c           DW USC GAL 130327 190118 FtS London Jet Kero USWC vs HO Frontline Swap Mo02
+ULM JWMLP0300000c JWMLP03c           DW USC GAL 130327 190118 FtS London Jet Kero USWC vs HO Frontline Swap Mo03
+ULM JWMLP0400000c JWMLP04c           DW USC GAL 130327 190118 FtS London Jet Kero USWC vs HO Frontline Swap Mo04
+ULM JWMLP0500000c JWMLP05c           DW USC GAL 130327 190118 FtS London Jet Kero USWC vs HO Frontline Swap Mo05
+ULM JWMLP0600000c JWMLP06c           DW USC GAL 130327 190118 FtS London Jet Kero USWC vs HO Frontline Swap Mo06
+ULM JWMLP0700000c JWMLP07c           DW USC GAL 130327 190118 FtS London Jet Kero USWC vs HO Frontline Swap Mo07
+ULM JWMLP0800000c JWMLP08c           DW USC GAL 130327 190118 FtS London Jet Kero USWC vs HO Frontline Swap Mo08
+ULM JWMLP0900000c JWMLP09c           DW USC GAL 130327 190118 FtS London Jet Kero USWC vs HO Frontline Swap Mo09
+ULM JWMLP1000000c JWMLP10c           DW USC GAL 130327 190118 FtS London Jet Kero USWC vs HO Frontline Swap Mo10
+ULM JWMLP1100000c JWMLP11c           DW USC GAL 130327 190118 FtS London Jet Kero USWC vs HO Frontline Swap Mo11
+ULM JWMLP1200000c JWMLP12c           DW USC GAL 130327 190118 FtS London Jet Kero USWC vs HO Frontline Swap Mo12
+ULM JWMLR0100000c JWMLR01c           DW USC GAL 130327 190118 FtS London Jet Kero USWC vs HO Frontline Swap Qr01
+ULM JWMLR0200000c JWMLR02c           DW USC GAL 130327 190118 FtS London Jet Kero USWC vs HO Frontline Swap Qr02
+ULM JWMLR0300000c JWMLR03c           DW USC GAL 130327 190118 FtS London Jet Kero USWC vs HO Frontline Swap Qr03
+ULM JWMLR0400000c JWMLR04c           DW USC GAL 130327 190118 FtS London Jet Kero USWC vs HO Frontline Swap Qr04
+ULM JATLR0100000c JATLR01c           DW USC GAL 130327 190118 FtS London Jet Kero USAC + HO Frontline Time Spread Swap Qr01/02
+ULM JATLR0200000c JATLR02c           DW USC GAL 130327 190118 FtS London Jet Kero USAC + HO Frontline Time Spread Swap Qr02/03
+ULM JATLR0300000c JATLR03c           DW USC GAL 130327 190118 FtS London Jet Kero USAC + HO Frontline Time Spread Swap Qr03/04
+ULM JGFLP0100000c JGFLP01c           DW USC GAL 130327 190118 FtS London Jet Kero USGC + HO Frontline Flat Prc Swap Mo01
+ULM JGFLP0200000c JGFLP02c           DW USC GAL 130327 190118 FtS London Jet Kero USGC + HO Frontline Flat Prc Swap Mo02
+ULM JGFLP0300000c JGFLP03c           DW USC GAL 130327 190118 FtS London Jet Kero USGC + HO Frontline Flat Prc Swap Mo03
+ULM JGFLP0400000c JGFLP04c           DW USC GAL 130327 190118 FtS London Jet Kero USGC + HO Frontline Flat Prc Swap Mo04
+ULM JGFLP0500000c JGFLP05c           DW USC GAL 130327 190118 FtS London Jet Kero USGC + HO Frontline Flat Prc Swap Mo05
+ULM JGFLP0600000c JGFLP06c           DW USC GAL 130327 190118 FtS London Jet Kero USGC + HO Frontline Flat Prc Swap Mo06
+ULM JGFLP0700000c JGFLP07c           DW USC GAL 130327 190118 FtS London Jet Kero USGC + HO Frontline Flat Prc Swap Mo07
+ULM JGFLP0800000c JGFLP08c           DW USC GAL 130327 190118 FtS London Jet Kero USGC + HO Frontline Flat Prc Swap Mo08
+ULM JGFLP0900000c JGFLP09c           DW USC GAL 130327 190118 FtS London Jet Kero USGC + HO Frontline Flat Prc Swap Mo09
+ULM JGFLP1000000c JGFLP10c           DW USC GAL 130327 190118 FtS London Jet Kero USGC + HO Frontline Flat Prc Swap Mo10
+ULM JGFLP1100000c JGFLP11c           DW USC GAL 130327 190118 FtS London Jet Kero USGC + HO Frontline Flat Prc Swap Mo11
+ULM JGFLP1200000c JGFLP12c           DW USC GAL 130327 190118 FtS London Jet Kero USGC + HO Frontline Flat Prc Swap Mo12
+ULM JGFLR0100000c JGFLR01c           DW USC GAL 130327 190118 FtS London Jet Kero USGC + HO Frontline Flat Prc Swap Qr01
+ULM JGFLR0200000c JGFLR02c           DW USC GAL 130327 190118 FtS London Jet Kero USGC + HO Frontline Flat Prc Swap Qr02
+ULM JGFLR0300000c JGFLR03c           DW USC GAL 130327 190118 FtS London Jet Kero USGC + HO Frontline Flat Prc Swap Qr03
+ULM JGFLR0400000c JGFLR04c           DW USC GAL 130327 190118 FtS London Jet Kero USGC + HO Frontline Flat Prc Swap Qr04
+ULM JGMLP0100000c JGMLP01c           DW USC GAL 130327 190118 FtS London Jet Kero USGC vs HO Frontline Swap Mo01
+ULM JGMLP0200000c JGMLP02c           DW USC GAL 130327 190118 FtS London Jet Kero USGC vs HO Frontline Swap Mo02
+ULM JGMLP0300000c JGMLP03c           DW USC GAL 130327 190118 FtS London Jet Kero USGC vs HO Frontline Swap Mo03
+ULM JGMLP0400000c JGMLP04c           DW USC GAL 130327 190118 FtS London Jet Kero USGC vs HO Frontline Swap Mo04
+ULM JWTLP0100000c JWTLP01c           DW USC GAL 130402 160407 FtS London Jet Kero USWC vs HO Frontline Time Spread Swap Mo01/02
+ULM JWTLP0200000c JWTLP02c           DW USC GAL 130402 160407 FtS London Jet Kero USWC vs HO Frontline Time Spread Swap Mo02/03
+ULM JWTLP0300000c JWTLP03c           DW USC GAL 130402 160407 FtS London Jet Kero USWC vs HO Frontline Time Spread Swap Mo03/04
+ULM JWTLP0400000c JWTLP04c           DW USC GAL 130402 160407 FtS London Jet Kero USWC vs HO Frontline Time Spread Swap Mo04/05
+ULM JWTLP0500000c JWTLP05c           DW USC GAL 130402 160407 FtS London Jet Kero USWC vs HO Frontline Time Spread Swap Mo05/06
+ULM JWTLP0600000c JWTLP06c           DW USC GAL 130402 160407 FtS London Jet Kero USWC vs HO Frontline Time Spread Swap Mo06/07
+ULM JWTLP0700000c JWTLP07c           DW USC GAL 130402 160407 FtS London Jet Kero USWC vs HO Frontline Time Spread Swap Mo07/08
+ULM JWTLP0800000c JWTLP08c           DW USC GAL 130402 160407 FtS London Jet Kero USWC vs HO Frontline Time Spread Swap Mo08/09
+ULM JWTLP0900000c JWTLP09c           DW USC GAL 130402 160407 FtS London Jet Kero USWC vs HO Frontline Time Spread Swap Mo09/10
+ULM JWTLP1000000c JWTLP10c           DW USC GAL 130402 160407 FtS London Jet Kero USWC vs HO Frontline Time Spread Swap Mo10/11
+ULM JWTLP1100000c JWTLP11c           DW USC GAL 130402 160407 FtS London Jet Kero USWC vs HO Frontline Time Spread Swap Mo11/12
+ULM JWTLR0100000c JWTLR01c           DW USC GAL 130402 160407 FtS London Jet Kero USWC vs HO Frontline Time Spread Swap Qr01/02
+ULM JWTLR0200000c JWTLR02c           DW USC GAL 130402 160407 FtS London Jet Kero USWC vs HO Frontline Time Spread Swap Qr02/03
+ULM JWTLR0300000c JWTLR03c           DW USC GAL 130402 160407 FtS London Jet Kero USWC vs HO Frontline Time Spread Swap Qr03/04
+ULM JGMLP0500000c JGMLP05c           DW USC GAL 130327 190118 FtS London Jet Kero USGC vs HO Frontline Swap Mo05
+ULM JGMLP0600000c JGMLP06c           DW USC GAL 130327 190118 FtS London Jet Kero USGC vs HO Frontline Swap Mo06
+ULM JGMLP0700000c JGMLP07c           DW USC GAL 130327 190118 FtS London Jet Kero USGC vs HO Frontline Swap Mo07
+ULM JGMLP0800000c JGMLP08c           DW USC GAL 130327 190118 FtS London Jet Kero USGC vs HO Frontline Swap Mo08
+ULM JGMLP0900000c JGMLP09c           DW USC GAL 130327 190118 FtS London Jet Kero USGC vs HO Frontline Swap Mo09
+ULM JGMLP1000000c JGMLP10c           DW USC GAL 130327 190118 FtS London Jet Kero USGC vs HO Frontline Swap Mo10
+ULM JGMLP1100000c JGMLP11c           DW USC GAL 130327 190118 FtS London Jet Kero USGC vs HO Frontline Swap Mo11
+ULM JGMLP1200000c JGMLP12c           DW USC GAL 130327 190118 FtS London Jet Kero USGC vs HO Frontline Swap Mo12
+ULM JGMLR0100000c JGMLR01c           DW USC GAL 130327 190118 FtS London Jet Kero USGC vs HO Frontline Swap Qr01
+ULM JGMLR0200000c JGMLR02c           DW USC GAL 130327 190118 FtS London Jet Kero USGC vs HO Frontline Swap Qr02
+ULM JGMLR0300000c JGMLR03c           DW USC GAL 130327 190118 FtS London Jet Kero USGC vs HO Frontline Swap Qr03
+ULM JGMLR0400000c JGMLR04c           DW USC GAL 130327 190118 FtS London Jet Kero USGC vs HO Frontline Swap Qr04
+ULM JGTLP0100000c JGTLP01c           DW USC GAL 130327 190118 FtS London Jet Kero USGC + HO Frontline Time Spread Swap Mo01/02
+ULM JGTLP0200000c JGTLP02c           DW USC GAL 130327 190118 FtS London Jet Kero USGC + HO Frontline Time Spread Swap Mo02/03
+ULM JGTLP0300000c JGTLP03c           DW USC GAL 130327 190118 FtS London Jet Kero USGC + HO Frontline Time Spread Swap Mo03/04
+ULM JGTLP0400000c JGTLP04c           DW USC GAL 130327 190118 FtS London Jet Kero USGC + HO Frontline Time Spread Swap Mo04/05
+ULM JGTLP0500000c JGTLP05c           DW USC GAL 130327 190118 FtS London Jet Kero USGC + HO Frontline Time Spread Swap Mo05/06
+ULM JGTLP0600000c JGTLP06c           DW USC GAL 130327 190118 FtS London Jet Kero USGC + HO Frontline Time Spread Swap Mo06/07
+ULM JGTLP0700000c JGTLP07c           DW USC GAL 130327 190118 FtS London Jet Kero USGC + HO Frontline Time Spread Swap Mo07/08
+ULM JGTLP0800000c JGTLP08c           DW USC GAL 130327 190118 FtS London Jet Kero USGC + HO Frontline Time Spread Swap Mo08/09
+ULM JGTLP0900000c JGTLP09c           DW USC GAL 130327 190118 FtS London Jet Kero USGC + HO Frontline Time Spread Swap Mo09/10
+ULM JGTLP1000000c JGTLP10c           DW USC GAL 130327 190118 FtS London Jet Kero USGC + HO Frontline Time Spread Swap Mo10/11
+ULM JGTLP1100000c JGTLP11c           DW USC GAL 130327 190118 FtS London Jet Kero USGC + HO Frontline Time Spread Swap Mo11/12
+ULM JGTLR0100000c JGTLR01c           DW USC GAL 130327 190118 FtS London Jet Kero USGC + HO Frontline Time Spread Swap Qr01/02
+ULM JGTLR0200000c JGTLR02c           DW USC GAL 130327 190118 FtS London Jet Kero USGC + HO Frontline Time Spread Swap Qr02/03
+ULM JGTLR0300000c JGTLR03c           DW USC GAL 130327 190118 FtS London Jet Kero USGC + HO Frontline Time Spread Swap Qr03/04
+ULM UGFLP0100000c UGFLP01c           DW USC GAL 130327 190118 FtS London ULSD USGC + HO Frontline Flat Prc Swap Mo01
+ULM UGFLP0200000c UGFLP02c           DW USC GAL 130327 190118 FtS London ULSD USGC + HO Frontline Flat Prc Swap Mo02
+ULM UGFLP0300000c UGFLP03c           DW USC GAL 130327 190118 FtS London ULSD USGC + HO Frontline Flat Prc Swap Mo03
+ULM UGFLP0400000c UGFLP04c           DW USC GAL 130327 190118 FtS London ULSD USGC + HO Frontline Flat Prc Swap Mo04
+ULM UGFLP0500000c UGFLP05c           DW USC GAL 130327 190118 FtS London ULSD USGC + HO Frontline Flat Prc Swap Mo05
+ULM UGFLP0600000c UGFLP06c           DW USC GAL 130327 190118 FtS London ULSD USGC + HO Frontline Flat Prc Swap Mo06
+ULM UGFLP0700000c UGFLP07c           DW USC GAL 130327 190118 FtS London ULSD USGC + HO Frontline Flat Prc Swap Mo07
+ULM UGFLP0800000c UGFLP08c           DW USC GAL 130327 190118 FtS London ULSD USGC + HO Frontline Flat Prc Swap Mo08
+ULM UGFLP0900000c UGFLP09c           DW USC GAL 130327 190118 FtS London ULSD USGC + HO Frontline Flat Prc Swap Mo09
+ULM UGFLP1000000c UGFLP10c           DW USC GAL 130327 190118 FtS London ULSD USGC + HO Frontline Flat Prc Swap Mo10
+ULM UGFLP1100000c UGFLP11c           DW USC GAL 130327 190118 FtS London ULSD USGC + HO Frontline Flat Prc Swap Mo11
+ULM UGFLP1200000c UGFLP12c           DW USC GAL 130327 190118 FtS London ULSD USGC + HO Frontline Flat Prc Swap Mo12
+ULM UGFLR0100000c UGFLR01c           DW USC GAL 130327 190118 FtS London ULSD USGC + HO Frontline Flat Prc Swap Qr01
+ULM UGFLR0200000c UGFLR02c           DW USC GAL 130327 190118 FtS London ULSD USGC + HO Frontline Flat Prc Swap Qr02
+ULM UGFLR0300000c UGFLR03c           DW USC GAL 130327 190118 FtS London ULSD USGC + HO Frontline Flat Prc Swap Qr03
+ULM UGFLR0400000c UGFLR04c           DW USC GAL 130327 190118 FtS London ULSD USGC + HO Frontline Flat Prc Swap Qr04
+ULM UGMLP0100000c UGMLP01c           DW USC GAL 130327 190118 FtS London ULSD USGC vs HO Frontline Swap Mo01
+ULM UGMLP0200000c UGMLP02c           DW USC GAL 130327 190118 FtS London ULSD USGC vs HO Frontline Swap Mo02
+ULM UGMLP0300000c UGMLP03c           DW USC GAL 130327 190118 FtS London ULSD USGC vs HO Frontline Swap Mo03
+ULM UGMLP0400000c UGMLP04c           DW USC GAL 130327 190118 FtS London ULSD USGC vs HO Frontline Swap Mo04
+ULM UGMLP0500000c UGMLP05c           DW USC GAL 130327 190118 FtS London ULSD USGC vs HO Frontline Swap Mo05
+ULM UGMLP0600000c UGMLP06c           DW USC GAL 130327 190118 FtS London ULSD USGC vs HO Frontline Swap Mo06
+ULM UGMLP0700000c UGMLP07c           DW USC GAL 130327 190118 FtS London ULSD USGC vs HO Frontline Swap Mo07
+ULM UGMLP0800000c UGMLP08c           DW USC GAL 130327 190118 FtS London ULSD USGC vs HO Frontline Swap Mo08
+ULM UGMLP0900000c UGMLP09c           DW USC GAL 130327 190118 FtS London ULSD USGC vs HO Frontline Swap Mo09
+ULM UGMLP1000000c UGMLP10c           DW USC GAL 130327 190118 FtS London ULSD USGC vs HO Frontline Swap Mo10
+ULM UGMLP1100000c UGMLP11c           DW USC GAL 130327 190118 FtS London ULSD USGC vs HO Frontline Swap Mo11
+ULM UGMLP1200000c UGMLP12c           DW USC GAL 130327 190118 FtS London ULSD USGC vs HO Frontline Swap Mo12
+ULM UGMLR0100000c UGMLR01c           DW USC GAL 130327 190118 FtS London ULSD USGC vs HO Frontline Swap Qr01
+ULM UGMLR0200000c UGMLR02c           DW USC GAL 130327 190118 FtS London ULSD USGC vs HO Frontline Swap Qr02
+ULM UGMLR0300000c UGMLR03c           DW USC GAL 130327 190118 FtS London ULSD USGC vs HO Frontline Swap Qr03
+ULM UGMLR0400000c UGMLR04c           DW USC GAL 130327 190118 FtS London ULSD USGC vs HO Frontline Swap Qr04
+ULM UGTLP0100000c UGTLP01c           DW USC GAL 130327 190118 FtS London ULSD USGC + HO Frontline Time Spread Swap Mo01/02
+ULM UGTLP0200000c UGTLP02c           DW USC GAL 130327 190118 FtS London ULSD USGC + HO Frontline Time Spread Swap Mo02/03
+ULM UGTLP0300000c UGTLP03c           DW USC GAL 130327 190118 FtS London ULSD USGC + HO Frontline Time Spread Swap Mo03/04
+ULM UGTLP0400000c UGTLP04c           DW USC GAL 130327 190118 FtS London ULSD USGC + HO Frontline Time Spread Swap Mo04/05
+ULM UGTLP0500000c UGTLP05c           DW USC GAL 130327 190118 FtS London ULSD USGC + HO Frontline Time Spread Swap Mo05/06
+ULM UGTLP0600000c UGTLP06c           DW USC GAL 130327 190118 FtS London ULSD USGC + HO Frontline Time Spread Swap Mo06/07
+ULM UGTLP0700000c UGTLP07c           DW USC GAL 130327 190118 FtS London ULSD USGC + HO Frontline Time Spread Swap Mo07/08
+ULM UGTLP0800000c UGTLP08c           DW USC GAL 130327 190118 FtS London ULSD USGC + HO Frontline Time Spread Swap Mo08/09
+ULM UGTLP0900000c UGTLP09c           DW USC GAL 130327 190118 FtS London ULSD USGC + HO Frontline Time Spread Swap Mo09/10
+ULM UGTLP1000000c UGTLP10c           DW USC GAL 130327 190118 FtS London ULSD USGC + HO Frontline Time Spread Swap Mo10/11
+ULM UGTLP1100000c UGTLP11c           DW USC GAL 130327 190118 FtS London ULSD USGC + HO Frontline Time Spread Swap Mo11/12
+ULM UGTLR0100000c UGTLR01c           DW USC GAL 130327 190118 FtS London ULSD USGC + HO Frontline Time Spread Swap Qr01/02
+ULM UGTLR0200000c UGTLR02c           DW USC GAL 130327 190118 FtS London ULSD USGC + HO Frontline Time Spread Swap Qr02/03
+ULM UGTLR0300000c UGTLR03c           DW USC GAL 130327 190118 FtS London ULSD USGC + HO Frontline Time Spread Swap Qr03/04

@@ -1,0 +1,51 @@
+JPR                                                           © 2019 by S&P Global Inc.,190119
+JPR PJPAR0000000c PJPAR00c           DW JPY KL  161212 190118 RON89 Gasoline Tokyo Bay Rack
+JPR PJPAR0300000c PJPAR03c           MA JPY KL  161201 181201 RON89 Gasoline Tokyo Bay Rack MAvg
+JPR PJPAS0000000c PJPAS00c           DW JPY KL  161212 190118 Gasoil 10ppm Tokyo Bay Rack
+JPR PJPAS0300000c PJPAS03c           MA JPY KL  161201 181201 Gasoil 10ppm Tokyo Bay Rack MAvg
+JPR PJPAT0000000c PJPAT00c           DW JPY KL  161212 190118 Kerosene Tokyo Bay Rack
+JPR PJPAT0300000c PJPAT03c           MA JPY KL  161201 181201 Kerosene Tokyo Bay Rack MAvg
+JPR PJPAU0000000c PJPAU00c           DW JPY KL  161212 190118 Low Sulfur A-Fuel Oil 0.1% Tokyo Bay Rack
+JPR PJPAU0300000c PJPAU03c           MA JPY KL  161201 181201 Low Sulfur A-Fuel Oil 0.1% Tokyo Bay Rack MAvg
+JPR PJPAV0000000c PJPAV00c           DW JPY KL  161212 190118 High Sulfur A-Fuel Oil 1% Tokyo Bay Rack
+JPR PJPAV0300000c PJPAV03c           MA JPY KL  161201 181201 High Sulfur A-Fuel Oil 1% Tokyo Bay Rack MAvg
+JPR PJPBX0000000c PJPBX00c           DW JPY KL  161212 190118 RON89 Gasoline Kanagawa Rack
+JPR PJPBX0300000c PJPBX03c           MA JPY KL  161201 181201 RON89 Gasoline Kanagawa Rack MAvg
+JPR PJPBY0000000c PJPBY00c           DW JPY KL  161212 190118 RON89 Gasoline Chiba Rack
+JPR PJPBY0300000c PJPBY03c           MA JPY KL  161201 181201 RON89 Gasoline Chiba Rack MAvg
+JPR PJPBZ0000000c PJPBZ00c           DW JPY KL  161212 190118 Gasoil 10ppm Kanagawa Rack
+JPR PJPBZ0300000c PJPBZ03c           MA JPY KL  161201 181201 Gasoil 10ppm Kanagawa Rack MAvg
+JPR PJPCA0000000c PJPCA00c           DW JPY KL  161212 190118 Gasoil 10ppm Chiba Rack
+JPR PJPCA0300000c PJPCA03c           MA JPY KL  161201 181201 Gasoil 10ppm Chiba Rack MAvg
+JPR PJPCB0000000c PJPCB00c           DW JPY KL  161212 190118 Kerosene Kanagawa Rack
+JPR PJPCB0300000c PJPCB03c           MA JPY KL  161201 181201 Kerosene Kanagawa Rack MAvg
+JPR PJPCC0000000c PJPCC00c           DW JPY KL  161212 190118 Kerosene Chiba Rack
+JPR PJPCC0300000c PJPCC03c           MA JPY KL  161201 181201 Kerosene Chiba Rack MAvg
+JPR PJPCD0000000c PJPCD00c           DW JPY KL  161212 190118 High Sulfur A-Fuel Oil 1% Kanagawa Rack
+JPR PJPCD0300000c PJPCD03c           MA JPY KL  161201 181201 High Sulfur A-Fuel Oil 1% Kanagawa Rack MAvg
+JPR PJPCE0000000c PJPCE00c           DW JPY KL  161212 190118 High Sulfur A-Fuel Oil 1% Chiba Rack
+JPR PJPCE0300000c PJPCE03c           MA JPY KL  161201 181201 High Sulfur A-Fuel Oil 1% Chiba Rack MAvg
+JPR PJPCF0000000c PJPCF00c           DW JPY KL  161212 190118 Low Sulfur A-Fuel Oil 1% Kanagawa Rack
+JPR PJPCF0300000c PJPCF03c           MA JPY KL  161201 181201 Low Sulfur A-Fuel Oil 1% Kanagawa Rack MAvg
+JPR PJPCG0000000c PJPCG00c           DW JPY KL  161212 190118 Low Sulfur A-Fuel Oil 1% Chiba Rack
+JPR PJPCG0300000c PJPCG03c           MA JPY KL  161201 181201 Low Sulfur A-Fuel Oil 1% Chiba Rack MAvg
+JPR PJPCT0000000c PJPCT00c           DW JPY KL  171101 190118 RON89 Gasoline Chukyo Rack
+JPR PJPCT0300000c PJPCT03c           MA JPY KL  171101 181201 RON89 Gasoline Chukyo Rack MAvg
+JPR PJPCU0000000c PJPCU00c           DW JPY KL  171101 190118 RON89 Gasoline Hanshin Rack
+JPR PJPCU0300000c PJPCU03c           MA JPY KL  171101 181201 RON89 Gasoline Hanshin Rack MAvg
+JPR PJPCV0000000c PJPCV00c           DW JPY KL  171101 190118 Kerosene Chukyo Rack
+JPR PJPCV0300000c PJPCV03c           MA JPY KL  171101 181201 Kerosene Chukyo Rack MAvg
+JPR PJPCW0000000c PJPCW00c           DW JPY KL  171101 190118 Kerosene Hanshin Rack
+JPR PJPCW0300000c PJPCW03c           MA JPY KL  171101 181201 Kerosene Hanshin Rack MAvg
+JPR PJPCX0000000c PJPCX00c           DW JPY KL  171101 190118 Gasoil 10ppm Chukyo Rack
+JPR PJPCX0300000c PJPCX03c           MA JPY KL  171101 181201 Gasoil 10ppm Chukyo Rack MAvg
+JPR PJPCY0000000c PJPCY00c           DW JPY KL  171101 190118 Gasoil 10ppm Hanshin Rack
+JPR PJPCY0300000c PJPCY03c           MA JPY KL  171101 181201 Gasoil 10ppm Hanshin Rack MAvg
+JPR PJPCZ0000000c PJPCZ00c           DW JPY KL  171101 190118 Low Sulfur A-Fuel Oil 0.1% Chukyo Rack
+JPR PJPCZ0300000c PJPCZ03c           MA JPY KL  171101 181201 Low Sulfur A-Fuel Oil 0.1% Chukyo Rack MAvg
+JPR PJPDA0000000c PJPDA00c           DW JPY KL  171101 190118 Low Sulfur A-Fuel Oil 0.1% Hanshin Rack
+JPR PJPDA0300000c PJPDA03c           MA JPY KL  171101 181201 Low Sulfur A-Fuel Oil 0.1% Hanshin Rack MAvg
+JPR PJPDB0000000c PJPDB00c           DW JPY KL  171101 190118 High Sulfur A-Fuel Oil 1% Chukyo Rack
+JPR PJPDB0300000c PJPDB03c           MA JPY KL  171101 181201 High Sulfur A-Fuel Oil 1% Chukyo Rack MAvg
+JPR PJPDC0000000c PJPDC00c           DW JPY KL  171101 190118 High Sulfur A-Fuel Oil 1% Hanshin Rack
+JPR PJPDC0300000c PJPDC03c           MA JPY KL  171101 181201 High Sulfur A-Fuel Oil 1% Hanshin Rack MAvg

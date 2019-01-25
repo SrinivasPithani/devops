@@ -1,0 +1,66 @@
+NQ                                                           © 2019 by S&P Global Inc.,190119
+NQ FNABD0000000u FNABD00u           WA USD BBL 020104 190111 Arab Heavy Italy Cracking Netback WAvg
+NQ FNACB0000000u FNACB00u           WA USD BBL 020104 190111 Arab Light Italy Cracking Netback WAvg
+NQ FNADH0000000u FNADH00u           WA USD BBL 020104 190111 Arab Medium Italy Cracking Netback WAvg
+NQ FNAEF0000000u FNAEF00u           WA USD BBL 020104 190111 Azeri Light Italy Cracking Netback Wavg
+NQ FNAFX0000000u FNAFX00u           WA USD BBL 020104 190111 Basrah Light Italy Cracking Netback WAvg
+NQ FNAKD0000000u FNAKD00u           WA USD BBL 020104 190111 Es Sider Italy Cracking Netback WAvg
+NQ FNALZ0000000u FNALZ00u           WA USD BBL 020104 190111 Iran Heavy Italy Cracking Netback WAvg
+NQ FNAMH0000000u FNAMH00u           WA USD BBL 020104 190111 Iran Light Italy Cracking Netback WAvg
+NQ FNAMU0000000u FNAMU00u           WA USD BBL 020308 190111 Kirkuk Italy Cracking Netback Wavg
+NQ FNARO0000000u FNARO00u           WA USD BBL 020308 190111 Saharan Blend Italy Cracking Netback WAvg
+NQ FNATR0000000u FNATR00u           WA USD BBL 020104 190111 Urals Italy Cracking Netback WAvg
+NQ FNAUL0000000u FNAUL00u           WA USD BBL 020104 190111 Zueitina Italy Cracking Netback WAvg
+NQ FNAUO0000000u FNAUO00u           WA USD BBL 020419 190111 Suez Blend Italy Cracking Netback Wavg
+NQ FNAVN0000000u FNAVN00u           WA USD BBL 130503 190111 CPC Bld Italy Crk Netbk WAvg
+NQ TNALZ0000000u TNALZ00u           DW USD BBL 020102 190118 Iran Heavy Italy Cracking Netback
+NQ TNALZ0300000u TNALZ03u           MA USD BBL 020101 181201 Iran Heavy Italy Cracking Netback MAvg
+NQ TNALZMR00000c TNALZMRc           DW USD BBL 130501 190118 Iran Heavy Italy Cracking Netback Margin
+NQ TNAMH0000000u TNAMH00u           DW USD BBL 020102 190118 Iran Light Italy Cracking Netback
+NQ TNAMH0300000u TNAMH03u           MA USD BBL 020101 181201 Iran Light Italy Cracking Netback MAvg
+NQ TNAMHMR00000c TNAMHMRc           DW USD BBL 130501 190118 Iran Light Italy Cracking Netback Margin
+NQ TNAMU0000000u TNAMU00u           DW USD BBL 020301 190118 Kirkuk Italy Cracking Netback
+NQ TNAMU0300000u TNAMU03u           MA USD BBL 020301 181201 Kirkuk Italy Cracking Netback MAvg
+NQ TNAMUMR00000c TNAMUMRc           DW USD BBL 130501 190118 Kirkuk Italy Cracking Netback Margin
+NQ TNARO0000000u TNARO00u           DW USD BBL 020304 190118 Saharan Blend Italy Cracking Netback
+NQ TNARO0300000u TNARO03u           MA USD BBL 020301 181201 Saharan Blend Italy Cracking Netback MAvg
+NQ TNAROMR00000c TNAROMRc           DW USD BBL 130501 190118 Saharan Blend Italy Cracking Netback Margin
+NQ TNATR0000000u TNATR00u           DW USD BBL 020102 190118 Urals Italy Cracking Netback
+NQ TNATR0300000u TNATR03u           MA USD BBL 020101 181201 Urals Italy Cracking Netback MAvg
+NQ TNATRMR00000c TNATRMRc           DW USD BBL 130501 190118 Urals Italy Cracking Netback Margin
+NQ TDEAFMR00000c TDEAFMRc           DW USD BBL 160701 190118 Light Houston Sweet Italy Cracking Margin
+NQ TDWFRMR00000c TDWFRMRc           DW USD BBL 160701 190118 WCS Italy Coking Margin
+NQ TNABD0000000u TNABD00u           DW USD BBL 020102 190118 Arab Heavy Italy Cracking Netback
+NQ TNABD0300000u TNABD03u           MA USD BBL 020101 181201 Arab Heavy Italy Cracking Netback MAvg
+NQ TNABDMR00000c TNABDMRc           DW USD BBL 130425 190118 Arab Heavy Italy Cracking Netback Margin
+NQ TNACB0000000u TNACB00u           DW USD BBL 020102 190118 Arab Light Italy Cracking Netback
+NQ TNACB0300000u TNACB03u           MA USD BBL 020101 181201 Arab Light Italy Cracking Netback MAvg
+NQ TNACBMR00000c TNACBMRc           DW USD BBL 130425 190118 Arab Light Italy Cracking Netback Margin
+NQ TNADH0000000u TNADH00u           DW USD BBL 020102 190118 Arab Medium Italy Cracking Netback
+NQ TNADH0300000u TNADH03u           MA USD BBL 020101 181201 Arab Medium Italy Cracking Netback MAvg
+NQ TNADHMR00000c TNADHMRc           DW USD BBL 130425 190118 Arab Medium Italy Cracking Netback Margin
+NQ TNAEF0000000u TNAEF00u           DW USD BBL 020102 190118 Azeri Light Italy Cracking Netback
+NQ TNAEF0300000u TNAEF03u           MA USD BBL 020101 181201 Azeri Light Italy Cracking Netback MAvg
+NQ TNAEFMR00000c TNAEFMRc           DW USD BBL 130501 190118 Azeri Light Italy Cracking Netback Margin
+NQ TNAFX0000000u TNAFX00u           DW USD BBL 020102 190118 Basrah Light Italy Cracking Netback
+NQ TNAFX0300000u TNAFX03u           MA USD BBL 020101 181201 Basrah Light Italy Cracking Netback MAvg
+NQ TNAFXMR00000c TNAFXMRc           DW USD BBL 130501 190118 Basrah Light Italy Cracking Netback Margin
+NQ TNAKD0000000u TNAKD00u           DW USD BBL 020102 190118 Es Sider Italy Cracking Netback
+NQ TNAKD0300000u TNAKD03u           MA USD BBL 020101 181201 Es Sider Italy Cracking Netback MAvg
+NQ TNAKDMR00000c TNAKDMRc           DW USD BBL 130501 190118 Es Sider Italy Cracking Netback Margin
+NQ TNAUL0000000u TNAUL00u           DW USD BBL 020102 190118 Zueitina Italy Cracking Netback
+NQ TNAUL0300000u TNAUL03u           MA USD BBL 020101 181201 Zueitina Italy Cracking Netback MAvg
+NQ TNAULMR00000c TNAULMRc           DW USD BBL 130501 190118 Zueitina Italy Cracking Netback Margin
+NQ TNAUO0000000u TNAUO00u           DW USD BBL 020415 190118 Suez Blend Italy Cracking Netback
+NQ TNAUO0300000u TNAUO03u           MA USD BBL 020501 181201 Suez Blend Italy Crackinging Netback
+NQ TNAUOMR00000c TNAUOMRc           DW USD BBL 130501 190118 Suez Blend Italy Cracking Netback Margin
+NQ TNAVN0000000u TNAVN00u           DW USD BBL 130501 190118 CPC Blend Italy Cracking Netback
+NQ TNAVN0300000u TNAVN03u           MA USD BBL 130501 181201 CPC Blend Italy Cracking Netback MAvg
+NQ TNAVNMR00000c TNAVNMRc           DW USD BBL 130501 190118 CPC Blend Italy Cracking Netback Margin
+NQ TNEAC0000000c TNEAC00c           DW USD BBL 160701 190118 Eagle Ford Italy Cracking Netback
+NQ TNEAC0400000c TNEAC04c           WA USD BBL 160708 190111 Eagle Ford Italy Cracking Netback WAvg
+NQ TNEACMR00000c TNEACMRc           DW USD BBL 160701 190118 Eagle Ford Italy Cracking Margin
+NQ TNEAE0400000c TNEAE04c           WA USD BBL 160708 190111 Light Houston Sweet Italy Cracking Netback WAvg
+NQ TNEAF0000000c TNEAF00c           DW USD BBL 160701 190118 Light Houston Sweet Italy Cracking Netback
+NQ TNEAI0000000c TNEAI00c           DW USD BBL 160701 190118 WCS Italy Coking Netback
+NQ TNEAI0400000c TNEAI04c           WA USD BBL 160708 190111 WCS Italy Coking Netback WAvg

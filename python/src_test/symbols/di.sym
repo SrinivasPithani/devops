@@ -1,0 +1,55 @@
+DI                                                           © 2019 by S&P Global Inc.,190119
+DI DSWM00100000u DSWM001u           ID USD BBL 111101 190118 Dubai Mo01 Swap Intraday Indication
+DI DSWM00200000u DSWM002u           ID USD BBL 111101 190118 Dubai Mo02 Swap Intraday Indication
+DI DSWM00300000u DSWM003u           ID USD BBL 111101 190118 Dubai Mo03 Swap Intraday Indication
+DI F3BM00100000u F3BM001u           ID USD MT  111101 190118 FO 380 CST Mo01 Brent Crack Swap Intraday Indication
+DI F3BM00200000u F3BM002u           ID USD MT  111101 190118 FO 380 CST Mo02 Brent Crack Swap Intraday Indication
+DI F3BM00300000u F3BM003u           ID USD MT  111101 190118 FO 380 CST Mo03 Brent Crack Swap Intraday Indication
+DI F3DM00100000u F3DM001u           ID USD MT  111101 190118 FO 380 CST Mo01 Dubai Crack Swap Intraday Indication
+DI F3DM00200000u F3DM002u           ID USD MT  111101 190118 FO 380 CST Mo02 Dubai Crack Swap Intraday Indication
+DI F3DM00300000u F3DM003u           ID USD MT  111101 190118 FO 380 CST Mo03 Dubai Crack Swap Intraday Indication
+DI F1BM00100000u F1BM001u           ID USD MT  111101 190118 FO 180 CST Mo01 Brent Crack Swap Intraday Indication
+DI F1BM00200000u F1BM002u           ID USD MT  111101 190118 FO 180 CST Mo02 Brent Crack Swap Intraday Indication
+DI F1BM00300000u F1BM003u           ID USD MT  111101 190118 FO 180 CST Mo03 Brent Crack Swap Intraday Indication
+DI F1DM00100000u F1DM001u           ID USD MT  111101 190118 FO 180 CST Mo01 Dubai Crack Swap Intraday Indication
+DI F1DM00200000u F1DM002u           ID USD MT  111101 190118 FO 180 CST Mo02 Dubai Crack Swap Intraday Indication
+DI F1DM00300000u F1DM003u           ID USD MT  111101 190118 FO 180 CST Mo03 Dubai Crack Swap Intraday Indication
+DI GSWM00100000u GSWM001u           ID USD BBL 111101 190118 Gasoil Mo01 Swap Intraday Indication
+DI GSWM00200000u GSWM002u           ID USD BBL 111101 190118 Gasoil Mo02 Swap Intraday Indication
+DI GSWM00300000u GSWM003u           ID USD BBL 111101 190118 Gasoil Mo03 Swap Intraday Indication
+DI GDUM00100000u GDUM001u           ID USD MT  111101 190118 Gasoil Mo01 Dubai Crack Swap Intraday Indication
+DI GDUM00200000u GDUM002u           ID USD MT  111101 190118 Gasoil Mo02 Dubai Crack Swap Intraday Indication
+DI GDUM00300000u GDUM003u           ID USD MT  111101 190118 Gasoil Mo03 Dubai Crack Swap Intraday Indication
+DI FO1M00100000u FO1M001u           ID USD MT  111101 190118 FO 180 CST Mo01 Swap Intraday Indication
+DI FO1M00200000u FO1M002u           ID USD MT  111101 190118 FO 180 CST Mo02 Swap Intraday Indication
+DI FO1M00300000u FO1M003u           ID USD MT  111101 190118 FO 180 CST Mo03 Swap Intraday Indication
+DI FO3M00100000u FO3M001u           ID USD MT  111101 190118 FO 380 CST Mo01 Swap Intraday Indication
+DI FO3M00200000u FO3M002u           ID USD MT  111101 190118 FO 380 CST Mo02 Swap Intraday Indication
+DI FO3M00300000u FO3M003u           ID USD MT  111101 190118 FO 380 CST Mo03 Swap Intraday Indication
+DI GBRM00100000u GBRM001u           ID USD MT  111101 190118 Gasoil Mo01 Brent Crack Swap Intraday Indication
+DI GBRM00200000u GBRM002u           ID USD MT  111101 190118 Gasoil Mo02 Brent Crack Swap Intraday Indication
+DI GBRM00300000u GBRM003u           ID USD MT  111101 190118 Gasoil Mo03 Brent Crack Swap Intraday Indication
+DI GWTM00100000u GWTM001u           ID USD BBL 111101 190118 Globex WTI Mo01 Futures Intraday Indication
+DI GWTM00200000u GWTM002u           ID USD BBL 111101 190118 Globex WTI Mo02 Futures Intraday Indication
+DI GWTM00300000u GWTM003u           ID USD BBL 111101 190118 Globex WTI Mo03 Futures Intraday Indication
+DI IBRM00100000u IBRM001u           ID USD BBL 111101 190118 ICE Brent Mo01 Futures Intraday Indication
+DI IBRM00200000u IBRM002u           ID USD BBL 111101 190118 ICE Brent Mo02 Futures Intraday Indication
+DI IBRM00300000u IBRM003u           ID USD BBL 111101 190118 ICE Brent Mo03 Futures Intraday Indication
+DI JKSM00100000u JKSM001u           ID USD BBL 111101 190118 Jet Kero Mo01 Swap Intraday Indication
+DI JKSM00200000u JKSM002u           ID USD BBL 111101 190118 Jet Kero Mo02 Swap Intraday Indication
+DI JKSM00300000u JKSM003u           ID USD BBL 111101 190118 Jet Kero Mo03 Swap Intraday Indication
+DI JBRM00100000u JBRM001u           ID USD MT  111101 190118 Jet Kero Mo01 Brent Crack Swap Intraday Indication
+DI JBRM00200000u JBRM002u           ID USD MT  111101 190118 Jet Kero Mo02 Brent Crack Swap Intraday Indication
+DI JBRM00300000u JBRM003u           ID USD MT  111101 190118 Jet Kero Mo03 Brent Crack Swap Intraday Indication
+DI JDUM00100000u JDUM001u           ID USD MT  111101 190118 Jet Kero Mo01 Dubai Crack Swap Intraday Indication
+DI JDUM00200000u JDUM002u           ID USD MT  111101 190118 Jet Kero Mo02 Dubai Crack Swap Intraday Indication
+DI JDUM00300000u JDUM003u           ID USD MT  111101 190118 Jet Kero Mo03 Dubai Crack Swap Intraday Indication
+DI NBRM00100000u NBRM001u           ID USD MT  111101 190118 Naphtha Mo01 Brent Crack Swap Intraday Indication
+DI NBRM00200000u NBRM002u           ID USD MT  111101 190118 Naphtha Mo02 Brent Crack Swap Intraday Indication
+DI NBRM00300000u NBRM003u           ID USD MT  111101 190118 Naphtha Mo03 Brent Crack Swap Intraday Indication
+DI NDUM00100000u NDUM001u           ID USD MT  111101 190118 Naphtha Mo01 Dubai Crack Swap Intraday Indication
+DI NDUM00200000u NDUM002u           ID USD MT  111101 190118 Naphtha Mo02 Dubai Crack Swap Intraday Indication
+DI NDUM00300000u NDUM003u           ID USD MT  111101 190118 Naphtha Mo03 Dubai Crack Swap Intraday Indication
+DI NSWM00100000u NSWM001u           ID USD BBL 111101 190118 Naphtha Mo01 Swap Intraday Indication
+DI NSWM00200000u NSWM002u           ID USD BBL 111101 190118 Naphtha Mo02 Swap Intraday Indication
+DI NSWM00300000u NSWM003u           ID USD BBL 111101 190118 Naphtha Mo03 Swap Intraday Indication

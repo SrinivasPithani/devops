@@ -1,0 +1,442 @@
+AY                                                           © 2019 by S&P Global Inc.,190119
+AY AI0010100000u AI00101u           MA N/A NT  050101 181001 AISI Alloy Bars Hot Rolled Exp US Shipmts Mthly
+AY AI0010200000u AI00102u           MA N/A NT  050101 181001 AISI Alloy Bars Hot Rolled Less Ship To Rptco US Shipmts Mthly
+AY AI0010300000u AI00103u           MA N/A NT  950101 181001 AISI Alloy Bars Hot Rolled MTD Gross US Shipmts Mthly
+AY AI0010400000u AI00104u           MA N/A NT                AISI Alloy Bars Reinforcing Exp US Shipmts Mthly
+AY AI0010500000u AI00105u           MA N/A NT                AISI Alloy Bars Reinforcing Less Ship To Rptco US Shipmts Mthly
+AY AI0010600000u AI00106u           MA N/A NT                AISI Alloy Bars Reinforcing MTD Gross US Shipmts Mthly
+AY AI0010700000u AI00107u           MA N/A NT                AISI Alloy Bar Size Light Shapes Exp US Shipmts Mthly
+AY AI0010800000u AI00108u           MA N/A NT                AISI Alloy Bar Size Light Shapes Less Ship To Rptco US Shipmts Mthly
+AY AI0010900000u AI00109u           MA N/A NT                AISI Alloy Bar Size Light Shapes MTD Gross US Shipmts Mthly
+AY AI0011000000u AI00110u           MA N/A NT                AISI Alloy Black Plate Exp US Shipmts Mthly
+AY AI0011100000u AI00111u           MA N/A NT                AISI Alloy Black Plate Less Ship To Rptco US Shipmts Mthly
+AY AI0011200000u AI00112u           MA N/A NT                AISI Alloy Black Plate MTD Gross US Shipmts Mthly
+AY AI0011300000u AI00113u           MA N/A NT  050101 180601 AISI Alloy Blooms&Slabs Exp US Shipmts Mthly
+AY AI0011400000u AI00114u           MA N/A NT  050101 151001 AISI Alloy Blooms&Slabs Less Ship To Rptco US Shipmts Mthly
+AY AI0011500000u AI00115u           MA N/A NT  950101 181001 AISI Alloy Blooms&Slabs MTD Gross US Shipmts Mthly
+AY AI0011600000u AI00116u           MA N/A NT  050101 181001 AISI Alloy Cold Finished Bars Exp US Shipmts Mthly
+AY AI0011700000u AI00117u           MA N/A NT                AISI Alloy Cold Finished Bars Less Ship To Rptco US Shipmts Mthly
+AY AI0011800000u AI00118u           MA N/A NT  950101 181001 AISI Alloy Cold Finished Bars MTD Gross US Shipmts Mthly
+AY AI0011900000u AI00119u           MA N/A NT                AISI Alloy Cold Rolled Sheets Exp US Shipmts Mthly
+AY AI0012000000u AI00120u           MA N/A NT                AISI Alloy Cold Rolled Sheets Less Ship To Rptco US Shipmts Mthly
+AY AI0012100000u AI00121u           MA N/A NT  950101 951201 AISI Alloy Cold Rolled Sheets MTD Gross US Shipmts Mthly
+AY AI0012200000u AI00122u           MA N/A NT  050101 120201 AISI Alloy Electrical Sheet Exp US Shipmts Mthly
+AY AI0012300000u AI00123u           MA N/A NT  050201 060701 AISI Alloy Electrical Sheet Less Ship To Rptco US Shipmts Mthly
+AY AI0012400000u AI00124u           MA N/A NT  950101 120201 AISI Alloy Electrical Sheet MTD Gross US Shipmts Mthly
+AY AI0012500000u AI00125u           MA N/A NT                AISI Alloy Galvanized Electrolytic Exp US Shipmts Mthly
+AY AI0012600000u AI00126u           MA N/A NT                AISI Alloy Galvanized Electrolytic Less Ship To Rptco US Shipmts Mthly
+AY AI0012700000u AI00127u           MA N/A NT                AISI Alloy Galvanized Electrolytic MTD Gross US Shipmts Mthly
+AY AI0012800000u AI00128u           MA N/A NT                AISI Alloy Galvanized Hd Exp US Shipmts Mthly
+AY AI0012900000u AI00129u           MA N/A NT                AISI Alloy Galvanized Hd Less Ship To Rptco US Shipmts Mthly
+AY AI0013000000u AI00130u           MA N/A NT                AISI Alloy Galvanized Hd MTD Gross US Shipmts Mthly
+AY AI0013100000u AI00131u           MA N/A NT  050101 181001 AISI Alloy Hot Rolled Sheets Exp US Shipmts Mthly
+AY AI0013200000u AI00132u           MA N/A NT  050101 170901 AISI Alloy Hot Rolled Sheets Less Ship To Rptco US Shipmts Mthly
+AY AI0013300000u AI00133u           MA N/A NT  950101 181001 AISI Alloy Hot Rolled Sheets MTD Gross US Shipmts Mthly
+AY AI0013400000u AI00134u           MA N/A NT  050301 090101 AISI Alloy Ingots Exp US Shipmts Mthly
+AY AI0013500000u AI00135u           MA N/A NT  100601 100601 AISI Alloy Ingots Less Ship To Rptco US Shipmts Mthly
+AY AI0013600000u AI00136u           MA N/A NT  950101 181001 AISI Alloy Ingots MTD Gross US Shipmts Mthly
+AY AI0013700000u AI00137u           MA N/A NT                AISI Alloy Line Pipe Exp US Shipmts Mthly
+AY AI0013800000u AI00138u           MA N/A NT                AISI Alloy Line Pipe Less Ship To Rptco US Shipmts Mthly
+AY AI0013900000u AI00139u           MA N/A NT                AISI Alloy Line Pipe MTD Gross US Shipmts Mthly
+AY AI0014000000u AI00140u           MA N/A NT  050101 181001 AISI Alloy Mechanical Tubing Exp US Shipmts Mthly
+AY AI0014100000u AI00141u           MA N/A NT  120501 120601 AISI Alloy Mechanical Tubing Less Ship To Rptco US Shipmts Mthly
+AY AI0014200000u AI00142u           MA N/A NT  950101 181001 AISI Alloy Mechanical Tubing MTD Gross US Shipmts Mthly
+AY AI0014300000u AI00143u           MA N/A NT  050101 180901 AISI Alloy Oil Country Goods Exp US Shipmts Mthly
+AY AI0014400000u AI00144u           MA N/A NT  071101 071201 AISI Alloy Oil Country Goods Less Ship To Rptco US Shipmts Mthly
+AY AI0014500000u AI00145u           MA N/A NT  950101 181001 AISI Alloy Oil Country Goods MTD Gross US Shipmts Mthly
+AY AI0014600000u AI00146u           MA N/A NT                AISI Alloy Pipe&Tubing Nonclassified Exp US Shipmts Mthly
+AY AI0014700000u AI00147u           MA N/A NT                AISI Alloy Pipe&Tubing Nonclassified Less Ship To Rptco US Shipmts Mthly
+AY AI0014800000u AI00148u           MA N/A NT                AISI Alloy Pipe&Tubing Nonclassified MTD Gross US Shipmts Mthly
+AY AI0014900000u AI00149u           MA N/A NT                AISI Alloy Pipe For Piling Exp US Shipmts Mthly
+AY AI0015000000u AI00150u           MA N/A NT                AISI Alloy Pipe For Piling Less Ship To Rptco US Shipmts Mthly
+AY AI0015100000u AI00151u           MA N/A NT                AISI Alloy Pipe For Piling MTD Gross US Shipmts Mthly
+AY AI0015200000u AI00152u           MA N/A NT                AISI Alloy Plates Stainless Exp US Shipmts Mthly
+AY AI0015300000u AI00153u           MA N/A NT                AISI Alloy Plates Stainless Less Ship To Rptco US Shipmts Mthly
+AY AI0015400000u AI00154u           MA N/A NT                AISI Alloy Plates Stainless MTD Gross US Shipmts Mthly
+AY AI0015500000u AI00155u           MA N/A NT  050101 181001 AISI Alloy Plates Cut Length Exp US Shipmts Mthly
+AY AI0015600000u AI00156u           MA N/A NT  110401 180701 AISI Alloy Plates Cut Length Less Ship To Rptco US Shipmts Mthly
+AY AI0015700000u AI00157u           MA N/A NT  950101 181001 AISI Alloy Plates Cut Length MTD Gross US Shipmts Mthly
+AY AI0015800000u AI00158u           MA N/A NT                AISI Alloy Plates In Coils Exp US Shipmts Mthly
+AY AI0015900000u AI00159u           MA N/A NT                AISI Alloy Plates In Coils Less Ship To Rptco US Shipmts Mthly
+AY AI0016000000u AI00160u           MA N/A NT  950101 981201 AISI Alloy Plates In Coils MTD Gross US Shipmts Mthly
+AY AI0016100000u AI00161u           MA N/A NT                AISI Alloy Pressure Tubing Exp US Shipmts Mthly
+AY AI0016200000u AI00162u           MA N/A NT                AISI Alloy Pressure Tubing Less Ship To Rptco US Shipmts Mthly
+AY AI0016300000u AI00163u           MA N/A NT  950101 011201 AISI Alloy Pressure Tubing MTD Gross US Shipmts Mthly
+AY AI0016400000u AI00164u           MA N/A NT                AISI Alloy Rails Accessories Exp US Shipmts Mthly
+AY AI0016500000u AI00165u           MA N/A NT                AISI Alloy Rails Accessories Less Ship To Rptco US Shipmts Mthly
+AY AI0016600000u AI00166u           MA N/A NT                AISI Alloy Rails Accessories MTD Gross US Shipmts Mthly
+AY AI0016700000u AI00167u           MA N/A NT                AISI Alloy Rails All Oth Exp US Shipmts Mthly
+AY AI0016800000u AI00168u           MA N/A NT                AISI Alloy Rails All Oth Less Ship To Rptco US Shipmts Mthly
+AY AI0016900000u AI00169u           MA N/A NT                AISI Alloy Rails All Oth MTD Gross US Shipmts Mthly
+AY AI0017000000u AI00170u           MA N/A NT                AISI Alloy RailsStandard Exp US Shipmts Mthly
+AY AI0017100000u AI00171u           MA N/A NT                AISI Alloy RailsStandard Less Ship To Rptco US Shipmts Mthly
+AY AI0017200000u AI00172u           MA N/A NT                AISI Alloy RailsStandard MTD Gross US Shipmts Mthly
+AY AI0017300000u AI00173u           MA N/A NT                AISI Alloy Semi-Finished Exp US Shipmts Mthly
+AY AI0017400000u AI00174u           MA N/A NT                AISI Alloy Semi-Finished Less Ship To Rptco US Shipmts Mthly
+AY AI0017500000u AI00175u           MA N/A NT                AISI Alloy Semi-Finished MTD Gross US Shipmts Mthly
+AY AI0017600000u AI00176u           MA N/A NT                AISI Alloy Sheets All Oth Metallic Coatings Exp US Shipmts Mthly
+AY AI0017700000u AI00177u           MA N/A NT                AISI Alloy Sheets All Oth Metallic Coatings Less Ship To Rptco US Shipmts Mthly
+AY AI0017800000u AI00178u           MA N/A NT                AISI Alloy Sheets All Oth Metallic Coatings MTD Gross US Shipmts Mthly
+AY AI0017900000u AI00179u           MA N/A NT                AISI Alloy Stainless Pipe&Tube Seamless Exp US Shipmts Mthly
+AY AI0018000000u AI00180u           MA N/A NT                AISI Alloy Stainless Pipe&Tube Seamless Less Ship To Rptco US Shipmts Mthly
+AY AI0018100000u AI00181u           MA N/A NT                AISI Alloy Stainless Pipe&Tube Seamless MTD Gross US Shipmts Mthly
+AY AI0018200000u AI00182u           MA N/A NT                AISI Alloy Stainless Pipe&Tube Welded Exp US Shipmts Mthly
+AY AI0018300000u AI00183u           MA N/A NT                AISI Alloy Stainless Pipe&Tube Welded Less Ship To Rptco US Shipmts Mthly
+AY AI0018400000u AI00184u           MA N/A NT                AISI Alloy Stainless Pipe&Tube Welded MTD Gross US Shipmts Mthly
+AY AI0018500000u AI00185u           MA N/A NT                AISI Alloy Stainless Pipe&Tubing Exp US Shipmts Mthly
+AY AI0018600000u AI00186u           MA N/A NT                AISI Alloy Stainless Pipe&Tubing Less Ship To Rptco US Shipmts Mthly
+AY AI0018700000u AI00187u           MA N/A NT                AISI Alloy Stainless Pipe&Tubing MTD Gross US Shipmts Mthly
+AY AI0018800000u AI00188u           MA N/A NT                AISI Alloy Standard Pipe Exp US Shipmts Mthly
+AY AI0018900000u AI00189u           MA N/A NT                AISI Alloy Standard Pipe Less Ship To Rptco US Shipmts Mthly
+AY AI0019000000u AI00190u           MA N/A NT  950101 951201 AISI Alloy Standard Pipe MTD Gross US Shipmts Mthly
+AY AI0019100000u AI00191u           MA N/A NT                AISI Alloy Steel Piling Exp US Shipmts Mthly
+AY AI0019200000u AI00192u           MA N/A NT                AISI Alloy Steel Piling Less Ship To Rptco US Shipmts Mthly
+AY AI0019300000u AI00193u           MA N/A NT                AISI Alloy Steel Piling MTD Gross US Shipmts Mthly
+AY AI0019400000u AI00194u           MA N/A NT  050101 181001 AISI Alloy Strip Cold Rolled Exp US Shipmts Mthly
+AY AI0019500000u AI00195u           MA N/A NT  160101 160101 AISI Alloy Strip Cold Rolled Less Ship To Rptco US Shipmts Mthly
+AY AI0019600000u AI00196u           MA N/A NT  950101 181001 AISI Alloy Strip Cold Rolled MTD Gross US Shipmts Mthly
+AY AI0019700000u AI00197u           MA N/A NT                AISI Alloy Strip Hot Rolled Exp US Shipmts Mthly
+AY AI0019800000u AI00198u           MA N/A NT                AISI Alloy Strip Hot Rolled Less Ship To Rptco US Shipmts Mthly
+AY AI0019900000u AI00199u           MA N/A NT  950101 971201 AISI Alloy Strip Hot Rolled MTD Gross US Shipmts Mthly
+AY AI0020000000u AI00200u           MA N/A NT                AISI Alloy Structural Pipe&Tube Exp US Shipmts Mthly
+AY AI0020100000u AI00201u           MA N/A NT                AISI Alloy Structural Pipe&Tube Less Ship To Rptco US Shipmts Mthly
+AY AI0020200000u AI00202u           MA N/A NT                AISI Alloy Structural Pipe&Tube MTD Gross US Shipmts Mthly
+AY AI0020300000u AI00203u           MA N/A NT                AISI Alloy Structural Shapes Exp US Shipmts Mthly
+AY AI0020400000u AI00204u           MA N/A NT                AISI Alloy Structural Shapes Less Ship To Rptco US Shipmts Mthly
+AY AI0020500000u AI00205u           MA N/A NT  950101 971201 AISI Alloy Structural Shapes MTD Gross US Shipmts Mthly
+AY AI0020600000u AI00206u           MA N/A NT                AISI Alloy Tin Coated Sheets Exp US Shipmts Mthly
+AY AI0020700000u AI00207u           MA N/A NT                AISI Alloy Tin Coated Sheets Less Ship To Rptco US Shipmts Mthly
+AY AI0020800000u AI00208u           MA N/A NT                AISI Alloy Tin Coated Sheets MTD Gross US Shipmts Mthly
+AY AI0020900000u AI00209u           MA N/A NT                AISI Alloy Tin Free Steel Exp US Shipmts Mthly
+AY AI0021000000u AI00210u           MA N/A NT                AISI Alloy Tin Free Steel Less Ship To Rptco US Shipmts Mthly
+AY AI0021100000u AI00211u           MA N/A NT                AISI Alloy Tin Free Steel MTD Gross US Shipmts Mthly
+AY AI0021200000u AI00212u           MA N/A NT                AISI Alloy Tin Plate Exp US Shipmts Mthly
+AY AI0021300000u AI00213u           MA N/A NT                AISI Alloy Tin Plate Less Ship To Rptco US Shipmts Mthly
+AY AI0021400000u AI00214u           MA N/A NT                AISI Alloy Tin Plate MTD Gross US Shipmts Mthly
+AY AI0021500000u AI00215u           MA N/A NT  050101 111201 AISI Alloy Tool Steel Exp US Shipmts Mthly
+AY AI0021600000u AI00216u           MA N/A NT  050101 111201 AISI Alloy Tool Steel Less Ship To Rptco US Shipmts Mthly
+AY AI0021700000u AI00217u           MA N/A NT  950101 111201 AISI Alloy Tool Steel MTD Gross US Shipmts Mthly
+AY AI0021800000u AI00218u           MA N/A NT                AISI Alloy Wire Drawn Exp US Shipmts Mthly
+AY AI0021900000u AI00219u           MA N/A NT                AISI Alloy Wire Drawn Less Ship To Rptco US Shipmts Mthly
+AY AI0022000000u AI00220u           MA N/A NT  950101 040301 AISI Alloy Wire Drawn MTD Gross US Shipmts Mthly
+AY AI0022100000u AI00221u           MA N/A NT                AISI Alloy Wire Rod Over 9/16 Exp US Shipmts Mthly
+AY AI0022200000u AI00222u           MA N/A NT                AISI Alloy Wire Rod Over 9/16 Less Ship To Rptco US Shipmts Mthly
+AY AI0022300000u AI00223u           MA N/A NT                AISI Alloy Wire Rod Over 9/16 MTD Gross US Shipmts Mthly
+AY AI0022400000u AI00224u           MA N/A NT                AISI Alloy Wire Rod Under 9/16 Exp US Shipmts Mthly
+AY AI0022500000u AI00225u           MA N/A NT                AISI Alloy Wire Rod Under 9/16 Less Ship To Rptco US Shipmts Mthly
+AY AI0022600000u AI00226u           MA N/A NT                AISI Alloy Wire Rod Under 9/16 MTD Gross US Shipmts Mthly
+AY AI0022700000u AI00227u           MA N/A NT                AISI Alloy Wire Rods Exp US Shipmts Mthly
+AY AI0022800000u AI00228u           MA N/A NT                AISI Alloy Wire Rods Less Ship To Rptco US Shipmts Mthly
+AY AI0022900000u AI00229u           MA N/A NT  950101 100801 AISI Alloy Wire Rods MTD Gross US Shipmts Mthly
+AY AI0023000000u AI00230u           MA N/A NT  050101 181001 AISI Crbn Bars Hot Rolled Exp US Shipmts Mthly
+AY AI0023100000u AI00231u           MA N/A NT  050101 181001 AISI Crbn Bars Hot Rolled Less Ship To Rptco US Shipmts Mthly
+AY AI0023200000u AI00232u           MA N/A NT  950101 181001 AISI Crbn Bars Hot Rolled MTD Gross US Shipmts Mthly
+AY AI0023300000u AI00233u           MA N/A NT  170501 181001 AISI Crbn Bars Reinforcing Exp US Shipmts Mthly
+AY AI0023400000u AI00234u           MA N/A NT  140101 180801 AISI Crbn Bars Reinforcing Less Ship To Rptco US Shipmts Mthly
+AY AI0023500000u AI00235u           MA N/A NT  950101 181001 AISI Crbn Bars Reinforcing MTD Gross US Shipmts Mthly
+AY AI0023600000u AI00236u           MA N/A NT  050101 121201 AISI Crbn Bar Size Light Shapes Exp US Shipmts Mthly
+AY AI0023700000u AI00237u           MA N/A NT  090801 131201 AISI Crbn Bar Size Light Shapes Less Ship To Rptco US Shipmts Mthly
+AY AI0023800000u AI00238u           MA N/A NT  950101 181001 AISI Crbn Bar Size Light Shapes MTD Gross US Shipmts Mthly
+AY AI0023900000u AI00239u           MA N/A NT  050101 140201 AISI Crbn Black Plate Exp US Shipmts Mthly
+AY AI0024000000u AI00240u           MA N/A NT  050101 160701 AISI Crbn Black Plate Less Ship To Rptco US Shipmts Mthly
+AY AI0024100000u AI00241u           MA N/A NT  950101 181001 AISI Crbn Black Plate MTD Gross US Shipmts Mthly
+AY AI0024200000u AI00242u           MA N/A NT  050101 181001 AISI Crbn Blooms&Slabs Exp US Shipmts Mthly
+AY AI0024300000u AI00243u           MA N/A NT  050101 181001 AISI Crbn Blooms&Slabs Less Ship To Rptco US Shipmts Mthly
+AY AI0024400000u AI00244u           MA N/A NT  950101 181001 AISI Crbn Blooms&Slabs MTD Gross US Shipmts Mthly
+AY AI0024500000u AI00245u           MA N/A NT  050101 181001 AISI Crbn Cold Finished Bars Exp US Shipmts Mthly
+AY AI0024600000u AI00246u           MA N/A NT  071101 080101 AISI Crbn Cold Finished Bars Less Ship To Rptco US Shipmts Mthly
+AY AI0024700000u AI00247u           MA N/A NT  950101 181001 AISI Crbn Cold Finished Bars MTD Gross US Shipmts Mthly
+AY AI0024800000u AI00248u           MA N/A NT  050101 181001 AISI Crbn Cold Rolled Sheets Exp US Shipmts Mthly
+AY AI0024900000u AI00249u           MA N/A NT  050101 181001 AISI Crbn Cold Rolled Sheets Less Ship To Rptco US Shipmts Mthly
+AY AI0025000000u AI00250u           MA N/A NT  950101 181001 AISI Crbn Cold Rolled Sheets MTD Gross US Shipmts Mthly
+AY AI0025100000u AI00251u           MA N/A NT                AISI Crbn Electrical Sheet Exp US Shipmts Mthly
+AY AI0025200000u AI00252u           MA N/A NT                AISI Crbn Electrical Sheet Less Ship To Rptco US Shipmts Mthly
+AY AI0025300000u AI00253u           MA N/A NT  950101 011201 AISI Crbn Electrical Sheet MTD Gross US Shipmts Mthly
+AY AI0025400000u AI00254u           MA N/A NT  050101 181001 AISI Crbn Galvanized Electrolytic Exp US Shipmts Mthly
+AY AI0025500000u AI00255u           MA N/A NT  070901 170601 AISI Crbn Galvanized Electrolytic Less Ship To Rptco US Shipmts Mthly
+AY AI0025600000u AI00256u           MA N/A NT  950101 181001 AISI Crbn Galvanized Electrolytic MTD Gross US Shipmts Mthly
+AY AI0025700000u AI00257u           MA N/A NT  050101 181001 AISI Crbn Galvanized HD Exp US Shipmts Mthly
+AY AI0025800000u AI00258u           MA N/A NT  050101 181001 AISI Crbn Galvanized HD Less Ship To Rptco US Shipmts Mthly
+AY AI0025900000u AI00259u           MA N/A NT  950101 181001 AISI Crbn Galvanized HD MTD Gross US Shipmts Mthly
+AY AI0026000000u AI00260u           MA N/A NT  050101 181001 AISI Crbn Hot Rolled Sheets Exp US Shipmts Mthly
+AY AI0026100000u AI00261u           MA N/A NT  050101 181001 AISI Crbn Hot Rolled Sheets Less Ship To Rptco US Shipmts Mthly
+AY AI0026200000u AI00262u           MA N/A NT  950101 181001 AISI Crbn Hot Rolled Sheets MTD Gross US Shipmts Mthly
+AY AI0026300000u AI00263u           MA N/A NT  050101 180401 AISI Crbn Ingots Exp US Shipmts Mthly
+AY AI0026400000u AI00264u           MA N/A NT  091201 170701 AISI Crbn Ingots Less Ship To Rptco US Shipmts Mthly
+AY AI0026500000u AI00265u           MA N/A NT  950101 181001 AISI Crbn Ingots MTD Gross US Shipmts Mthly
+AY AI0026600000u AI00266u           MA N/A NT  050101 181001 AISI Crbn Line Pipe Exp US Shipmts Mthly
+AY AI0026700000u AI00267u           MA N/A NT                AISI Crbn Line Pipe Less Ship To Rptco US Shipmts Mthly
+AY AI0026800000u AI00268u           MA N/A NT  950101 181001 AISI Crbn Line Pipe MTD Gross US Shipmts Mthly
+AY AI0026900000u AI00269u           MA N/A NT  050101 181001 AISI Crbn Mechanical Tubing Exp US Shipmts Mthly
+AY AI0027000000u AI00270u           MA N/A NT  070101 181001 AISI Crbn Mechanical Tubing Less Ship To Rptco US Shipmts Mthly
+AY AI0027100000u AI00271u           MA N/A NT  950101 181001 AISI Crbn Mechanical Tubing MTD Gross US Shipmts Mthly
+AY AI0027200000u AI00272u           MA N/A NT  050101 181001 AISI Crbn Oil Country Goods Exp US Shipmts Mthly
+AY AI0027300000u AI00273u           MA N/A NT  070301 071201 AISI Crbn Oil Country Goods Less Ship To Rptco US Shipmts Mthly
+AY AI0027400000u AI00274u           MA N/A NT  950101 181001 AISI Crbn Oil Country Goods MTD Gross US Shipmts Mthly
+AY AI0027500000u AI00275u           MA N/A NT                AISI Crbn Pipe&Tubing Nonclassified Exp US Shipmts Mthly
+AY AI0027600000u AI00276u           MA N/A NT                AISI Crbn Pipe&Tubing Nonclassified Less Ship To Rptco US Shipmts Mthly
+AY AI0027700000u AI00277u           MA N/A NT                AISI Crbn Pipe&Tubing Nonclassified MTD Gross US Shipmts Mthly
+AY AI0027800000u AI00278u           MA N/A NT  130401 130801 AISI Crbn Pipe For Piling Exp US Shipmts Mthly
+AY AI0027900000u AI00279u           MA N/A NT                AISI Crbn Pipe For Piling Less Ship To Rptco US Shipmts Mthly
+AY AI0028000000u AI00280u           MA N/A NT  950101 181001 AISI Crbn Pipe For Piling MTD Gross US Shipmts Mthly
+AY AI0028100000u AI00281u           MA N/A NT                AISI Crbn Plates Stainless Exp US Shipmts Mthly
+AY AI0028200000u AI00282u           MA N/A NT                AISI Crbn Plates Stainless Less Ship To Rptco US Shipmts Mthly
+AY AI0028300000u AI00283u           MA N/A NT                AISI Crbn Plates Stainless MTD Gross US Shipmts Mthly
+AY AI0028400000u AI00284u           MA N/A NT  050101 181001 AISI Crbn Plates Cut Length Exp US Shipmts Mthly
+AY AI0028500000u AI00285u           MA N/A NT  050101 181001 AISI Crbn Plates Cut Length Less Ship To Rptco US Shipmts Mthly
+AY AI0028600000u AI00286u           MA N/A NT  950101 181001 AISI Crbn Plates Cut Length MTD Gross US Shipmts Mthly
+AY AI0028700000u AI00287u           MA N/A NT  050101 181001 AISI Crbn Plates In Coils Exp US Shipmts Mthly
+AY AI0028800000u AI00288u           MA N/A NT  050101 180701 AISI Crbn Plates In Coils Less Ship To Rptco US Shipmts Mthly
+AY AI0028900000u AI00289u           MA N/A NT  950101 181001 AISI Crbn Plates In Coils MTD Gross US Shipmts Mthly
+AY AI0029000000u AI00290u           MA N/A NT  051101 181001 AISI Crbn Pressure Tubing Exp US Shipmts Mthly
+AY AI0029100000u AI00291u           MA N/A NT  170801 170801 AISI Crbn Pressure Tubing Less Ship To Rptco US Shipmts Mthly
+AY AI0029200000u AI00292u           MA N/A NT  950101 181001 AISI Crbn Pressure Tubing MTD Gross US Shipmts Mthly
+AY AI0029300000u AI00293u           MA N/A NT                AISI Crbn Rails Accessories Exp US Shipmts Mthly
+AY AI0029400000u AI00294u           MA N/A NT                AISI Crbn Rails Accessories Less Ship To Rptco US Shipmts Mthly
+AY AI0029500000u AI00295u           MA N/A NT  950101 181001 AISI Crbn Rails Accessories MTD Gross US Shipmts Mthly
+AY AI0029600000u AI00296u           MA N/A NT                AISI Crbn Rails All Oth Exp US Shipmts Mthly
+AY AI0029700000u AI00297u           MA N/A NT                AISI Crbn Rails All Oth Less Ship To Rptco US Shipmts Mthly
+AY AI0029800000u AI00298u           MA N/A NT  950101 011201 AISI Crbn Rails All Oth MTD Gross US Shipmts Mthly
+AY AI0029900000u AI00299u           MA N/A NT  050101 181001 AISI Crbn Rails Standard Exp US Shipmts Mthly
+AY AI0030000000u AI00300u           MA N/A NT  070101 181001 AISI Crbn Rails Standard Less Ship To Rptco US Shipmts Mthly
+AY AI0030100000u AI00301u           MA N/A NT  950101 181001 AISI Crbn Rails Standard MTD Gross US Shipmts Mthly
+AY AI0030200000u AI00302u           MA N/A NT                AISI Crbn Semi-Finished Exp US Shipmts Mthly
+AY AI0030300000u AI00303u           MA N/A NT                AISI Crbn Semi-Finished Less Ship To Rptco US Shipmts Mthly
+AY AI0030400000u AI00304u           MA N/A NT                AISI Crbn Semi-Finished MTD Gross US Shipmts Mthly
+AY AI0030500000u AI00305u           MA N/A NT  050101 181001 AISI Crbn Sheets All Oth Metallic Coatings Exp US Shipmts Mthly
+AY AI0030600000u AI00306u           MA N/A NT  090301 180601 AISI Crbn Sheets All Oth Metallic Coatings Less Ship To Rptco US Shipmts Mthly
+AY AI0030700000u AI00307u           MA N/A NT  950101 181001 AISI Crbn Sheets All Oth Metallic Coatings MTD Gross US Shipmts Mthly
+AY AI0030800000u AI00308u           MA N/A NT                AISI Crbn Stainless Pipe&Tube Seamless Exp US Shipmts Mthly
+AY AI0030900000u AI00309u           MA N/A NT                AISI Crbn Stainless Pipe&Tube Seamless Less Ship To Rptco US Shipmts Mthly
+AY AI0031000000u AI00310u           MA N/A NT                AISI Crbn Stainless Pipe&Tube Seamless MTD Gross US Shipmts Mthly
+AY AI0031100000u AI00311u           MA N/A NT                AISI Crbn Stainless Pipe&Tube Welded Exp US Shipmts Mthly
+AY AI0031200000u AI00312u           MA N/A NT                AISI Crbn Stainless Pipe&Tube Welded Less Ship To Rptco US Shipmts Mthly
+AY AI0031300000u AI00313u           MA N/A NT                AISI Crbn Stainless Pipe&Tube Welded MTD Gross US Shipmts Mthly
+AY AI0031400000u AI00314u           MA N/A NT                AISI Crbn Stainless Pipe&Tubing Exp US Shipmts Mthly
+AY AI0031500000u AI00315u           MA N/A NT                AISI Crbn Stainless Pipe&Tubing Less Ship To Rptco US Shipmts Mthly
+AY AI0031600000u AI00316u           MA N/A NT                AISI Crbn Stainless Pipe&Tubing MTD Gross US Shipmts Mthly
+AY AI0031700000u AI00317u           MA N/A NT  050101 180901 AISI Crbn Standard Pipe Exp US Shipmts Mthly
+AY AI0031800000u AI00318u           MA N/A NT  050101 180101 AISI Crbn Standard Pipe Less Ship To Rptco US Shipmts Mthly
+AY AI0031900000u AI00319u           MA N/A NT  950101 181001 AISI Crbn Standard Pipe MTD Gross US Shipmts Mthly
+AY AI0032000000u AI00320u           MA N/A NT  050101 110601 AISI Crbn Steel Piling Exp US Shipmts Mthly
+AY AI0032100000u AI00321u           MA N/A NT                AISI Crbn Steel Piling Less Ship To Rptco US Shipmts Mthly
+AY AI0032200000u AI00322u           MA N/A NT  950101 110801 AISI Crbn Steel Piling MTD Gross US Shipmts Mthly
+AY AI0032300000u AI00323u           MA N/A NT  050201 071001 AISI Crbn Strip Cold Rolled Exp US Shipmts Mthly
+AY AI0032400000u AI00324u           MA N/A NT                AISI Crbn Strip Cold Rolled Less Ship To Rptco US Shipmts Mthly
+AY AI0032500000u AI00325u           MA N/A NT  950101 181001 AISI Crbn Strip Cold Rolled MTD Gross US Shipmts Mthly
+AY AI0032600000u AI00326u           MA N/A NT                AISI Crbn Strip Hot Rolled Exp US Shipmts Mthly
+AY AI0032700000u AI00327u           MA N/A NT                AISI Crbn Strip Hot Rolled Less Ship To Rptco US Shipmts Mthly
+AY AI0032800000u AI00328u           MA N/A NT  950101 181001 AISI Crbn Strip Hot Rolled MTD Gross US Shipmts Mthly
+AY AI0032900000u AI00329u           MA N/A NT  050101 100801 AISI Crbn Structural Pipe&Tube Exp US Shipmts Mthly
+AY AI0033000000u AI00330u           MA N/A NT  070901 090101 AISI Crbn Structural Pipe&Tube Less Ship To Rptco US Shipmts Mthly
+AY AI0033100000u AI00331u           MA N/A NT  950101 181001 AISI Crbn Structural Pipe&Tube MTD Gross US Shipmts Mthly
+AY AI0033200000u AI00332u           MA N/A NT  050101 181001 AISI Crbn Structural Shapes Exp US Shipmts Mthly
+AY AI0033300000u AI00333u           MA N/A NT  071101 181001 AISI Crbn Structural Shapes Less Ship To Rptco US Shipmts Mthly
+AY AI0033400000u AI00334u           MA N/A NT  950101 181001 AISI Crbn Structural Shapes MTD Gross US Shipmts Mthly
+AY AI0033500000u AI00335u           MA N/A NT  100201 180701 AISI Crbn Tin Coated Sheets Exp US Shipmts Mthly
+AY AI0033600000u AI00336u           MA N/A NT                AISI Crbn Tin Coated Sheets Less Ship To Rptco US Shipmts Mthly
+AY AI0033700000u AI00337u           MA N/A NT  950101 181001 AISI Crbn Tin Coated Sheets MTD Gross US Shipmts Mthly
+AY AI0033800000u AI00338u           MA N/A NT  050101 180901 AISI Crbn Tin Free Steel Exp US Shipmts Mthly
+AY AI0033900000u AI00339u           MA N/A NT  060201 160401 AISI Crbn Tin Free Steel Less Ship To Rptco US Shipmts Mthly
+AY AI0034000000u AI00340u           MA N/A NT  950101 181001 AISI Crbn Tin Free Steel MTD Gross US Shipmts Mthly
+AY AI0034100000u AI00341u           MA N/A NT  050101 181001 AISI Crbn Tin Plate Exp US Shipmts Mthly
+AY AI0034200000u AI00342u           MA N/A NT  080101 160401 AISI Crbn Tin Plate Less Ship To Rptco US Shipmts Mthly
+AY AI0034300000u AI00343u           MA N/A NT  950101 181001 AISI Crbn Tin Plate MTD Gross US Shipmts Mthly
+AY AI0034400000u AI00344u           MA N/A NT                AISI Crbn Tool Steel Exp US Shipmts Mthly
+AY AI0034500000u AI00345u           MA N/A NT                AISI Crbn Tool Steel Less Ship To Rptco US Shipmts Mthly
+AY AI0034600000u AI00346u           MA N/A NT                AISI Crbn Tool Steel MTD Gross US Shipmts Mthly
+AY AI0034700000u AI00347u           MA N/A NT  050401 170101 AISI Crbn Wire Drawn Exp US Shipmts Mthly
+AY AI0034800000u AI00348u           MA N/A NT                AISI Crbn Wire Drawn Less Ship To Rptco US Shipmts Mthly
+AY AI0034900000u AI00349u           MA N/A NT  950101 181001 AISI Crbn Wire Drawn MTD Gross US Shipmts Mthly
+AY AI0035000000u AI00350u           MA N/A NT                AISI Crbn Wire Rod Over 9/16 Exp US Shipmts Mthly
+AY AI0035100000u AI00351u           MA N/A NT                AISI Crbn Wire Rod Over 9/16 Less Ship To Rptco US Shipmts Mthly
+AY AI0035200000u AI00352u           MA N/A NT                AISI Crbn Wire Rod Over 9/16 MTD Gross US Shipmts Mthly
+AY AI0035300000u AI00353u           MA N/A NT                AISI Crbn Wire Rod Under 9/16 Exp US Shipmts Mthly
+AY AI0035400000u AI00354u           MA N/A NT                AISI Crbn Wire Rod Under 9/16 Less Ship To Rptco US Shipmts Mthly
+AY AI0035500000u AI00355u           MA N/A NT  120901 181001 AISI Crbn Wire Rod Under 9/16 MTD Gross US Shipmts Mthly
+AY AI0035600000u AI00356u           MA N/A NT  050101 161101 AISI Crbn Wire Rods Exp US Shipmts Mthly
+AY AI0035700000u AI00357u           MA N/A NT  050201 181001 AISI Crbn Wire Rods Less Ship To Rptco US Shipmts Mthly
+AY AI0035800000u AI00358u           MA N/A NT  950101 181001 AISI Crbn Wire Rods MTD Gross US Shipmts Mthly
+AY AI0035900000u AI00359u           MA N/A NT  050101 181001 AISI Stainless Bars Hot Rolled Exp US Shipmts Mthly
+AY AI0036000000u AI00360u           MA N/A NT                AISI Stainless Bars Hot Rolled Less Ship To Rptco US Shipmts Mthly
+AY AI0036100000u AI00361u           MA N/A NT  950101 181001 AISI Stainless Bars Hot Rolled MTD Gross US Shipmts Mthly
+AY AI0036200000u AI00362u           MA N/A NT                AISI Stainless Bars Reinforcing Exp US Shipmts Mthly
+AY AI0036300000u AI00363u           MA N/A NT                AISI Stainless Bars Reinforcing Less Ship To Rptco US Shipmts Mthly
+AY AI0036400000u AI00364u           MA N/A NT                AISI Stainless Bars Reinforcing MTD Gross US Shipmts Mthly
+AY AI0036500000u AI00365u           MA N/A NT                AISI Stainless Bar Size Light Shapes Exp US Shipmts Mthly
+AY AI0036600000u AI00366u           MA N/A NT                AISI Stainless Bar Size Light Shapes Less Ship To Rptco US Shipmts Mthly
+AY AI0036700000u AI00367u           MA N/A NT                AISI Stainless Bar Size Light Shapes MTD Gross US Shipmts Mthly
+AY AI0036800000u AI00368u           MA N/A NT                AISI Stainless Black Plate Exp US Shipmts Mthly
+AY AI0036900000u AI00369u           MA N/A NT                AISI Stainless Black Plate Less Ship To Rptco US Shipmts Mthly
+AY AI0037000000u AI00370u           MA N/A NT                AISI Stainless Black Plate MTD Gross US Shipmts Mthly
+AY AI0037100000u AI00371u           MA N/A NT  050101 180201 AISI Stainless Blooms&Slabs Exp US Shipmts Mthly
+AY AI0037200000u AI00372u           MA N/A NT  050101 101201 AISI Stainless Blooms&Slabs Less Ship To Rptco US Shipmts Mthly
+AY AI0037300000u AI00373u           MA N/A NT  950101 181001 AISI Stainless Blooms&Slabs MTD Gross US Shipmts Mthly
+AY AI0037400000u AI00374u           MA N/A NT  050101 181001 AISI Stainless Cold Finished Bars Exp US Shipmts Mthly
+AY AI0037500000u AI00375u           MA N/A NT                AISI Stainless Cold Finished Bars Less Ship To Rptco US Shipmts Mthly
+AY AI0037600000u AI00376u           MA N/A NT  950101 181001 AISI Stainless Cold Finished Bars MTD Gross US Shipmts Mthly
+AY AI0037700000u AI00377u           MA N/A NT  050101 181001 AISI Stainless Cold Rolled Sheets Exp US Shipmts Mthly
+AY AI0037800000u AI00378u           MA N/A NT  050101 110501 AISI Stainless Cold Rolled Sheets Less Ship To Rptco US Shipmts Mthly
+AY AI0037900000u AI00379u           MA N/A NT  950101 181001 AISI Stainless Cold Rolled Sheets MTD Gross US Shipmts Mthly
+AY AI0038000000u AI00380u           MA N/A NT                AISI Stainless Electrical Sheet Exp US Shipmts Mthly
+AY AI0038100000u AI00381u           MA N/A NT                AISI Stainless Electrical Sheet Less Ship To Rptco US Shipmts Mthly
+AY AI0038200000u AI00382u           MA N/A NT                AISI Stainless Electrical Sheet MTD Gross US Shipmts Mthly
+AY AI0038300000u AI00383u           MA N/A NT                AISI Stainless Galvanized Electrolytic Exp US Shipmts Mthly
+AY AI0038400000u AI00384u           MA N/A NT                AISI Stainless Galvanized Electrolytic Less Ship To Rptco US Shipmts Mthly
+AY AI0038500000u AI00385u           MA N/A NT                AISI Stainless Galvanized Electrolytic MTD Gross US Shipmts Mthly
+AY AI0038600000u AI00386u           MA N/A NT                AISI Stainless Galvanized HD Exp US Shipmts Mthly
+AY AI0038700000u AI00387u           MA N/A NT                AISI Stainless Galvanized HD Less Ship To Rptco US Shipmts Mthly
+AY AI0038800000u AI00388u           MA N/A NT                AISI Stainless Galvanized HD MTD Gross US Shipmts Mthly
+AY AI0038900000u AI00389u           MA N/A NT  050101 181001 AISI Stainless Hot Rolled Sheets Exp US Shipmts Mthly
+AY AI0039000000u AI00390u           MA N/A NT  050101 110501 AISI Stainless Hot Rolled Sheets Less Ship To Rptco US Shipmts Mthly
+AY AI0039100000u AI00391u           MA N/A NT  950101 181001 AISI Stainless Hot Rolled Sheets MTD Gross US Shipmts Mthly
+AY AI0039200000u AI00392u           MA N/A NT  070301 131101 AISI Stainless Ingots Exp US Shipmts Mthly
+AY AI0039300000u AI00393u           MA N/A NT                AISI Stainless Ingots Less Ship To Rptco US Shipmts Mthly
+AY AI0039400000u AI00394u           MA N/A NT  950101 131201 AISI Stainless Ingots MTD Gross US Shipmts Mthly
+AY AI0039500000u AI00395u           MA N/A NT                AISI Stainless Line Pipe Exp US Shipmts Mthly
+AY AI0039600000u AI00396u           MA N/A NT                AISI Stainless Line Pipe Less Ship To Rptco US Shipmts Mthly
+AY AI0039700000u AI00397u           MA N/A NT                AISI Stainless Line Pipe MTD Gross US Shipmts Mthly
+AY AI0039800000u AI00398u           MA N/A NT                AISI Stainless Mechanical Tubing Exp US Shipmts Mthly
+AY AI0039900000u AI00399u           MA N/A NT                AISI Stainless Mechanical Tubing Less Ship To Rptco US Shipmts Mthly
+AY AI0040000000u AI00400u           MA N/A NT                AISI Stainless Mechanical Tubing MTD Gross US Shipmts Mthly
+AY AI0040100000u AI00401u           MA N/A NT                AISI Stainless Oil Country Goods Exp US Shipmts Mthly
+AY AI0040200000u AI00402u           MA N/A NT                AISI Stainless Oil Country Goods Less Ship To Rptco US Shipmts Mthly
+AY AI0040300000u AI00403u           MA N/A NT                AISI Stainless Oil Country Goods MTD Gross US Shipmts Mthly
+AY AI0040400000u AI00404u           MA N/A NT                AISI Stainless Pipe&Tubing Nonclassified Exp US Shipmts Mthly
+AY AI0040500000u AI00405u           MA N/A NT                AISI Stainless Pipe&Tubing Nonclassified Less Ship To Rptco US Shipmts Mthly
+AY AI0040600000u AI00406u           MA N/A NT                AISI Stainless Pipe&Tubing Nonclassified MTD Gross US Shipmts Mthly
+AY AI0040700000u AI00407u           MA N/A NT                AISI Stainless Pipe For Piling Exp US Shipmts Mthly
+AY AI0040800000u AI00408u           MA N/A NT                AISI Stainless Pipe For Piling Less Ship To Rptco US Shipmts Mthly
+AY AI0040900000u AI00409u           MA N/A NT                AISI Stainless Pipe For Piling MTD Gross US Shipmts Mthly
+AY AI0041000000u AI00410u           MA N/A NT                AISI Stainless Plates Stainless Exp US Shipmts Mthly
+AY AI0041100000u AI00411u           MA N/A NT                AISI Stainless Plates Stainless Less Ship To Rptco US Shipmts Mthly
+AY AI0041200000u AI00412u           MA N/A NT                AISI Stainless Plates Stainless MTD Gross US Shipmts Mthly
+AY AI0041300000u AI00413u           MA N/A NT  050101 181001 AISI Stainless Plates Cut Length Exp US Shipmts Mthly
+AY AI0041400000u AI00414u           MA N/A NT  050201 101201 AISI Stainless Plates Cut Length Less Ship To Rptco US Shipmts Mthly
+AY AI0041500000u AI00415u           MA N/A NT  950101 181001 AISI Stainless Plates Cut Length MTD Gross US Shipmts Mthly
+AY AI0041600000u AI00416u           MA N/A NT  050101 181001 AISI Stainless Plates In Coils Exp US Shipmts Mthly
+AY AI0041700000u AI00417u           MA N/A NT  110501 110501 AISI Stainless Plates In Coils Less Ship To Rptco US Shipmts Mthly
+AY AI0041800000u AI00418u           MA N/A NT  950101 181001 AISI Stainless Plates In Coils MTD Gross US Shipmts Mthly
+AY AI0041900000u AI00419u           MA N/A NT                AISI Stainless Pressure Tubing Exp US Shipmts Mthly
+AY AI0042000000u AI00420u           MA N/A NT                AISI Stainless Pressure Tubing Less Ship To Rptco US Shipmts Mthly
+AY AI0042100000u AI00421u           MA N/A NT                AISI Stainless Pressure Tubing MTD Gross US Shipmts Mthly
+AY AI0042200000u AI00422u           MA N/A NT                AISI Stainless Rails Accessories Exp US Shipmts Mthly
+AY AI0042300000u AI00423u           MA N/A NT                AISI Stainless Rails Accessories Less Ship To Rptco US Shipmts Mthly
+AY AI0042400000u AI00424u           MA N/A NT                AISI Stainless Rails Accessories MTD Gross US Shipmts Mthly
+AY AI0042500000u AI00425u           MA N/A NT                AISI Stainless Rails All Oth Exp US Shipmts Mthly
+AY AI0042600000u AI00426u           MA N/A NT                AISI Stainless Rails All Oth Less Ship To Rptco US Shipmts Mthly
+AY AI0042700000u AI00427u           MA N/A NT                AISI Stainless Rails All Oth MTD Gross US Shipmts Mthly
+AY AI0042800000u AI00428u           MA N/A NT                AISI Stainless Rails Standard Exp US Shipmts Mthly
+AY AI0042900000u AI00429u           MA N/A NT                AISI Stainless Rails Standard Less Ship To Rptco US Shipmts Mthly
+AY AI0043000000u AI00430u           MA N/A NT                AISI Stainless Rails Standard MTD Gross US Shipmts Mthly
+AY AI0043100000u AI00431u           MA N/A NT                AISI Stainless Semi-Finished Exp US Shipmts Mthly
+AY AI0043200000u AI00432u           MA N/A NT                AISI Stainless Semi-Finished Less Ship To Rptco US Shipmts Mthly
+AY AI0043300000u AI00433u           MA N/A NT                AISI Stainless Semi-Finished MTD Gross US Shipmts Mthly
+AY AI0043400000u AI00434u           MA N/A NT                AISI Stainless Sheets All Oth Metallic Coatings Exp US Shipmts Mthly
+AY AI0043500000u AI00435u           MA N/A NT                AISI Stainless Sheets All Oth Metallic Coatings LessShipToRptco US Shipmts NetTons Mthly
+AY AI0043600000u AI00436u           MA N/A NT                AISI Stainless Sheets All Oth Metallic Coatings MTD Gross US Shipmts Mthly
+AY AI0043700000u AI00437u           MA N/A NT  100101 120801 AISI Stainless Pipe&Tube Seamless Exp US Shipmts Mthly
+AY AI0043800000u AI00438u           MA N/A NT                AISI Stainless Pipe&Tube Seamless Less Ship To Rptco US Shipmts Mthly
+AY AI0043900000u AI00439u           MA N/A NT  950101 171201 AISI Stainless Pipe&Tube Seamless MTD Gross US Shipmts Mthly
+AY AI0044000000u AI00440u           MA N/A NT  120901 161101 AISI Stainless Pipe&Tube Welded Exp US Shipmts Mthly
+AY AI0044100000u AI00441u           MA N/A NT                AISI Stainless Pipe&Tube Welded Less Ship To Rptco US Shipmts Mthly
+AY AI0044200000u AI00442u           MA N/A NT  120901 171201 AISI Stainless Pipe&Tube Welded MTD Gross US Shipmts Mthly
+AY AI0044300000u AI00443u           MA N/A NT                AISI Stainless Pipe&Tubing Exp US Shipmts Mthly
+AY AI0044400000u AI00444u           MA N/A NT                AISI Stainless Pipe&Tubing Less Ship To Rptco US Shipmts Mthly
+AY AI0044500000u AI00445u           MA N/A NT                AISI Stainless Pipe&Tubing MTD Gross US Shipmts Mthly
+AY AI0044600000u AI00446u           MA N/A NT                AISI Stainless Standard Pipe Exp US Shipmts Mthly
+AY AI0044700000u AI00447u           MA N/A NT                AISI Stainless Standard Pipe Less Ship To Rptco US Shipmts Mthly
+AY AI0044800000u AI00448u           MA N/A NT                AISI Stainless Standard Pipe MTD Gross US Shipmts Mthly
+AY AI0044900000u AI00449u           MA N/A NT                AISI Stainless Steel Piling Exp US Shipmts Mthly
+AY AI0045000000u AI00450u           MA N/A NT                AISI Stainless Steel Piling Less Ship To Rptco US Shipmts Mthly
+AY AI0045100000u AI00451u           MA N/A NT                AISI Stainless Steel Piling MTD Gross US Shipmts Mthly
+AY AI0045200000u AI00452u           MA N/A NT  050101 181001 AISI Stainless Strip Cold Rolled Exp US Shipmts Mthly
+AY AI0045300000u AI00453u           MA N/A NT  050101 110501 AISI Stainless Strip Cold Rolled Less Ship To Rptco US Shipmts Mthly
+AY AI0045400000u AI00454u           MA N/A NT  950101 181001 AISI Stainless Strip Cold Rolled MTD Gross US Shipmts Mthly
+AY AI0045500000u AI00455u           MA N/A NT  050101 181001 AISI Stainless Strip Hot Rolled Exp US Shipmts Mthly
+AY AI0045600000u AI00456u           MA N/A NT  050101 100501 AISI Stainless Strip Hot Rolled Less Ship To Rptco US Shipmts Mthly
+AY AI0045700000u AI00457u           MA N/A NT  950101 181001 AISI Stainless Strip Hot Rolled MTD Gross US Shipmts Mthly
+AY AI0045800000u AI00458u           MA N/A NT                AISI Stainless Structural Pipe&Tube Exp US Shipmts Mthly
+AY AI0045900000u AI00459u           MA N/A NT                AISI Stainless Structural Pipe&Tube Less Ship To Rptco US Shipmts Mthly
+AY AI0046000000u AI00460u           MA N/A NT                AISI Stainless Structural Pipe&Tube MTD Gross US Shipmts Mthly
+AY AI0046100000u AI00461u           MA N/A NT                AISI Stainless Structural Shapes Exp US Shipmts Mthly
+AY AI0046200000u AI00462u           MA N/A NT                AISI Stainless Structural Shapes Less Ship To Rptco US Shipmts Mthly
+AY AI0046300000u AI00463u           MA N/A NT                AISI Stainless Structural Shapes MTD Gross US Shipmts Mthly
+AY AI0046400000u AI00464u           MA N/A NT                AISI Stainless Tin Coated Sheets Exp US Shipmts Mthly
+AY AI0046500000u AI00465u           MA N/A NT                AISI Stainless Tin Coated Sheets Less Ship To Rptco US Shipmts Mthly
+AY AI0046600000u AI00466u           MA N/A NT                AISI Stainless Tin Coated Sheets MTD Gross US Shipmts Mthly
+AY AI0046700000u AI00467u           MA N/A NT                AISI Stainless Tin Free Steel Exp US Shipmts Mthly
+AY AI0046800000u AI00468u           MA N/A NT                AISI Stainless Tin Free Steel Less Ship To Rptco US Shipmts Mthly
+AY AI0046900000u AI00469u           MA N/A NT                AISI Stainless Tin Free Steel MTD Gross US Shipmts Mthly
+AY AI0047000000u AI00470u           MA N/A NT                AISI Stainless Tin Plate Exp US Shipmts Mthly
+AY AI0047100000u AI00471u           MA N/A NT                AISI Stainless Tin Plate Less Ship To Rptco US Shipmts Mthly
+AY AI0047200000u AI00472u           MA N/A NT                AISI Stainless Tin Plate MTD Gross US Shipmts Mthly
+AY AI0047300000u AI00473u           MA N/A NT                AISI Stainless Tool Steel Exp US Shipmts Mthly
+AY AI0047400000u AI00474u           MA N/A NT                AISI Stainless Tool Steel Less Ship To Rptco US Shipmts Mthly
+AY AI0047500000u AI00475u           MA N/A NT                AISI Stainless Tool Steel MTD Gross US Shipmts Mthly
+AY AI0047600000u AI00476u           MA N/A NT                AISI Stainless Wire Drawn Exp US Shipmts Mthly
+AY AI0047700000u AI00477u           MA N/A NT                AISI Stainless Wire Drawn Less Ship To Rptco US Shipmts Mthly
+AY AI0047800000u AI00478u           MA N/A NT  950101 011201 AISI Stainless Wire Drawn MTD Gross US Shipmts Mthly
+AY AI0047900000u AI00479u           MA N/A NT                AISI Stainless Wire Rod Over 9/16 Exp US Shipmts Mthly
+AY AI0048000000u AI00480u           MA N/A NT                AISI Stainless Wire Rod Over 9/16 Less Ship To Rptco US Shipmts Mthly
+AY AI0048100000u AI00481u           MA N/A NT                AISI Stainless Wire Rod Over 9/16 MTD Gross US Shipmts Mthly
+AY AI0048200000u AI00482u           MA N/A NT                AISI Stainless Wire Rod Under 9/16 Exp US Shipmts Mthly
+AY AI0048300000u AI00483u           MA N/A NT                AISI Stainless Wire Rod Under 9/16 Less Ship To Rptco US Shipmts Mthly
+AY AI0048400000u AI00484u           MA N/A NT                AISI Stainless Wire Rod Under 9/16 MTD Gross US Shipmts Mthly
+AY AI0048500000u AI00485u           MA N/A NT  050101 181001 AISI Stainless Wire Rods Exp US Shipmts Mthly
+AY AI0048600000u AI00486u           MA N/A NT                AISI Stainless Wire Rods Less Ship To Rptco US Shipmts Mthly
+AY AI0048700000u AI00487u           MA N/A NT  950101 181001 AISI Stainless Wire Rods MTD Gross US Shipmts Mthly
+AY AI0800100000u AI08001u           MA N/A NT  070101 141001 AISI Allgrades Continuous and ERW Line Pipe Exp US Shipmts Mthly
+AY AI0800200000u AI08002u           MA N/A NT                AISI Allgrades Continuous and ERW Line Pipe Less Ship To Rptco US Shipmts Mthly
+AY AI0800300000u AI08003u           MA N/A NT  070101 181001 AISI Allgrades Continuous and ERW Line Pipe Mtd Gross US Shipmts Mthly
+AY AI0800400000u AI08004u           MA N/A NT  070101 181001 AISI Allgrades Continuous and ERW Mechanical Exp US Shipmts Mthly
+AY AI0800500000u AI08005u           MA N/A NT  070601 090501 AISI Allgrades Continuous and ERW Mechanical Less Ship To Rptco US Shipmts Mthly
+AY AI0800600000u AI08006u           MA N/A NT  070101 181001 AISI Allgrades Continuous and ERW Mechanical Mtd Gross US Shipmts Mthly
+AY AI0800700000u AI08007u           MA N/A NT  071101 181001 AISI Allgrades Continuous and ERW OCTG Exp US Shipmts Mthly
+AY AI0800800000u AI08008u           MA N/A NT  070301 071201 AISI Allgrades Continuous and ERW OCTG Less Ship To Rptco US Shipmts Mthly
+AY AI0800900000u AI08009u           MA N/A NT  070101 181001 AISI Allgrades Continuous and ERW OCTG Mtd Gross US Shipmts Mthly
+AY AI0801000000u AI08010u           MA N/A NT  130401 130801 AISI Allgrades Continuous and ERW Piling Exp US Shipmts Mthly
+AY AI0801100000u AI08011u           MA N/A NT                AISI Allgrades Continuous and ERW Piling Less Ship To Rptco US Shipmts Mthly
+AY AI0801200000u AI08012u           MA N/A NT  070101 181001 AISI Allgrades Continuous and ERW Piling Mtd Gross US Shipmts Mthly
+AY AI0801300000u AI08013u           MA N/A NT                AISI Allgrades Continuous and ERW Pressure Exp US Shipmts Mthly
+AY AI0801400000u AI08014u           MA N/A NT                AISI Allgrades Continuous and ERW Pressure Less Ship To Rptco US Shipmts Mthly
+AY AI0801500000u AI08015u           MA N/A NT                AISI Allgrades Continuous and ERW Pressure Mtd Gross US Shipmts Mthly
+AY AI0801600000u AI08016u           MA N/A NT  100201 180101 AISI Allgrades Continuous and ERW Stainless Exp US Shipmts Mthly
+AY AI0801700000u AI08017u           MA N/A NT                AISI Allgrades Continuous and ERW Stainless Less Ship To Rptco US Shipmts Mthly
+AY AI0801800000u AI08018u           MA N/A NT  070101 171201 AISI Allgrades Continuous and ERW Stainless Mtd Gross US Shipmts Mthly
+AY AI0801900000u AI08019u           MA N/A NT  070101 160101 AISI Allgrades Continuous and ERW Standard Exp US Shipmts Mthly
+AY AI0802000000u AI08020u           MA N/A NT  070101 090601 AISI Allgrades Continuous and ERW Standard Less Ship To Rptco US Shipmts Mthly
+AY AI0802100000u AI08021u           MA N/A NT  070101 181001 AISI Allgrades Continuous and ERW Standard Mtd Gross US Shipmts Mthly
+AY AI0802200000u AI08022u           MA N/A NT  070101 090501 AISI Allgrades Continuous and ERW Structural Exp US Shipmts Mthly
+AY AI0802300000u AI08023u           MA N/A NT  070901 090101 AISI Allgrades Continuous and ERW Structural Less Ship To Rptco US Shipmts Mthly
+AY AI0802400000u AI08024u           MA N/A NT  070101 181001 AISI Allgrades Continuous and ERW Structural Mtd Gross US Shipmts Mthly
+AY AI0802500000u AI08025u           MA N/A NT                AISI Allgrades Saw Line Pipe Exp US Shipmts Mthly
+AY AI0802600000u AI08026u           MA N/A NT                AISI Allgrades Saw Line Pipe Less Ship To Rptco US Shipmts Mthly
+AY AI0802700000u AI08027u           MA N/A NT  070101 181001 AISI Allgrades Saw Line Pipe Mtd Gross US Shipmts Mthly
+AY AI0802800000u AI08028u           MA N/A NT                AISI Allgrades Saw Standard Exp US Shipmts Mthly
+AY AI0802900000u AI08029u           MA N/A NT  121101 121201 AISI Allgrades Saw Standard Less Ship To Rptco US Shipmts Mthly
+AY AI0803000000u AI08030u           MA N/A NT  070101 181001 AISI Allgrades Saw Standard Mtd Gross US Shipmts Mthly
+AY AI0803100000u AI08031u           MA N/A NT  070101 181001 AISI Allgrades Seamless Line Pipe Exp US Shipmts Mthly
+AY AI0803200000u AI08032u           MA N/A NT                AISI Allgrades Seamless Line Pipe Less Ship To Rptco US Shipmts Mthly
+AY AI0803300000u AI08033u           MA N/A NT  070101 181001 AISI Allgrades Seamless Line Pipe Mtd Gross US Shipmts Mthly
+AY AI0803400000u AI08034u           MA N/A NT  070101 181001 AISI Allgrades Seamless Mechanical Exp US Shipmts Mthly
+AY AI0803500000u AI08035u           MA N/A NT  070101 181001 AISI Allgrades Seamless Mechanical Less Ship To Rptco US Shipmts Mthly
+AY AI0803600000u AI08036u           MA N/A NT  070101 181001 AISI Allgrades Seamless Mechanical Mtd Gross US Shipmts Mthly
+AY AI0803700000u AI08037u           MA N/A NT  070101 181001 AISI Allgrades Seamless OCTG Exp US Shipmts Mthly
+AY AI0803800000u AI08038u           MA N/A NT                AISI Allgrades Seamless OCTG Less Ship To Rptco US Shipmts Mthly
+AY AI0803900000u AI08039u           MA N/A NT  070101 181001 AISI Allgrades Seamless OCTG Mtd Gross US Shipmts Mthly
+AY AI0804000000u AI08040u           MA N/A NT                AISI Allgrades Seamless Piling Exp US Shipmts Mthly
+AY AI0804100000u AI08041u           MA N/A NT                AISI Allgrades Seamless Piling Less Ship To Rptco US Shipmts Mthly
+AY AI0804200000u AI08042u           MA N/A NT  070401 070401 AISI Allgrades Seamless Piling Mtd Gross US Shipmts Mthly
+AY AI0804300000u AI08043u           MA N/A NT  070201 181001 AISI Allgrades Seamless Pressure Exp US Shipmts Mthly
+AY AI0804400000u AI08044u           MA N/A NT  170801 170801 AISI Allgrades Seamless Pressure Less Ship To Rptco US Shipmts Mthly
+AY AI0804500000u AI08045u           MA N/A NT  070101 181001 AISI Allgrades Seamless Pressure Mtd Gross US Shipmts Mthly
+AY AI0804600000u AI08046u           MA N/A NT                AISI Allgrades Seamless Stainless Exp US Shipmts Mthly
+AY AI0804700000u AI08047u           MA N/A NT                AISI Allgrades Seamless Stainless Less Ship To Rptco US Shipmts Mthly
+AY AI0804800000u AI08048u           MA N/A NT  070101 171201 AISI Allgrades Seamless Stainless Mtd Gross US Shipmts Mthly
+AY AI0804900000u AI08049u           MA N/A NT  070101 180901 AISI Allgrades Seamless Standard Exp US Shipmts Mthly
+AY AI0805000000u AI08050u           MA N/A NT  070401 101201 AISI Allgrades Seamless Standard Less Ship To Rptco US Shipmts Mthly
+AY AI0805100000u AI08051u           MA N/A NT  070101 181001 AISI Allgrades Seamless Standard Mtd Gross US Shipmts Mthly
+AY AI0805200000u AI08052u           MA N/A NT  100801 100801 AISI Allgrades Seamless Structural Exp US Shipmts Mthly
+AY AI0805300000u AI08053u           MA N/A NT                AISI Allgrades Seamless Structural Less Ship To Rptco US Shipmts Mthly
+AY AI0805400000u AI08054u           QR N/A NT  070101 131001 AISI Allgrades Seamless Structural Mtd Gross US Shipmts Mthly

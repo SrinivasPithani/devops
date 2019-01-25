@@ -1,0 +1,197 @@
+FA                                                           © 2019 by S&P Global Inc.,190119
+FA AAITQ0000000c AAITQ00c           WA EUR MT  020307 190117 Silicomanganese 65:16 DDP NWE
+FA AAITQ0000000h AAITQ00h           WA EUR MT  020307 190117 Silicomanganese 65:16 DDP NWE
+FA AAITQ0000000l AAITQ00l           WA EUR MT  020307 190117 Silicomanganese 65:16 DDP NWE
+FA AAIUR0000000c AAIUR00c           WA EUR MT  020307 190117 Ferrosilicon 75% Std DDP NWE
+FA AAIUR0000000h AAIUR00h           WA EUR MT  020307 190117 Ferrosilicon 75% Std DDP NWE
+FA AAIUR0000000l AAIUR00l           WA EUR MT  020307 190117 Ferrosilicon 75% Std DDP NWE
+FA AAWER0000000c AAWER00c           WA USD DMU 120103 190118 Manganese Ore 44% Mn CIF China Wkly
+FA AAWER0300000c AAWER03c           MA USD DMU 120101 181201 Manganese Ore 44% Mn CIF China MAvg
+FA AAWER0400000c AAWER04c           WA USD DMU 120106 141128 Manganese Ore 44% Mn CIF China WAvg
+FA AAWER1600000c AAWER16c           YR USD DMU 121231 181231 Manganese Ore 44% Mn CIF China YAvg
+FA AAXRX0000000c AAXRX00c           WA USD DMT 141205 190118 Manganese Ore 37% Mn CIF China
+FA AAXRX0300000c AAXRX03c           MA USD DMT 141201 181201 Manganese Ore 37% Mn CIF China MAvg
+FA AAXRX1600000c AAXRX16c           YR USD DMT               Manganese Ore 37% Mn CIF China YAvg
+FA CCXIC0300000c CCXIC03c           MA USC LB  130901 181201 Ferrochrome Charge Chrome 48-52% CIF China MAvg
+FA CCXIC0300000h CCXIC03h           MA USC LB  130901 181201 Ferrochrome Charge Chrome 48-52% CIF China MAvg
+FA CCXIC0300000l CCXIC03l           MA USC LB  130901 181201 Ferrochrome Charge Chrome 48-52% CIF China MAvg
+FA CCXIC0400000c CCXIC04c           WA USC LB  130906 190116 Ferrochrome Charge Chrome 48-52% CIF China
+FA CCXIC0400000h CCXIC04h           WA USC LB  130906 190116 Ferrochrome Charge Chrome 48-52% CIF China
+FA CCXIC0400000l CCXIC04l           WA USC LB  130906 190116 Ferrochrome Charge Chrome 48-52% CIF China
+FA CCXIC1600000c CCXIC16c           YR USC LB  141231 181231 Ferrochrome Charge Chrome 48-52% CIF China YAvg
+FA CCXIC1600000h CCXIC16h           YR USC LB  141231 181231 Ferrochrome Charge Chrome 48-52% CIF China YAvg
+FA CCXIC1600000l CCXIC16l           YR USC LB  141231 181231 Ferrochrome Charge Chrome 48-52% CIF China YAvg
+FA MEMFR1UNSAVPc MMAIL00c           WA USC LB  920708 190117 Ferrochrome Low-Carbon 0.10% DDP NWE
+FA MEMFR1UNSAVPh MMAIL00h WMF00EURH WA USC LB  920708 190117 Ferrochrome Low-Carbon 0.10% DDP NWE
+FA MEMFR1UNSAVPl MMAIL00l WMF00EURL WA USC LB  920708 190117 Ferrochrome Low-Carbon 0.10% DDP NWE
+FA MEMFRRIMPAVRc MMAIM00c           WA USC LB  910605 190116 Ferrochrome Low Carbon 0.10% in-warehouse US
+FA MEMFRRIMPAVRh MMAIM00h WMF10IMPH WA USC LB  910605 190116 Ferrochrome Low Carbon 0.10% in-warehouse US
+FA MEMFRRIMPAVRl MMAIM00l WMF10IMPL WA USC LB  910605 190116 Ferrochrome Low Carbon 0.10% in-warehouse US
+FA MEMFRRIMPAVQc MMAIM03c WMF10IMP0 MA USC LB  920901 181201 Ferrochrome Low Carbon 0.10% in-warehouse US MAvg
+FA MEMFRRIMPAVQh MMAIM03h           MA USC LB  920901 181201 Ferrochrome Low Carbon 0.10% in-warehouse US MAvg
+FA MEMFRRIMPAVQl MMAIM03l           MA USC LB  920901 181201 Ferrochrome Low Carbon 0.10% in-warehouse US MAvg
+FA MMAIM1600000c MMAIM16c           YR USC LB  001231 181231 Ferrochrome Low Carbon 0.10% in-warehouse US YAvg
+FA MMAIM1600000h MMAIM16h           YR USC LB  001231 181231 Ferrochrome Low Carbon 0.10% in-warehouse US YAvg
+FA MMAIM1600000l MMAIM16l           YR USC LB  001231 181231 Ferrochrome Low Carbon 0.10% in-warehouse US YAvg
+FA MEMFR5UNSAVUc MMAIP00c           WA USC LB  920708 190117 Charge Chrome 52% DDP NWE
+FA MEMFR5UNSAVUh MMAIP00h WMF50EURH WA USC LB  920708 190117 Charge Chrome 52% DDP NWE
+FA MEMFR5UNSAVUl MMAIP00l WMF50EURL WA USC LB  920708 190117 Charge Chrome 52% DDP NWE
+FA MEMFR6UNSAVVc MMAIQ00c           WA USC LB  920708 190117 Ferrochrome 65% 6-8% High-Carbon DDP NWE
+FA MEMFR6UNSAVVh MMAIQ00h WMF60EURH WA USC LB  920708 190117 Ferrochrome 65% 6-8% High-Carbon DDP NWE
+FA MEMFR6UNSAVVl MMAIQ00l WMF60EURL WA USC LB  920708 190117 Ferrochrome 65% 6-8% High-Carbon DDP NWE
+FA MEMFRCUNSAWAc MMAIV00c           WA USC LB  920903 130905 Ferrochrome 60% FOB China Wkly
+FA MEMFRCUNSAWAh MMAIV00h           WA USC LB  920903 130905 Ferrochrome 60% FOB China Wkly
+FA MEMFRCUNSAWAl MMAIV00l           WA USC LB  920903 130905 Ferrochrome 60% FOB China Wkly
+FA MEMMN9UNSAWCc MMAIX00c           WA USD MT  920903 190118 Electrolytic Manganese 99.7% Mn FOB China
+FA MEMMN9UNSAWCh MMAIX00h           WA USD MT  920903 190118 Electrolytic Manganese 99.7% Mn FOB China
+FA MEMMN9UNSAWCl MMAIX00l           WA USD MT  920903 190118 Electrolytic Manganese 99.7% Mn FOB China
+FA MEMSLNUNSAWMc MMAJF00c           WA USD MT  910627 190117 Silicon 553 grade FOB China
+FA MEMSLNUNSAWMh MMAJF00h           WA USD MT  910627 190117 Silicon 553 grade FOB China
+FA MEMSLNUNSAWMl MMAJF00l           WA USD MT  910627 190117 Silicon 553 grade FOB China
+FA MEMSCMCJCAWNc MMAJG00c           WA USD MT  930701 190117 Silicomanganese 65% CIF Japan
+FA MEMSCMCJCAWNh MMAJG00h WMSG1CJCH WA USD MT  930701 190117 Silicomanganese 65% CIF Japan
+FA MEMSCMCJCAWNl MMAJG00l WMSG1CJCL WA USD MT  930701 190117 Silicomanganese 65% CIF Japan
+FA MEMFSLCJCAWXc MMAJP00c           WA USD MT  930701 190117 Ferrosilicon 75% CIF Japan
+FA MEMFSLCJCAWXh MMAJP00h WMST1CJCH WA USD MT  930701 190117 Ferrosilicon 75% CIF Japan
+FA MEMFSLCJCAWXl MMAJP00l WMST1CJCL WA USD MT  930701 190117 Ferrosilicon 75% CIF Japan
+FA MEMFS7UNSARXc MMAKB00c           WA USD MT  910627 190117 Ferrosilicon 75% FOB China Wkly
+FA MEMFS7UNSARXh MMAKB00h           WA USD MT  910627 190117 Ferrosilicon 75% FOB China Wkly
+FA MEMFS7UNSARXl MMAKB00l           WA USD MT  910627 190117 Ferrosilicon 75% FOB China Wkly
+FA MEMCBZUNSAAAc MMAKF00c           WA USD LB  960613 190117 Cobalt Zambian Wkly
+FA MEMCBZUNSAAAh MMAKF00h           WA USD LB  960613 190117 Cobalt Zambian Wkly
+FA MEMCBZUNSAAAl MMAKF00l           WA USD LB  960613 190117 Cobalt Zambian Wkly
+FA MEMCBRUNSAAAc MMANL04c           WA USD LB  960613 190117 Cobalt Russian Wkly
+FA MEMCBRUNSAAAh MMANL04h WMCRVRUSH WA USD LB  960613 190117 Cobalt Russian Wkly
+FA MEMCBRUNSAAAl MMANL04l WMCRVRUSL WA USD LB  960613 190117 Cobalt Russian Wkly
+FA MEMFROIMPAAAc MMANR00c           WA USC LB  951004 190116 Ferrochrome Low Carbon 0.15% in-warehouse US
+FA MEMFROIMPAAAh MMANR00h WM190IMPH WA USC LB  951004 190116 Ferrochrome Low Carbon 0.15% in-warehouse US
+FA MEMFROIMPAAAl MMANR00l WM190IMPL WA USC LB  951004 190116 Ferrochrome Low Carbon 0.15% in-warehouse US
+FA MMAYQ0000000c MMAYQ00c           DW USD LB  111010 190118 Molybdenum Oxide Daily Dealer (Global)
+FA MMAYQ0000000h MMAYQ00h           DW USD LB  111010 190118 Molybdenum Oxide Daily Dealer (Global)
+FA MMAYQ0000000l MMAYQ00l           DW USD LB  111010 190118 Molybdenum Oxide Daily Dealer (Global)
+FA MMAYQ0300000c MMAYQ03c           MA USD LB  111001 181201 Molybdenum Oxide Daily Dealer (Global) MAvg
+FA MMAYQ0300000h MMAYQ03h           MA USD LB  111001 181201 Molybdenum Oxide Daily Dealer (Global) MAvg
+FA MMAYQ0300000l MMAYQ03l           MA USD LB  111001 181201 Molybdenum Oxide Daily Dealer (Global) MAvg
+FA MMAYQ0500000c MMAYQ05c           DW USD LB  130108 190118 Molybdenum Oxide Daily Dealer (Global) MTD
+FA MMAYQ1600000c MMAYQ16c           YR USD LB  111231 181231 Molybdenum Oxide Daily Dealer (Global) YAvg
+FA MMAYQ1600000h MMAYQ16h           YR USD LB  111231 181231 Molybdenum Oxide Daily Dealer (Global) YAvg
+FA MMAYQ1600000l MMAYQ16l           YR USD LB  111231 181231 Molybdenum Oxide Daily Dealer (Global) YAvg
+FA MEMSC1SPTAABc MMAZF03c           MA EUR MT  020701 181201 Silicomanganese 65:16 DDP NWE MAvg
+FA MMAZF1600000c MMAZF16c           YR EUR MT  141231 181231 Silicomanganese 65:16 DDP NWE YAvg
+FA MMAZH1600000c MMAZH16c           YR EUR MT  141231 181231 Silicon 553 grade in-warehouse Europe YAvg
+FA MMBYQ0000000c MMBYQ00c           DW USD MT  180831 190118 Molybdenum Oxide Daily Dealer (Global) $/mt
+FA MMBYQ0000000h MMBYQ00h           DW USD MT  180831 190118 Molybdenum Oxide Daily Dealer (Global) $/mt
+FA MMBYQ0000000l MMBYQ00l           DW USD MT  180831 190118 Molybdenum Oxide Daily Dealer (Global) $/mt
+FA MMBYQ0300000c MMBYQ03c           MA USD MT  180901 181201 Molybdenum Oxide Daily Dealer (Global) $/mt MAvg
+FA MMBYQ0300000h MMBYQ03h           MA USD MT  180901 181201 Molybdenum Oxide Daily Dealer (Global) $/mt MAvg
+FA MMBYQ0300000l MMBYQ03l           MA USD MT  180901 181201 Molybdenum Oxide Daily Dealer (Global) $/mt MAvg
+FA MMBYQ0500000c MMBYQ05c           DW USD MT  180831 190118 Molybdenum Oxide Daily Dealer (Global) $/mt MTD
+FA MEMCBCSPTAQKc MMAEO00c           WA USD LB  810305 190117 Cobalt Cathode DDP US
+FA MEMCBCSPTAQKh MMAEO00h WM2KVUSSH WA USD LB  810305 190117 Cobalt Cathode DDP US
+FA MEMCBCSPTAQKl MMAEO00l WM2KVUSSL WA USD LB  810305 190117 Cobalt Cathode DDP US
+FA MEMCBCSPTAQJc MMAEO03c WM2KVUSS0 MA USD LB  920901 181201 Cobalt Cathode DDP US MAvg
+FA MMAEO1600000c MMAEO16c           YR USD LB  001231 181231 Cobalt Cathode DDP US YAvg
+FA MEMF50CJSAQSc MMAEW00c           WA USC LB  930701 190116 High-carbon Ferrochrome 60-65% CIF Japan
+FA MEMF50CJSAQSh MMAEW00h WM2T0CJSH WA USC LB  930701 190116 High-carbon Ferrochrome 60-65% CIF Japan
+FA MEMF50CJSAQSl MMAEW00l WM2T0CJSL WA USC LB  930701 190116 High-carbon Ferrochrome 60-65% CIF Japan
+FA MMAEW0300000c MMAEW03c           MA USC LB  170401 181101 High-carbon Ferrochrome 60-65% CIF Japan MAvg
+FA MMAEW0300000h MMAEW03h           MA USC LB  170401 181101 High-carbon Ferrochrome 60-65% CIF Japan MAvg
+FA MMAEW0300000l MMAEW03l           MA USC LB  170401 181101 High-carbon Ferrochrome 60-65% CIF Japan MAvg
+FA MEMF50IMPAQTh MMAEX00h WM2T0IMPH WA USC LB  770316 190116 Charge Chrome 48-52% in-warehouse US
+FA MEMF50IMPAQTl MMAEX00l WM2T0IMPL WA USC LB  770316 190116 Charge Chrome 48-52% in-warehouse US
+FA MEMF60IMPAQXc MMAFA00c           WA USC LB  711215 190116 Ferrochrome High Carbon 65% in-warehouse US
+FA MEMF60IMPAQXh MMAFA00h WM2U0IMPH WA USC LB  711215 190116 Ferrochrome High Carbon 65% in-warehouse US
+FA MEMF60IMPAQXl MMAFA00l WM2U0IMPL WA USC LB  711215 190116 Ferrochrome High Carbon 65% in-warehouse US
+FA MEMF60IMPAQWc MMAFA03c WM2U0IMP0 MA USC LB  920901 181201 Ferrochrome High Carbon 65% in-warehouse US MAvg
+FA MEMF60IMPAQWh MMAFA03h           MA USC LB  920901 181201 Ferrochrome High Carbon 65% in-warehouse US MAvg
+FA MEMF60IMPAQWl MMAFA03l           MA USC LB  920901 181201 Ferrochrome High Carbon 65% in-warehouse US MAvg
+FA MMAFA1600000c MMAFA16c           YR USC LB  001231 181231 Ferrochrome High Carbon 65% in-warehouse US YAvg
+FA MMAFA1600000h MMAFA16h           YR USC LB  001231 181231 Ferrochrome High Carbon 65% in-warehouse US YAvg
+FA MMAFA1600000l MMAFA16l           YR USC LB  001231 181231 Ferrochrome High Carbon 65% in-warehouse US YAvg
+FA MEMFRLIMPARAc MMAFC00c           WA USC LB  730103 190116 Ferrochrome Low Carbon 0.05% in-warehouse US
+FA MEMFRLIMPARAh MMAFC00h WM2X0IMPH WA USC LB  730103 190116 Ferrochrome Low Carbon 0.05% in-warehouse US
+FA MEMFRLIMPARAl MMAFC00l WM2X0IMPL WA USC LB  730103 190116 Ferrochrome Low Carbon 0.05% in-warehouse US
+FA MEMFRLIMPAQZc MMAFC03c WM2X0IMP0 MA USC LB  920901 181201 Ferrochrome Low Carbon 0.05% in-warehouse US MAvg
+FA MEMFRLIMPAQZh MMAFC03h           MA USC LB  920901 181201 Ferrochrome Low Carbon 0.05% in-warehouse US MAvg
+FA MEMFRLIMPAQZl MMAFC03l           MA USC LB  920901 181201 Ferrochrome Low Carbon 0.05% in-warehouse US MAvg
+FA MMAFC1600000c MMAFC16c           YR USC LB  001231 181231 Ferrochrome Low Carbon 0.05% in-warehouse US YAvg
+FA MMAFC1600000h MMAFC16h           YR USC LB  001231 181231 Ferrochrome Low Carbon 0.05% in-warehouse US YAvg
+FA MMAFC1600000l MMAFC16l           YR USC LB  001231 181231 Ferrochrome Low Carbon 0.05% in-warehouse US YAvg
+FA MEMFM7IMPARFc MMAFH00c           WA USD GRT 711215 190116 Ferromanganese High-Carbon 76% Mn in-warehouse US
+FA MEMFM7IMPARFh MMAFH00h WM31DIMPH WA USD GRT 711215 190116 Ferromanganese High-Carbon 76% Mn in-warehouse US
+FA MEMFM7IMPARFl MMAFH00l WM31DIMPL WA USD GRT 711215 190116 Ferromanganese High-Carbon 76% Mn in-warehouse US
+FA MMAFH0300000c MMAFH03c           MA USD GRT 040601 181201 Ferromanganese High-Carbon 76% Mn in-warehouse US MAvg
+FA MMAFH0300000h MMAFH03h           MA USD GRT 040601 181201 Ferromanganese High-Carbon 76% Mn in-warehouse US MAvg
+FA MMAFH0300000l MMAFH03l           MA USD GRT 040601 181201 Ferromanganese High-Carbon 76% Mn in-warehouse US MAvg
+FA MMAFH1600000c MMAFH16c           YR USD GRT 041231 181231 Ferromanganese High Carbon 76% Mn in-warehouse US YAvg
+FA MMAFH1600000h MMAFH16h           YR USD GRT 041231 181231 Ferromanganese High Carbon 76% Mn in-warehouse US YAvg
+FA MMAFH1600000l MMAFH16l           YR USD GRT 041231 181231 Ferromanganese High Carbon 76% Mn in-warehouse US YAvg
+FA MEMFMMIMPARJc MMAFK00c           WA USC LB  751022 190116 Ferromanganese Medium Carbon 85% Mn in-warehouse US
+FA MEMFMMIMPARJh MMAFK00h WM340IMPH WA USC LB  751022 190116 Ferromanganese Medium Carbon 85% Mn in-warehouse US
+FA MEMFMMIMPARJl MMAFK00l WM340IMPL WA USC LB  751022 190116 Ferromanganese Medium Carbon 85% Mn in-warehouse US
+FA MEMFMMIMPARIc MMAFK03c WM340IMP0 MA USC LB  920901 181201 Ferromanganese Medium Carbon 85% Mn in-warehouse US MAvg
+FA MEMFMMIMPARIh MMAFK03h           MA USC LB  920901 181201 Ferromanganese Medium Carbon 85% Mn in-warehouse US MAvg
+FA MEMFMMIMPARIl MMAFK03l           MA USC LB  920901 181201 Ferromanganese Medium Carbon 85% Mn in-warehouse US MAvg
+FA MMAFK1600000c MMAFK16c           YR USC LB  001231 181231 Ferromanganese Medium Carbon 85% Mn in-warehouse US YAvg
+FA MMAFK1600000h MMAFK16h           YR USC LB  001231 181231 Ferromanganese Medium Carbon 85% Mn in-warehouse US YAvg
+FA MMAFK1600000l MMAFK16l           YR USC LB  001231 181231 Ferromanganese Medium Carbon 85% Mn in-warehouse US YAvg
+FA MEMFBMCJSARLc MMAFM00c           WA USD KG  930701 190117 Ferromolybdenum CIF Jap Wkly
+FA MEMFBMCJSARLh MMAFM00h WM35ECJSH WA USD KG  930701 190117 Ferromolybdenum CIF Jap Wkly
+FA MEMFBMCJSARLl MMAFM00l WM35ECJSL WA USD KG  930701 190117 Ferromolybdenum CIF Jap Wkly
+FA MEMFBMFEMAROc MMAFO00c           DW USD KG  870129 190118 Ferromolybdenum 65% European in warehouse Rotterdam
+FA MEMFBMFEMAROh MMAFO00h WM35EFEEH DW USD KG  870129 190118 Ferromolybdenum 65% European in warehouse Rotterdam
+FA MEMFBMFEMAROl MMAFO00l WM35EFEEL DW USD KG  870129 190118 Ferromolybdenum 65% European in warehouse Rotterdam
+FA MEMFBMFEMARNc MMAFO03c WM35EFEE0 MA USD KG  920901 181201 Ferromolybdenum 65% European in warehouse Rotterdam MAvg
+FA MMAFO0400000c MMAFO04c           WA USD KG  140502 190118 Ferromolybdenum 65% European in warehouse Rotterdam WAvg
+FA MMAFO0400000h MMAFO04h           WA USD KG  140502 190118 Ferromolybdenum 65% European in warehouse Rotterdam WAvg
+FA MMAFO0400000l MMAFO04l           WA USD KG  140502 190118 Ferromolybdenum 65% European in warehouse Rotterdam WAvg
+FA MMAFO1600000c MMAFO16c           YR USD KG  001231 181231 Ferromolybdenum 65% European in warehouse Rotterdam YAvg
+FA MEMFBMKHFARPc MMAFP00c           WA USD KG  910627 190117 Ferromolybdenum FOB China Wkly
+FA MEMFBMKHFARPh MMAFP00h           WA USD KG  910627 190117 Ferromolybdenum FOB China Wkly
+FA MEMFBMKHFARPl MMAFP00l           WA USD KG  910627 190117 Ferromolybdenum FOB China Wkly
+FA MEMFBMFEMARRc MMAFQ00c           WA USD LB  711104 190117 Ferromolybdenum delivered US
+FA MEMFBMFEMARRh MMAFQ00h WM35EFEUH WA USD LB  711104 190117 Ferromolybdenum delivered US
+FA MEMFBMFEMARRl MMAFQ00l WM35EFEUL WA USD LB  711104 190117 Ferromolybdenum delivered US
+FA MEMFBMFEMARQc MMAFQ03c WM35EFEU0 MA USD LB  920901 181201 Ferromolybdenum delivered US MAvg
+FA MMAFQ1600000c MMAFQ16c           YR USD LB  001231 181231 Ferromolybdenum delivered US YAvg
+FA MEMFS7IMPARVc MMAFT00c           WA USC LB  751022 190116 Ferrosilicon 75% Si in-warehouse US
+FA MEMFS7IMPARVh MMAFT00h WM370IMPH WA USC LB  751022 190116 Ferrosilicon 75% Si in-warehouse US
+FA MEMFS7IMPARVl MMAFT00l WM370IMPL WA USC LB  751022 190116 Ferrosilicon 75% Si in-warehouse US
+FA MEMFS7IMPARUc MMAFT03c WM370IMP0 MA USC LB  920901 181201 Ferrosilicon 75% Si in-warehouse US Mavg
+FA MEMFS7IMPARUh MMAFT03h           MA USC LB  920901 181201 Ferrosilicon 75% Si in-warehouse US Mavg
+FA MEMFS7IMPARUl MMAFT03l           MA USC LB  920901 181201 Ferrosilicon 75% Si in-warehouse US Mavg
+FA MEMFV8UNSASCc MMAFY00c           WA USD LB  880630 190117 Ferrovanadium delivered US
+FA MEMFV8UNSASCh MMAFY00h           WA USD LB  880630 190117 Ferrovanadium delivered US
+FA MEMFV8UNSASCl MMAFY00l           WA USD LB  880630 190117 Ferrovanadium delivered US
+FA MMAFY0300000c MMAFY03c           MA USD LB  050801 181201 Ferrovanadium delivered US MAvg
+FA MMAFY1600000c MMAFY16c           YR USD LB  051231 181231 Ferrovanadium delivered US YAvg
+FA MEMFVVUNSASHc MMAGD00c           WA USD LB  880630 190117 Ferrovanadium V2O5 Wkly
+FA MEMFVVUNSASHh MMAGD00h WM3AV$$$H WA USD LB  880630 190117 Ferrovanadium V2O5 Wkly
+FA MEMFVVUNSASHl MMAGD00l WM3AV$$$L WA USD LB  880630 190117 Ferrovanadium V2O5 Wkly
+FA MEMMOXDLRASWc MMAGQ00c           WA USD LB  710408 190118 Molybdenum Oxide Daily Dealer (Global) WAvg
+FA MEMMOXDLRASWh MMAGQ00h           WA USD LB  710408 190118 Molybdenum Oxide Daily Dealer (Global) WAvg
+FA MEMMOXDLRASWl MMAGQ00l           WA USD LB  710408 190118 Molybdenum Oxide Daily Dealer (Global) WAvg
+FA MEMSM2IMPASYc MMAGR00c           WA USC LB  770316 190116 Silicomanganese 65% Mn in-warehouse US
+FA MEMSM2IMPASYh MMAGR00h WM3J0IMPH WA USC LB  770316 190116 Silicomanganese 65% Mn in-warehouse US
+FA MEMSM2IMPASYl MMAGR00l WM3J0IMPL WA USC LB  770316 190116 Silicomanganese 65% Mn in-warehouse US
+FA MEMSM2IMPASXc MMAGR03c WM3J0IMP0 MA USC LB  920901 181201 Silicomanganese 65% Mn in-warehouse US MAvg
+FA MEMSM2IMPASXh MMAGR03h           MA USC LB  920901 181201 Silicomanganese 65% Mn in-warehouse US MAvg
+FA MEMSM2IMPASXl MMAGR03l           MA USC LB  920901 181201 Silicomanganese 65% Mn in-warehouse US MAvg
+FA MMAGR1600000c MMAGR16c           YR USC LB  001231 181231 Silicomanganese 65% Mn in-warehouse US YAvg
+FA MMAGR1600000h MMAGR16h           YR USC LB  001231 181231 Silicomanganese 65% Mn in-warehouse US YAvg
+FA MMAGR1600000l MMAGR16l           YR USC LB  001231 181231 Silicomanganese 65% Mn in-warehouse US YAvg
+FA MEMTGOSPTATHh MMAHA00h           WA USD STU 770106 190117 Tungsten US Spot Ore Wk
+FA MEMTGOSPTATHl MMAHA00l           WA USD STU 770106 190117 Tungsten US Spot Ore Wk
+FA MEMTGAUNSATJc MMAHC00c           WA USD STU 871029 190117 Tungsten APT US Wk
+FA MEMTGAUNSATJh MMAHC00h           WA USD STU 871029 190117 Tungsten APT US Wk
+FA MEMTGAUNSATJl MMAHC00l           WA USD STU 871029 190117 Tungsten APT US Wk
+FA MMAHC0300000c MMAHC03c           MA USD STU 171001 181201 Tungsten APT US MAvg
+FA MEMMWFUNSATXc MMAHK00c           WA USD KG  901018 190117 Ferrotungsten Wk
+FA MEMMWFUNSATXh MMAHK00h           WA USD KG  901018 190117 Ferrotungsten Wk
+FA MEMMWFUNSATXl MMAHK00l           WA USD KG  901018 190117 Ferrotungsten Wk
+FA MEMCB9UNSAVOc MMAIK00c           WA USD LB  920202 190117 Cobalt 99.8% European Wkly
+FA MEMCB9UNSAVOh MMAIK00h WMC9VEURH WA USD LB  920202 190117 Cobalt 99.8% European Wkly
+FA MEMCB9UNSAVOl MMAIK00l WMC9VEURL WA USD LB  920202 190117 Cobalt 99.8% European Wkly
+FA SB0110300000c SB01103c           WA USC LB  090302 190116 High-carbon Ferrochrome 58-60% CIF China
+FA SB0110300000h SB01103h           WA USC LB  090302 190116 High-carbon Ferrochrome 58-60% CIF China
+FA SB0110300000l SB01103l           WA USC LB  090302 190116 High-carbon Ferrochrome 58-60% CIF China

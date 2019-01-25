@@ -1,0 +1,1301 @@
+QF                                                           © 2019 by S&P Global Inc.,190119
+QF XNQP05900000c XNQP059c           DW USD TON               NYMEX Western Rail PRB Coal Swap 59-Mo Elect
+QF XNQP05900000e XNQP059e           DW USD TON               NYMEX Western Rail PRB Coal Swap 59-Mo Elect
+QF XNQP05900000h XNQP059h           DW USD TON               NYMEX Western Rail PRB Coal Swap 59-Mo Elect
+QF XNQP05900000l XNQP059l           DW USD TON               NYMEX Western Rail PRB Coal Swap 59-Mo Elect
+QF XNQP05900000o XNQP059o           DW USD TON               NYMEX Western Rail PRB Coal Swap 59-Mo Elect
+QF XNQP05900000w XNQP059w           DW USD TON               NYMEX Western Rail PRB Coal Swap 59-Mo Elect
+QF XNQP06000000c XNQP060c           DW USD TON               NYMEX Western Rail PRB Coal Swap 60-Mo Elect
+QF XNQP06000000e XNQP060e           DW USD TON               NYMEX Western Rail PRB Coal Swap 60-Mo Elect
+QF XNQP06000000h XNQP060h           DW USD TON               NYMEX Western Rail PRB Coal Swap 60-Mo Elect
+QF XNQP06000000l XNQP060l           DW USD TON               NYMEX Western Rail PRB Coal Swap 60-Mo Elect
+QF XNQP06000000o XNQP060o           DW USD TON               NYMEX Western Rail PRB Coal Swap 60-Mo Elect
+QF XNQP06000000w XNQP060w           DW USD TON               NYMEX Western Rail PRB Coal Swap 60-Mo Elect
+QF XNQP06100000c XNQP061c           DW USD TON               NYMEX Western Rail PRB Coal Swap 61-Mo Elect
+QF XNQP06100000e XNQP061e           DW USD TON               NYMEX Western Rail PRB Coal Swap 61-Mo Elect
+QF XNQP06100000h XNQP061h           DW USD TON               NYMEX Western Rail PRB Coal Swap 61-Mo Elect
+QF XNQP06100000l XNQP061l           DW USD TON               NYMEX Western Rail PRB Coal Swap 61-Mo Elect
+QF XNQP06100000o XNQP061o           DW USD TON               NYMEX Western Rail PRB Coal Swap 61-Mo Elect
+QF XNQP06100000w XNQP061w           DW USD TON               NYMEX Western Rail PRB Coal Swap 61-Mo Elect
+QF XNQP06200000c XNQP062c           DW USD TON               NYMEX Western Rail PRB Coal Swap 62-Mo Elect
+QF XNQP06200000e XNQP062e           DW USD TON               NYMEX Western Rail PRB Coal Swap 62-Mo Elect
+QF XNQP06200000h XNQP062h           DW USD TON               NYMEX Western Rail PRB Coal Swap 62-Mo Elect
+QF XNQP06200000l XNQP062l           DW USD TON               NYMEX Western Rail PRB Coal Swap 62-Mo Elect
+QF XNQP06200000o XNQP062o           DW USD TON               NYMEX Western Rail PRB Coal Swap 62-Mo Elect
+QF XNQP06200000w XNQP062w           DW USD TON               NYMEX Western Rail PRB Coal Swap 62-Mo Elect
+QF XNQP06300000c XNQP063c           DW USD TON               NYMEX Western Rail PRB Coal Swap 63-Mo Elect
+QF XNQP06300000e XNQP063e           DW USD TON               NYMEX Western Rail PRB Coal Swap 63-Mo Elect
+QF XNQP06300000h XNQP063h           DW USD TON               NYMEX Western Rail PRB Coal Swap 63-Mo Elect
+QF XNQP06300000l XNQP063l           DW USD TON               NYMEX Western Rail PRB Coal Swap 63-Mo Elect
+QF XNQP06300000o XNQP063o           DW USD TON               NYMEX Western Rail PRB Coal Swap 63-Mo Elect
+QF XNQP06300000w XNQP063w           DW USD TON               NYMEX Western Rail PRB Coal Swap 63-Mo Elect
+QF XNQP06400000c XNQP064c           DW USD TON               NYMEX Western Rail PRB Coal Swap 64-Mo Elect
+QF XNQP06400000e XNQP064e           DW USD TON               NYMEX Western Rail PRB Coal Swap 64-Mo Elect
+QF XNQP06400000h XNQP064h           DW USD TON               NYMEX Western Rail PRB Coal Swap 64-Mo Elect
+QF XNQP06400000l XNQP064l           DW USD TON               NYMEX Western Rail PRB Coal Swap 64-Mo Elect
+QF XNQP06400000o XNQP064o           DW USD TON               NYMEX Western Rail PRB Coal Swap 64-Mo Elect
+QF XNQP06400000w XNQP064w           DW USD TON               NYMEX Western Rail PRB Coal Swap 64-Mo Elect
+QF XNQP06500000c XNQP065c           DW USD TON               NYMEX Western Rail PRB Coal Swap 65-Mo Elect
+QF XNQP06500000e XNQP065e           DW USD TON               NYMEX Western Rail PRB Coal Swap 65-Mo Elect
+QF XNQP06500000h XNQP065h           DW USD TON               NYMEX Western Rail PRB Coal Swap 65-Mo Elect
+QF XNQP06500000l XNQP065l           DW USD TON               NYMEX Western Rail PRB Coal Swap 65-Mo Elect
+QF XNQP06500000o XNQP065o           DW USD TON               NYMEX Western Rail PRB Coal Swap 65-Mo Elect
+QF XNQP06500000w XNQP065w           DW USD TON               NYMEX Western Rail PRB Coal Swap 65-Mo Elect
+QF XNQP06600000c XNQP066c           DW USD TON               NYMEX Western Rail PRB Coal Swap 66-Mo Elect
+QF XNQP06600000e XNQP066e           DW USD TON               NYMEX Western Rail PRB Coal Swap 66-Mo Elect
+QF XNQP06600000h XNQP066h           DW USD TON               NYMEX Western Rail PRB Coal Swap 66-Mo Elect
+QF XNQP06600000l XNQP066l           DW USD TON               NYMEX Western Rail PRB Coal Swap 66-Mo Elect
+QF XNQP06600000o XNQP066o           DW USD TON               NYMEX Western Rail PRB Coal Swap 66-Mo Elect
+QF XNQP06600000w XNQP066w           DW USD TON               NYMEX Western Rail PRB Coal Swap 66-Mo Elect
+QF XNQP06700000c XNQP067c           DW USD TON               NYMEX Western Rail PRB Coal Swap 67-Mo Elect
+QF XNQP06700000e XNQP067e           DW USD TON               NYMEX Western Rail PRB Coal Swap 67-Mo Elect
+QF XNQP06700000h XNQP067h           DW USD TON               NYMEX Western Rail PRB Coal Swap 67-Mo Elect
+QF XNQP06700000l XNQP067l           DW USD TON               NYMEX Western Rail PRB Coal Swap 67-Mo Elect
+QF XNQP06700000o XNQP067o           DW USD TON               NYMEX Western Rail PRB Coal Swap 67-Mo Elect
+QF XNQP06700000w XNQP067w           DW USD TON               NYMEX Western Rail PRB Coal Swap 67-Mo Elect
+QF XNQP06800000c XNQP068c           DW USD TON               NYMEX Western Rail PRB Coal Swap 68-Mo Elect
+QF XNQP06800000e XNQP068e           DW USD TON               NYMEX Western Rail PRB Coal Swap 68-Mo Elect
+QF XNQP06800000h XNQP068h           DW USD TON               NYMEX Western Rail PRB Coal Swap 68-Mo Elect
+QF XNQP06800000l XNQP068l           DW USD TON               NYMEX Western Rail PRB Coal Swap 68-Mo Elect
+QF XNQXU1900000e XNQXU19e           DW USD TON               NYMEX Easter Rail CSX Coal Swap Sep 2019 Elect
+QF XNQXU1900000h XNQXU19h           DW USD TON               NYMEX Easter Rail CSX Coal Swap Sep 2019 Elect
+QF XNQXU1900000l XNQXU19l           DW USD TON               NYMEX Easter Rail CSX Coal Swap Sep 2019 Elect
+QF XNQXU1900000o XNQXU19o           DW USD TON               NYMEX Easter Rail CSX Coal Swap Sep 2019 Elect
+QF XNQXU1900000w XNQXU19w           DW USD TON               NYMEX Easter Rail CSX Coal Swap Sep 2019 Elect
+QF XNQXU2000000c XNQXU20c           DW USD TON               NYMEX Easter Rail CSX Coal Swap Sep 2020 Elect
+QF XNQXU2000000e XNQXU20e           DW USD TON               NYMEX Easter Rail CSX Coal Swap Sep 2020 Elect
+QF XNQXU2000000h XNQXU20h           DW USD TON               NYMEX Easter Rail CSX Coal Swap Sep 2020 Elect
+QF XNQXU2000000l XNQXU20l           DW USD TON               NYMEX Easter Rail CSX Coal Swap Sep 2020 Elect
+QF XNQXU2000000o XNQXU20o           DW USD TON               NYMEX Easter Rail CSX Coal Swap Sep 2020 Elect
+QF XNQXU2000000w XNQXU20w           DW USD TON               NYMEX Easter Rail CSX Coal Swap Sep 2020 Elect
+QF XNQXV1800000c XNQXV18c           DW USD TON 150713 180927 NYMEX Easter Rail CSX Coal Swap Oct 2018 Elect
+QF XNQXV1800000e XNQXV18e           DW USD TON 150713 180927 NYMEX Easter Rail CSX Coal Swap Oct 2018 Elect
+QF XNQXV1800000h XNQXV18h           DW USD TON 150713 180927 NYMEX Easter Rail CSX Coal Swap Oct 2018 Elect
+QF XNQXV1800000l XNQXV18l           DW USD TON 150713 180927 NYMEX Easter Rail CSX Coal Swap Oct 2018 Elect
+QF XNQXV1800000o XNQXV18o           DW USD TON 150713 180927 NYMEX Easter Rail CSX Coal Swap Oct 2018 Elect
+QF XNQXV1800000w XNQXV18w           DW USD TON 150713 180927 NYMEX Easter Rail CSX Coal Swap Oct 2018 Elect
+QF XNQXV1900000c XNQXV19c           DW USD TON               NYMEX Easter Rail CSX Coal Swap Oct 2019 Elect
+QF XNQXV1900000e XNQXV19e           DW USD TON               NYMEX Easter Rail CSX Coal Swap Oct 2019 Elect
+QF XNQXV1900000h XNQXV19h           DW USD TON               NYMEX Easter Rail CSX Coal Swap Oct 2019 Elect
+QF XNQXV1900000l XNQXV19l           DW USD TON               NYMEX Easter Rail CSX Coal Swap Oct 2019 Elect
+QF XNQXV1900000o XNQXV19o           DW USD TON               NYMEX Easter Rail CSX Coal Swap Oct 2019 Elect
+QF XNQXV1900000w XNQXV19w           DW USD TON               NYMEX Easter Rail CSX Coal Swap Oct 2019 Elect
+QF XNQXV2000000c XNQXV20c           DW USD TON               NYMEX Easter Rail CSX Coal Swap Oct 2020 Elect
+QF XNQXV2000000e XNQXV20e           DW USD TON               NYMEX Easter Rail CSX Coal Swap Oct 2020 Elect
+QF XNQXV2000000h XNQXV20h           DW USD TON               NYMEX Easter Rail CSX Coal Swap Oct 2020 Elect
+QF XNQXV2000000l XNQXV20l           DW USD TON               NYMEX Easter Rail CSX Coal Swap Oct 2020 Elect
+QF XNQXV2000000o XNQXV20o           DW USD TON               NYMEX Easter Rail CSX Coal Swap Oct 2020 Elect
+QF XNQXV2000000w XNQXV20w           DW USD TON               NYMEX Easter Rail CSX Coal Swap Oct 2020 Elect
+QF XNQXX1800000c XNQXX18c           DW USD TON 150713 181029 NYMEX Easter Rail CSX Coal Swap Nov 2018 Elect
+QF XNQXX1800000e XNQXX18e           DW USD TON 150713 181029 NYMEX Easter Rail CSX Coal Swap Nov 2018 Elect
+QF XNQXX1800000h XNQXX18h           DW USD TON 150713 181029 NYMEX Easter Rail CSX Coal Swap Nov 2018 Elect
+QF XNQXX1800000l XNQXX18l           DW USD TON 150713 181029 NYMEX Easter Rail CSX Coal Swap Nov 2018 Elect
+QF XNQXX1800000o XNQXX18o           DW USD TON 150713 181029 NYMEX Easter Rail CSX Coal Swap Nov 2018 Elect
+QF XNQXX1800000w XNQXX18w           DW USD TON 150713 181029 NYMEX Easter Rail CSX Coal Swap Nov 2018 Elect
+QF XNQXX1900000c XNQXX19c           DW USD TON               NYMEX Easter Rail CSX Coal Swap Nov 2019 Elect
+QF XNQXX1900000e XNQXX19e           DW USD TON               NYMEX Easter Rail CSX Coal Swap Nov 2019 Elect
+QF XNQXX1900000h XNQXX19h           DW USD TON               NYMEX Easter Rail CSX Coal Swap Nov 2019 Elect
+QF XNQXX1900000l XNQXX19l           DW USD TON               NYMEX Easter Rail CSX Coal Swap Nov 2019 Elect
+QF XNQXX1900000o XNQXX19o           DW USD TON               NYMEX Easter Rail CSX Coal Swap Nov 2019 Elect
+QF XNQXX1900000w XNQXX19w           DW USD TON               NYMEX Easter Rail CSX Coal Swap Nov 2019 Elect
+QF XNQXX2000000c XNQXX20c           DW USD TON               NYMEX Easter Rail CSX Coal Swap Nov 2020 Elect
+QF XNQXX2000000e XNQXX20e           DW USD TON               NYMEX Easter Rail CSX Coal Swap Nov 2020 Elect
+QF XNQXX2000000h XNQXX20h           DW USD TON               NYMEX Easter Rail CSX Coal Swap Nov 2020 Elect
+QF XNQXX2000000l XNQXX20l           DW USD TON               NYMEX Easter Rail CSX Coal Swap Nov 2020 Elect
+QF XNQXX2000000o XNQXX20o           DW USD TON               NYMEX Easter Rail CSX Coal Swap Nov 2020 Elect
+QF XNQXX2000000w XNQXX20w           DW USD TON               NYMEX Easter Rail CSX Coal Swap Nov 2020 Elect
+QF XNQXZ1800000c XNQXZ18c           DW USD TON 150713 181127 NYMEX Easter Rail CSX Coal Swap Dec 2018 Elect
+QF XNQXZ1800000e XNQXZ18e           DW USD TON 150713 181127 NYMEX Easter Rail CSX Coal Swap Dec 2018 Elect
+QF XNQXZ1800000h XNQXZ18h           DW USD TON 150713 181127 NYMEX Easter Rail CSX Coal Swap Dec 2018 Elect
+QF XNQXZ1800000l XNQXZ18l           DW USD TON 150713 181127 NYMEX Easter Rail CSX Coal Swap Dec 2018 Elect
+QF XNQXZ1800000o XNQXZ18o           DW USD TON 150713 181127 NYMEX Easter Rail CSX Coal Swap Dec 2018 Elect
+QF XNQXZ1800000w XNQXZ18w           DW USD TON 150713 181127 NYMEX Easter Rail CSX Coal Swap Dec 2018 Elect
+QF XNQXZ1900000c XNQXZ19c           DW USD TON               NYMEX Easter Rail CSX Coal Swap Dec 2019 Elect
+QF XNQXZ1900000e XNQXZ19e           DW USD TON               NYMEX Easter Rail CSX Coal Swap Dec 2019 Elect
+QF XNQP06800000o XNQP068o           DW USD TON               NYMEX Western Rail PRB Coal Swap 68-Mo Elect
+QF XNQP06800000w XNQP068w           DW USD TON               NYMEX Western Rail PRB Coal Swap 68-Mo Elect
+QF XNQP06900000c XNQP069c           DW USD TON               NYMEX Western Rail PRB Coal Swap 69-Mo Elect
+QF XNQP06900000e XNQP069e           DW USD TON               NYMEX Western Rail PRB Coal Swap 69-Mo Elect
+QF XNQP06900000h XNQP069h           DW USD TON               NYMEX Western Rail PRB Coal Swap 69-Mo Elect
+QF XNQP06900000l XNQP069l           DW USD TON               NYMEX Western Rail PRB Coal Swap 69-Mo Elect
+QF XNQP06900000o XNQP069o           DW USD TON               NYMEX Western Rail PRB Coal Swap 69-Mo Elect
+QF XNQP06900000w XNQP069w           DW USD TON               NYMEX Western Rail PRB Coal Swap 69-Mo Elect
+QF XNQP07000000c XNQP070c           DW USD TON               NYMEX Western Rail PRB Coal Swap 70-Mo Elect
+QF XNQP07000000e XNQP070e           DW USD TON               NYMEX Western Rail PRB Coal Swap 70-Mo Elect
+QF XNQP07000000h XNQP070h           DW USD TON               NYMEX Western Rail PRB Coal Swap 70-Mo Elect
+QF XNQP07000000l XNQP070l           DW USD TON               NYMEX Western Rail PRB Coal Swap 70-Mo Elect
+QF XNQP07000000o XNQP070o           DW USD TON               NYMEX Western Rail PRB Coal Swap 70-Mo Elect
+QF XNQP07000000w XNQP070w           DW USD TON               NYMEX Western Rail PRB Coal Swap 70-Mo Elect
+QF XNQP07100000c XNQP071c           DW USD TON               NYMEX Western Rail PRB Coal Swap 71-Mo Elect
+QF XNQP07100000e XNQP071e           DW USD TON               NYMEX Western Rail PRB Coal Swap 71-Mo Elect
+QF XNQP07100000h XNQP071h           DW USD TON               NYMEX Western Rail PRB Coal Swap 71-Mo Elect
+QF XNQP07100000l XNQP071l           DW USD TON               NYMEX Western Rail PRB Coal Swap 71-Mo Elect
+QF XNQP07100000o XNQP071o           DW USD TON               NYMEX Western Rail PRB Coal Swap 71-Mo Elect
+QF XNQP07100000w XNQP071w           DW USD TON               NYMEX Western Rail PRB Coal Swap 71-Mo Elect
+QF XNQP07200000c XNQP072c           DW USD TON               NYMEX Western Rail PRB Coal Swap 72-Mo Elect
+QF XNQP07200000e XNQP072e           DW USD TON               NYMEX Western Rail PRB Coal Swap 72-Mo Elect
+QF XNQP07200000h XNQP072h           DW USD TON               NYMEX Western Rail PRB Coal Swap 72-Mo Elect
+QF XNQP07200000l XNQP072l           DW USD TON               NYMEX Western Rail PRB Coal Swap 72-Mo Elect
+QF XNQP07200000o XNQP072o           DW USD TON               NYMEX Western Rail PRB Coal Swap 72-Mo Elect
+QF XNQP07200000w XNQP072w           DW USD TON               NYMEX Western Rail PRB Coal Swap 72-Mo Elect
+QF XNQPF1800000c XNQPF18c           DW USD TON 151014 171227 NYMEX Western Rail PRB Coal Swap Jan 2018 Elect
+QF XNQPF1800000e XNQPF18e           DW USD TON 151014 171227 NYMEX Western Rail PRB Coal Swap Jan 2018 Elect
+QF XNQPF1800000h XNQPF18h           DW USD TON 151014 171227 NYMEX Western Rail PRB Coal Swap Jan 2018 Elect
+QF XNQPF1800000l XNQPF18l           DW USD TON 151014 171227 NYMEX Western Rail PRB Coal Swap Jan 2018 Elect
+QF XNQPF1800000o XNQPF18o           DW USD TON 151014 171227 NYMEX Western Rail PRB Coal Swap Jan 2018 Elect
+QF XNQPF1800000w XNQPF18w           DW USD TON 151014 171227 NYMEX Western Rail PRB Coal Swap Jan 2018 Elect
+QF XNQPF1900000c XNQPF19c           DW USD TON               NYMEX Western Rail PRB Coal Swap Jan 2019 Elect
+QF XNQPF1900000e XNQPF19e           DW USD TON               NYMEX Western Rail PRB Coal Swap Jan 2019 Elect
+QF XNQPF1900000h XNQPF19h           DW USD TON               NYMEX Western Rail PRB Coal Swap Jan 2019 Elect
+QF XNQPF1900000l XNQPF19l           DW USD TON               NYMEX Western Rail PRB Coal Swap Jan 2019 Elect
+QF XNQPF1900000o XNQPF19o           DW USD TON               NYMEX Western Rail PRB Coal Swap Jan 2019 Elect
+QF XNQPF1900000w XNQPF19w           DW USD TON               NYMEX Western Rail PRB Coal Swap Jan 2019 Elect
+QF XNQPF2000000c XNQPF20c           DW USD TON               NYMEX Western Rail PRB Coal Swap Jan 2020 Elect
+QF XNQPF2000000e XNQPF20e           DW USD TON               NYMEX Western Rail PRB Coal Swap Jan 2020 Elect
+QF XNQPF2000000h XNQPF20h           DW USD TON               NYMEX Western Rail PRB Coal Swap Jan 2020 Elect
+QF XNQPF2000000l XNQPF20l           DW USD TON               NYMEX Western Rail PRB Coal Swap Jan 2020 Elect
+QF XNQPF2000000o XNQPF20o           DW USD TON               NYMEX Western Rail PRB Coal Swap Jan 2020 Elect
+QF XNQPF2000000w XNQPF20w           DW USD TON               NYMEX Western Rail PRB Coal Swap Jan 2020 Elect
+QF XNQPG1800000c XNQPG18c           DW USD TON 151014 180129 NYMEX Western Rail PRB Coal Swap Feb 2018 Elect
+QF XNQPG1800000e XNQPG18e           DW USD TON 151014 180129 NYMEX Western Rail PRB Coal Swap Feb 2018 Elect
+QF XNQPG1800000h XNQPG18h           DW USD TON 151014 180129 NYMEX Western Rail PRB Coal Swap Feb 2018 Elect
+QF XNQPG1800000l XNQPG18l           DW USD TON 151014 180129 NYMEX Western Rail PRB Coal Swap Feb 2018 Elect
+QF XNQPG1800000o XNQPG18o           DW USD TON 151014 180129 NYMEX Western Rail PRB Coal Swap Feb 2018 Elect
+QF XNQPG1800000w XNQPG18w           DW USD TON 151014 180129 NYMEX Western Rail PRB Coal Swap Feb 2018 Elect
+QF XNQPG1900000c XNQPG19c           DW USD TON               NYMEX Western Rail PRB Coal Swap Feb 2019 Elect
+QF XNQPG1900000e XNQPG19e           DW USD TON               NYMEX Western Rail PRB Coal Swap Feb 2019 Elect
+QF XNQPG1900000h XNQPG19h           DW USD TON               NYMEX Western Rail PRB Coal Swap Feb 2019 Elect
+QF XNQPG1900000l XNQPG19l           DW USD TON               NYMEX Western Rail PRB Coal Swap Feb 2019 Elect
+QF XNQPG1900000o XNQPG19o           DW USD TON               NYMEX Western Rail PRB Coal Swap Feb 2019 Elect
+QF XNQPG1900000w XNQPG19w           DW USD TON               NYMEX Western Rail PRB Coal Swap Feb 2019 Elect
+QF XNQXZ1900000h XNQXZ19h           DW USD TON               NYMEX Easter Rail CSX Coal Swap Dec 2019 Elect
+QF XNQXZ1900000l XNQXZ19l           DW USD TON               NYMEX Easter Rail CSX Coal Swap Dec 2019 Elect
+QF XNQXZ1900000o XNQXZ19o           DW USD TON               NYMEX Easter Rail CSX Coal Swap Dec 2019 Elect
+QF XNQXZ1900000w XNQXZ19w           DW USD TON               NYMEX Easter Rail CSX Coal Swap Dec 2019 Elect
+QF XNQXZ2000000c XNQXZ20c           DW USD TON               NYMEX Easter Rail CSX Coal Swap Dec 2020 Elect
+QF XNQXZ2000000e XNQXZ20e           DW USD TON               NYMEX Easter Rail CSX Coal Swap Dec 2020 Elect
+QF XNQXZ2000000h XNQXZ20h           DW USD TON               NYMEX Easter Rail CSX Coal Swap Dec 2020 Elect
+QF XNQXZ2000000l XNQXZ20l           DW USD TON               NYMEX Easter Rail CSX Coal Swap Dec 2020 Elect
+QF XNQXZ2000000o XNQXZ20o           DW USD TON               NYMEX Easter Rail CSX Coal Swap Dec 2020 Elect
+QF XNQXZ2000000w XNQXZ20w           DW USD TON               NYMEX Easter Rail CSX Coal Swap Dec 2020 Elect
+QF XNQPG2000000c XNQPG20c           DW USD TON               NYMEX Western Rail PRB Coal Swap Feb 2020 Elect
+QF XNQPG2000000e XNQPG20e           DW USD TON               NYMEX Western Rail PRB Coal Swap Feb 2020 Elect
+QF XNQPG2000000h XNQPG20h           DW USD TON               NYMEX Western Rail PRB Coal Swap Feb 2020 Elect
+QF XNQPG2000000l XNQPG20l           DW USD TON               NYMEX Western Rail PRB Coal Swap Feb 2020 Elect
+QF XNQPG2000000o XNQPG20o           DW USD TON               NYMEX Western Rail PRB Coal Swap Feb 2020 Elect
+QF XNQPG2000000w XNQPG20w           DW USD TON               NYMEX Western Rail PRB Coal Swap Feb 2020 Elect
+QF XNQPH1800000c XNQPH18c           DW USD TON 151014 180227 NYMEX Western Rail PRB Coal Swap Mar 2018 Elect
+QF XNQPH1800000e XNQPH18e           DW USD TON 151014 180227 NYMEX Western Rail PRB Coal Swap Mar 2018 Elect
+QF XNQPH1800000h XNQPH18h           DW USD TON 151014 180227 NYMEX Western Rail PRB Coal Swap Mar 2018 Elect
+QF XNQPH1800000l XNQPH18l           DW USD TON 151014 180227 NYMEX Western Rail PRB Coal Swap Mar 2018 Elect
+QF XNQPH1800000o XNQPH18o           DW USD TON 151014 180227 NYMEX Western Rail PRB Coal Swap Mar 2018 Elect
+QF XNQPH1800000w XNQPH18w           DW USD TON 151014 180227 NYMEX Western Rail PRB Coal Swap Mar 2018 Elect
+QF XNQPH1900000c XNQPH19c           DW USD TON               NYMEX Western Rail PRB Coal Swap Mar 2019 Elect
+QF XNQPH1900000e XNQPH19e           DW USD TON               NYMEX Western Rail PRB Coal Swap Mar 2019 Elect
+QF XNQPH1900000h XNQPH19h           DW USD TON               NYMEX Western Rail PRB Coal Swap Mar 2019 Elect
+QF XNQPH1900000l XNQPH19l           DW USD TON               NYMEX Western Rail PRB Coal Swap Mar 2019 Elect
+QF XNQPH1900000o XNQPH19o           DW USD TON               NYMEX Western Rail PRB Coal Swap Mar 2019 Elect
+QF XNQPH1900000w XNQPH19w           DW USD TON               NYMEX Western Rail PRB Coal Swap Mar 2019 Elect
+QF XNQPH2000000c XNQPH20c           DW USD TON               NYMEX Western Rail PRB Coal Swap Mar 2020 Elect
+QF XNQPH2000000e XNQPH20e           DW USD TON               NYMEX Western Rail PRB Coal Swap Mar 2020 Elect
+QF XNQPH2000000h XNQPH20h           DW USD TON               NYMEX Western Rail PRB Coal Swap Mar 2020 Elect
+QF XNQPH2000000l XNQPH20l           DW USD TON               NYMEX Western Rail PRB Coal Swap Mar 2020 Elect
+QF XNQPH2000000o XNQPH20o           DW USD TON               NYMEX Western Rail PRB Coal Swap Mar 2020 Elect
+QF XNQPH2000000w XNQPH20w           DW USD TON               NYMEX Western Rail PRB Coal Swap Mar 2020 Elect
+QF XNQPJ1800000c XNQPJ18c           DW USD TON 151014 180327 NYMEX Western Rail PRB Coal Swap Apr 2018 Elect
+QF XNQPJ1800000e XNQPJ18e           DW USD TON 151014 180327 NYMEX Western Rail PRB Coal Swap Apr 2018 Elect
+QF XNQPJ1800000h XNQPJ18h           DW USD TON 151014 180327 NYMEX Western Rail PRB Coal Swap Apr 2018 Elect
+QF XNQPJ1800000l XNQPJ18l           DW USD TON 151014 180327 NYMEX Western Rail PRB Coal Swap Apr 2018 Elect
+QF XNQPJ1800000o XNQPJ18o           DW USD TON 151014 180327 NYMEX Western Rail PRB Coal Swap Apr 2018 Elect
+QF XNQPJ1800000w XNQPJ18w           DW USD TON 151014 180327 NYMEX Western Rail PRB Coal Swap Apr 2018 Elect
+QF XNQPJ1900000c XNQPJ19c           DW USD TON               NYMEX Western Rail PRB Coal Swap Apr 2019 Elect
+QF XNQPJ1900000e XNQPJ19e           DW USD TON               NYMEX Western Rail PRB Coal Swap Apr 2019 Elect
+QF XNQPJ1900000h XNQPJ19h           DW USD TON               NYMEX Western Rail PRB Coal Swap Apr 2019 Elect
+QF XNQPJ1900000l XNQPJ19l           DW USD TON               NYMEX Western Rail PRB Coal Swap Apr 2019 Elect
+QF XNQPJ1900000o XNQPJ19o           DW USD TON               NYMEX Western Rail PRB Coal Swap Apr 2019 Elect
+QF XNQPJ1900000w XNQPJ19w           DW USD TON               NYMEX Western Rail PRB Coal Swap Apr 2019 Elect
+QF XNQPJ2000000c XNQPJ20c           DW USD TON               NYMEX Western Rail PRB Coal Swap Apr 2020 Elect
+QF XNQPJ2000000e XNQPJ20e           DW USD TON               NYMEX Western Rail PRB Coal Swap Apr 2020 Elect
+QF XNQPJ2000000h XNQPJ20h           DW USD TON               NYMEX Western Rail PRB Coal Swap Apr 2020 Elect
+QF XNQPJ2000000l XNQPJ20l           DW USD TON               NYMEX Western Rail PRB Coal Swap Apr 2020 Elect
+QF XNQPJ2000000o XNQPJ20o           DW USD TON               NYMEX Western Rail PRB Coal Swap Apr 2020 Elect
+QF XNQPJ2000000w XNQPJ20w           DW USD TON               NYMEX Western Rail PRB Coal Swap Apr 2020 Elect
+QF XNQPK1800000c XNQPK18c           DW USD TON 151014 180427 NYMEX Western Rail PRB Coal Swap May 2018 Elect
+QF XNQPK1800000e XNQPK18e           DW USD TON 151014 180427 NYMEX Western Rail PRB Coal Swap May 2018 Elect
+QF XNQPK1800000h XNQPK18h           DW USD TON 151014 180427 NYMEX Western Rail PRB Coal Swap May 2018 Elect
+QF XNQPK1800000l XNQPK18l           DW USD TON 151014 180427 NYMEX Western Rail PRB Coal Swap May 2018 Elect
+QF XNQPK1800000o XNQPK18o           DW USD TON 151014 180427 NYMEX Western Rail PRB Coal Swap May 2018 Elect
+QF XNQPK1800000w XNQPK18w           DW USD TON 151014 180427 NYMEX Western Rail PRB Coal Swap May 2018 Elect
+QF XNQPK1900000c XNQPK19c           DW USD TON               NYMEX Western Rail PRB Coal Swap May 2019 Elect
+QF XNQPK1900000e XNQPK19e           DW USD TON               NYMEX Western Rail PRB Coal Swap May 2019 Elect
+QF XNQPK1900000h XNQPK19h           DW USD TON               NYMEX Western Rail PRB Coal Swap May 2019 Elect
+QF XNQPK1900000l XNQPK19l           DW USD TON               NYMEX Western Rail PRB Coal Swap May 2019 Elect
+QF XNQPK1900000o XNQPK19o           DW USD TON               NYMEX Western Rail PRB Coal Swap May 2019 Elect
+QF XNQPK1900000w XNQPK19w           DW USD TON               NYMEX Western Rail PRB Coal Swap May 2019 Elect
+QF XNQPK2000000c XNQPK20c           DW USD TON               NYMEX Western Rail PRB Coal Swap May 2020 Elect
+QF XNQPK2000000e XNQPK20e           DW USD TON               NYMEX Western Rail PRB Coal Swap May 2020 Elect
+QF XNQPK2000000h XNQPK20h           DW USD TON               NYMEX Western Rail PRB Coal Swap May 2020 Elect
+QF XNQPK2000000l XNQPK20l           DW USD TON               NYMEX Western Rail PRB Coal Swap May 2020 Elect
+QF XNQPK2000000o XNQPK20o           DW USD TON               NYMEX Western Rail PRB Coal Swap May 2020 Elect
+QF XNQPK2000000w XNQPK20w           DW USD TON               NYMEX Western Rail PRB Coal Swap May 2020 Elect
+QF XNQPM1800000c XNQPM18c           DW USD TON 151014 180530 NYMEX Western Rail PRB Coal Swap Jun 2018 Elect
+QF XNQPM1800000e XNQPM18e           DW USD TON 151014 180530 NYMEX Western Rail PRB Coal Swap Jun 2018 Elect
+QF XNQPM1800000h XNQPM18h           DW USD TON 151014 180530 NYMEX Western Rail PRB Coal Swap Jun 2018 Elect
+QF XNQPM1800000l XNQPM18l           DW USD TON 151014 180530 NYMEX Western Rail PRB Coal Swap Jun 2018 Elect
+QF XNQPM1800000o XNQPM18o           DW USD TON 151014 180530 NYMEX Western Rail PRB Coal Swap Jun 2018 Elect
+QF XNQPM1800000w XNQPM18w           DW USD TON 151014 180530 NYMEX Western Rail PRB Coal Swap Jun 2018 Elect
+QF XNQPM1900000c XNQPM19c           DW USD TON               NYMEX Western Rail PRB Coal Swap Jun 2019 Elect
+QF XNQPM1900000e XNQPM19e           DW USD TON               NYMEX Western Rail PRB Coal Swap Jun 2019 Elect
+QF XNQPM1900000h XNQPM19h           DW USD TON               NYMEX Western Rail PRB Coal Swap Jun 2019 Elect
+QF XNQPM1900000l XNQPM19l           DW USD TON               NYMEX Western Rail PRB Coal Swap Jun 2019 Elect
+QF XNQPM1900000o XNQPM19o           DW USD TON               NYMEX Western Rail PRB Coal Swap Jun 2019 Elect
+QF XNQPM1900000w XNQPM19w           DW USD TON               NYMEX Western Rail PRB Coal Swap Jun 2019 Elect
+QF XNQPM2000000c XNQPM20c           DW USD TON               NYMEX Western Rail PRB Coal Swap Jun 2020 Elect
+QF XNQPM2000000e XNQPM20e           DW USD TON               NYMEX Western Rail PRB Coal Swap Jun 2020 Elect
+QF XNQPM2000000h XNQPM20h           DW USD TON               NYMEX Western Rail PRB Coal Swap Jun 2020 Elect
+QF XNQPM2000000l XNQPM20l           DW USD TON               NYMEX Western Rail PRB Coal Swap Jun 2020 Elect
+QF XNQPM2000000o XNQPM20o           DW USD TON               NYMEX Western Rail PRB Coal Swap Jun 2020 Elect
+QF XNQPM2000000w XNQPM20w           DW USD TON               NYMEX Western Rail PRB Coal Swap Jun 2020 Elect
+QF XNQPN1800000c XNQPN18c           DW USD TON 151014 180627 NYMEX Western Rail PRB Coal Swap Jul 2018 Elect
+QF XNQPN1800000e XNQPN18e           DW USD TON 151014 180627 NYMEX Western Rail PRB Coal Swap Jul 2018 Elect
+QF XNQPN1800000h XNQPN18h           DW USD TON 151014 180627 NYMEX Western Rail PRB Coal Swap Jul 2018 Elect
+QF XNQPN1800000l XNQPN18l           DW USD TON 151014 180627 NYMEX Western Rail PRB Coal Swap Jul 2018 Elect
+QF XNQPN1800000o XNQPN18o           DW USD TON 151014 180627 NYMEX Western Rail PRB Coal Swap Jul 2018 Elect
+QF XNQPN1800000w XNQPN18w           DW USD TON 151014 180627 NYMEX Western Rail PRB Coal Swap Jul 2018 Elect
+QF XNQPN1900000c XNQPN19c           DW USD TON               NYMEX Western Rail PRB Coal Swap Jul 2019 Elect
+QF XNQPN1900000e XNQPN19e           DW USD TON               NYMEX Western Rail PRB Coal Swap Jul 2019 Elect
+QF XNQPN1900000h XNQPN19h           DW USD TON               NYMEX Western Rail PRB Coal Swap Jul 2019 Elect
+QF XNQPN1900000l XNQPN19l           DW USD TON               NYMEX Western Rail PRB Coal Swap Jul 2019 Elect
+QF XNQPN1900000o XNQPN19o           DW USD TON               NYMEX Western Rail PRB Coal Swap Jul 2019 Elect
+QF XNQPN1900000w XNQPN19w           DW USD TON               NYMEX Western Rail PRB Coal Swap Jul 2019 Elect
+QF XNQPN2000000c XNQPN20c           DW USD TON               NYMEX Western Rail PRB Coal Swap Jul 2020 Elect
+QF XNQPN2000000e XNQPN20e           DW USD TON               NYMEX Western Rail PRB Coal Swap Jul 2020 Elect
+QF XNQPN2000000h XNQPN20h           DW USD TON               NYMEX Western Rail PRB Coal Swap Jul 2020 Elect
+QF XNQPN2000000l XNQPN20l           DW USD TON               NYMEX Western Rail PRB Coal Swap Jul 2020 Elect
+QF XNQPN2000000o XNQPN20o           DW USD TON               NYMEX Western Rail PRB Coal Swap Jul 2020 Elect
+QF XNQPN2000000w XNQPN20w           DW USD TON               NYMEX Western Rail PRB Coal Swap Jul 2020 Elect
+QF XNQPQ1800000c XNQPQ18c           DW USD TON 151014 180727 NYMEX Western Rail PRB Coal Swap Aug 2018 Elect
+QF XNQPQ1800000e XNQPQ18e           DW USD TON 151014 180727 NYMEX Western Rail PRB Coal Swap Aug 2018 Elect
+QF XNQPQ1800000h XNQPQ18h           DW USD TON 151014 180727 NYMEX Western Rail PRB Coal Swap Aug 2018 Elect
+QF XNQPQ1800000l XNQPQ18l           DW USD TON 151014 180727 NYMEX Western Rail PRB Coal Swap Aug 2018 Elect
+QF XNQPQ1800000o XNQPQ18o           DW USD TON 151014 180727 NYMEX Western Rail PRB Coal Swap Aug 2018 Elect
+QF XNQPQ1800000w XNQPQ18w           DW USD TON 151014 180727 NYMEX Western Rail PRB Coal Swap Aug 2018 Elect
+QF XNQPQ1900000c XNQPQ19c           DW USD TON               NYMEX Western Rail PRB Coal Swap Aug 2019 Elect
+QF XNQPQ1900000e XNQPQ19e           DW USD TON               NYMEX Western Rail PRB Coal Swap Aug 2019 Elect
+QF XNQPQ1900000h XNQPQ19h           DW USD TON               NYMEX Western Rail PRB Coal Swap Aug 2019 Elect
+QF XNQPQ1900000l XNQPQ19l           DW USD TON               NYMEX Western Rail PRB Coal Swap Aug 2019 Elect
+QF XNQPQ1900000o XNQPQ19o           DW USD TON               NYMEX Western Rail PRB Coal Swap Aug 2019 Elect
+QF XNQPQ1900000w XNQPQ19w           DW USD TON               NYMEX Western Rail PRB Coal Swap Aug 2019 Elect
+QF XNQPQ2000000c XNQPQ20c           DW USD TON               NYMEX Western Rail PRB Coal Swap Aug 2020 Elect
+QF XNQPQ2000000e XNQPQ20e           DW USD TON               NYMEX Western Rail PRB Coal Swap Aug 2020 Elect
+QF XNQPQ2000000h XNQPQ20h           DW USD TON               NYMEX Western Rail PRB Coal Swap Aug 2020 Elect
+QF XNQPQ2000000l XNQPQ20l           DW USD TON               NYMEX Western Rail PRB Coal Swap Aug 2020 Elect
+QF XNQPQ2000000o XNQPQ20o           DW USD TON               NYMEX Western Rail PRB Coal Swap Aug 2020 Elect
+QF XNQPQ2000000w XNQPQ20w           DW USD TON               NYMEX Western Rail PRB Coal Swap Aug 2020 Elect
+QF XNQPU1800000c XNQPU18c           DW USD TON 151014 180828 NYMEX Western Rail PRB Coal Swap Sep 2018 Elect
+QF XNQPU1800000e XNQPU18e           DW USD TON 151014 180828 NYMEX Western Rail PRB Coal Swap Sep 2018 Elect
+QF XNQPU1800000h XNQPU18h           DW USD TON 151014 180828 NYMEX Western Rail PRB Coal Swap Sep 2018 Elect
+QF XNQPU1800000l XNQPU18l           DW USD TON 151014 180828 NYMEX Western Rail PRB Coal Swap Sep 2018 Elect
+QF XNQPU1800000o XNQPU18o           DW USD TON 151014 180828 NYMEX Western Rail PRB Coal Swap Sep 2018 Elect
+QF XNQPU1800000w XNQPU18w           DW USD TON 151014 180828 NYMEX Western Rail PRB Coal Swap Sep 2018 Elect
+QF XNQPU1900000c XNQPU19c           DW USD TON               NYMEX Western Rail PRB Coal Swap Sep 2019 Elect
+QF XNQPU1900000e XNQPU19e           DW USD TON               NYMEX Western Rail PRB Coal Swap Sep 2019 Elect
+QF XNQPU1900000h XNQPU19h           DW USD TON               NYMEX Western Rail PRB Coal Swap Sep 2019 Elect
+QF XNQPU1900000l XNQPU19l           DW USD TON               NYMEX Western Rail PRB Coal Swap Sep 2019 Elect
+QF XNQPU1900000o XNQPU19o           DW USD TON               NYMEX Western Rail PRB Coal Swap Sep 2019 Elect
+QF XNQPU1900000w XNQPU19w           DW USD TON               NYMEX Western Rail PRB Coal Swap Sep 2019 Elect
+QF XNQPU2000000c XNQPU20c           DW USD TON               NYMEX Western Rail PRB Coal Swap Sep 2020 Elect
+QF XNQPU2000000e XNQPU20e           DW USD TON               NYMEX Western Rail PRB Coal Swap Sep 2020 Elect
+QF XNQPU2000000h XNQPU20h           DW USD TON               NYMEX Western Rail PRB Coal Swap Sep 2020 Elect
+QF XNQPU2000000l XNQPU20l           DW USD TON               NYMEX Western Rail PRB Coal Swap Sep 2020 Elect
+QF XNQPU2000000o XNQPU20o           DW USD TON               NYMEX Western Rail PRB Coal Swap Sep 2020 Elect
+QF XNQPU2000000w XNQPU20w           DW USD TON               NYMEX Western Rail PRB Coal Swap Sep 2020 Elect
+QF XNQPV1800000c XNQPV18c           DW USD TON 151014 180927 NYMEX Western Rail PRB Coal Swap Oct 2018 Elect
+QF XNQPV1800000e XNQPV18e           DW USD TON 151014 180927 NYMEX Western Rail PRB Coal Swap Oct 2018 Elect
+QF XNQPV1800000h XNQPV18h           DW USD TON 151014 180927 NYMEX Western Rail PRB Coal Swap Oct 2018 Elect
+QF XNQPV1800000l XNQPV18l           DW USD TON 151014 180927 NYMEX Western Rail PRB Coal Swap Oct 2018 Elect
+QF XNQPV1800000o XNQPV18o           DW USD TON 151014 180927 NYMEX Western Rail PRB Coal Swap Oct 2018 Elect
+QF XNQPV1800000w XNQPV18w           DW USD TON 151014 180927 NYMEX Western Rail PRB Coal Swap Oct 2018 Elect
+QF XNQPV1900000c XNQPV19c           DW USD TON               NYMEX Western Rail PRB Coal Swap Oct 2019 Elect
+QF XNQPV1900000e XNQPV19e           DW USD TON               NYMEX Western Rail PRB Coal Swap Oct 2019 Elect
+QF XNQPV1900000h XNQPV19h           DW USD TON               NYMEX Western Rail PRB Coal Swap Oct 2019 Elect
+QF XNQPV1900000l XNQPV19l           DW USD TON               NYMEX Western Rail PRB Coal Swap Oct 2019 Elect
+QF XNQPV1900000o XNQPV19o           DW USD TON               NYMEX Western Rail PRB Coal Swap Oct 2019 Elect
+QF XNQPV1900000w XNQPV19w           DW USD TON               NYMEX Western Rail PRB Coal Swap Oct 2019 Elect
+QF XNQPV2000000c XNQPV20c           DW USD TON               NYMEX Western Rail PRB Coal Swap Oct 2020 Elect
+QF XNQPV2000000e XNQPV20e           DW USD TON               NYMEX Western Rail PRB Coal Swap Oct 2020 Elect
+QF XNQPV2000000h XNQPV20h           DW USD TON               NYMEX Western Rail PRB Coal Swap Oct 2020 Elect
+QF XNQPV2000000l XNQPV20l           DW USD TON               NYMEX Western Rail PRB Coal Swap Oct 2020 Elect
+QF XNQPV2000000o XNQPV20o           DW USD TON               NYMEX Western Rail PRB Coal Swap Oct 2020 Elect
+QF XNQPV2000000w XNQPV20w           DW USD TON               NYMEX Western Rail PRB Coal Swap Oct 2020 Elect
+QF XNQPX1800000c XNQPX18c           DW USD TON 151014 181029 NYMEX Western Rail PRB Coal Swap Nov 2018 Elect
+QF XNQPX1800000e XNQPX18e           DW USD TON 151014 181029 NYMEX Western Rail PRB Coal Swap Nov 2018 Elect
+QF XNQPX1800000h XNQPX18h           DW USD TON 151014 181029 NYMEX Western Rail PRB Coal Swap Nov 2018 Elect
+QF XNQPX1800000l XNQPX18l           DW USD TON 151014 181029 NYMEX Western Rail PRB Coal Swap Nov 2018 Elect
+QF XNQPX1800000o XNQPX18o           DW USD TON 151014 181029 NYMEX Western Rail PRB Coal Swap Nov 2018 Elect
+QF XNQPX1800000w XNQPX18w           DW USD TON 151014 181029 NYMEX Western Rail PRB Coal Swap Nov 2018 Elect
+QF XNQPX1900000c XNQPX19c           DW USD TON               NYMEX Western Rail PRB Coal Swap Nov 2019 Elect
+QF XNQPX1900000e XNQPX19e           DW USD TON               NYMEX Western Rail PRB Coal Swap Nov 2019 Elect
+QF XNQPX1900000h XNQPX19h           DW USD TON               NYMEX Western Rail PRB Coal Swap Nov 2019 Elect
+QF XNQPX1900000l XNQPX19l           DW USD TON               NYMEX Western Rail PRB Coal Swap Nov 2019 Elect
+QF XNQPX1900000o XNQPX19o           DW USD TON               NYMEX Western Rail PRB Coal Swap Nov 2019 Elect
+QF XNQPX1900000w XNQPX19w           DW USD TON               NYMEX Western Rail PRB Coal Swap Nov 2019 Elect
+QF XNQPX2000000c XNQPX20c           DW USD TON               NYMEX Western Rail PRB Coal Swap Nov 2020 Elect
+QF XNQPX2000000e XNQPX20e           DW USD TON               NYMEX Western Rail PRB Coal Swap Nov 2020 Elect
+QF XNQPX2000000h XNQPX20h           DW USD TON               NYMEX Western Rail PRB Coal Swap Nov 2020 Elect
+QF XNQPX2000000l XNQPX20l           DW USD TON               NYMEX Western Rail PRB Coal Swap Nov 2020 Elect
+QF XNQPX2000000o XNQPX20o           DW USD TON               NYMEX Western Rail PRB Coal Swap Nov 2020 Elect
+QF XNQPX2000000w XNQPX20w           DW USD TON               NYMEX Western Rail PRB Coal Swap Nov 2020 Elect
+QF XNQPZ1800000c XNQPZ18c           DW USD TON 151014 181127 NYMEX Western Rail PRB Coal Swap Dec 2018 Elect
+QF XNQPZ1800000e XNQPZ18e           DW USD TON 151014 181127 NYMEX Western Rail PRB Coal Swap Dec 2018 Elect
+QF XNQPZ1800000h XNQPZ18h           DW USD TON 151014 181127 NYMEX Western Rail PRB Coal Swap Dec 2018 Elect
+QF XNQPZ1800000l XNQPZ18l           DW USD TON 151014 181127 NYMEX Western Rail PRB Coal Swap Dec 2018 Elect
+QF XNQPZ1800000o XNQPZ18o           DW USD TON 151014 181127 NYMEX Western Rail PRB Coal Swap Dec 2018 Elect
+QF XNQPZ1800000w XNQPZ18w           DW USD TON 151014 181127 NYMEX Western Rail PRB Coal Swap Dec 2018 Elect
+QF XNQPZ1900000c XNQPZ19c           DW USD TON               NYMEX Western Rail PRB Coal Swap Dec 2019 Elect
+QF XNQPZ1900000e XNQPZ19e           DW USD TON               NYMEX Western Rail PRB Coal Swap Dec 2019 Elect
+QF XNQPZ1900000h XNQPZ19h           DW USD TON               NYMEX Western Rail PRB Coal Swap Dec 2019 Elect
+QF XNQPZ1900000l XNQPZ19l           DW USD TON               NYMEX Western Rail PRB Coal Swap Dec 2019 Elect
+QF XNQPZ1900000o XNQPZ19o           DW USD TON               NYMEX Western Rail PRB Coal Swap Dec 2019 Elect
+QF XNQPZ1900000w XNQPZ19w           DW USD TON               NYMEX Western Rail PRB Coal Swap Dec 2019 Elect
+QF XNQPZ2000000c XNQPZ20c           DW USD TON               NYMEX Western Rail PRB Coal Swap Dec 2020 Elect
+QF XNQPZ2000000e XNQPZ20e           DW USD TON               NYMEX Western Rail PRB Coal Swap Dec 2020 Elect
+QF XNQPZ2000000h XNQPZ20h           DW USD TON               NYMEX Western Rail PRB Coal Swap Dec 2020 Elect
+QF XNQPZ2000000l XNQPZ20l           DW USD TON               NYMEX Western Rail PRB Coal Swap Dec 2020 Elect
+QF XNQPZ2000000o XNQPZ20o           DW USD TON               NYMEX Western Rail PRB Coal Swap Dec 2020 Elect
+QF XNQPZ2000000w XNQPZ20w           DW USD TON               NYMEX Western Rail PRB Coal Swap Dec 2020 Elect
+QF XNQX00000000e XNQX000e           DW USD TON 090817 181126 NYMEX Easter Rail CSX Coal Swap Cont Tot Elect
+QF XNQX00000000w XNQX000w           DW USD TON 090817 181126 NYMEX Easter Rail CSX Coal Swap Cont Tot Elect
+QF XNQX00100000c XNQX001c           DW USD TON 090817 181127 NYMEX Easter Rail CSX Coal Swap 01-Mo Elect
+QF XNQX00100000e XNQX001e           DW USD TON 090817 181127 NYMEX Easter Rail CSX Coal Swap 01-Mo Elect
+QF XNQX00100000h XNQX001h           DW USD TON 090817 181127 NYMEX Easter Rail CSX Coal Swap 01-Mo Elect
+QF XNQX00100000l XNQX001l           DW USD TON 090817 181127 NYMEX Easter Rail CSX Coal Swap 01-Mo Elect
+QF XNQX00100000o XNQX001o           DW USD TON 090817 181127 NYMEX Easter Rail CSX Coal Swap 01-Mo Elect
+QF XNQX00100000w XNQX001w           DW USD TON 090817 181127 NYMEX Easter Rail CSX Coal Swap 01-Mo Elect
+QF XNQX00200000c XNQX002c           DW USD TON 090817 181029 NYMEX Easter Rail CSX Coal Swap 02-Mo Elect
+QF XNQX00200000e XNQX002e           DW USD TON 090817 181029 NYMEX Easter Rail CSX Coal Swap 02-Mo Elect
+QF XNQX00200000h XNQX002h           DW USD TON 090817 181029 NYMEX Easter Rail CSX Coal Swap 02-Mo Elect
+QF XNQX00200000l XNQX002l           DW USD TON 090817 181029 NYMEX Easter Rail CSX Coal Swap 02-Mo Elect
+QF XNQX00200000o XNQX002o           DW USD TON 090817 181029 NYMEX Easter Rail CSX Coal Swap 02-Mo Elect
+QF XNQX00200000w XNQX002w           DW USD TON 090817 181029 NYMEX Easter Rail CSX Coal Swap 02-Mo Elect
+QF XNQX00300000c XNQX003c           DW USD TON 090817 180927 NYMEX Easter Rail CSX Coal Swap 03-Mo Elect
+QF XNQX00300000e XNQX003e           DW USD TON 090817 180927 NYMEX Easter Rail CSX Coal Swap 03-Mo Elect
+QF XNQX00300000h XNQX003h           DW USD TON 090817 180927 NYMEX Easter Rail CSX Coal Swap 03-Mo Elect
+QF XNQX00300000l XNQX003l           DW USD TON 090817 180927 NYMEX Easter Rail CSX Coal Swap 03-Mo Elect
+QF XNQX00300000o XNQX003o           DW USD TON 090817 180927 NYMEX Easter Rail CSX Coal Swap 03-Mo Elect
+QF XNQX00300000w XNQX003w           DW USD TON 090817 180927 NYMEX Easter Rail CSX Coal Swap 03-Mo Elect
+QF XNQX00400000c XNQX004c           DW USD TON 090817 180828 NYMEX Easter Rail CSX Coal Swap 04-Mo Elect
+QF XNQX00400000e XNQX004e           DW USD TON 090817 180828 NYMEX Easter Rail CSX Coal Swap 04-Mo Elect
+QF XNQX00400000h XNQX004h           DW USD TON 090817 180828 NYMEX Easter Rail CSX Coal Swap 04-Mo Elect
+QF XNQX00400000l XNQX004l           DW USD TON 090817 180828 NYMEX Easter Rail CSX Coal Swap 04-Mo Elect
+QF XNQX00400000o XNQX004o           DW USD TON 090817 180828 NYMEX Easter Rail CSX Coal Swap 04-Mo Elect
+QF XNQX00400000w XNQX004w           DW USD TON 090817 180828 NYMEX Easter Rail CSX Coal Swap 04-Mo Elect
+QF XNQX00500000c XNQX005c           DW USD TON 090817 180727 NYMEX Easter Rail CSX Coal Swap 05-Mo Elect
+QF XNQX00500000e XNQX005e           DW USD TON 090817 180727 NYMEX Easter Rail CSX Coal Swap 05-Mo Elect
+QF XNQX00500000h XNQX005h           DW USD TON 090817 180727 NYMEX Easter Rail CSX Coal Swap 05-Mo Elect
+QF XNQX00500000l XNQX005l           DW USD TON 090817 180727 NYMEX Easter Rail CSX Coal Swap 05-Mo Elect
+QF XNQX00500000o XNQX005o           DW USD TON 090817 180727 NYMEX Easter Rail CSX Coal Swap 05-Mo Elect
+QF XNQX00500000w XNQX005w           DW USD TON 090817 180727 NYMEX Easter Rail CSX Coal Swap 05-Mo Elect
+QF XNQX00600000c XNQX006c           DW USD TON 090817 180627 NYMEX Easter Rail CSX Coal Swap 06-Mo Elect
+QF XNQX00600000e XNQX006e           DW USD TON 090817 180627 NYMEX Easter Rail CSX Coal Swap 06-Mo Elect
+QF XNQX00600000h XNQX006h           DW USD TON 090817 180627 NYMEX Easter Rail CSX Coal Swap 06-Mo Elect
+QF XNQX00600000l XNQX006l           DW USD TON 090817 180627 NYMEX Easter Rail CSX Coal Swap 06-Mo Elect
+QF XNQX00600000o XNQX006o           DW USD TON 090817 180627 NYMEX Easter Rail CSX Coal Swap 06-Mo Elect
+QF XNQX00600000w XNQX006w           DW USD TON 090817 180627 NYMEX Easter Rail CSX Coal Swap 06-Mo Elect
+QF XNQX00700000c XNQX007c           DW USD TON 090817 180530 NYMEX Easter Rail CSX Coal Swap 07-Mo Elect
+QF XNQX00700000e XNQX007e           DW USD TON 090817 180530 NYMEX Easter Rail CSX Coal Swap 07-Mo Elect
+QF XNQX00700000h XNQX007h           DW USD TON 090817 180530 NYMEX Easter Rail CSX Coal Swap 07-Mo Elect
+QF XNQX00700000l XNQX007l           DW USD TON 090817 180530 NYMEX Easter Rail CSX Coal Swap 07-Mo Elect
+QF XNQX00700000o XNQX007o           DW USD TON 090817 180530 NYMEX Easter Rail CSX Coal Swap 07-Mo Elect
+QF XNQX00700000w XNQX007w           DW USD TON 090817 180530 NYMEX Easter Rail CSX Coal Swap 07-Mo Elect
+QF XNQX00800000c XNQX008c           DW USD TON 090817 180427 NYMEX Easter Rail CSX Coal Swap 08-Mo Elect
+QF XNQX00800000e XNQX008e           DW USD TON 090817 180427 NYMEX Easter Rail CSX Coal Swap 08-Mo Elect
+QF XNQX00800000h XNQX008h           DW USD TON 090817 180427 NYMEX Easter Rail CSX Coal Swap 08-Mo Elect
+QF XNQX00800000l XNQX008l           DW USD TON 090817 180427 NYMEX Easter Rail CSX Coal Swap 08-Mo Elect
+QF XNQX00800000o XNQX008o           DW USD TON 090817 180427 NYMEX Easter Rail CSX Coal Swap 08-Mo Elect
+QF XNQX00800000w XNQX008w           DW USD TON 090817 180427 NYMEX Easter Rail CSX Coal Swap 08-Mo Elect
+QF XNQX00900000c XNQX009c           DW USD TON 090817 180327 NYMEX Easter Rail CSX Coal Swap 09-Mo Elect
+QF XNQX00900000e XNQX009e           DW USD TON 090817 180327 NYMEX Easter Rail CSX Coal Swap 09-Mo Elect
+QF XNQX00900000h XNQX009h           DW USD TON 090817 180327 NYMEX Easter Rail CSX Coal Swap 09-Mo Elect
+QF XNQX00900000l XNQX009l           DW USD TON 090817 180327 NYMEX Easter Rail CSX Coal Swap 09-Mo Elect
+QF XNQX00900000o XNQX009o           DW USD TON 090817 180327 NYMEX Easter Rail CSX Coal Swap 09-Mo Elect
+QF XNQX00900000w XNQX009w           DW USD TON 090817 180327 NYMEX Easter Rail CSX Coal Swap 09-Mo Elect
+QF XNQX01000000c XNQX010c           DW USD TON 090817 180227 NYMEX Easter Rail CSX Coal Swap 10-Mo Elect
+QF XNQX01000000e XNQX010e           DW USD TON 090817 180227 NYMEX Easter Rail CSX Coal Swap 10-Mo Elect
+QF XNQX01000000h XNQX010h           DW USD TON 090817 180227 NYMEX Easter Rail CSX Coal Swap 10-Mo Elect
+QF XNQX01000000l XNQX010l           DW USD TON 090817 180227 NYMEX Easter Rail CSX Coal Swap 10-Mo Elect
+QF XNQX01000000o XNQX010o           DW USD TON 090817 180227 NYMEX Easter Rail CSX Coal Swap 10-Mo Elect
+QF XNQX01000000w XNQX010w           DW USD TON 090817 180227 NYMEX Easter Rail CSX Coal Swap 10-Mo Elect
+QF XNQX01100000c XNQX011c           DW USD TON 090817 180129 NYMEX Easter Rail CSX Coal Swap 11-Mo Elect
+QF XNQX01100000e XNQX011e           DW USD TON 090817 180129 NYMEX Easter Rail CSX Coal Swap 11-Mo Elect
+QF XNQX01100000h XNQX011h           DW USD TON 090817 180129 NYMEX Easter Rail CSX Coal Swap 11-Mo Elect
+QF XNQX01100000l XNQX011l           DW USD TON 090817 180129 NYMEX Easter Rail CSX Coal Swap 11-Mo Elect
+QF XNQX01100000o XNQX011o           DW USD TON 090817 180129 NYMEX Easter Rail CSX Coal Swap 11-Mo Elect
+QF XNQX01100000w XNQX011w           DW USD TON 090817 180129 NYMEX Easter Rail CSX Coal Swap 11-Mo Elect
+QF XNQX01200000c XNQX012c           DW USD TON 090817 171227 NYMEX Easter Rail CSX Coal Swap 12-Mo Elect
+QF XNQX01200000e XNQX012e           DW USD TON 090817 171227 NYMEX Easter Rail CSX Coal Swap 12-Mo Elect
+QF XNQX01200000h XNQX012h           DW USD TON 090817 171227 NYMEX Easter Rail CSX Coal Swap 12-Mo Elect
+QF XNQX01200000l XNQX012l           DW USD TON 090817 171227 NYMEX Easter Rail CSX Coal Swap 12-Mo Elect
+QF XNQX01200000o XNQX012o           DW USD TON 090817 171227 NYMEX Easter Rail CSX Coal Swap 12-Mo Elect
+QF XNQX01200000w XNQX012w           DW USD TON 090817 171227 NYMEX Easter Rail CSX Coal Swap 12-Mo Elect
+QF XNQX01300000c XNQX013c           DW USD TON 090817 171128 NYMEX Easter Rail CSX Coal Swap 13-Mo Elect
+QF XNQX01300000e XNQX013e           DW USD TON 090817 171128 NYMEX Easter Rail CSX Coal Swap 13-Mo Elect
+QF XNQX01300000h XNQX013h           DW USD TON 090817 171128 NYMEX Easter Rail CSX Coal Swap 13-Mo Elect
+QF XNQX01300000l XNQX013l           DW USD TON 090817 171128 NYMEX Easter Rail CSX Coal Swap 13-Mo Elect
+QF XNQX01300000o XNQX013o           DW USD TON 090817 171128 NYMEX Easter Rail CSX Coal Swap 13-Mo Elect
+QF XNQX01300000w XNQX013w           DW USD TON 090817 171128 NYMEX Easter Rail CSX Coal Swap 13-Mo Elect
+QF XNQX01400000c XNQX014c           DW USD TON 090817 171027 NYMEX Easter Rail CSX Coal Swap 14-Mo Elect
+QF XNQX01400000e XNQX014e           DW USD TON 090817 171027 NYMEX Easter Rail CSX Coal Swap 14-Mo Elect
+QF XNQX01400000h XNQX014h           DW USD TON 090817 171027 NYMEX Easter Rail CSX Coal Swap 14-Mo Elect
+QF XNQX01400000l XNQX014l           DW USD TON 090817 171027 NYMEX Easter Rail CSX Coal Swap 14-Mo Elect
+QF XNQX01400000o XNQX014o           DW USD TON 090817 171027 NYMEX Easter Rail CSX Coal Swap 14-Mo Elect
+QF XNQX01400000w XNQX014w           DW USD TON 090817 171027 NYMEX Easter Rail CSX Coal Swap 14-Mo Elect
+QF XNQX01500000c XNQX015c           DW USD TON 090817 170927 NYMEX Easter Rail CSX Coal Swap 15-Mo Elect
+QF XNQX01500000e XNQX015e           DW USD TON 090817 170927 NYMEX Easter Rail CSX Coal Swap 15-Mo Elect
+QF XNQX01500000h XNQX015h           DW USD TON 090817 170927 NYMEX Easter Rail CSX Coal Swap 15-Mo Elect
+QF XNQX01500000l XNQX015l           DW USD TON 090817 170927 NYMEX Easter Rail CSX Coal Swap 15-Mo Elect
+QF XNQX01500000o XNQX015o           DW USD TON 090817 170927 NYMEX Easter Rail CSX Coal Swap 15-Mo Elect
+QF XNQX01500000w XNQX015w           DW USD TON 090817 170927 NYMEX Easter Rail CSX Coal Swap 15-Mo Elect
+QF XNQX01600000c XNQX016c           DW USD TON 090817 170829 NYMEX Easter Rail CSX Coal Swap 16-Mo Elect
+QF XNQX01600000e XNQX016e           DW USD TON 090817 170829 NYMEX Easter Rail CSX Coal Swap 16-Mo Elect
+QF XNQX01600000h XNQX016h           DW USD TON 090817 170829 NYMEX Easter Rail CSX Coal Swap 16-Mo Elect
+QF XNQX01600000l XNQX016l           DW USD TON 090817 170829 NYMEX Easter Rail CSX Coal Swap 16-Mo Elect
+QF XNQX01600000o XNQX016o           DW USD TON 090817 170829 NYMEX Easter Rail CSX Coal Swap 16-Mo Elect
+QF XNQX01600000w XNQX016w           DW USD TON 090817 170829 NYMEX Easter Rail CSX Coal Swap 16-Mo Elect
+QF XNQX01700000c XNQX017c           DW USD TON 090817 170727 NYMEX Easter Rail CSX Coal Swap 17-Mo Elect
+QF XNQX01700000e XNQX017e           DW USD TON 090817 170727 NYMEX Easter Rail CSX Coal Swap 17-Mo Elect
+QF XNQX01700000h XNQX017h           DW USD TON 090817 170727 NYMEX Easter Rail CSX Coal Swap 17-Mo Elect
+QF XNQX01700000l XNQX017l           DW USD TON 090817 170727 NYMEX Easter Rail CSX Coal Swap 17-Mo Elect
+QF XNQX01700000o XNQX017o           DW USD TON 090817 170727 NYMEX Easter Rail CSX Coal Swap 17-Mo Elect
+QF XNQX01700000w XNQX017w           DW USD TON 090817 170727 NYMEX Easter Rail CSX Coal Swap 17-Mo Elect
+QF XNQX01800000c XNQX018c           DW USD TON 090817 170627 NYMEX Easter Rail CSX Coal Swap 18-Mo Elect
+QF XNQX01800000e XNQX018e           DW USD TON 090817 170627 NYMEX Easter Rail CSX Coal Swap 18-Mo Elect
+QF XNQX01800000h XNQX018h           DW USD TON 090817 170627 NYMEX Easter Rail CSX Coal Swap 18-Mo Elect
+QF XNQX01800000l XNQX018l           DW USD TON 090817 170627 NYMEX Easter Rail CSX Coal Swap 18-Mo Elect
+QF XNQX01800000o XNQX018o           DW USD TON 090817 170627 NYMEX Easter Rail CSX Coal Swap 18-Mo Elect
+QF XNQX01800000w XNQX018w           DW USD TON 090817 170627 NYMEX Easter Rail CSX Coal Swap 18-Mo Elect
+QF XNQX01900000c XNQX019c           DW USD TON 090817 170530 NYMEX Easter Rail CSX Coal Swap 19-Mo Elect
+QF XNQX01900000e XNQX019e           DW USD TON 090817 170530 NYMEX Easter Rail CSX Coal Swap 19-Mo Elect
+QF XNQX01900000h XNQX019h           DW USD TON 090817 170530 NYMEX Easter Rail CSX Coal Swap 19-Mo Elect
+QF XNQX01900000l XNQX019l           DW USD TON 090817 170530 NYMEX Easter Rail CSX Coal Swap 19-Mo Elect
+QF XNQX01900000o XNQX019o           DW USD TON 090817 170530 NYMEX Easter Rail CSX Coal Swap 19-Mo Elect
+QF XNQX01900000w XNQX019w           DW USD TON 090817 170530 NYMEX Easter Rail CSX Coal Swap 19-Mo Elect
+QF XNQX02000000c XNQX020c           DW USD TON 090817 170427 NYMEX Easter Rail CSX Coal Swap 20-Mo Elect
+QF XNQX02000000e XNQX020e           DW USD TON 090817 170427 NYMEX Easter Rail CSX Coal Swap 20-Mo Elect
+QF XNQX02000000h XNQX020h           DW USD TON 090817 170427 NYMEX Easter Rail CSX Coal Swap 20-Mo Elect
+QF XNQX02000000l XNQX020l           DW USD TON 090817 170427 NYMEX Easter Rail CSX Coal Swap 20-Mo Elect
+QF XNQX02000000o XNQX020o           DW USD TON 090817 170427 NYMEX Easter Rail CSX Coal Swap 20-Mo Elect
+QF XNQX02000000w XNQX020w           DW USD TON 090817 170427 NYMEX Easter Rail CSX Coal Swap 20-Mo Elect
+QF XNQX02100000c XNQX021c           DW USD TON 090817 170328 NYMEX Easter Rail CSX Coal Swap 21-Mo Elect
+QF XNQX02100000e XNQX021e           DW USD TON 090817 170328 NYMEX Easter Rail CSX Coal Swap 21-Mo Elect
+QF XNQX02100000h XNQX021h           DW USD TON 090817 170328 NYMEX Easter Rail CSX Coal Swap 21-Mo Elect
+QF XNQX02100000l XNQX021l           DW USD TON 090817 170328 NYMEX Easter Rail CSX Coal Swap 21-Mo Elect
+QF XNQX02100000o XNQX021o           DW USD TON 090817 170328 NYMEX Easter Rail CSX Coal Swap 21-Mo Elect
+QF XNQX02100000w XNQX021w           DW USD TON 090817 170328 NYMEX Easter Rail CSX Coal Swap 21-Mo Elect
+QF XNQX02200000c XNQX022c           DW USD TON 090817 170228 NYMEX Easter Rail CSX Coal Swap 22-Mo Elect
+QF XNQX02200000e XNQX022e           DW USD TON 090817 170228 NYMEX Easter Rail CSX Coal Swap 22-Mo Elect
+QF XNQX02200000h XNQX022h           DW USD TON 090817 170228 NYMEX Easter Rail CSX Coal Swap 22-Mo Elect
+QF XNQX02200000l XNQX022l           DW USD TON 090817 170228 NYMEX Easter Rail CSX Coal Swap 22-Mo Elect
+QF XNQX02200000o XNQX022o           DW USD TON 090817 170228 NYMEX Easter Rail CSX Coal Swap 22-Mo Elect
+QF XNQX02200000w XNQX022w           DW USD TON 090817 170228 NYMEX Easter Rail CSX Coal Swap 22-Mo Elect
+QF XNQX02300000c XNQX023c           DW USD TON 090817 170127 NYMEX Easter Rail CSX Coal Swap 23-Mo Elect
+QF XNQX02300000e XNQX023e           DW USD TON 090817 170127 NYMEX Easter Rail CSX Coal Swap 23-Mo Elect
+QF XNQX02300000h XNQX023h           DW USD TON 090817 170127 NYMEX Easter Rail CSX Coal Swap 23-Mo Elect
+QF XNQX02300000l XNQX023l           DW USD TON 090817 170127 NYMEX Easter Rail CSX Coal Swap 23-Mo Elect
+QF XNQX02300000o XNQX023o           DW USD TON 090817 170127 NYMEX Easter Rail CSX Coal Swap 23-Mo Elect
+QF XNQX02300000w XNQX023w           DW USD TON 090817 170127 NYMEX Easter Rail CSX Coal Swap 23-Mo Elect
+QF XNQX02400000c XNQX024c           DW USD TON 090817 161228 NYMEX Easter Rail CSX Coal Swap 24-Mo Elect
+QF XNQX02400000e XNQX024e           DW USD TON 090817 161228 NYMEX Easter Rail CSX Coal Swap 24-Mo Elect
+QF XNQX02400000h XNQX024h           DW USD TON 090817 161228 NYMEX Easter Rail CSX Coal Swap 24-Mo Elect
+QF XNQX02400000l XNQX024l           DW USD TON 090817 161228 NYMEX Easter Rail CSX Coal Swap 24-Mo Elect
+QF XNQX02400000o XNQX024o           DW USD TON 090817 161228 NYMEX Easter Rail CSX Coal Swap 24-Mo Elect
+QF XNQX02400000w XNQX024w           DW USD TON 090817 161228 NYMEX Easter Rail CSX Coal Swap 24-Mo Elect
+QF XNQX02500000c XNQX025c           DW USD TON 090817 161129 NYMEX Easter Rail CSX Coal Swap 25-Mo Elect
+QF XNQX02500000e XNQX025e           DW USD TON 090817 161129 NYMEX Easter Rail CSX Coal Swap 25-Mo Elect
+QF XNQX02500000h XNQX025h           DW USD TON 090817 161129 NYMEX Easter Rail CSX Coal Swap 25-Mo Elect
+QF XNQX02500000l XNQX025l           DW USD TON 090817 161129 NYMEX Easter Rail CSX Coal Swap 25-Mo Elect
+QF XNQX02500000o XNQX025o           DW USD TON 090817 161129 NYMEX Easter Rail CSX Coal Swap 25-Mo Elect
+QF XNQX02500000w XNQX025w           DW USD TON 090817 161129 NYMEX Easter Rail CSX Coal Swap 25-Mo Elect
+QF XNQX02600000c XNQX026c           DW USD TON 090817 161027 NYMEX Easter Rail CSX Coal Swap 26-Mo Elect
+QF XNQX02600000e XNQX026e           DW USD TON 090817 161027 NYMEX Easter Rail CSX Coal Swap 26-Mo Elect
+QF XNQX02600000h XNQX026h           DW USD TON 090817 161027 NYMEX Easter Rail CSX Coal Swap 26-Mo Elect
+QF XNQX02600000l XNQX026l           DW USD TON 090817 161027 NYMEX Easter Rail CSX Coal Swap 26-Mo Elect
+QF XNQX02600000o XNQX026o           DW USD TON 090817 161027 NYMEX Easter Rail CSX Coal Swap 26-Mo Elect
+QF XNQX02600000w XNQX026w           DW USD TON 090817 161027 NYMEX Easter Rail CSX Coal Swap 26-Mo Elect
+QF XNQX02700000c XNQX027c           DW USD TON 090817 160927 NYMEX Easter Rail CSX Coal Swap 27-Mo Elect
+QF XNQX02700000e XNQX027e           DW USD TON 090817 160927 NYMEX Easter Rail CSX Coal Swap 27-Mo Elect
+QF XNQX02700000h XNQX027h           DW USD TON 090817 160927 NYMEX Easter Rail CSX Coal Swap 27-Mo Elect
+QF XNQX02700000l XNQX027l           DW USD TON 090817 160927 NYMEX Easter Rail CSX Coal Swap 27-Mo Elect
+QF XNQX02700000o XNQX027o           DW USD TON 090817 160927 NYMEX Easter Rail CSX Coal Swap 27-Mo Elect
+QF XNQX02700000w XNQX027w           DW USD TON 090817 160927 NYMEX Easter Rail CSX Coal Swap 27-Mo Elect
+QF XNQX02800000c XNQX028c           DW USD TON 090817 160829 NYMEX Easter Rail CSX Coal Swap 28-Mo Elect
+QF XNQX02800000e XNQX028e           DW USD TON 090817 160829 NYMEX Easter Rail CSX Coal Swap 28-Mo Elect
+QF XNQX02800000h XNQX028h           DW USD TON 090817 160829 NYMEX Easter Rail CSX Coal Swap 28-Mo Elect
+QF XNQX02800000l XNQX028l           DW USD TON 090817 160829 NYMEX Easter Rail CSX Coal Swap 28-Mo Elect
+QF XNQX02800000o XNQX028o           DW USD TON 090817 160829 NYMEX Easter Rail CSX Coal Swap 28-Mo Elect
+QF XNQX02800000w XNQX028w           DW USD TON 090817 160829 NYMEX Easter Rail CSX Coal Swap 28-Mo Elect
+QF XNQX02900000c XNQX029c           DW USD TON 090910 160727 NYMEX Easter Rail CSX Coal Swap 29-Mo Elect
+QF XNQX02900000e XNQX029e           DW USD TON 090910 160727 NYMEX Easter Rail CSX Coal Swap 29-Mo Elect
+QF XNQX02900000h XNQX029h           DW USD TON 090910 160727 NYMEX Easter Rail CSX Coal Swap 29-Mo Elect
+QF XNQX02900000l XNQX029l           DW USD TON 090910 160727 NYMEX Easter Rail CSX Coal Swap 29-Mo Elect
+QF XNQX02900000o XNQX029o           DW USD TON 090910 160727 NYMEX Easter Rail CSX Coal Swap 29-Mo Elect
+QF XNQX02900000w XNQX029w           DW USD TON 090910 160727 NYMEX Easter Rail CSX Coal Swap 29-Mo Elect
+QF XNQX03000000c XNQX030c           DW USD TON 090910 160628 NYMEX Easter Rail CSX Coal Swap 30-Mo Elect
+QF XNQX03000000e XNQX030e           DW USD TON 090910 160628 NYMEX Easter Rail CSX Coal Swap 30-Mo Elect
+QF XNQX03000000h XNQX030h           DW USD TON 090910 160628 NYMEX Easter Rail CSX Coal Swap 30-Mo Elect
+QF XNQX03000000l XNQX030l           DW USD TON 090910 160628 NYMEX Easter Rail CSX Coal Swap 30-Mo Elect
+QF XNQX03000000o XNQX030o           DW USD TON 090910 160628 NYMEX Easter Rail CSX Coal Swap 30-Mo Elect
+QF XNQX03000000w XNQX030w           DW USD TON 090910 160628 NYMEX Easter Rail CSX Coal Swap 30-Mo Elect
+QF XNQX03100000c XNQX031c           DW USD TON 090910 160527 NYMEX Easter Rail CSX Coal Swap 31-Mo Elect
+QF XNQX03100000e XNQX031e           DW USD TON 090910 160527 NYMEX Easter Rail CSX Coal Swap 31-Mo Elect
+QF XNQX03100000h XNQX031h           DW USD TON 090910 160527 NYMEX Easter Rail CSX Coal Swap 31-Mo Elect
+QF XNQX03100000l XNQX031l           DW USD TON 090910 160527 NYMEX Easter Rail CSX Coal Swap 31-Mo Elect
+QF XNQX03100000o XNQX031o           DW USD TON 090910 160527 NYMEX Easter Rail CSX Coal Swap 31-Mo Elect
+QF XNQX03100000w XNQX031w           DW USD TON 090910 160527 NYMEX Easter Rail CSX Coal Swap 31-Mo Elect
+QF XNQX03200000c XNQX032c           DW USD TON 090910 160427 NYMEX Easter Rail CSX Coal Swap 32-Mo Elect
+QF XNQX03200000e XNQX032e           DW USD TON 090910 160427 NYMEX Easter Rail CSX Coal Swap 32-Mo Elect
+QF XNQX03200000h XNQX032h           DW USD TON 090910 160427 NYMEX Easter Rail CSX Coal Swap 32-Mo Elect
+QF XNQP00000000e XNQP000e           DW USD TON 090817 181126 NYMEX Western Rail PRB Coal Swap Cont Tot Elect
+QF XNQP00000000w XNQP000w           DW USD TON 090817 181126 NYMEX Western Rail PRB Coal Swap Cont Tot Elect
+QF XNQP00100000c XNQP001c           DW USD TON 090817 181127 NYMEX Western Rail PRB Coal Swap 01-Mo Elect
+QF XNQP00100000e XNQP001e           DW USD TON 090817 181127 NYMEX Western Rail PRB Coal Swap 01-Mo Elect
+QF XNQP00100000h XNQP001h           DW USD TON 090817 181127 NYMEX Western Rail PRB Coal Swap 01-Mo Elect
+QF XNQP00100000l XNQP001l           DW USD TON 090817 181127 NYMEX Western Rail PRB Coal Swap 01-Mo Elect
+QF XNQP00100000o XNQP001o           DW USD TON 090817 181127 NYMEX Western Rail PRB Coal Swap 01-Mo Elect
+QF XNQP00100000w XNQP001w           DW USD TON 090817 181127 NYMEX Western Rail PRB Coal Swap 01-Mo Elect
+QF XNQP00200000c XNQP002c           DW USD TON 090817 181029 NYMEX Western Rail PRB Coal Swap 02-Mo Elect
+QF XNQP00200000e XNQP002e           DW USD TON 090817 181029 NYMEX Western Rail PRB Coal Swap 02-Mo Elect
+QF XNQP00200000h XNQP002h           DW USD TON 090817 181029 NYMEX Western Rail PRB Coal Swap 02-Mo Elect
+QF XNQP00200000l XNQP002l           DW USD TON 090817 181029 NYMEX Western Rail PRB Coal Swap 02-Mo Elect
+QF XNQP00200000o XNQP002o           DW USD TON 090817 181029 NYMEX Western Rail PRB Coal Swap 02-Mo Elect
+QF XNQP00200000w XNQP002w           DW USD TON 090817 181029 NYMEX Western Rail PRB Coal Swap 02-Mo Elect
+QF XNQP00300000c XNQP003c           DW USD TON 090817 180927 NYMEX Western Rail PRB Coal Swap 03-Mo Elect
+QF XNQP00300000e XNQP003e           DW USD TON 090817 180927 NYMEX Western Rail PRB Coal Swap 03-Mo Elect
+QF XNQP00300000h XNQP003h           DW USD TON 090817 180927 NYMEX Western Rail PRB Coal Swap 03-Mo Elect
+QF XNQP00300000l XNQP003l           DW USD TON 090817 180927 NYMEX Western Rail PRB Coal Swap 03-Mo Elect
+QF XNQP00300000o XNQP003o           DW USD TON 090817 180927 NYMEX Western Rail PRB Coal Swap 03-Mo Elect
+QF XNQP00300000w XNQP003w           DW USD TON 090817 180927 NYMEX Western Rail PRB Coal Swap 03-Mo Elect
+QF XNQP00400000c XNQP004c           DW USD TON 090817 180828 NYMEX Western Rail PRB Coal Swap 04-Mo Elect
+QF XNQP00400000e XNQP004e           DW USD TON 090817 180828 NYMEX Western Rail PRB Coal Swap 04-Mo Elect
+QF XNQP00400000h XNQP004h           DW USD TON 090817 180828 NYMEX Western Rail PRB Coal Swap 04-Mo Elect
+QF XNQP00400000l XNQP004l           DW USD TON 090817 180828 NYMEX Western Rail PRB Coal Swap 04-Mo Elect
+QF XNQP00400000o XNQP004o           DW USD TON 090817 180828 NYMEX Western Rail PRB Coal Swap 04-Mo Elect
+QF XNQP00400000w XNQP004w           DW USD TON 090817 180828 NYMEX Western Rail PRB Coal Swap 04-Mo Elect
+QF XNQP00500000c XNQP005c           DW USD TON 090817 180727 NYMEX Western Rail PRB Coal Swap 05-Mo Elect
+QF XNQP00500000e XNQP005e           DW USD TON 090817 180727 NYMEX Western Rail PRB Coal Swap 05-Mo Elect
+QF XNQP00500000h XNQP005h           DW USD TON 090817 180727 NYMEX Western Rail PRB Coal Swap 05-Mo Elect
+QF XNQP00500000l XNQP005l           DW USD TON 090817 180727 NYMEX Western Rail PRB Coal Swap 05-Mo Elect
+QF XNQP00500000o XNQP005o           DW USD TON 090817 180727 NYMEX Western Rail PRB Coal Swap 05-Mo Elect
+QF XNQX03200000l XNQX032l           DW USD TON 090910 160427 NYMEX Easter Rail CSX Coal Swap 32-Mo Elect
+QF XNQX03200000o XNQX032o           DW USD TON 090910 160427 NYMEX Easter Rail CSX Coal Swap 32-Mo Elect
+QF XNQX03200000w XNQX032w           DW USD TON 090910 160427 NYMEX Easter Rail CSX Coal Swap 32-Mo Elect
+QF XNQX03300000c XNQX033c           DW USD TON 090910 160329 NYMEX Easter Rail CSX Coal Swap 33-Mo Elect
+QF XNQX03300000e XNQX033e           DW USD TON 090910 160329 NYMEX Easter Rail CSX Coal Swap 33-Mo Elect
+QF XNQX03300000h XNQX033h           DW USD TON 090910 160329 NYMEX Easter Rail CSX Coal Swap 33-Mo Elect
+QF XNQX03300000l XNQX033l           DW USD TON 090910 160329 NYMEX Easter Rail CSX Coal Swap 33-Mo Elect
+QF XNQX03300000o XNQX033o           DW USD TON 090910 160329 NYMEX Easter Rail CSX Coal Swap 33-Mo Elect
+QF XNQX03300000w XNQX033w           DW USD TON 090910 160329 NYMEX Easter Rail CSX Coal Swap 33-Mo Elect
+QF XNQX03400000c XNQX034c           DW USD TON 090910 160229 NYMEX Easter Rail CSX Coal Swap 34-Mo Elect
+QF XNQX03400000e XNQX034e           DW USD TON 090910 160229 NYMEX Easter Rail CSX Coal Swap 34-Mo Elect
+QF XNQX03400000h XNQX034h           DW USD TON 090910 160229 NYMEX Easter Rail CSX Coal Swap 34-Mo Elect
+QF XNQX03400000l XNQX034l           DW USD TON 090910 160229 NYMEX Easter Rail CSX Coal Swap 34-Mo Elect
+QF XNQX03400000o XNQX034o           DW USD TON 090910 160229 NYMEX Easter Rail CSX Coal Swap 34-Mo Elect
+QF XNQX03400000w XNQX034w           DW USD TON 090910 160229 NYMEX Easter Rail CSX Coal Swap 34-Mo Elect
+QF XNQX03500000c XNQX035c           DW USD TON 090910 160127 NYMEX Easter Rail CSX Coal Swap 35-Mo Elect
+QF XNQX03500000e XNQX035e           DW USD TON 090910 160127 NYMEX Easter Rail CSX Coal Swap 35-Mo Elect
+QF XNQX03500000h XNQX035h           DW USD TON 090910 160127 NYMEX Easter Rail CSX Coal Swap 35-Mo Elect
+QF XNQX03500000l XNQX035l           DW USD TON 090910 160127 NYMEX Easter Rail CSX Coal Swap 35-Mo Elect
+QF XNQX03500000o XNQX035o           DW USD TON 090910 160127 NYMEX Easter Rail CSX Coal Swap 35-Mo Elect
+QF XNQX03500000w XNQX035w           DW USD TON 090910 160127 NYMEX Easter Rail CSX Coal Swap 35-Mo Elect
+QF XNQX03600000c XNQX036c           DW USD TON 090910 151229 NYMEX Easter Rail CSX Coal Swap 36-Mo Elect
+QF XNQX03600000e XNQX036e           DW USD TON 090910 151229 NYMEX Easter Rail CSX Coal Swap 36-Mo Elect
+QF XNQX03600000h XNQX036h           DW USD TON 090910 151229 NYMEX Easter Rail CSX Coal Swap 36-Mo Elect
+QF XNQX03600000l XNQX036l           DW USD TON 090910 151229 NYMEX Easter Rail CSX Coal Swap 36-Mo Elect
+QF XNQX03600000o XNQX036o           DW USD TON 090910 151229 NYMEX Easter Rail CSX Coal Swap 36-Mo Elect
+QF XNQX03600000w XNQX036w           DW USD TON 090910 151229 NYMEX Easter Rail CSX Coal Swap 36-Mo Elect
+QF XNQX03700000c XNQX037c           DW USD TON 090910 151130 NYMEX Easter Rail CSX Coal Swap 37-Mo Elect
+QF XNQX03700000e XNQX037e           DW USD TON 090910 151130 NYMEX Easter Rail CSX Coal Swap 37-Mo Elect
+QF XNQX03700000h XNQX037h           DW USD TON 090910 151130 NYMEX Easter Rail CSX Coal Swap 37-Mo Elect
+QF XNQX03700000l XNQX037l           DW USD TON 090910 151130 NYMEX Easter Rail CSX Coal Swap 37-Mo Elect
+QF XNQX03700000o XNQX037o           DW USD TON 090910 151130 NYMEX Easter Rail CSX Coal Swap 37-Mo Elect
+QF XNQX03700000w XNQX037w           DW USD TON 090910 151130 NYMEX Easter Rail CSX Coal Swap 37-Mo Elect
+QF XNQX03800000c XNQX038c           DW USD TON 090910 151027 NYMEX Easter Rail CSX Coal Swap 38-Mo Elect
+QF XNQX03800000e XNQX038e           DW USD TON 090910 151027 NYMEX Easter Rail CSX Coal Swap 38-Mo Elect
+QF XNQX03800000h XNQX038h           DW USD TON 090910 151027 NYMEX Easter Rail CSX Coal Swap 38-Mo Elect
+QF XNQX03800000l XNQX038l           DW USD TON 090910 151027 NYMEX Easter Rail CSX Coal Swap 38-Mo Elect
+QF XNQX03800000o XNQX038o           DW USD TON 090910 151027 NYMEX Easter Rail CSX Coal Swap 38-Mo Elect
+QF XNQX03800000w XNQX038w           DW USD TON 090910 151027 NYMEX Easter Rail CSX Coal Swap 38-Mo Elect
+QF XNQX03900000c XNQX039c           DW USD TON 090910 150929 NYMEX Easter Rail CSX Coal Swap 39-Mo Elect
+QF XNQX03900000e XNQX039e           DW USD TON 090910 150929 NYMEX Easter Rail CSX Coal Swap 39-Mo Elect
+QF XNQX03900000h XNQX039h           DW USD TON 090910 150929 NYMEX Easter Rail CSX Coal Swap 39-Mo Elect
+QF XNQX03900000l XNQX039l           DW USD TON 090910 150929 NYMEX Easter Rail CSX Coal Swap 39-Mo Elect
+QF XNQX03900000o XNQX039o           DW USD TON 090910 150929 NYMEX Easter Rail CSX Coal Swap 39-Mo Elect
+QF XNQX03900000w XNQX039w           DW USD TON 090910 150929 NYMEX Easter Rail CSX Coal Swap 39-Mo Elect
+QF XNQX04000000c XNQX040c           DW USD TON 110728 150827 NYMEX Easter Rail CSX Coal Swap 40-Mo Elect
+QF XNQX04000000e XNQX040e           DW USD TON 110728 150827 NYMEX Easter Rail CSX Coal Swap 40-Mo Elect
+QF XNQX04000000h XNQX040h           DW USD TON 110728 150827 NYMEX Easter Rail CSX Coal Swap 40-Mo Elect
+QF XNQX04000000l XNQX040l           DW USD TON 110728 150827 NYMEX Easter Rail CSX Coal Swap 40-Mo Elect
+QF XNQX04000000o XNQX040o           DW USD TON 110728 150827 NYMEX Easter Rail CSX Coal Swap 40-Mo Elect
+QF XNQX04000000w XNQX040w           DW USD TON 110728 150827 NYMEX Easter Rail CSX Coal Swap 40-Mo Elect
+QF XNQX04100000c XNQX041c           DW USD TON 130529 150728 NYMEX Easter Rail CSX Coal Swap 41-Mo Elect
+QF XNQX04100000e XNQX041e           DW USD TON 130529 150728 NYMEX Easter Rail CSX Coal Swap 41-Mo Elect
+QF XNQP00500000w XNQP005w           DW USD TON 090817 180727 NYMEX Western Rail PRB Coal Swap 05-Mo Elect
+QF XNQP00600000c XNQP006c           DW USD TON 090817 180627 NYMEX Western Rail PRB Coal Swap 06-Mo Elect
+QF XNQP00600000e XNQP006e           DW USD TON 090817 180627 NYMEX Western Rail PRB Coal Swap 06-Mo Elect
+QF XNQP00600000h XNQP006h           DW USD TON 090817 180627 NYMEX Western Rail PRB Coal Swap 06-Mo Elect
+QF XNQP00600000l XNQP006l           DW USD TON 090817 180627 NYMEX Western Rail PRB Coal Swap 06-Mo Elect
+QF XNQP00600000o XNQP006o           DW USD TON 090817 180627 NYMEX Western Rail PRB Coal Swap 06-Mo Elect
+QF XNQP00600000w XNQP006w           DW USD TON 090817 180627 NYMEX Western Rail PRB Coal Swap 06-Mo Elect
+QF XNQP00700000c XNQP007c           DW USD TON 090817 180530 NYMEX Western Rail PRB Coal Swap 07-Mo Elect
+QF XNQP00700000e XNQP007e           DW USD TON 090817 180530 NYMEX Western Rail PRB Coal Swap 07-Mo Elect
+QF XNQP00700000h XNQP007h           DW USD TON 090817 180530 NYMEX Western Rail PRB Coal Swap 07-Mo Elect
+QF XNQP00700000l XNQP007l           DW USD TON 090817 180530 NYMEX Western Rail PRB Coal Swap 07-Mo Elect
+QF XNQP00700000o XNQP007o           DW USD TON 090817 180530 NYMEX Western Rail PRB Coal Swap 07-Mo Elect
+QF XNQP00700000w XNQP007w           DW USD TON 090817 180530 NYMEX Western Rail PRB Coal Swap 07-Mo Elect
+QF XNQP00800000c XNQP008c           DW USD TON 090817 180427 NYMEX Western Rail PRB Coal Swap 08-Mo Elect
+QF XNQP00800000e XNQP008e           DW USD TON 090817 180427 NYMEX Western Rail PRB Coal Swap 08-Mo Elect
+QF XNQP00800000h XNQP008h           DW USD TON 090817 180427 NYMEX Western Rail PRB Coal Swap 08-Mo Elect
+QF XNQP00800000l XNQP008l           DW USD TON 090817 180427 NYMEX Western Rail PRB Coal Swap 08-Mo Elect
+QF XNQP00800000o XNQP008o           DW USD TON 090817 180427 NYMEX Western Rail PRB Coal Swap 08-Mo Elect
+QF XNQP00800000w XNQP008w           DW USD TON 090817 180427 NYMEX Western Rail PRB Coal Swap 08-Mo Elect
+QF XNQP00900000c XNQP009c           DW USD TON 090817 180327 NYMEX Western Rail PRB Coal Swap 09-Mo Elect
+QF XNQP00900000e XNQP009e           DW USD TON 090817 180327 NYMEX Western Rail PRB Coal Swap 09-Mo Elect
+QF XNQP00900000h XNQP009h           DW USD TON 090817 180327 NYMEX Western Rail PRB Coal Swap 09-Mo Elect
+QF XNQP00900000l XNQP009l           DW USD TON 090817 180327 NYMEX Western Rail PRB Coal Swap 09-Mo Elect
+QF XNQP00900000o XNQP009o           DW USD TON 090817 180327 NYMEX Western Rail PRB Coal Swap 09-Mo Elect
+QF XNQP00900000w XNQP009w           DW USD TON 090817 180327 NYMEX Western Rail PRB Coal Swap 09-Mo Elect
+QF XNQP01000000c XNQP010c           DW USD TON 090817 180227 NYMEX Western Rail PRB Coal Swap 10-Mo Elect
+QF XNQP01000000e XNQP010e           DW USD TON 090817 180227 NYMEX Western Rail PRB Coal Swap 10-Mo Elect
+QF XNQP01000000h XNQP010h           DW USD TON 090817 180227 NYMEX Western Rail PRB Coal Swap 10-Mo Elect
+QF XNQP01000000l XNQP010l           DW USD TON 090817 180227 NYMEX Western Rail PRB Coal Swap 10-Mo Elect
+QF XNQP01000000o XNQP010o           DW USD TON 090817 180227 NYMEX Western Rail PRB Coal Swap 10-Mo Elect
+QF XNQP01000000w XNQP010w           DW USD TON 090817 180227 NYMEX Western Rail PRB Coal Swap 10-Mo Elect
+QF XNQP01100000c XNQP011c           DW USD TON 090817 180129 NYMEX Western Rail PRB Coal Swap 11-Mo Elect
+QF XNQP01100000e XNQP011e           DW USD TON 090817 180129 NYMEX Western Rail PRB Coal Swap 11-Mo Elect
+QF XNQP01100000h XNQP011h           DW USD TON 090817 180129 NYMEX Western Rail PRB Coal Swap 11-Mo Elect
+QF XNQP01100000l XNQP011l           DW USD TON 090817 180129 NYMEX Western Rail PRB Coal Swap 11-Mo Elect
+QF XNQP01100000o XNQP011o           DW USD TON 090817 180129 NYMEX Western Rail PRB Coal Swap 11-Mo Elect
+QF XNQP01100000w XNQP011w           DW USD TON 090817 180129 NYMEX Western Rail PRB Coal Swap 11-Mo Elect
+QF XNQP01200000c XNQP012c           DW USD TON 090817 171227 NYMEX Western Rail PRB Coal Swap 12-Mo Elect
+QF XNQP01200000e XNQP012e           DW USD TON 090817 171227 NYMEX Western Rail PRB Coal Swap 12-Mo Elect
+QF XNQP01200000h XNQP012h           DW USD TON 090817 171227 NYMEX Western Rail PRB Coal Swap 12-Mo Elect
+QF XNQP01200000l XNQP012l           DW USD TON 090817 171227 NYMEX Western Rail PRB Coal Swap 12-Mo Elect
+QF XNQP01200000o XNQP012o           DW USD TON 090817 171227 NYMEX Western Rail PRB Coal Swap 12-Mo Elect
+QF XNQP01200000w XNQP012w           DW USD TON 090817 171227 NYMEX Western Rail PRB Coal Swap 12-Mo Elect
+QF XNQP01300000c XNQP013c           DW USD TON 090817 171128 NYMEX Western Rail PRB Coal Swap 13-Mo Elect
+QF XNQP01300000e XNQP013e           DW USD TON 090817 171128 NYMEX Western Rail PRB Coal Swap 13-Mo Elect
+QF XNQP01300000h XNQP013h           DW USD TON 090817 171128 NYMEX Western Rail PRB Coal Swap 13-Mo Elect
+QF XNQP01300000l XNQP013l           DW USD TON 090817 171128 NYMEX Western Rail PRB Coal Swap 13-Mo Elect
+QF XNQP01300000o XNQP013o           DW USD TON 090817 171128 NYMEX Western Rail PRB Coal Swap 13-Mo Elect
+QF XNQP01300000w XNQP013w           DW USD TON 090817 171128 NYMEX Western Rail PRB Coal Swap 13-Mo Elect
+QF XNQP01400000c XNQP014c           DW USD TON 090817 171027 NYMEX Western Rail PRB Coal Swap 14-Mo Elect
+QF XNQP01400000e XNQP014e           DW USD TON 090817 171027 NYMEX Western Rail PRB Coal Swap 14-Mo Elect
+QF XNQP01400000h XNQP014h           DW USD TON 090817 171027 NYMEX Western Rail PRB Coal Swap 14-Mo Elect
+QF XNQX04100000h XNQX041h           DW USD TON 130529 150728 NYMEX Easter Rail CSX Coal Swap 41-Mo Elect
+QF XNQX04100000l XNQX041l           DW USD TON 130529 150728 NYMEX Easter Rail CSX Coal Swap 41-Mo Elect
+QF XNQX04100000o XNQX041o           DW USD TON 130529 150728 NYMEX Easter Rail CSX Coal Swap 41-Mo Elect
+QF XNQX04100000w XNQX041w           DW USD TON 130529 150728 NYMEX Easter Rail CSX Coal Swap 41-Mo Elect
+QF XNQX04200000c XNQX042c           DW USD TON 130529 130625 NYMEX Easter Rail CSX Coal Swap 42-Mo Elect
+QF XNQX04200000e XNQX042e           DW USD TON 130529 130625 NYMEX Easter Rail CSX Coal Swap 42-Mo Elect
+QF XNQX04200000h XNQX042h           DW USD TON 130529 130625 NYMEX Easter Rail CSX Coal Swap 42-Mo Elect
+QF XNQX04200000l XNQX042l           DW USD TON 130529 130625 NYMEX Easter Rail CSX Coal Swap 42-Mo Elect
+QF XNQX04200000o XNQX042o           DW USD TON 130529 130625 NYMEX Easter Rail CSX Coal Swap 42-Mo Elect
+QF XNQX04200000w XNQX042w           DW USD TON 130529 130625 NYMEX Easter Rail CSX Coal Swap 42-Mo Elect
+QF XNQX04300000c XNQX043c           DW USD TON               NYMEX Easter Rail CSX Coal Swap 43-Mo Elect
+QF XNQX04300000e XNQX043e           DW USD TON               NYMEX Easter Rail CSX Coal Swap 43-Mo Elect
+QF XNQX04300000h XNQX043h           DW USD TON               NYMEX Easter Rail CSX Coal Swap 43-Mo Elect
+QF XNQX04300000l XNQX043l           DW USD TON               NYMEX Easter Rail CSX Coal Swap 43-Mo Elect
+QF XNQX04300000o XNQX043o           DW USD TON               NYMEX Easter Rail CSX Coal Swap 43-Mo Elect
+QF XNQX04300000w XNQX043w           DW USD TON               NYMEX Easter Rail CSX Coal Swap 43-Mo Elect
+QF XNQX04400000c XNQX044c           DW USD TON               NYMEX Easter Rail CSX Coal Swap 44-Mo Elect
+QF XNQX04400000e XNQX044e           DW USD TON               NYMEX Easter Rail CSX Coal Swap 44-Mo Elect
+QF XNQX04400000h XNQX044h           DW USD TON               NYMEX Easter Rail CSX Coal Swap 44-Mo Elect
+QF XNQX04400000l XNQX044l           DW USD TON               NYMEX Easter Rail CSX Coal Swap 44-Mo Elect
+QF XNQX04400000o XNQX044o           DW USD TON               NYMEX Easter Rail CSX Coal Swap 44-Mo Elect
+QF XNQX04400000w XNQX044w           DW USD TON               NYMEX Easter Rail CSX Coal Swap 44-Mo Elect
+QF XNQX04500000c XNQX045c           DW USD TON               NYMEX Easter Rail CSX Coal Swap 45-Mo Elect
+QF XNQX04500000e XNQX045e           DW USD TON               NYMEX Easter Rail CSX Coal Swap 45-Mo Elect
+QF XNQX04500000h XNQX045h           DW USD TON               NYMEX Easter Rail CSX Coal Swap 45-Mo Elect
+QF XNQX04500000l XNQX045l           DW USD TON               NYMEX Easter Rail CSX Coal Swap 45-Mo Elect
+QF XNQX04500000o XNQX045o           DW USD TON               NYMEX Easter Rail CSX Coal Swap 45-Mo Elect
+QF XNQX04500000w XNQX045w           DW USD TON               NYMEX Easter Rail CSX Coal Swap 45-Mo Elect
+QF XNQX04600000c XNQX046c           DW USD TON               NYMEX Easter Rail CSX Coal Swap 46-Mo Elect
+QF XNQX04600000e XNQX046e           DW USD TON               NYMEX Easter Rail CSX Coal Swap 46-Mo Elect
+QF XNQX04600000h XNQX046h           DW USD TON               NYMEX Easter Rail CSX Coal Swap 46-Mo Elect
+QF XNQX04600000l XNQX046l           DW USD TON               NYMEX Easter Rail CSX Coal Swap 46-Mo Elect
+QF XNQX04600000o XNQX046o           DW USD TON               NYMEX Easter Rail CSX Coal Swap 46-Mo Elect
+QF XNQX04600000w XNQX046w           DW USD TON               NYMEX Easter Rail CSX Coal Swap 46-Mo Elect
+QF XNQX04700000c XNQX047c           DW USD TON               NYMEX Easter Rail CSX Coal Swap 47-Mo Elect
+QF XNQX04700000e XNQX047e           DW USD TON               NYMEX Easter Rail CSX Coal Swap 47-Mo Elect
+QF XNQX04700000h XNQX047h           DW USD TON               NYMEX Easter Rail CSX Coal Swap 47-Mo Elect
+QF XNQX04700000l XNQX047l           DW USD TON               NYMEX Easter Rail CSX Coal Swap 47-Mo Elect
+QF XNQX04700000o XNQX047o           DW USD TON               NYMEX Easter Rail CSX Coal Swap 47-Mo Elect
+QF XNQX04700000w XNQX047w           DW USD TON               NYMEX Easter Rail CSX Coal Swap 47-Mo Elect
+QF XNQX04800000c XNQX048c           DW USD TON               NYMEX Easter Rail CSX Coal Swap 48-Mo Elect
+QF XNQX04800000e XNQX048e           DW USD TON               NYMEX Easter Rail CSX Coal Swap 48-Mo Elect
+QF XNQX04800000h XNQX048h           DW USD TON               NYMEX Easter Rail CSX Coal Swap 48-Mo Elect
+QF XNQX04800000l XNQX048l           DW USD TON               NYMEX Easter Rail CSX Coal Swap 48-Mo Elect
+QF XNQX04800000o XNQX048o           DW USD TON               NYMEX Easter Rail CSX Coal Swap 48-Mo Elect
+QF XNQX04800000w XNQX048w           DW USD TON               NYMEX Easter Rail CSX Coal Swap 48-Mo Elect
+QF XNQX04900000c XNQX049c           DW USD TON               NYMEX Easter Rail CSX Coal Swap 49-Mo Elect
+QF XNQX04900000e XNQX049e           DW USD TON               NYMEX Easter Rail CSX Coal Swap 49-Mo Elect
+QF XNQX04900000h XNQX049h           DW USD TON               NYMEX Easter Rail CSX Coal Swap 49-Mo Elect
+QF XNQX04900000l XNQX049l           DW USD TON               NYMEX Easter Rail CSX Coal Swap 49-Mo Elect
+QF XNQX04900000o XNQX049o           DW USD TON               NYMEX Easter Rail CSX Coal Swap 49-Mo Elect
+QF XNQX04900000w XNQX049w           DW USD TON               NYMEX Easter Rail CSX Coal Swap 49-Mo Elect
+QF XNQX05000000c XNQX050c           DW USD TON               NYMEX Easter Rail CSX Coal Swap 50-Mo Elect
+QF XNQX05000000e XNQX050e           DW USD TON               NYMEX Easter Rail CSX Coal Swap 50-Mo Elect
+QF XNQX05000000h XNQX050h           DW USD TON               NYMEX Easter Rail CSX Coal Swap 50-Mo Elect
+QF XNQX05000000l XNQX050l           DW USD TON               NYMEX Easter Rail CSX Coal Swap 50-Mo Elect
+QF XNQX05000000o XNQX050o           DW USD TON               NYMEX Easter Rail CSX Coal Swap 50-Mo Elect
+QF XNQP01400000l XNQP014l           DW USD TON 090817 171027 NYMEX Western Rail PRB Coal Swap 14-Mo Elect
+QF XNQP01400000o XNQP014o           DW USD TON 090817 171027 NYMEX Western Rail PRB Coal Swap 14-Mo Elect
+QF XNQP01400000w XNQP014w           DW USD TON 090817 171027 NYMEX Western Rail PRB Coal Swap 14-Mo Elect
+QF XNQP01500000c XNQP015c           DW USD TON 090817 170927 NYMEX Western Rail PRB Coal Swap 15-Mo Elect
+QF XNQP01500000e XNQP015e           DW USD TON 090817 170927 NYMEX Western Rail PRB Coal Swap 15-Mo Elect
+QF XNQP01500000h XNQP015h           DW USD TON 090817 170927 NYMEX Western Rail PRB Coal Swap 15-Mo Elect
+QF XNQP01500000l XNQP015l           DW USD TON 090817 170927 NYMEX Western Rail PRB Coal Swap 15-Mo Elect
+QF XNQP01500000o XNQP015o           DW USD TON 090817 170927 NYMEX Western Rail PRB Coal Swap 15-Mo Elect
+QF XNQP01500000w XNQP015w           DW USD TON 090817 170927 NYMEX Western Rail PRB Coal Swap 15-Mo Elect
+QF XNQP01600000c XNQP016c           DW USD TON 090817 170829 NYMEX Western Rail PRB Coal Swap 16-Mo Elect
+QF XNQP01600000e XNQP016e           DW USD TON 090817 170829 NYMEX Western Rail PRB Coal Swap 16-Mo Elect
+QF XNQP01600000h XNQP016h           DW USD TON 090817 170829 NYMEX Western Rail PRB Coal Swap 16-Mo Elect
+QF XNQP01600000l XNQP016l           DW USD TON 090817 170829 NYMEX Western Rail PRB Coal Swap 16-Mo Elect
+QF XNQP01600000o XNQP016o           DW USD TON 090817 170829 NYMEX Western Rail PRB Coal Swap 16-Mo Elect
+QF XNQP01600000w XNQP016w           DW USD TON 090817 170829 NYMEX Western Rail PRB Coal Swap 16-Mo Elect
+QF XNQP01700000c XNQP017c           DW USD TON 090817 170727 NYMEX Western Rail PRB Coal Swap 17-Mo Elect
+QF XNQP01700000e XNQP017e           DW USD TON 090817 170727 NYMEX Western Rail PRB Coal Swap 17-Mo Elect
+QF XNQP01700000h XNQP017h           DW USD TON 090817 170727 NYMEX Western Rail PRB Coal Swap 17-Mo Elect
+QF XNQP01700000l XNQP017l           DW USD TON 090817 170727 NYMEX Western Rail PRB Coal Swap 17-Mo Elect
+QF XNQP01700000o XNQP017o           DW USD TON 090817 170727 NYMEX Western Rail PRB Coal Swap 17-Mo Elect
+QF XNQP01700000w XNQP017w           DW USD TON 090817 170727 NYMEX Western Rail PRB Coal Swap 17-Mo Elect
+QF XNQP01800000c XNQP018c           DW USD TON 090817 170627 NYMEX Western Rail PRB Coal Swap 18-Mo Elect
+QF XNQP01800000e XNQP018e           DW USD TON 090817 170627 NYMEX Western Rail PRB Coal Swap 18-Mo Elect
+QF XNQP01800000h XNQP018h           DW USD TON 090817 170627 NYMEX Western Rail PRB Coal Swap 18-Mo Elect
+QF XNQP01800000l XNQP018l           DW USD TON 090817 170627 NYMEX Western Rail PRB Coal Swap 18-Mo Elect
+QF XNQP01800000o XNQP018o           DW USD TON 090817 170627 NYMEX Western Rail PRB Coal Swap 18-Mo Elect
+QF XNQP01800000w XNQP018w           DW USD TON 090817 170627 NYMEX Western Rail PRB Coal Swap 18-Mo Elect
+QF XNQP01900000c XNQP019c           DW USD TON 090817 170530 NYMEX Western Rail PRB Coal Swap 19-Mo Elect
+QF XNQP01900000e XNQP019e           DW USD TON 090817 170530 NYMEX Western Rail PRB Coal Swap 19-Mo Elect
+QF XNQP01900000h XNQP019h           DW USD TON 090817 170530 NYMEX Western Rail PRB Coal Swap 19-Mo Elect
+QF XNQP01900000l XNQP019l           DW USD TON 090817 170530 NYMEX Western Rail PRB Coal Swap 19-Mo Elect
+QF XNQP01900000o XNQP019o           DW USD TON 090817 170530 NYMEX Western Rail PRB Coal Swap 19-Mo Elect
+QF XNQP01900000w XNQP019w           DW USD TON 090817 170530 NYMEX Western Rail PRB Coal Swap 19-Mo Elect
+QF XNQP02000000c XNQP020c           DW USD TON 090817 170427 NYMEX Western Rail PRB Coal Swap 20-Mo Elect
+QF XNQP02000000e XNQP020e           DW USD TON 090817 170427 NYMEX Western Rail PRB Coal Swap 20-Mo Elect
+QF XNQP02000000h XNQP020h           DW USD TON 090817 170427 NYMEX Western Rail PRB Coal Swap 20-Mo Elect
+QF XNQP02000000l XNQP020l           DW USD TON 090817 170427 NYMEX Western Rail PRB Coal Swap 20-Mo Elect
+QF XNQP02000000o XNQP020o           DW USD TON 090817 170427 NYMEX Western Rail PRB Coal Swap 20-Mo Elect
+QF XNQP02000000w XNQP020w           DW USD TON 090817 170427 NYMEX Western Rail PRB Coal Swap 20-Mo Elect
+QF XNQP02100000c XNQP021c           DW USD TON 090817 170328 NYMEX Western Rail PRB Coal Swap 21-Mo Elect
+QF XNQP02100000e XNQP021e           DW USD TON 090817 170328 NYMEX Western Rail PRB Coal Swap 21-Mo Elect
+QF XNQP02100000h XNQP021h           DW USD TON 090817 170328 NYMEX Western Rail PRB Coal Swap 21-Mo Elect
+QF XNQP02100000l XNQP021l           DW USD TON 090817 170328 NYMEX Western Rail PRB Coal Swap 21-Mo Elect
+QF XNQP02100000o XNQP021o           DW USD TON 090817 170328 NYMEX Western Rail PRB Coal Swap 21-Mo Elect
+QF XNQP02100000w XNQP021w           DW USD TON 090817 170328 NYMEX Western Rail PRB Coal Swap 21-Mo Elect
+QF XNQP02200000c XNQP022c           DW USD TON 090817 170228 NYMEX Western Rail PRB Coal Swap 22-Mo Elect
+QF XNQP02200000e XNQP022e           DW USD TON 090817 170228 NYMEX Western Rail PRB Coal Swap 22-Mo Elect
+QF XNQP02200000h XNQP022h           DW USD TON 090817 170228 NYMEX Western Rail PRB Coal Swap 22-Mo Elect
+QF XNQP02200000l XNQP022l           DW USD TON 090817 170228 NYMEX Western Rail PRB Coal Swap 22-Mo Elect
+QF XNQP02200000o XNQP022o           DW USD TON 090817 170228 NYMEX Western Rail PRB Coal Swap 22-Mo Elect
+QF XNQP02200000w XNQP022w           DW USD TON 090817 170228 NYMEX Western Rail PRB Coal Swap 22-Mo Elect
+QF XNQP02300000c XNQP023c           DW USD TON 090817 170127 NYMEX Western Rail PRB Coal Swap 23-Mo Elect
+QF XNQX05000000w XNQX050w           DW USD TON               NYMEX Easter Rail CSX Coal Swap 50-Mo Elect
+QF XNQX05100000c XNQX051c           DW USD TON               NYMEX Easter Rail CSX Coal Swap 51-Mo Elect
+QF XNQX05100000e XNQX051e           DW USD TON               NYMEX Easter Rail CSX Coal Swap 51-Mo Elect
+QF XNQX05100000h XNQX051h           DW USD TON               NYMEX Easter Rail CSX Coal Swap 51-Mo Elect
+QF XNQX05100000l XNQX051l           DW USD TON               NYMEX Easter Rail CSX Coal Swap 51-Mo Elect
+QF XNQX05100000o XNQX051o           DW USD TON               NYMEX Easter Rail CSX Coal Swap 51-Mo Elect
+QF XNQX05100000w XNQX051w           DW USD TON               NYMEX Easter Rail CSX Coal Swap 51-Mo Elect
+QF XNQX05200000c XNQX052c           DW USD TON               NYMEX Easter Rail CSX Coal Swap 52-Mo Elect
+QF XNQX05200000e XNQX052e           DW USD TON               NYMEX Easter Rail CSX Coal Swap 52-Mo Elect
+QF XNQX05200000h XNQX052h           DW USD TON               NYMEX Easter Rail CSX Coal Swap 52-Mo Elect
+QF XNQX05200000l XNQX052l           DW USD TON               NYMEX Easter Rail CSX Coal Swap 52-Mo Elect
+QF XNQX05200000o XNQX052o           DW USD TON               NYMEX Easter Rail CSX Coal Swap 52-Mo Elect
+QF XNQX05200000w XNQX052w           DW USD TON               NYMEX Easter Rail CSX Coal Swap 52-Mo Elect
+QF XNQX05300000c XNQX053c           DW USD TON               NYMEX Easter Rail CSX Coal Swap 53-Mo Elect
+QF XNQX05300000e XNQX053e           DW USD TON               NYMEX Easter Rail CSX Coal Swap 53-Mo Elect
+QF XNQX05300000h XNQX053h           DW USD TON               NYMEX Easter Rail CSX Coal Swap 53-Mo Elect
+QF XNQX05300000l XNQX053l           DW USD TON               NYMEX Easter Rail CSX Coal Swap 53-Mo Elect
+QF XNQX05300000o XNQX053o           DW USD TON               NYMEX Easter Rail CSX Coal Swap 53-Mo Elect
+QF XNQX05300000w XNQX053w           DW USD TON               NYMEX Easter Rail CSX Coal Swap 53-Mo Elect
+QF XNQX05400000c XNQX054c           DW USD TON               NYMEX Easter Rail CSX Coal Swap 54-Mo Elect
+QF XNQX05400000e XNQX054e           DW USD TON               NYMEX Easter Rail CSX Coal Swap 54-Mo Elect
+QF XNQX05400000h XNQX054h           DW USD TON               NYMEX Easter Rail CSX Coal Swap 54-Mo Elect
+QF XNQX05400000l XNQX054l           DW USD TON               NYMEX Easter Rail CSX Coal Swap 54-Mo Elect
+QF XNQX05400000o XNQX054o           DW USD TON               NYMEX Easter Rail CSX Coal Swap 54-Mo Elect
+QF XNQX05400000w XNQX054w           DW USD TON               NYMEX Easter Rail CSX Coal Swap 54-Mo Elect
+QF XNQX05500000c XNQX055c           DW USD TON               NYMEX Easter Rail CSX Coal Swap 55-Mo Elect
+QF XNQX05500000e XNQX055e           DW USD TON               NYMEX Easter Rail CSX Coal Swap 55-Mo Elect
+QF XNQX05500000h XNQX055h           DW USD TON               NYMEX Easter Rail CSX Coal Swap 55-Mo Elect
+QF XNQX05500000l XNQX055l           DW USD TON               NYMEX Easter Rail CSX Coal Swap 55-Mo Elect
+QF XNQX05500000o XNQX055o           DW USD TON               NYMEX Easter Rail CSX Coal Swap 55-Mo Elect
+QF XNQX05500000w XNQX055w           DW USD TON               NYMEX Easter Rail CSX Coal Swap 55-Mo Elect
+QF XNQX05600000c XNQX056c           DW USD TON               NYMEX Easter Rail CSX Coal Swap 56-Mo Elect
+QF XNQX05600000e XNQX056e           DW USD TON               NYMEX Easter Rail CSX Coal Swap 56-Mo Elect
+QF XNQX05600000h XNQX056h           DW USD TON               NYMEX Easter Rail CSX Coal Swap 56-Mo Elect
+QF XNQX05600000l XNQX056l           DW USD TON               NYMEX Easter Rail CSX Coal Swap 56-Mo Elect
+QF XNQX05600000o XNQX056o           DW USD TON               NYMEX Easter Rail CSX Coal Swap 56-Mo Elect
+QF XNQX05600000w XNQX056w           DW USD TON               NYMEX Easter Rail CSX Coal Swap 56-Mo Elect
+QF XNQX05700000c XNQX057c           DW USD TON               NYMEX Easter Rail CSX Coal Swap 57-Mo Elect
+QF XNQX05700000e XNQX057e           DW USD TON               NYMEX Easter Rail CSX Coal Swap 57-Mo Elect
+QF XNQX05700000h XNQX057h           DW USD TON               NYMEX Easter Rail CSX Coal Swap 57-Mo Elect
+QF XNQX05700000l XNQX057l           DW USD TON               NYMEX Easter Rail CSX Coal Swap 57-Mo Elect
+QF XNQX05700000o XNQX057o           DW USD TON               NYMEX Easter Rail CSX Coal Swap 57-Mo Elect
+QF XNQX05700000w XNQX057w           DW USD TON               NYMEX Easter Rail CSX Coal Swap 57-Mo Elect
+QF XNQX05800000c XNQX058c           DW USD TON               NYMEX Easter Rail CSX Coal Swap 58-Mo Elect
+QF XNQX05800000e XNQX058e           DW USD TON               NYMEX Easter Rail CSX Coal Swap 58-Mo Elect
+QF XNQX05800000h XNQX058h           DW USD TON               NYMEX Easter Rail CSX Coal Swap 58-Mo Elect
+QF XNQX05800000l XNQX058l           DW USD TON               NYMEX Easter Rail CSX Coal Swap 58-Mo Elect
+QF XNQX05800000o XNQX058o           DW USD TON               NYMEX Easter Rail CSX Coal Swap 58-Mo Elect
+QF XNQX05800000w XNQX058w           DW USD TON               NYMEX Easter Rail CSX Coal Swap 58-Mo Elect
+QF XNQX05900000c XNQX059c           DW USD TON               NYMEX Easter Rail CSX Coal Swap 59-Mo Elect
+QF XNQX05900000e XNQX059e           DW USD TON               NYMEX Easter Rail CSX Coal Swap 59-Mo Elect
+QF XNQX05900000h XNQX059h           DW USD TON               NYMEX Easter Rail CSX Coal Swap 59-Mo Elect
+QF XNQX05900000l XNQX059l           DW USD TON               NYMEX Easter Rail CSX Coal Swap 59-Mo Elect
+QF XNQX05900000o XNQX059o           DW USD TON               NYMEX Easter Rail CSX Coal Swap 59-Mo Elect
+QF XNQX05900000w XNQX059w           DW USD TON               NYMEX Easter Rail CSX Coal Swap 59-Mo Elect
+QF XNQX06000000c XNQX060c           DW USD TON               NYMEX Easter Rail CSX Coal Swap 60-Mo Elect
+QF XNQX06000000e XNQX060e           DW USD TON               NYMEX Easter Rail CSX Coal Swap 60-Mo Elect
+QF XNQX06000000h XNQX060h           DW USD TON               NYMEX Easter Rail CSX Coal Swap 60-Mo Elect
+QF XNQX06000000l XNQX060l           DW USD TON               NYMEX Easter Rail CSX Coal Swap 60-Mo Elect
+QF XNQP02300000e XNQP023e           DW USD TON 090817 170127 NYMEX Western Rail PRB Coal Swap 23-Mo Elect
+QF XNQP02300000h XNQP023h           DW USD TON 090817 170127 NYMEX Western Rail PRB Coal Swap 23-Mo Elect
+QF XNQP02300000l XNQP023l           DW USD TON 090817 170127 NYMEX Western Rail PRB Coal Swap 23-Mo Elect
+QF XNQP02300000o XNQP023o           DW USD TON 090817 170127 NYMEX Western Rail PRB Coal Swap 23-Mo Elect
+QF XNQP02300000w XNQP023w           DW USD TON 090817 170127 NYMEX Western Rail PRB Coal Swap 23-Mo Elect
+QF XNQP02400000c XNQP024c           DW USD TON 090817 161228 NYMEX Western Rail PRB Coal Swap 24-Mo Elect
+QF XNQP02400000e XNQP024e           DW USD TON 090817 161228 NYMEX Western Rail PRB Coal Swap 24-Mo Elect
+QF XNQP02400000h XNQP024h           DW USD TON 090817 161228 NYMEX Western Rail PRB Coal Swap 24-Mo Elect
+QF XNQP02400000l XNQP024l           DW USD TON 090817 161228 NYMEX Western Rail PRB Coal Swap 24-Mo Elect
+QF XNQP02400000o XNQP024o           DW USD TON 090817 161228 NYMEX Western Rail PRB Coal Swap 24-Mo Elect
+QF XNQP02400000w XNQP024w           DW USD TON 090817 161228 NYMEX Western Rail PRB Coal Swap 24-Mo Elect
+QF XNQP02500000c XNQP025c           DW USD TON 090817 161129 NYMEX Western Rail PRB Coal Swap 25-Mo Elect
+QF XNQP02500000e XNQP025e           DW USD TON 090817 161129 NYMEX Western Rail PRB Coal Swap 25-Mo Elect
+QF XNQP02500000h XNQP025h           DW USD TON 090817 161129 NYMEX Western Rail PRB Coal Swap 25-Mo Elect
+QF XNQP02500000l XNQP025l           DW USD TON 090817 161129 NYMEX Western Rail PRB Coal Swap 25-Mo Elect
+QF XNQP02500000o XNQP025o           DW USD TON 090817 161129 NYMEX Western Rail PRB Coal Swap 25-Mo Elect
+QF XNQP02500000w XNQP025w           DW USD TON 090817 161129 NYMEX Western Rail PRB Coal Swap 25-Mo Elect
+QF XNQP02600000c XNQP026c           DW USD TON 090817 161027 NYMEX Western Rail PRB Coal Swap 26-Mo Elect
+QF XNQP02600000e XNQP026e           DW USD TON 090817 161027 NYMEX Western Rail PRB Coal Swap 26-Mo Elect
+QF XNQP02600000h XNQP026h           DW USD TON 090817 161027 NYMEX Western Rail PRB Coal Swap 26-Mo Elect
+QF XNQP02600000l XNQP026l           DW USD TON 090817 161027 NYMEX Western Rail PRB Coal Swap 26-Mo Elect
+QF XNQP02600000o XNQP026o           DW USD TON 090817 161027 NYMEX Western Rail PRB Coal Swap 26-Mo Elect
+QF XNQP02600000w XNQP026w           DW USD TON 090817 161027 NYMEX Western Rail PRB Coal Swap 26-Mo Elect
+QF XNQP02700000c XNQP027c           DW USD TON 090817 160927 NYMEX Western Rail PRB Coal Swap 27-Mo Elect
+QF XNQP02700000e XNQP027e           DW USD TON 090817 160927 NYMEX Western Rail PRB Coal Swap 27-Mo Elect
+QF XNQP02700000h XNQP027h           DW USD TON 090817 160927 NYMEX Western Rail PRB Coal Swap 27-Mo Elect
+QF XNQP02700000l XNQP027l           DW USD TON 090817 160927 NYMEX Western Rail PRB Coal Swap 27-Mo Elect
+QF XNQP02700000o XNQP027o           DW USD TON 090817 160927 NYMEX Western Rail PRB Coal Swap 27-Mo Elect
+QF XNQP02700000w XNQP027w           DW USD TON 090817 160927 NYMEX Western Rail PRB Coal Swap 27-Mo Elect
+QF XNQP02800000c XNQP028c           DW USD TON 090817 160829 NYMEX Western Rail PRB Coal Swap 28-Mo Elect
+QF XNQP02800000e XNQP028e           DW USD TON 090817 160829 NYMEX Western Rail PRB Coal Swap 28-Mo Elect
+QF XNQP02800000h XNQP028h           DW USD TON 090817 160829 NYMEX Western Rail PRB Coal Swap 28-Mo Elect
+QF XNQP02800000l XNQP028l           DW USD TON 090817 160829 NYMEX Western Rail PRB Coal Swap 28-Mo Elect
+QF XNQP02800000o XNQP028o           DW USD TON 090817 160829 NYMEX Western Rail PRB Coal Swap 28-Mo Elect
+QF XNQP02800000w XNQP028w           DW USD TON 090817 160829 NYMEX Western Rail PRB Coal Swap 28-Mo Elect
+QF XNQP02900000c XNQP029c           DW USD TON 100120 160727 NYMEX Western Rail PRB Coal Swap 29-Mo Elect
+QF XNQP02900000e XNQP029e           DW USD TON 100120 160727 NYMEX Western Rail PRB Coal Swap 29-Mo Elect
+QF XNQP02900000h XNQP029h           DW USD TON 100120 160727 NYMEX Western Rail PRB Coal Swap 29-Mo Elect
+QF XNQP02900000l XNQP029l           DW USD TON 100120 160727 NYMEX Western Rail PRB Coal Swap 29-Mo Elect
+QF XNQP02900000o XNQP029o           DW USD TON 100120 160727 NYMEX Western Rail PRB Coal Swap 29-Mo Elect
+QF XNQP02900000w XNQP029w           DW USD TON 100120 160727 NYMEX Western Rail PRB Coal Swap 29-Mo Elect
+QF XNQP03000000c XNQP030c           DW USD TON 100120 160628 NYMEX Western Rail PRB Coal Swap 30-Mo Elect
+QF XNQP03000000e XNQP030e           DW USD TON 100120 160628 NYMEX Western Rail PRB Coal Swap 30-Mo Elect
+QF XNQP03000000h XNQP030h           DW USD TON 100120 160628 NYMEX Western Rail PRB Coal Swap 30-Mo Elect
+QF XNQP03000000l XNQP030l           DW USD TON 100120 160628 NYMEX Western Rail PRB Coal Swap 30-Mo Elect
+QF XNQP03000000o XNQP030o           DW USD TON 100120 160628 NYMEX Western Rail PRB Coal Swap 30-Mo Elect
+QF XNQP03000000w XNQP030w           DW USD TON 100120 160628 NYMEX Western Rail PRB Coal Swap 30-Mo Elect
+QF XNQP03100000c XNQP031c           DW USD TON 100120 160527 NYMEX Western Rail PRB Coal Swap 31-Mo Elect
+QF XNQP03100000e XNQP031e           DW USD TON 100120 160527 NYMEX Western Rail PRB Coal Swap 31-Mo Elect
+QF XNQP03100000h XNQP031h           DW USD TON 100120 160527 NYMEX Western Rail PRB Coal Swap 31-Mo Elect
+QF XNQP03100000l XNQP031l           DW USD TON 100120 160527 NYMEX Western Rail PRB Coal Swap 31-Mo Elect
+QF XNQP03100000o XNQP031o           DW USD TON 100120 160527 NYMEX Western Rail PRB Coal Swap 31-Mo Elect
+QF XNQX06000000o XNQX060o           DW USD TON               NYMEX Easter Rail CSX Coal Swap 60-Mo Elect
+QF XNQX06000000w XNQX060w           DW USD TON               NYMEX Easter Rail CSX Coal Swap 60-Mo Elect
+QF XNQX06100000c XNQX061c           DW USD TON               NYMEX Easter Rail CSX Coal Swap 61-Mo Elect
+QF XNQX06100000e XNQX061e           DW USD TON               NYMEX Easter Rail CSX Coal Swap 61-Mo Elect
+QF XNQX06100000h XNQX061h           DW USD TON               NYMEX Easter Rail CSX Coal Swap 61-Mo Elect
+QF XNQX06100000l XNQX061l           DW USD TON               NYMEX Easter Rail CSX Coal Swap 61-Mo Elect
+QF XNQX06100000o XNQX061o           DW USD TON               NYMEX Easter Rail CSX Coal Swap 61-Mo Elect
+QF XNQX06100000w XNQX061w           DW USD TON               NYMEX Easter Rail CSX Coal Swap 61-Mo Elect
+QF XNQX06200000c XNQX062c           DW USD TON               NYMEX Easter Rail CSX Coal Swap 62-Mo Elect
+QF XNQX06200000e XNQX062e           DW USD TON               NYMEX Easter Rail CSX Coal Swap 62-Mo Elect
+QF XNQX06200000h XNQX062h           DW USD TON               NYMEX Easter Rail CSX Coal Swap 62-Mo Elect
+QF XNQX06200000l XNQX062l           DW USD TON               NYMEX Easter Rail CSX Coal Swap 62-Mo Elect
+QF XNQX06200000o XNQX062o           DW USD TON               NYMEX Easter Rail CSX Coal Swap 62-Mo Elect
+QF XNQX06200000w XNQX062w           DW USD TON               NYMEX Easter Rail CSX Coal Swap 62-Mo Elect
+QF XNQX06300000c XNQX063c           DW USD TON               NYMEX Easter Rail CSX Coal Swap 63-Mo Elect
+QF XNQX06300000e XNQX063e           DW USD TON               NYMEX Easter Rail CSX Coal Swap 63-Mo Elect
+QF XNQX06300000h XNQX063h           DW USD TON               NYMEX Easter Rail CSX Coal Swap 63-Mo Elect
+QF XNQX06300000l XNQX063l           DW USD TON               NYMEX Easter Rail CSX Coal Swap 63-Mo Elect
+QF XNQX06300000o XNQX063o           DW USD TON               NYMEX Easter Rail CSX Coal Swap 63-Mo Elect
+QF XNQX06300000w XNQX063w           DW USD TON               NYMEX Easter Rail CSX Coal Swap 63-Mo Elect
+QF XNQX06400000c XNQX064c           DW USD TON               NYMEX Easter Rail CSX Coal Swap 64-Mo Elect
+QF XNQX06400000e XNQX064e           DW USD TON               NYMEX Easter Rail CSX Coal Swap 64-Mo Elect
+QF XNQX06400000h XNQX064h           DW USD TON               NYMEX Easter Rail CSX Coal Swap 64-Mo Elect
+QF XNQX06400000l XNQX064l           DW USD TON               NYMEX Easter Rail CSX Coal Swap 64-Mo Elect
+QF XNQX06400000o XNQX064o           DW USD TON               NYMEX Easter Rail CSX Coal Swap 64-Mo Elect
+QF XNQX06400000w XNQX064w           DW USD TON               NYMEX Easter Rail CSX Coal Swap 64-Mo Elect
+QF XNQX06500000c XNQX065c           DW USD TON               NYMEX Easter Rail CSX Coal Swap 65-Mo Elect
+QF XNQX06500000e XNQX065e           DW USD TON               NYMEX Easter Rail CSX Coal Swap 65-Mo Elect
+QF XNQX06500000h XNQX065h           DW USD TON               NYMEX Easter Rail CSX Coal Swap 65-Mo Elect
+QF XNQX06500000l XNQX065l           DW USD TON               NYMEX Easter Rail CSX Coal Swap 65-Mo Elect
+QF XNQX06500000o XNQX065o           DW USD TON               NYMEX Easter Rail CSX Coal Swap 65-Mo Elect
+QF XNQX06500000w XNQX065w           DW USD TON               NYMEX Easter Rail CSX Coal Swap 65-Mo Elect
+QF XNQX06600000c XNQX066c           DW USD TON               NYMEX Easter Rail CSX Coal Swap 66-Mo Elect
+QF XNQX06600000e XNQX066e           DW USD TON               NYMEX Easter Rail CSX Coal Swap 66-Mo Elect
+QF XNQX06600000h XNQX066h           DW USD TON               NYMEX Easter Rail CSX Coal Swap 66-Mo Elect
+QF XNQX06600000l XNQX066l           DW USD TON               NYMEX Easter Rail CSX Coal Swap 66-Mo Elect
+QF XNQX06600000o XNQX066o           DW USD TON               NYMEX Easter Rail CSX Coal Swap 66-Mo Elect
+QF XNQX06600000w XNQX066w           DW USD TON               NYMEX Easter Rail CSX Coal Swap 66-Mo Elect
+QF XNQX06700000c XNQX067c           DW USD TON               NYMEX Easter Rail CSX Coal Swap 67-Mo Elect
+QF XNQX06700000e XNQX067e           DW USD TON               NYMEX Easter Rail CSX Coal Swap 67-Mo Elect
+QF XNQX06700000h XNQX067h           DW USD TON               NYMEX Easter Rail CSX Coal Swap 67-Mo Elect
+QF XNQX06700000l XNQX067l           DW USD TON               NYMEX Easter Rail CSX Coal Swap 67-Mo Elect
+QF XNQX06700000o XNQX067o           DW USD TON               NYMEX Easter Rail CSX Coal Swap 67-Mo Elect
+QF XNQX06700000w XNQX067w           DW USD TON               NYMEX Easter Rail CSX Coal Swap 67-Mo Elect
+QF XNQX06800000c XNQX068c           DW USD TON               NYMEX Easter Rail CSX Coal Swap 68-Mo Elect
+QF XNQX06800000e XNQX068e           DW USD TON               NYMEX Easter Rail CSX Coal Swap 68-Mo Elect
+QF XNQX06800000h XNQX068h           DW USD TON               NYMEX Easter Rail CSX Coal Swap 68-Mo Elect
+QF XNQX06800000l XNQX068l           DW USD TON               NYMEX Easter Rail CSX Coal Swap 68-Mo Elect
+QF XNQX06800000o XNQX068o           DW USD TON               NYMEX Easter Rail CSX Coal Swap 68-Mo Elect
+QF XNQX06800000w XNQX068w           DW USD TON               NYMEX Easter Rail CSX Coal Swap 68-Mo Elect
+QF XNQX06900000c XNQX069c           DW USD TON               NYMEX Easter Rail CSX Coal Swap 69-Mo Elect
+QF XNQX06900000e XNQX069e           DW USD TON               NYMEX Easter Rail CSX Coal Swap 69-Mo Elect
+QF XNQX06900000h XNQX069h           DW USD TON               NYMEX Easter Rail CSX Coal Swap 69-Mo Elect
+QF XNQX06900000l XNQX069l           DW USD TON               NYMEX Easter Rail CSX Coal Swap 69-Mo Elect
+QF XNQX06900000o XNQX069o           DW USD TON               NYMEX Easter Rail CSX Coal Swap 69-Mo Elect
+QF XNQX06900000w XNQX069w           DW USD TON               NYMEX Easter Rail CSX Coal Swap 69-Mo Elect
+QF XNQX07000000c XNQX070c           DW USD TON               NYMEX Easter Rail CSX Coal Swap 70-Mo Elect
+QF XNQX07000000e XNQX070e           DW USD TON               NYMEX Easter Rail CSX Coal Swap 70-Mo Elect
+QF XNQX07000000h XNQX070h           DW USD TON               NYMEX Easter Rail CSX Coal Swap 70-Mo Elect
+QF XNQP03100000w XNQP031w           DW USD TON 100120 160527 NYMEX Western Rail PRB Coal Swap 31-Mo Elect
+QF XNQP03200000c XNQP032c           DW USD TON 100120 160427 NYMEX Western Rail PRB Coal Swap 32-Mo Elect
+QF XNQP03200000e XNQP032e           DW USD TON 100120 160427 NYMEX Western Rail PRB Coal Swap 32-Mo Elect
+QF XNQP03200000h XNQP032h           DW USD TON 100120 160427 NYMEX Western Rail PRB Coal Swap 32-Mo Elect
+QF XNQP03200000l XNQP032l           DW USD TON 100120 160427 NYMEX Western Rail PRB Coal Swap 32-Mo Elect
+QF XNQP03200000o XNQP032o           DW USD TON 100120 160427 NYMEX Western Rail PRB Coal Swap 32-Mo Elect
+QF XNQP03200000w XNQP032w           DW USD TON 100120 160427 NYMEX Western Rail PRB Coal Swap 32-Mo Elect
+QF XNQP03300000c XNQP033c           DW USD TON 100120 160329 NYMEX Western Rail PRB Coal Swap 33-Mo Elect
+QF XNQP03300000e XNQP033e           DW USD TON 100120 160329 NYMEX Western Rail PRB Coal Swap 33-Mo Elect
+QF XNQP03300000h XNQP033h           DW USD TON 100120 160329 NYMEX Western Rail PRB Coal Swap 33-Mo Elect
+QF XNQP03300000l XNQP033l           DW USD TON 100120 160329 NYMEX Western Rail PRB Coal Swap 33-Mo Elect
+QF XNQP03300000o XNQP033o           DW USD TON 100120 160329 NYMEX Western Rail PRB Coal Swap 33-Mo Elect
+QF XNQP03300000w XNQP033w           DW USD TON 100120 160329 NYMEX Western Rail PRB Coal Swap 33-Mo Elect
+QF XNQP03400000c XNQP034c           DW USD TON 100120 160229 NYMEX Western Rail PRB Coal Swap 34-Mo Elect
+QF XNQP03400000e XNQP034e           DW USD TON 100120 160229 NYMEX Western Rail PRB Coal Swap 34-Mo Elect
+QF XNQP03400000h XNQP034h           DW USD TON 100120 160229 NYMEX Western Rail PRB Coal Swap 34-Mo Elect
+QF XNQP03400000l XNQP034l           DW USD TON 100120 160229 NYMEX Western Rail PRB Coal Swap 34-Mo Elect
+QF XNQP03400000o XNQP034o           DW USD TON 100120 160229 NYMEX Western Rail PRB Coal Swap 34-Mo Elect
+QF XNQP03400000w XNQP034w           DW USD TON 100120 160229 NYMEX Western Rail PRB Coal Swap 34-Mo Elect
+QF XNQP03500000c XNQP035c           DW USD TON 100120 160127 NYMEX Western Rail PRB Coal Swap 35-Mo Elect
+QF XNQP03500000e XNQP035e           DW USD TON 100120 160127 NYMEX Western Rail PRB Coal Swap 35-Mo Elect
+QF XNQP03500000h XNQP035h           DW USD TON 100120 160127 NYMEX Western Rail PRB Coal Swap 35-Mo Elect
+QF XNQP03500000l XNQP035l           DW USD TON 100120 160127 NYMEX Western Rail PRB Coal Swap 35-Mo Elect
+QF XNQP03500000o XNQP035o           DW USD TON 100120 160127 NYMEX Western Rail PRB Coal Swap 35-Mo Elect
+QF XNQP03500000w XNQP035w           DW USD TON 100120 160127 NYMEX Western Rail PRB Coal Swap 35-Mo Elect
+QF XNQP03600000c XNQP036c           DW USD TON 100819 151229 NYMEX Western Rail PRB Coal Swap 36-Mo Elect
+QF XNQP03600000e XNQP036e           DW USD TON 100819 151229 NYMEX Western Rail PRB Coal Swap 36-Mo Elect
+QF XNQP03600000h XNQP036h           DW USD TON 100819 151229 NYMEX Western Rail PRB Coal Swap 36-Mo Elect
+QF XNQP03600000l XNQP036l           DW USD TON 100819 151229 NYMEX Western Rail PRB Coal Swap 36-Mo Elect
+QF XNQP03600000o XNQP036o           DW USD TON 100819 151229 NYMEX Western Rail PRB Coal Swap 36-Mo Elect
+QF XNQP03600000w XNQP036w           DW USD TON 100819 151229 NYMEX Western Rail PRB Coal Swap 36-Mo Elect
+QF XNQP03700000c XNQP037c           DW USD TON 100819 151130 NYMEX Western Rail PRB Coal Swap 37-Mo Elect
+QF XNQP03700000e XNQP037e           DW USD TON 100819 151130 NYMEX Western Rail PRB Coal Swap 37-Mo Elect
+QF XNQP03700000h XNQP037h           DW USD TON 100819 151130 NYMEX Western Rail PRB Coal Swap 37-Mo Elect
+QF XNQP03700000l XNQP037l           DW USD TON 100819 151130 NYMEX Western Rail PRB Coal Swap 37-Mo Elect
+QF XNQP03700000o XNQP037o           DW USD TON 100819 151130 NYMEX Western Rail PRB Coal Swap 37-Mo Elect
+QF XNQP03700000w XNQP037w           DW USD TON 100819 151130 NYMEX Western Rail PRB Coal Swap 37-Mo Elect
+QF XNQP03800000c XNQP038c           DW USD TON 100819 151027 NYMEX Western Rail PRB Coal Swap 38-Mo Elect
+QF XNQP03800000e XNQP038e           DW USD TON 100819 151027 NYMEX Western Rail PRB Coal Swap 38-Mo Elect
+QF XNQP03800000h XNQP038h           DW USD TON 100819 151027 NYMEX Western Rail PRB Coal Swap 38-Mo Elect
+QF XNQP03800000l XNQP038l           DW USD TON 100819 151027 NYMEX Western Rail PRB Coal Swap 38-Mo Elect
+QF XNQP03800000o XNQP038o           DW USD TON 100819 151027 NYMEX Western Rail PRB Coal Swap 38-Mo Elect
+QF XNQP03800000w XNQP038w           DW USD TON 100819 151027 NYMEX Western Rail PRB Coal Swap 38-Mo Elect
+QF XNQP03900000c XNQP039c           DW USD TON 100819 130925 NYMEX Western Rail PRB Coal Swap 39-Mo Elect
+QF XNQP03900000e XNQP039e           DW USD TON 100819 130925 NYMEX Western Rail PRB Coal Swap 39-Mo Elect
+QF XNQP03900000h XNQP039h           DW USD TON 100819 130925 NYMEX Western Rail PRB Coal Swap 39-Mo Elect
+QF XNQP03900000l XNQP039l           DW USD TON 100819 130925 NYMEX Western Rail PRB Coal Swap 39-Mo Elect
+QF XNQP03900000o XNQP039o           DW USD TON 100819 130925 NYMEX Western Rail PRB Coal Swap 39-Mo Elect
+QF XNQP03900000w XNQP039w           DW USD TON 100819 130925 NYMEX Western Rail PRB Coal Swap 39-Mo Elect
+QF XNQP04000000c XNQP040c           DW USD TON 100819 130823 NYMEX Western Rail PRB Coal Swap 40-Mo Elect
+QF XNQP04000000e XNQP040e           DW USD TON 100819 130823 NYMEX Western Rail PRB Coal Swap 40-Mo Elect
+QF XNQP04000000h XNQP040h           DW USD TON 100819 130823 NYMEX Western Rail PRB Coal Swap 40-Mo Elect
+QF XNQX07000000l XNQX070l           DW USD TON               NYMEX Easter Rail CSX Coal Swap 70-Mo Elect
+QF XNQX07000000o XNQX070o           DW USD TON               NYMEX Easter Rail CSX Coal Swap 70-Mo Elect
+QF XNQX07000000w XNQX070w           DW USD TON               NYMEX Easter Rail CSX Coal Swap 70-Mo Elect
+QF XNQX07100000c XNQX071c           DW USD TON               NYMEX Easter Rail CSX Coal Swap 71-Mo Elect
+QF XNQX07100000e XNQX071e           DW USD TON               NYMEX Easter Rail CSX Coal Swap 71-Mo Elect
+QF XNQX07100000h XNQX071h           DW USD TON               NYMEX Easter Rail CSX Coal Swap 71-Mo Elect
+QF XNQX07100000l XNQX071l           DW USD TON               NYMEX Easter Rail CSX Coal Swap 71-Mo Elect
+QF XNQX07100000o XNQX071o           DW USD TON               NYMEX Easter Rail CSX Coal Swap 71-Mo Elect
+QF XNQX07100000w XNQX071w           DW USD TON               NYMEX Easter Rail CSX Coal Swap 71-Mo Elect
+QF XNQX07200000c XNQX072c           DW USD TON               NYMEX Easter Rail CSX Coal Swap 72-Mo Elect
+QF XNQX07200000e XNQX072e           DW USD TON               NYMEX Easter Rail CSX Coal Swap 72-Mo Elect
+QF XNQX07200000h XNQX072h           DW USD TON               NYMEX Easter Rail CSX Coal Swap 72-Mo Elect
+QF XNQX07200000l XNQX072l           DW USD TON               NYMEX Easter Rail CSX Coal Swap 72-Mo Elect
+QF XNQX07200000o XNQX072o           DW USD TON               NYMEX Easter Rail CSX Coal Swap 72-Mo Elect
+QF XNQX07200000w XNQX072w           DW USD TON               NYMEX Easter Rail CSX Coal Swap 72-Mo Elect
+QF XNQXF1800000c XNQXF18c           DW USD TON 150713 171227 NYMEX Easter Rail CSX Coal Swap Jan 2018 Elect
+QF XNQXF1800000e XNQXF18e           DW USD TON 150713 171227 NYMEX Easter Rail CSX Coal Swap Jan 2018 Elect
+QF XNQXF1800000h XNQXF18h           DW USD TON 150713 171227 NYMEX Easter Rail CSX Coal Swap Jan 2018 Elect
+QF XNQXF1800000l XNQXF18l           DW USD TON 150713 171227 NYMEX Easter Rail CSX Coal Swap Jan 2018 Elect
+QF XNQXF1800000o XNQXF18o           DW USD TON 150713 171227 NYMEX Easter Rail CSX Coal Swap Jan 2018 Elect
+QF XNQXF1800000w XNQXF18w           DW USD TON 150713 171227 NYMEX Easter Rail CSX Coal Swap Jan 2018 Elect
+QF XNQXF1900000c XNQXF19c           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jan 2019 Elect
+QF XNQXF1900000e XNQXF19e           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jan 2019 Elect
+QF XNQXF1900000h XNQXF19h           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jan 2019 Elect
+QF XNQXF1900000l XNQXF19l           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jan 2019 Elect
+QF XNQXF1900000o XNQXF19o           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jan 2019 Elect
+QF XNQXF1900000w XNQXF19w           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jan 2019 Elect
+QF XNQXF2000000c XNQXF20c           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jan 2020 Elect
+QF XNQXF2000000e XNQXF20e           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jan 2020 Elect
+QF XNQXF2000000h XNQXF20h           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jan 2020 Elect
+QF XNQXF2000000l XNQXF20l           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jan 2020 Elect
+QF XNQXF2000000o XNQXF20o           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jan 2020 Elect
+QF XNQXF2000000w XNQXF20w           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jan 2020 Elect
+QF XNQXG1800000c XNQXG18c           DW USD TON 150713 180129 NYMEX Easter Rail CSX Coal Swap Feb 2018 Elect
+QF XNQXG1800000e XNQXG18e           DW USD TON 150713 180129 NYMEX Easter Rail CSX Coal Swap Feb 2018 Elect
+QF XNQXG1800000h XNQXG18h           DW USD TON 150713 180129 NYMEX Easter Rail CSX Coal Swap Feb 2018 Elect
+QF XNQXG1800000l XNQXG18l           DW USD TON 150713 180129 NYMEX Easter Rail CSX Coal Swap Feb 2018 Elect
+QF XNQXG1800000o XNQXG18o           DW USD TON 150713 180129 NYMEX Easter Rail CSX Coal Swap Feb 2018 Elect
+QF XNQXG1800000w XNQXG18w           DW USD TON 150713 180129 NYMEX Easter Rail CSX Coal Swap Feb 2018 Elect
+QF XNQXG1900000c XNQXG19c           DW USD TON               NYMEX Easter Rail CSX Coal Swap Feb 2019 Elect
+QF XNQXG1900000e XNQXG19e           DW USD TON               NYMEX Easter Rail CSX Coal Swap Feb 2019 Elect
+QF XNQXG1900000h XNQXG19h           DW USD TON               NYMEX Easter Rail CSX Coal Swap Feb 2019 Elect
+QF XNQXG1900000l XNQXG19l           DW USD TON               NYMEX Easter Rail CSX Coal Swap Feb 2019 Elect
+QF XNQXG1900000o XNQXG19o           DW USD TON               NYMEX Easter Rail CSX Coal Swap Feb 2019 Elect
+QF XNQXG1900000w XNQXG19w           DW USD TON               NYMEX Easter Rail CSX Coal Swap Feb 2019 Elect
+QF XNQXG2000000c XNQXG20c           DW USD TON               NYMEX Easter Rail CSX Coal Swap Feb 2020 Elect
+QF XNQXG2000000e XNQXG20e           DW USD TON               NYMEX Easter Rail CSX Coal Swap Feb 2020 Elect
+QF XNQXG2000000h XNQXG20h           DW USD TON               NYMEX Easter Rail CSX Coal Swap Feb 2020 Elect
+QF XNQXG2000000l XNQXG20l           DW USD TON               NYMEX Easter Rail CSX Coal Swap Feb 2020 Elect
+QF XNQXG2000000o XNQXG20o           DW USD TON               NYMEX Easter Rail CSX Coal Swap Feb 2020 Elect
+QF XNQXG2000000w XNQXG20w           DW USD TON               NYMEX Easter Rail CSX Coal Swap Feb 2020 Elect
+QF XNQXH1800000c XNQXH18c           DW USD TON 150713 180227 NYMEX Easter Rail CSX Coal Swap Mar 2018 Elect
+QF XNQXH1800000e XNQXH18e           DW USD TON 150713 180227 NYMEX Easter Rail CSX Coal Swap Mar 2018 Elect
+QF XNQXH1800000h XNQXH18h           DW USD TON 150713 180227 NYMEX Easter Rail CSX Coal Swap Mar 2018 Elect
+QF XNQXH1800000l XNQXH18l           DW USD TON 150713 180227 NYMEX Easter Rail CSX Coal Swap Mar 2018 Elect
+QF XNQXH1800000o XNQXH18o           DW USD TON 150713 180227 NYMEX Easter Rail CSX Coal Swap Mar 2018 Elect
+QF XNQP04000000l XNQP040l           DW USD TON 100819 130823 NYMEX Western Rail PRB Coal Swap 40-Mo Elect
+QF XNQP04000000o XNQP040o           DW USD TON 100819 130823 NYMEX Western Rail PRB Coal Swap 40-Mo Elect
+QF XNQP04000000w XNQP040w           DW USD TON 100819 130823 NYMEX Western Rail PRB Coal Swap 40-Mo Elect
+QF XNQP04100000c XNQP041c           DW USD TON 120112 130725 NYMEX Western Rail PRB Coal Swap 41-Mo Elect
+QF XNQP04100000e XNQP041e           DW USD TON 120112 130725 NYMEX Western Rail PRB Coal Swap 41-Mo Elect
+QF XNQP04100000h XNQP041h           DW USD TON 120112 130725 NYMEX Western Rail PRB Coal Swap 41-Mo Elect
+QF XNQP04100000l XNQP041l           DW USD TON 120112 130725 NYMEX Western Rail PRB Coal Swap 41-Mo Elect
+QF XNQP04100000o XNQP041o           DW USD TON 120112 130725 NYMEX Western Rail PRB Coal Swap 41-Mo Elect
+QF XNQP04100000w XNQP041w           DW USD TON 120112 130725 NYMEX Western Rail PRB Coal Swap 41-Mo Elect
+QF XNQP04200000c XNQP042c           DW USD TON 120112 130625 NYMEX Western Rail PRB Coal Swap 42-Mo Elect
+QF XNQP04200000e XNQP042e           DW USD TON 120112 130625 NYMEX Western Rail PRB Coal Swap 42-Mo Elect
+QF XNQP04200000h XNQP042h           DW USD TON 120112 130625 NYMEX Western Rail PRB Coal Swap 42-Mo Elect
+QF XNQP04200000l XNQP042l           DW USD TON 120112 130625 NYMEX Western Rail PRB Coal Swap 42-Mo Elect
+QF XNQP04200000o XNQP042o           DW USD TON 120112 130625 NYMEX Western Rail PRB Coal Swap 42-Mo Elect
+QF XNQP04200000w XNQP042w           DW USD TON 120112 130625 NYMEX Western Rail PRB Coal Swap 42-Mo Elect
+QF XNQP04300000c XNQP043c           DW USD TON 120112 130524 NYMEX Western Rail PRB Coal Swap 43-Mo Elect
+QF XNQP04300000e XNQP043e           DW USD TON 120112 130524 NYMEX Western Rail PRB Coal Swap 43-Mo Elect
+QF XNQP04300000h XNQP043h           DW USD TON 120112 130524 NYMEX Western Rail PRB Coal Swap 43-Mo Elect
+QF XNQP04300000l XNQP043l           DW USD TON 120112 130524 NYMEX Western Rail PRB Coal Swap 43-Mo Elect
+QF XNQP04300000o XNQP043o           DW USD TON 120112 130524 NYMEX Western Rail PRB Coal Swap 43-Mo Elect
+QF XNQP04300000w XNQP043w           DW USD TON 120112 130524 NYMEX Western Rail PRB Coal Swap 43-Mo Elect
+QF XNQP04400000c XNQP044c           DW USD TON 120112 130425 NYMEX Western Rail PRB Coal Swap 44-Mo Elect
+QF XNQP04400000e XNQP044e           DW USD TON 120112 130425 NYMEX Western Rail PRB Coal Swap 44-Mo Elect
+QF XNQP04400000h XNQP044h           DW USD TON 120112 130425 NYMEX Western Rail PRB Coal Swap 44-Mo Elect
+QF XNQP04400000l XNQP044l           DW USD TON 120112 130425 NYMEX Western Rail PRB Coal Swap 44-Mo Elect
+QF XNQP04400000o XNQP044o           DW USD TON 120112 130425 NYMEX Western Rail PRB Coal Swap 44-Mo Elect
+QF XNQP04400000w XNQP044w           DW USD TON 120112 130425 NYMEX Western Rail PRB Coal Swap 44-Mo Elect
+QF XNQP04500000c XNQP045c           DW USD TON 120112 130325 NYMEX Western Rail PRB Coal Swap 45-Mo Elect
+QF XNQP04500000e XNQP045e           DW USD TON 120112 130325 NYMEX Western Rail PRB Coal Swap 45-Mo Elect
+QF XNQP04500000h XNQP045h           DW USD TON 120112 130325 NYMEX Western Rail PRB Coal Swap 45-Mo Elect
+QF XNQP04500000l XNQP045l           DW USD TON 120112 130325 NYMEX Western Rail PRB Coal Swap 45-Mo Elect
+QF XNQP04500000o XNQP045o           DW USD TON 120112 130325 NYMEX Western Rail PRB Coal Swap 45-Mo Elect
+QF XNQP04500000w XNQP045w           DW USD TON 120112 130325 NYMEX Western Rail PRB Coal Swap 45-Mo Elect
+QF XNQP04600000c XNQP046c           DW USD TON 120112 130225 NYMEX Western Rail PRB Coal Swap 46-Mo Elect
+QF XNQP04600000e XNQP046e           DW USD TON 120112 130225 NYMEX Western Rail PRB Coal Swap 46-Mo Elect
+QF XNQP04600000h XNQP046h           DW USD TON 120112 130225 NYMEX Western Rail PRB Coal Swap 46-Mo Elect
+QF XNQP04600000l XNQP046l           DW USD TON 120112 130225 NYMEX Western Rail PRB Coal Swap 46-Mo Elect
+QF XNQP04600000o XNQP046o           DW USD TON 120112 130225 NYMEX Western Rail PRB Coal Swap 46-Mo Elect
+QF XNQP04600000w XNQP046w           DW USD TON 120112 130225 NYMEX Western Rail PRB Coal Swap 46-Mo Elect
+QF XNQP04700000c XNQP047c           DW USD TON 120112 130125 NYMEX Western Rail PRB Coal Swap 47-Mo Elect
+QF XNQP04700000e XNQP047e           DW USD TON 120112 130125 NYMEX Western Rail PRB Coal Swap 47-Mo Elect
+QF XNQP04700000h XNQP047h           DW USD TON 120112 130125 NYMEX Western Rail PRB Coal Swap 47-Mo Elect
+QF XNQP04700000l XNQP047l           DW USD TON 120112 130125 NYMEX Western Rail PRB Coal Swap 47-Mo Elect
+QF XNQP04700000o XNQP047o           DW USD TON 120112 130125 NYMEX Western Rail PRB Coal Swap 47-Mo Elect
+QF XNQP04700000w XNQP047w           DW USD TON 120112 130125 NYMEX Western Rail PRB Coal Swap 47-Mo Elect
+QF XNQP04800000c XNQP048c           DW USD TON               NYMEX Western Rail PRB Coal Swap 48-Mo Elect
+QF XNQP04800000e XNQP048e           DW USD TON               NYMEX Western Rail PRB Coal Swap 48-Mo Elect
+QF XNQP04800000h XNQP048h           DW USD TON               NYMEX Western Rail PRB Coal Swap 48-Mo Elect
+QF XNQP04800000l XNQP048l           DW USD TON               NYMEX Western Rail PRB Coal Swap 48-Mo Elect
+QF XNQP04800000o XNQP048o           DW USD TON               NYMEX Western Rail PRB Coal Swap 48-Mo Elect
+QF XNQP04800000w XNQP048w           DW USD TON               NYMEX Western Rail PRB Coal Swap 48-Mo Elect
+QF XNQP04900000c XNQP049c           DW USD TON               NYMEX Western Rail PRB Coal Swap 49-Mo Elect
+QF XNQP04900000e XNQP049e           DW USD TON               NYMEX Western Rail PRB Coal Swap 49-Mo Elect
+QF XNQXH1800000w XNQXH18w           DW USD TON 150713 180227 NYMEX Easter Rail CSX Coal Swap Mar 2018 Elect
+QF XNQXH1900000c XNQXH19c           DW USD TON               NYMEX Easter Rail CSX Coal Swap Mar 2019 Elect
+QF XNQXH1900000e XNQXH19e           DW USD TON               NYMEX Easter Rail CSX Coal Swap Mar 2019 Elect
+QF XNQXH1900000h XNQXH19h           DW USD TON               NYMEX Easter Rail CSX Coal Swap Mar 2019 Elect
+QF XNQXH1900000l XNQXH19l           DW USD TON               NYMEX Easter Rail CSX Coal Swap Mar 2019 Elect
+QF XNQXH1900000o XNQXH19o           DW USD TON               NYMEX Easter Rail CSX Coal Swap Mar 2019 Elect
+QF XNQXH1900000w XNQXH19w           DW USD TON               NYMEX Easter Rail CSX Coal Swap Mar 2019 Elect
+QF XNQXH2000000c XNQXH20c           DW USD TON               NYMEX Easter Rail CSX Coal Swap Mar 2020 Elect
+QF XNQXH2000000e XNQXH20e           DW USD TON               NYMEX Easter Rail CSX Coal Swap Mar 2020 Elect
+QF XNQXH2000000h XNQXH20h           DW USD TON               NYMEX Easter Rail CSX Coal Swap Mar 2020 Elect
+QF XNQXH2000000l XNQXH20l           DW USD TON               NYMEX Easter Rail CSX Coal Swap Mar 2020 Elect
+QF XNQXH2000000o XNQXH20o           DW USD TON               NYMEX Easter Rail CSX Coal Swap Mar 2020 Elect
+QF XNQXH2000000w XNQXH20w           DW USD TON               NYMEX Easter Rail CSX Coal Swap Mar 2020 Elect
+QF XNQXJ1800000c XNQXJ18c           DW USD TON 150713 180327 NYMEX Easter Rail CSX Coal Swap Apr 2018 Elect
+QF XNQXJ1800000e XNQXJ18e           DW USD TON 150713 180327 NYMEX Easter Rail CSX Coal Swap Apr 2018 Elect
+QF XNQXJ1800000h XNQXJ18h           DW USD TON 150713 180327 NYMEX Easter Rail CSX Coal Swap Apr 2018 Elect
+QF XNQXJ1800000l XNQXJ18l           DW USD TON 150713 180327 NYMEX Easter Rail CSX Coal Swap Apr 2018 Elect
+QF XNQXJ1800000o XNQXJ18o           DW USD TON 150713 180327 NYMEX Easter Rail CSX Coal Swap Apr 2018 Elect
+QF XNQXJ1800000w XNQXJ18w           DW USD TON 150713 180327 NYMEX Easter Rail CSX Coal Swap Apr 2018 Elect
+QF XNQXJ1900000c XNQXJ19c           DW USD TON               NYMEX Easter Rail CSX Coal Swap Apr 2019 Elect
+QF XNQXJ1900000e XNQXJ19e           DW USD TON               NYMEX Easter Rail CSX Coal Swap Apr 2019 Elect
+QF XNQXJ1900000h XNQXJ19h           DW USD TON               NYMEX Easter Rail CSX Coal Swap Apr 2019 Elect
+QF XNQXJ1900000l XNQXJ19l           DW USD TON               NYMEX Easter Rail CSX Coal Swap Apr 2019 Elect
+QF XNQXJ1900000o XNQXJ19o           DW USD TON               NYMEX Easter Rail CSX Coal Swap Apr 2019 Elect
+QF XNQXJ1900000w XNQXJ19w           DW USD TON               NYMEX Easter Rail CSX Coal Swap Apr 2019 Elect
+QF XNQXJ2000000c XNQXJ20c           DW USD TON               NYMEX Easter Rail CSX Coal Swap Apr 2020 Elect
+QF XNQXJ2000000e XNQXJ20e           DW USD TON               NYMEX Easter Rail CSX Coal Swap Apr 2020 Elect
+QF XNQXJ2000000h XNQXJ20h           DW USD TON               NYMEX Easter Rail CSX Coal Swap Apr 2020 Elect
+QF XNQXJ2000000l XNQXJ20l           DW USD TON               NYMEX Easter Rail CSX Coal Swap Apr 2020 Elect
+QF XNQXJ2000000o XNQXJ20o           DW USD TON               NYMEX Easter Rail CSX Coal Swap Apr 2020 Elect
+QF XNQXJ2000000w XNQXJ20w           DW USD TON               NYMEX Easter Rail CSX Coal Swap Apr 2020 Elect
+QF XNQXK1800000c XNQXK18c           DW USD TON 150713 180427 NYMEX Easter Rail CSX Coal Swap May 2018 Elect
+QF XNQXK1800000e XNQXK18e           DW USD TON 150713 180427 NYMEX Easter Rail CSX Coal Swap May 2018 Elect
+QF XNQXK1800000h XNQXK18h           DW USD TON 150713 180427 NYMEX Easter Rail CSX Coal Swap May 2018 Elect
+QF XNQXK1800000l XNQXK18l           DW USD TON 150713 180427 NYMEX Easter Rail CSX Coal Swap May 2018 Elect
+QF XNQXK1800000o XNQXK18o           DW USD TON 150713 180427 NYMEX Easter Rail CSX Coal Swap May 2018 Elect
+QF XNQXK1800000w XNQXK18w           DW USD TON 150713 180427 NYMEX Easter Rail CSX Coal Swap May 2018 Elect
+QF XNQXK1900000c XNQXK19c           DW USD TON               NYMEX Easter Rail CSX Coal Swap May 2019 Elect
+QF XNQXK1900000e XNQXK19e           DW USD TON               NYMEX Easter Rail CSX Coal Swap May 2019 Elect
+QF XNQXK1900000h XNQXK19h           DW USD TON               NYMEX Easter Rail CSX Coal Swap May 2019 Elect
+QF XNQXK1900000l XNQXK19l           DW USD TON               NYMEX Easter Rail CSX Coal Swap May 2019 Elect
+QF XNQXK1900000o XNQXK19o           DW USD TON               NYMEX Easter Rail CSX Coal Swap May 2019 Elect
+QF XNQXK1900000w XNQXK19w           DW USD TON               NYMEX Easter Rail CSX Coal Swap May 2019 Elect
+QF XNQXK2000000c XNQXK20c           DW USD TON               NYMEX Easter Rail CSX Coal Swap May 2020 Elect
+QF XNQXK2000000e XNQXK20e           DW USD TON               NYMEX Easter Rail CSX Coal Swap May 2020 Elect
+QF XNQXK2000000h XNQXK20h           DW USD TON               NYMEX Easter Rail CSX Coal Swap May 2020 Elect
+QF XNQXK2000000l XNQXK20l           DW USD TON               NYMEX Easter Rail CSX Coal Swap May 2020 Elect
+QF XNQXK2000000o XNQXK20o           DW USD TON               NYMEX Easter Rail CSX Coal Swap May 2020 Elect
+QF XNQXK2000000w XNQXK20w           DW USD TON               NYMEX Easter Rail CSX Coal Swap May 2020 Elect
+QF XNQXM1800000c XNQXM18c           DW USD TON 150713 180530 NYMEX Easter Rail CSX Coal Swap Jun 2018 Elect
+QF XNQXM1800000e XNQXM18e           DW USD TON 150713 180530 NYMEX Easter Rail CSX Coal Swap Jun 2018 Elect
+QF XNQXM1800000h XNQXM18h           DW USD TON 150713 180530 NYMEX Easter Rail CSX Coal Swap Jun 2018 Elect
+QF XNQXM1800000l XNQXM18l           DW USD TON 150713 180530 NYMEX Easter Rail CSX Coal Swap Jun 2018 Elect
+QF XNQXM1800000o XNQXM18o           DW USD TON 150713 180530 NYMEX Easter Rail CSX Coal Swap Jun 2018 Elect
+QF XNQXM1800000w XNQXM18w           DW USD TON 150713 180530 NYMEX Easter Rail CSX Coal Swap Jun 2018 Elect
+QF XNQP04900000h XNQP049h           DW USD TON               NYMEX Western Rail PRB Coal Swap 49-Mo Elect
+QF XNQP04900000l XNQP049l           DW USD TON               NYMEX Western Rail PRB Coal Swap 49-Mo Elect
+QF XNQP04900000o XNQP049o           DW USD TON               NYMEX Western Rail PRB Coal Swap 49-Mo Elect
+QF XNQP04900000w XNQP049w           DW USD TON               NYMEX Western Rail PRB Coal Swap 49-Mo Elect
+QF XNQP05000000c XNQP050c           DW USD TON               NYMEX Western Rail PRB Coal Swap 50-Mo Elect
+QF XNQP05000000e XNQP050e           DW USD TON               NYMEX Western Rail PRB Coal Swap 50-Mo Elect
+QF XNQP05000000h XNQP050h           DW USD TON               NYMEX Western Rail PRB Coal Swap 50-Mo Elect
+QF XNQP05000000l XNQP050l           DW USD TON               NYMEX Western Rail PRB Coal Swap 50-Mo Elect
+QF XNQP05000000o XNQP050o           DW USD TON               NYMEX Western Rail PRB Coal Swap 50-Mo Elect
+QF XNQP05000000w XNQP050w           DW USD TON               NYMEX Western Rail PRB Coal Swap 50-Mo Elect
+QF XNQP05100000c XNQP051c           DW USD TON               NYMEX Western Rail PRB Coal Swap 51-Mo Elect
+QF XNQP05100000e XNQP051e           DW USD TON               NYMEX Western Rail PRB Coal Swap 51-Mo Elect
+QF XNQP05100000h XNQP051h           DW USD TON               NYMEX Western Rail PRB Coal Swap 51-Mo Elect
+QF XNQP05100000l XNQP051l           DW USD TON               NYMEX Western Rail PRB Coal Swap 51-Mo Elect
+QF XNQP05100000o XNQP051o           DW USD TON               NYMEX Western Rail PRB Coal Swap 51-Mo Elect
+QF XNQP05100000w XNQP051w           DW USD TON               NYMEX Western Rail PRB Coal Swap 51-Mo Elect
+QF XNQP05200000c XNQP052c           DW USD TON               NYMEX Western Rail PRB Coal Swap 52-Mo Elect
+QF XNQP05200000e XNQP052e           DW USD TON               NYMEX Western Rail PRB Coal Swap 52-Mo Elect
+QF XNQP05200000h XNQP052h           DW USD TON               NYMEX Western Rail PRB Coal Swap 52-Mo Elect
+QF XNQP05200000l XNQP052l           DW USD TON               NYMEX Western Rail PRB Coal Swap 52-Mo Elect
+QF XNQP05200000o XNQP052o           DW USD TON               NYMEX Western Rail PRB Coal Swap 52-Mo Elect
+QF XNQP05200000w XNQP052w           DW USD TON               NYMEX Western Rail PRB Coal Swap 52-Mo Elect
+QF XNQP05300000c XNQP053c           DW USD TON               NYMEX Western Rail PRB Coal Swap 53-Mo Elect
+QF XNQP05300000e XNQP053e           DW USD TON               NYMEX Western Rail PRB Coal Swap 53-Mo Elect
+QF XNQP05300000h XNQP053h           DW USD TON               NYMEX Western Rail PRB Coal Swap 53-Mo Elect
+QF XNQP05300000l XNQP053l           DW USD TON               NYMEX Western Rail PRB Coal Swap 53-Mo Elect
+QF XNQP05300000o XNQP053o           DW USD TON               NYMEX Western Rail PRB Coal Swap 53-Mo Elect
+QF XNQP05300000w XNQP053w           DW USD TON               NYMEX Western Rail PRB Coal Swap 53-Mo Elect
+QF XNQP05400000c XNQP054c           DW USD TON               NYMEX Western Rail PRB Coal Swap 54-Mo Elect
+QF XNQP05400000e XNQP054e           DW USD TON               NYMEX Western Rail PRB Coal Swap 54-Mo Elect
+QF XNQP05400000h XNQP054h           DW USD TON               NYMEX Western Rail PRB Coal Swap 54-Mo Elect
+QF XNQP05400000l XNQP054l           DW USD TON               NYMEX Western Rail PRB Coal Swap 54-Mo Elect
+QF XNQP05400000o XNQP054o           DW USD TON               NYMEX Western Rail PRB Coal Swap 54-Mo Elect
+QF XNQP05400000w XNQP054w           DW USD TON               NYMEX Western Rail PRB Coal Swap 54-Mo Elect
+QF XNQP05500000c XNQP055c           DW USD TON               NYMEX Western Rail PRB Coal Swap 55-Mo Elect
+QF XNQP05500000e XNQP055e           DW USD TON               NYMEX Western Rail PRB Coal Swap 55-Mo Elect
+QF XNQP05500000h XNQP055h           DW USD TON               NYMEX Western Rail PRB Coal Swap 55-Mo Elect
+QF XNQP05500000l XNQP055l           DW USD TON               NYMEX Western Rail PRB Coal Swap 55-Mo Elect
+QF XNQP05500000o XNQP055o           DW USD TON               NYMEX Western Rail PRB Coal Swap 55-Mo Elect
+QF XNQP05500000w XNQP055w           DW USD TON               NYMEX Western Rail PRB Coal Swap 55-Mo Elect
+QF XNQP05600000c XNQP056c           DW USD TON               NYMEX Western Rail PRB Coal Swap 56-Mo Elect
+QF XNQP05600000e XNQP056e           DW USD TON               NYMEX Western Rail PRB Coal Swap 56-Mo Elect
+QF XNQP05600000h XNQP056h           DW USD TON               NYMEX Western Rail PRB Coal Swap 56-Mo Elect
+QF XNQP05600000l XNQP056l           DW USD TON               NYMEX Western Rail PRB Coal Swap 56-Mo Elect
+QF XNQP05600000o XNQP056o           DW USD TON               NYMEX Western Rail PRB Coal Swap 56-Mo Elect
+QF XNQP05600000w XNQP056w           DW USD TON               NYMEX Western Rail PRB Coal Swap 56-Mo Elect
+QF XNQP05700000c XNQP057c           DW USD TON               NYMEX Western Rail PRB Coal Swap 57-Mo Elect
+QF XNQP05700000e XNQP057e           DW USD TON               NYMEX Western Rail PRB Coal Swap 57-Mo Elect
+QF XNQP05700000h XNQP057h           DW USD TON               NYMEX Western Rail PRB Coal Swap 57-Mo Elect
+QF XNQP05700000l XNQP057l           DW USD TON               NYMEX Western Rail PRB Coal Swap 57-Mo Elect
+QF XNQP05700000o XNQP057o           DW USD TON               NYMEX Western Rail PRB Coal Swap 57-Mo Elect
+QF XNQP05700000w XNQP057w           DW USD TON               NYMEX Western Rail PRB Coal Swap 57-Mo Elect
+QF XNQP05800000c XNQP058c           DW USD TON               NYMEX Western Rail PRB Coal Swap 58-Mo Elect
+QF XNQP05800000e XNQP058e           DW USD TON               NYMEX Western Rail PRB Coal Swap 58-Mo Elect
+QF XNQP05800000h XNQP058h           DW USD TON               NYMEX Western Rail PRB Coal Swap 58-Mo Elect
+QF XNQP05800000l XNQP058l           DW USD TON               NYMEX Western Rail PRB Coal Swap 58-Mo Elect
+QF XNQP05800000o XNQP058o           DW USD TON               NYMEX Western Rail PRB Coal Swap 58-Mo Elect
+QF XNQP05800000w XNQP058w           DW USD TON               NYMEX Western Rail PRB Coal Swap 58-Mo Elect
+QF XNQXM1900000c XNQXM19c           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jun 2019 Elect
+QF XNQXM1900000e XNQXM19e           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jun 2019 Elect
+QF XNQXM1900000h XNQXM19h           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jun 2019 Elect
+QF XNQXM1900000l XNQXM19l           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jun 2019 Elect
+QF XNQXM1900000o XNQXM19o           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jun 2019 Elect
+QF XNQXM1900000w XNQXM19w           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jun 2019 Elect
+QF XNQXM2000000c XNQXM20c           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jun 2020 Elect
+QF XNQXM2000000e XNQXM20e           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jun 2020 Elect
+QF XNQXM2000000h XNQXM20h           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jun 2020 Elect
+QF XNQXM2000000l XNQXM20l           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jun 2020 Elect
+QF XNQXM2000000o XNQXM20o           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jun 2020 Elect
+QF XNQXM2000000w XNQXM20w           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jun 2020 Elect
+QF XNQXN1800000c XNQXN18c           DW USD TON 150713 180627 NYMEX Easter Rail CSX Coal Swap Jul 2018 Elect
+QF XNQXN1800000e XNQXN18e           DW USD TON 150713 180627 NYMEX Easter Rail CSX Coal Swap Jul 2018 Elect
+QF XNQXN1800000h XNQXN18h           DW USD TON 150713 180627 NYMEX Easter Rail CSX Coal Swap Jul 2018 Elect
+QF XNQXN1800000l XNQXN18l           DW USD TON 150713 180627 NYMEX Easter Rail CSX Coal Swap Jul 2018 Elect
+QF XNQXN1800000o XNQXN18o           DW USD TON 150713 180627 NYMEX Easter Rail CSX Coal Swap Jul 2018 Elect
+QF XNQXN1800000w XNQXN18w           DW USD TON 150713 180627 NYMEX Easter Rail CSX Coal Swap Jul 2018 Elect
+QF XNQXN1900000c XNQXN19c           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jul 2019 Elect
+QF XNQXN1900000e XNQXN19e           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jul 2019 Elect
+QF XNQXN1900000h XNQXN19h           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jul 2019 Elect
+QF XNQXN1900000l XNQXN19l           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jul 2019 Elect
+QF XNQXN1900000o XNQXN19o           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jul 2019 Elect
+QF XNQXN1900000w XNQXN19w           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jul 2019 Elect
+QF XNQXN2000000c XNQXN20c           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jul 2020 Elect
+QF XNQXN2000000e XNQXN20e           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jul 2020 Elect
+QF XNQXN2000000h XNQXN20h           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jul 2020 Elect
+QF XNQXN2000000l XNQXN20l           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jul 2020 Elect
+QF XNQXN2000000o XNQXN20o           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jul 2020 Elect
+QF XNQXN2000000w XNQXN20w           DW USD TON               NYMEX Easter Rail CSX Coal Swap Jul 2020 Elect
+QF XNQXQ1800000c XNQXQ18c           DW USD TON 150713 180727 NYMEX Easter Rail CSX Coal Swap Aug 2018 Elect
+QF XNQXQ1800000e XNQXQ18e           DW USD TON 150713 180727 NYMEX Easter Rail CSX Coal Swap Aug 2018 Elect
+QF XNQXQ1800000h XNQXQ18h           DW USD TON 150713 180727 NYMEX Easter Rail CSX Coal Swap Aug 2018 Elect
+QF XNQXQ1800000l XNQXQ18l           DW USD TON 150713 180727 NYMEX Easter Rail CSX Coal Swap Aug 2018 Elect
+QF XNQXQ1800000o XNQXQ18o           DW USD TON 150713 180727 NYMEX Easter Rail CSX Coal Swap Aug 2018 Elect
+QF XNQXQ1800000w XNQXQ18w           DW USD TON 150713 180727 NYMEX Easter Rail CSX Coal Swap Aug 2018 Elect
+QF XNQXQ1900000c XNQXQ19c           DW USD TON               NYMEX Easter Rail CSX Coal Swap Aug 2019 Elect
+QF XNQXQ1900000e XNQXQ19e           DW USD TON               NYMEX Easter Rail CSX Coal Swap Aug 2019 Elect
+QF XNQXQ1900000h XNQXQ19h           DW USD TON               NYMEX Easter Rail CSX Coal Swap Aug 2019 Elect
+QF XNQXQ1900000l XNQXQ19l           DW USD TON               NYMEX Easter Rail CSX Coal Swap Aug 2019 Elect
+QF XNQXQ1900000o XNQXQ19o           DW USD TON               NYMEX Easter Rail CSX Coal Swap Aug 2019 Elect
+QF XNQXQ1900000w XNQXQ19w           DW USD TON               NYMEX Easter Rail CSX Coal Swap Aug 2019 Elect
+QF XNQXQ2000000c XNQXQ20c           DW USD TON               NYMEX Easter Rail CSX Coal Swap Aug 2020 Elect
+QF XNQXQ2000000e XNQXQ20e           DW USD TON               NYMEX Easter Rail CSX Coal Swap Aug 2020 Elect
+QF XNQXQ2000000h XNQXQ20h           DW USD TON               NYMEX Easter Rail CSX Coal Swap Aug 2020 Elect
+QF XNQXQ2000000l XNQXQ20l           DW USD TON               NYMEX Easter Rail CSX Coal Swap Aug 2020 Elect
+QF XNQXQ2000000o XNQXQ20o           DW USD TON               NYMEX Easter Rail CSX Coal Swap Aug 2020 Elect
+QF XNQXQ2000000w XNQXQ20w           DW USD TON               NYMEX Easter Rail CSX Coal Swap Aug 2020 Elect
+QF XNQXU1800000c XNQXU18c           DW USD TON 150713 180828 NYMEX Easter Rail CSX Coal Swap Sep 2018 Elect
+QF XNQXU1800000e XNQXU18e           DW USD TON 150713 180828 NYMEX Easter Rail CSX Coal Swap Sep 2018 Elect
+QF XNQXU1800000h XNQXU18h           DW USD TON 150713 180828 NYMEX Easter Rail CSX Coal Swap Sep 2018 Elect
+QF XNQXU1800000l XNQXU18l           DW USD TON 150713 180828 NYMEX Easter Rail CSX Coal Swap Sep 2018 Elect
+QF XNQXU1800000o XNQXU18o           DW USD TON 150713 180828 NYMEX Easter Rail CSX Coal Swap Sep 2018 Elect
+QF XNQXU1800000w XNQXU18w           DW USD TON 150713 180828 NYMEX Easter Rail CSX Coal Swap Sep 2018 Elect
+QF XNQXU1900000c XNQXU19c           DW USD TON               NYMEX Easter Rail CSX Coal Swap Sep 2019 Elect

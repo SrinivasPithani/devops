@@ -1,0 +1,284 @@
+USM                                                           © 2019 by S&P Global Inc.,190119
+USM HFMSP0100000c HFMSP01c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo01
+USM HFMSP0200000c HFMSP02c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo02
+USM HFMSP0300000c HFMSP03c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo03
+USM HFMSP0400000c HFMSP04c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo04
+USM HFMSP0500000c HFMSP05c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo05
+USM HFMSP0600000c HFMSP06c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo06
+USM HFMSP0700000c HFMSP07c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo07
+USM HFMSP0800000c HFMSP08c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo08
+USM HFMSP0900000c HFMSP09c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo09
+USM HFMSP1000000c HFMSP10c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo10
+USM HFMSP1100000c HFMSP11c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo11
+USM HFMSP1200000c HFMSP12c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo12
+USM HFMSP1300000c HFMSP13c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo13
+USM HFMSP1400000c HFMSP14c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo14
+USM HFMSP1500000c HFMSP15c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo15
+USM HFMSP1600000c HFMSP16c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo16
+USM HFMSP1700000c HFMSP17c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo17
+USM HFMSP1800000c HFMSP18c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo18
+USM HFMSP1900000c HFMSP19c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo19
+USM HFMSP2000000c HFMSP20c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo20
+USM HFMSP2100000c HFMSP21c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo21
+USM HFMSP2200000c HFMSP22c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo22
+USM HFMSP2300000c HFMSP23c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo23
+USM HFMSP2400000c HFMSP24c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo24
+USM HFMSP2500000c HFMSP25c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo25
+USM HFMSP2600000c HFMSP26c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo26
+USM HFMSP2700000c HFMSP27c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo27
+USM HFMSP2800000c HFMSP28c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo28
+USM HFMSP2900000c HFMSP29c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo29
+USM HFMSP3000000c HFMSP30c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo30
+USM HFMSP3100000c HFMSP31c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo31
+USM HFMSP3200000c HFMSP32c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo32
+USM HFMSP3300000c HFMSP33c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo33
+USM HFMSP3400000c HFMSP34c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo34
+USM HFMSP3500000c HFMSP35c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo35
+USM HFMSP3600000c HFMSP36c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Mo36
+USM HFMSR0100000c HFMSR01c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Qr01
+USM HFMSR0200000c HFMSR02c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Qr02
+USM HFMSR0300000c HFMSR03c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Qr03
+USM HFMSR0400000c HFMSR04c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Qr04
+USM HFMSR0500000c HFMSR05c           DW USC GAL               FtS Spore Heating Oil Frontline Swap Qr05
+USM HFMSR0600000c HFMSR06c           DW USC GAL               FtS Spore Heating Oil Frontline Swap Qr06
+USM HFMSR0700000c HFMSR07c           DW USC GAL               FtS Spore Heating Oil Frontline Swap Qr07
+USM HFMSR0800000c HFMSR08c           DW USC GAL               FtS Spore Heating Oil Frontline Swap Qr08
+USM HFMSR0900000c HFMSR09c           DW USC GAL               FtS Spore Heating Oil Frontline Swap Qr09
+USM HFMSR1000000c HFMSR10c           DW USC GAL               FtS Spore Heating Oil Frontline Swap Qr10
+USM HFMSR1100000c HFMSR11c           DW USC GAL               FtS Spore Heating Oil Frontline Swap Qr11
+USM HFMSR1200000c HFMSR12c           DW USC GAL               FtS Spore Heating Oil Frontline Swap Qr12
+USM HFMSS0100000c HFMSS01c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Yr01
+USM HFMSS0200000c HFMSS02c           DW USC GAL 131001 190118 FtS Spore Heating Oil Frontline Swap Yr02
+USM HFMSS0300000c HFMSS03c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Swap Yr03
+USM HFTSP0100000c HFTSP01c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo01/02
+USM HFTSP0200000c HFTSP02c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo02/03
+USM HFTSP0300000c HFTSP03c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo03/04
+USM HFTSP0400000c HFTSP04c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo04/05
+USM HFTSP0500000c HFTSP05c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo05/06
+USM HFTSP0600000c HFTSP06c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo06/07
+USM HFTSP0700000c HFTSP07c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo07/08
+USM HFTSP0800000c HFTSP08c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo08/09
+USM HFTSP0900000c HFTSP09c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo09/10
+USM HFTSP1000000c HFTSP10c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo10/11
+USM HFTSP1100000c HFTSP11c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo11/12
+USM HFTSP1200000c HFTSP12c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo12/13
+USM HFTSP1300000c HFTSP13c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo13/14
+USM HFTSP1400000c HFTSP14c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo14/15
+USM HFTSP1500000c HFTSP15c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo15/16
+USM HFTSP1600000c HFTSP16c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo16/17
+USM HFTSP1700000c HFTSP17c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo17/18
+USM HFTSP1800000c HFTSP18c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo18/19
+USM HFTSP1900000c HFTSP19c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo19/20
+USM HFTSP2000000c HFTSP20c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo20/21
+USM HFTSP2100000c HFTSP21c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo21/22
+USM HFTSP2200000c HFTSP22c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo22/23
+USM HFTSP2300000c HFTSP23c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo23/24
+USM HFTSP2400000c HFTSP24c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo24/25
+USM HFTSP2500000c HFTSP25c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo25/26
+USM HFTSP2600000c HFTSP26c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo26/27
+USM HFTSP2700000c HFTSP27c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo27/28
+USM HFTSP2800000c HFTSP28c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo28/29
+USM HFTSP2900000c HFTSP29c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo29/30
+USM HFTSP3000000c HFTSP30c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo30/31
+USM HFTSP3100000c HFTSP31c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo31/32
+USM HFTSP3200000c HFTSP32c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo32/33
+USM HFTSP3300000c HFTSP33c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo33/34
+USM HFTSP3400000c HFTSP34c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo34/35
+USM HFTSP3500000c HFTSP35c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Mo35/36
+USM HFTSR0100000c HFTSR01c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Qr01/02
+USM HFTSR0200000c HFTSR02c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Qr02/03
+USM HFTSR0300000c HFTSR03c           DW USC GAL 130327 190118 FtS Spore Heating Oil Frontline Time Spread Swap Qr03/04
+USM HFTSR0400000c HFTSR04c           DW USC GAL               FtS Spore Heating Oil Frontline Time Spread Swap Qr04/05
+USM HFTSR0500000c HFTSR05c           DW USC GAL               FtS Spore Heating Oil Frontline Time Spread Swap Qr05/06
+USM HFTSR0600000c HFTSR06c           DW USC GAL               FtS Spore Heating Oil Frontline Time Spread Swap Qr06/07
+USM HFTSR0700000c HFTSR07c           DW USC GAL               FtS Spore Heating Oil Frontline Time Spread Swap Qr07/08
+USM HFTSR0800000c HFTSR08c           DW USC GAL               FtS Spore Heating Oil Frontline Time Spread Swap Qr08/09
+USM HFTSR0900000c HFTSR09c           DW USC GAL               FtS Spore Heating Oil Frontline Time Spread Swap Qr09/10
+USM HFTSR1000000c HFTSR10c           DW USC GAL               FtS Spore Heating Oil Frontline Time Spread Swap Qr10/11
+USM HFTSR1100000c HFTSR11c           DW USC GAL               FtS Spore Heating Oil Frontline Time Spread Swap Qr11/12
+USM HFTSS0100000c HFTSS01c           DW USC GAL 131001 190118 FtS Spore Heating Oil Frontline Time Spread Swap Yr01/02
+USM HFTSS0200000c HFTSS02c           DW USC GAL 131001 190118 FtS Spore Heating Oil Frontline Time Spread Swap Yr02/03
+USM JAFSP0100000c JAFSP01c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC + HO Frontline Flat Prc Swap Mo01
+USM JAFSP0200000c JAFSP02c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC + HO Frontline Flat Prc Swap Mo02
+USM JAFSP0300000c JAFSP03c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC + HO Frontline Flat Prc Swap Mo03
+USM JAFSP0400000c JAFSP04c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC + HO Frontline Flat Prc Swap Mo04
+USM JAFSP0500000c JAFSP05c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC + HO Frontline Flat Prc Swap Mo05
+USM JAFSP0600000c JAFSP06c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC + HO Frontline Flat Prc Swap Mo06
+USM JAFSP0700000c JAFSP07c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC + HO Frontline Flat Prc Swap Mo07
+USM JAFSP0800000c JAFSP08c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC + HO Frontline Flat Prc Swap Mo08
+USM JAFSP0900000c JAFSP09c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC + HO Frontline Flat Prc Swap Mo09
+USM JAFSP1000000c JAFSP10c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC + HO Frontline Flat Prc Swap Mo10
+USM JAFSP1100000c JAFSP11c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC + HO Frontline Flat Prc Swap Mo11
+USM JAFSP1200000c JAFSP12c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC + HO Frontline Flat Prc Swap Mo12
+USM JAFSR0100000c JAFSR01c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC + HO Frontline Flat Prc Swap Qr01
+USM JAFSR0200000c JAFSR02c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC + HO Frontline Flat Prc Swap Qr02
+USM JAFSR0300000c JAFSR03c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC + HO Frontline Flat Prc Swap Qr03
+USM JAFSR0400000c JAFSR04c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC + HO Frontline Flat Prc Swap Qr04
+USM JAMSP0100000c JAMSP01c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC vs HO Frontline Swap Mo01
+USM JAMSP0200000c JAMSP02c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC vs HO Frontline Swap Mo02
+USM JAMSP0300000c JAMSP03c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC vs HO Frontline Swap Mo03
+USM JAMSP0400000c JAMSP04c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC vs HO Frontline Swap Mo04
+USM JAMSP0500000c JAMSP05c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC vs HO Frontline Swap Mo05
+USM JAMSP0600000c JAMSP06c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC vs HO Frontline Swap Mo06
+USM JAMSP0700000c JAMSP07c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC vs HO Frontline Swap Mo07
+USM JAMSP0800000c JAMSP08c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC vs HO Frontline Swap Mo08
+USM JAMSP0900000c JAMSP09c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC vs HO Frontline Swap Mo09
+USM JAMSP1000000c JAMSP10c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC vs HO Frontline Swap Mo10
+USM JAMSP1100000c JAMSP11c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC vs HO Frontline Swap Mo11
+USM JAMSP1200000c JAMSP12c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC vs HO Frontline Swap Mo12
+USM JAMSR0100000c JAMSR01c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC vs HO Frontline Swap Qr01
+USM JAMSR0200000c JAMSR02c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC vs HO Frontline Swap Qr02
+USM JAMSR0300000c JAMSR03c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC vs HO Frontline Swap Qr03
+USM JAMSR0400000c JAMSR04c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC vs HO Frontline Swap Qr04
+USM JWFSP0100000c JWFSP01c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC + HO Frontline Flat Prc Swap Mo01
+USM JWFSP0200000c JWFSP02c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC + HO Frontline Flat Prc Swap Mo02
+USM JWFSP0300000c JWFSP03c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC + HO Frontline Flat Prc Swap Mo03
+USM JWFSP0400000c JWFSP04c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC + HO Frontline Flat Prc Swap Mo04
+USM JWFSP0500000c JWFSP05c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC + HO Frontline Flat Prc Swap Mo05
+USM JWFSP0600000c JWFSP06c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC + HO Frontline Flat Prc Swap Mo06
+USM JWFSP0700000c JWFSP07c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC + HO Frontline Flat Prc Swap Mo07
+USM JWFSP0800000c JWFSP08c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC + HO Frontline Flat Prc Swap Mo08
+USM JWFSP0900000c JWFSP09c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC + HO Frontline Flat Prc Swap Mo09
+USM JWFSP1000000c JWFSP10c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC + HO Frontline Flat Prc Swap Mo10
+USM JWFSP1100000c JWFSP11c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC + HO Frontline Flat Prc Swap Mo11
+USM JWFSP1200000c JWFSP12c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC + HO Frontline Flat Prc Swap Mo12
+USM JWFSR0100000c JWFSR01c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC + HO Frontline Flat Prc Swap Qr01
+USM JWFSR0200000c JWFSR02c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC + HO Frontline Flat Prc Swap Qr02
+USM JWFSR0300000c JWFSR03c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC + HO Frontline Flat Prc Swap Qr03
+USM JWFSR0400000c JWFSR04c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC + HO Frontline Flat Prc Swap Qr04
+USM JWMSP0100000c JWMSP01c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC vs HO Frontline Swap Mo01
+USM JWMSP0200000c JWMSP02c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC vs HO Frontline Swap Mo02
+USM JWMSP0300000c JWMSP03c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC vs HO Frontline Swap Mo03
+USM JWMSP0400000c JWMSP04c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC vs HO Frontline Swap Mo04
+USM JWMSP0500000c JWMSP05c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC vs HO Frontline Swap Mo05
+USM JWMSP0600000c JWMSP06c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC vs HO Frontline Swap Mo06
+USM JWMSP0700000c JWMSP07c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC vs HO Frontline Swap Mo07
+USM JWMSP0800000c JWMSP08c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC vs HO Frontline Swap Mo08
+USM JWMSP0900000c JWMSP09c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC vs HO Frontline Swap Mo09
+USM JWMSP1000000c JWMSP10c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC vs HO Frontline Swap Mo10
+USM JATSP0100000c JATSP01c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC + HO Frontline Time Spread Swap Mo01/02
+USM JATSP0200000c JATSP02c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC + HO Frontline Time Spread Swap Mo02/03
+USM JATSP0300000c JATSP03c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC + HO Frontline Time Spread Swap Mo03/04
+USM JATSP0400000c JATSP04c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC + HO Frontline Time Spread Swap Mo04/05
+USM JATSP0500000c JATSP05c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC + HO Frontline Time Spread Swap Mo05/06
+USM JATSP0600000c JATSP06c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC + HO Frontline Time Spread Swap Mo06/07
+USM JATSP0700000c JATSP07c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC + HO Frontline Time Spread Swap Mo07/08
+USM JATSP0800000c JATSP08c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC + HO Frontline Time Spread Swap Mo08/09
+USM JATSP0900000c JATSP09c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC + HO Frontline Time Spread Swap Mo09/10
+USM JATSP1000000c JATSP10c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC + HO Frontline Time Spread Swap Mo10/11
+USM JATSP1100000c JATSP11c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC + HO Frontline Time Spread Swap Mo11/12
+USM JATSR0100000c JATSR01c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC + HO Frontline Time Spread Swap Qr01/02
+USM JATSR0200000c JATSR02c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC + HO Frontline Time Spread Swap Qr02/03
+USM JATSR0300000c JATSR03c           DW USC GAL 130327 190118 FtS Spore Jet Kero USAC + HO Frontline Time Spread Swap Qr03/04
+USM JGFSP0100000c JGFSP01c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC + HO Frontline Flat Prc Swap Mo01
+USM JGFSP0200000c JGFSP02c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC + HO Frontline Flat Prc Swap Mo02
+USM JGFSP0300000c JGFSP03c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC + HO Frontline Flat Prc Swap Mo03
+USM JGFSP0400000c JGFSP04c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC + HO Frontline Flat Prc Swap Mo04
+USM JGFSP0500000c JGFSP05c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC + HO Frontline Flat Prc Swap Mo05
+USM JGFSP0600000c JGFSP06c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC + HO Frontline Flat Prc Swap Mo06
+USM JGFSP0700000c JGFSP07c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC + HO Frontline Flat Prc Swap Mo07
+USM JGFSP0800000c JGFSP08c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC + HO Frontline Flat Prc Swap Mo08
+USM JGFSP0900000c JGFSP09c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC + HO Frontline Flat Prc Swap Mo09
+USM JGFSP1000000c JGFSP10c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC + HO Frontline Flat Prc Swap Mo10
+USM JGFSP1100000c JGFSP11c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC + HO Frontline Flat Prc Swap Mo11
+USM JGFSP1200000c JGFSP12c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC + HO Frontline Flat Prc Swap Mo12
+USM JGFSR0100000c JGFSR01c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC + HO Frontline Flat Prc Swap Qr01
+USM JGFSR0200000c JGFSR02c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC + HO Frontline Flat Prc Swap Qr02
+USM JGFSR0300000c JGFSR03c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC + HO Frontline Flat Prc Swap Qr03
+USM JGFSR0400000c JGFSR04c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC + HO Frontline Flat Prc Swap Qr04
+USM JWMSP1100000c JWMSP11c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC vs HO Frontline Swap Mo11
+USM JWMSP1200000c JWMSP12c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC vs HO Frontline Swap Mo12
+USM JWMSR0100000c JWMSR01c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC vs HO Frontline Swap Qr01
+USM JWMSR0200000c JWMSR02c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC vs HO Frontline Swap Qr02
+USM JWMSR0300000c JWMSR03c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC vs HO Frontline Swap Qr03
+USM JWMSR0400000c JWMSR04c           DW USC GAL 130327 190118 FtS Spore Jet Kero USWC vs HO Frontline Swap Qr04
+USM JWTSP0100000c JWTSP01c           DW USC GAL 130327 160712 FtS Spore Jet Kero USWC vs HO Frontline Time Spread Swap Mo01/02
+USM JWTSP0200000c JWTSP02c           DW USC GAL 130327 160712 FtS Spore Jet Kero USWC vs HO Frontline Time Spread Swap Mo02/03
+USM JWTSP0300000c JWTSP03c           DW USC GAL 130327 160712 FtS Spore Jet Kero USWC vs HO Frontline Time Spread Swap Mo03/04
+USM JWTSP0400000c JWTSP04c           DW USC GAL 130327 160712 FtS Spore Jet Kero USWC vs HO Frontline Time Spread Swap Mo04/05
+USM JWTSP0500000c JWTSP05c           DW USC GAL 130327 160712 FtS Spore Jet Kero USWC vs HO Frontline Time Spread Swap Mo05/06
+USM JWTSP0600000c JWTSP06c           DW USC GAL 130327 160712 FtS Spore Jet Kero USWC vs HO Frontline Time Spread Swap Mo06/07
+USM JWTSP0700000c JWTSP07c           DW USC GAL 130327 160712 FtS Spore Jet Kero USWC vs HO Frontline Time Spread Swap Mo07/08
+USM JWTSP0800000c JWTSP08c           DW USC GAL 130327 160712 FtS Spore Jet Kero USWC vs HO Frontline Time Spread Swap Mo08/09
+USM JWTSP0900000c JWTSP09c           DW USC GAL 130327 160712 FtS Spore Jet Kero USWC vs HO Frontline Time Spread Swap Mo09/10
+USM JWTSP1000000c JWTSP10c           DW USC GAL 130327 160712 FtS Spore Jet Kero USWC vs HO Frontline Time Spread Swap Mo10/11
+USM JWTSP1100000c JWTSP11c           DW USC GAL 130327 160712 FtS Spore Jet Kero USWC vs HO Frontline Time Spread Swap Mo11/12
+USM JWTSR0100000c JWTSR01c           DW USC GAL 130327 160712 FtS Spore Jet Kero USWC vs HO Frontline Time Spread Swap Qr01/02
+USM JWTSR0200000c JWTSR02c           DW USC GAL 130327 160712 FtS Spore Jet Kero USWC vs HO Frontline Time Spread Swap Qr02/03
+USM JWTSR0300000c JWTSR03c           DW USC GAL 130327 160712 FtS Spore Jet Kero USWC vs HO Frontline Time Spread Swap Qr03/04
+USM JGMSP0100000c JGMSP01c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC vs HO Frontline Swap Mo01
+USM JGMSP0200000c JGMSP02c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC vs HO Frontline Swap Mo02
+USM JGMSP0300000c JGMSP03c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC vs HO Frontline Swap Mo03
+USM JGMSP0400000c JGMSP04c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC vs HO Frontline Swap Mo04
+USM JGMSP0500000c JGMSP05c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC vs HO Frontline Swap Mo05
+USM JGMSP0600000c JGMSP06c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC vs HO Frontline Swap Mo06
+USM JGMSP0700000c JGMSP07c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC vs HO Frontline Swap Mo07
+USM JGMSP0800000c JGMSP08c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC vs HO Frontline Swap Mo08
+USM JGMSP0900000c JGMSP09c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC vs HO Frontline Swap Mo09
+USM JGMSP1000000c JGMSP10c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC vs HO Frontline Swap Mo10
+USM JGMSP1100000c JGMSP11c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC vs HO Frontline Swap Mo11
+USM JGMSP1200000c JGMSP12c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC vs HO Frontline Swap Mo12
+USM JGMSR0100000c JGMSR01c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC vs HO Frontline Swap Qr01
+USM JGMSR0200000c JGMSR02c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC vs HO Frontline Swap Qr02
+USM JGMSR0300000c JGMSR03c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC vs HO Frontline Swap Qr03
+USM JGMSR0400000c JGMSR04c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC vs HO Frontline Swap Qr04
+USM JGTSP0100000c JGTSP01c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC + HO Frontline Time Spread Swap Mo01/02
+USM JGTSP0200000c JGTSP02c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC + HO Frontline Time Spread Swap Mo02/03
+USM JGTSP0300000c JGTSP03c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC + HO Frontline Time Spread Swap Mo03/04
+USM JGTSP0400000c JGTSP04c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC + HO Frontline Time Spread Swap Mo04/05
+USM JGTSP0500000c JGTSP05c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC + HO Frontline Time Spread Swap Mo05/06
+USM JGTSP0600000c JGTSP06c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC + HO Frontline Time Spread Swap Mo06/07
+USM JGTSP0700000c JGTSP07c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC + HO Frontline Time Spread Swap Mo07/08
+USM JGTSP0800000c JGTSP08c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC + HO Frontline Time Spread Swap Mo08/09
+USM JGTSP0900000c JGTSP09c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC + HO Frontline Time Spread Swap Mo09/10
+USM JGTSP1000000c JGTSP10c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC + HO Frontline Time Spread Swap Mo10/11
+USM JGTSP1100000c JGTSP11c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC + HO Frontline Time Spread Swap Mo11/12
+USM JGTSR0100000c JGTSR01c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC + HO Frontline Time Spread Swap Qr01/02
+USM JGTSR0200000c JGTSR02c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC + HO Frontline Time Spread Swap Qr02/03
+USM JGTSR0300000c JGTSR03c           DW USC GAL 130327 190118 FtS Spore Jet Kero USGC + HO Frontline Time Spread Swap Qr03/04
+USM UGFSP0100000c UGFSP01c           DW USC GAL 130327 190118 FtS Spore ULSD USGC + HO Frontline Flat Prc Swap Mo01
+USM UGFSP0200000c UGFSP02c           DW USC GAL 130327 190118 FtS Spore ULSD USGC + HO Frontline Flat Prc Swap Mo02
+USM UGFSP0300000c UGFSP03c           DW USC GAL 130327 190118 FtS Spore ULSD USGC + HO Frontline Flat Prc Swap Mo03
+USM UGFSP0400000c UGFSP04c           DW USC GAL 130327 190118 FtS Spore ULSD USGC + HO Frontline Flat Prc Swap Mo04
+USM UGFSP0500000c UGFSP05c           DW USC GAL 130327 190118 FtS Spore ULSD USGC + HO Frontline Flat Prc Swap Mo05
+USM UGFSP0600000c UGFSP06c           DW USC GAL 130327 190118 FtS Spore ULSD USGC + HO Frontline Flat Prc Swap Mo06
+USM UGFSP0700000c UGFSP07c           DW USC GAL 130327 190118 FtS Spore ULSD USGC + HO Frontline Flat Prc Swap Mo07
+USM UGFSP0800000c UGFSP08c           DW USC GAL 130327 190118 FtS Spore ULSD USGC + HO Frontline Flat Prc Swap Mo08
+USM UGFSP0900000c UGFSP09c           DW USC GAL 130327 190118 FtS Spore ULSD USGC + HO Frontline Flat Prc Swap Mo09
+USM UGFSP1000000c UGFSP10c           DW USC GAL 130327 190118 FtS Spore ULSD USGC + HO Frontline Flat Prc Swap Mo10
+USM UGFSP1100000c UGFSP11c           DW USC GAL 130327 190118 FtS Spore ULSD USGC + HO Frontline Flat Prc Swap Mo11
+USM UGFSP1200000c UGFSP12c           DW USC GAL 130327 190118 FtS Spore ULSD USGC + HO Frontline Flat Prc Swap Mo12
+USM UGFSR0100000c UGFSR01c           DW USC GAL 130327 190118 FtS Spore ULSD USGC + HO Frontline Flat Prc Swap Qr01
+USM UGFSR0200000c UGFSR02c           DW USC GAL 130327 190118 FtS Spore ULSD USGC + HO Frontline Flat Prc Swap Qr02
+USM UGFSR0300000c UGFSR03c           DW USC GAL 130327 190118 FtS Spore ULSD USGC + HO Frontline Flat Prc Swap Qr03
+USM UGFSR0400000c UGFSR04c           DW USC GAL 130327 190118 FtS Spore ULSD USGC + HO Frontline Flat Prc Swap Qr04
+USM UGMSP0100000c UGMSP01c           DW USC GAL 130816 190118 FtS Spore ULSD USGC vs HO Frontline Swap Mo01
+USM UGMSP0200000c UGMSP02c           DW USC GAL 130816 190118 FtS Spore ULSD USGC vs HO Frontline Swap Mo02
+USM UGMSP0300000c UGMSP03c           DW USC GAL 130816 190118 FtS Spore ULSD USGC vs HO Frontline Swap Mo03
+USM UGMSP0400000c UGMSP04c           DW USC GAL 130816 190118 FtS Spore ULSD USGC vs HO Frontline Swap Mo04
+USM UGMSP0500000c UGMSP05c           DW USC GAL 130816 190118 FtS Spore ULSD USGC vs HO Frontline Swap Mo05
+USM UGMSP0600000c UGMSP06c           DW USC GAL 130816 190118 FtS Spore ULSD USGC vs HO Frontline Swap Mo06
+USM UGMSP0700000c UGMSP07c           DW USC GAL 130816 190118 FtS Spore ULSD USGC vs HO Frontline Swap Mo07
+USM UGMSP0800000c UGMSP08c           DW USC GAL 130816 190118 FtS Spore ULSD USGC vs HO Frontline Swap Mo08
+USM UGMSP0900000c UGMSP09c           DW USC GAL 130816 190118 FtS Spore ULSD USGC vs HO Frontline Swap Mo09
+USM UGMSP1000000c UGMSP10c           DW USC GAL 130816 190118 FtS Spore ULSD USGC vs HO Frontline Swap Mo10
+USM UGMSP1100000c UGMSP11c           DW USC GAL 130816 190118 FtS Spore ULSD USGC vs HO Frontline Swap Mo11
+USM UGMSP1200000c UGMSP12c           DW USC GAL 130816 190118 FtS Spore ULSD USGC vs HO Frontline Swap Mo12
+USM UGMSR0100000c UGMSR01c           DW USC GAL 130816 190118 FtS Spore ULSD USGC vs HO Frontline Swap Qr01
+USM UGMSR0200000c UGMSR02c           DW USC GAL 130816 190118 FtS Spore ULSD USGC vs HO Frontline Swap Qr02
+USM UGMSR0300000c UGMSR03c           DW USC GAL 130816 190118 FtS Spore ULSD USGC vs HO Frontline Swap Qr03
+USM UGMSR0400000c UGMSR04c           DW USC GAL 130816 190118 FtS Spore ULSD USGC vs HO Frontline Swap Qr04
+USM UGTSP0100000c UGTSP01c           DW USC GAL 130816 190118 FtS Spore ULSD USGC + HO Frontline Time Spread Swap Mo01/02
+USM UGTSP0200000c UGTSP02c           DW USC GAL 130816 190118 FtS Spore ULSD USGC + HO Frontline Time Spread Swap Mo02/03
+USM UGTSP0300000c UGTSP03c           DW USC GAL 130816 190118 FtS Spore ULSD USGC + HO Frontline Time Spread Swap Mo03/04
+USM UGTSP0400000c UGTSP04c           DW USC GAL 130816 190118 FtS Spore ULSD USGC + HO Frontline Time Spread Swap Mo04/05
+USM UGTSP0500000c UGTSP05c           DW USC GAL 130816 190118 FtS Spore ULSD USGC + HO Frontline Time Spread Swap Mo05/06
+USM UGTSP0600000c UGTSP06c           DW USC GAL 130816 190118 FtS Spore ULSD USGC + HO Frontline Time Spread Swap Mo06/07
+USM UGTSP0700000c UGTSP07c           DW USC GAL 130816 190118 FtS Spore ULSD USGC + HO Frontline Time Spread Swap Mo07/08
+USM UGTSP0800000c UGTSP08c           DW USC GAL 130816 190118 FtS Spore ULSD USGC + HO Frontline Time Spread Swap Mo08/09
+USM UGTSP0900000c UGTSP09c           DW USC GAL 130816 190118 FtS Spore ULSD USGC + HO Frontline Time Spread Swap Mo09/10
+USM UGTSP1000000c UGTSP10c           DW USC GAL 130816 190118 FtS Spore ULSD USGC + HO Frontline Time Spread Swap Mo10/11
+USM UGTSP1100000c UGTSP11c           DW USC GAL 130816 190118 FtS Spore ULSD USGC + HO Frontline Time Spread Swap Mo11/12
+USM UGTSR0100000c UGTSR01c           DW USC GAL 130816 190118 FtS Spore ULSD USGC + HO Frontline Time Spread Swap Qr01/02
+USM UGTSR0200000c UGTSR02c           DW USC GAL 130816 190118 FtS Spore ULSD USGC + HO Frontline Time Spread Swap Qr02/03
+USM UGTSR0300000c UGTSR03c           DW USC GAL 130816 190118 FtS Spore ULSD USGC + HO Frontline Time Spread Swap Qr03/04

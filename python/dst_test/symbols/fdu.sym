@@ -1,0 +1,1708 @@
+FDU                                                           © 2019 by S&P Global Inc.,190119
+FDU QNAG21800000c QNAG218c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo218
+FDU QNAG21900000c QNAG219c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo219
+FDU QNAG22000000c QNAG220c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo220
+FDU QNAG22100000c QNAG221c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo221
+FDU QNAG22200000c QNAG222c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo222
+FDU QNAG22300000c QNAG223c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo223
+FDU QNAG22400000c QNAG224c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo224
+FDU QNAG22500000c QNAG225c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo225
+FDU QNAG22600000c QNAG226c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo226
+FDU QNAG22700000c QNAG227c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo227
+FDU QNAG22800000c QNAG228c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo228
+FDU QNAG22900000c QNAG229c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo229
+FDU QNAG23000000c QNAG230c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo230
+FDU QNAG23100000c QNAG231c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo231
+FDU QNAG23200000c QNAG232c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo232
+FDU QNAG23300000c QNAG233c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo233
+FDU QNAG23400000c QNAG234c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo234
+FDU QNAG23500000c QNAG235c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo235
+FDU QNAG23600000c QNAG236c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo236
+FDU QNAG23700000c QNAG237c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo237
+FDU QNAG23800000c QNAG238c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo238
+FDU QNAG23900000c QNAG239c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo239
+FDU QNAG24000000c QNAG240c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo240
+FDU QNAGM8500000c QNAGM85c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo85
+FDU QNAGM8600000c QNAGM86c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo86
+FDU QNAGM8700000c QNAGM87c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo87
+FDU QNAGM8800000c QNAGM88c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo88
+FDU QNAGM8900000c QNAGM89c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo89
+FDU QNAGM9000000c QNAGM90c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo90
+FDU QNAGM9100000c QNAGM91c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo91
+FDU QNAGM9200000c QNAGM92c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo92
+FDU QNAGM9300000c QNAGM93c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo93
+FDU QNAGM9400000c QNAGM94c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo94
+FDU QNAGM9500000c QNAGM95c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo95
+FDU QNAGM9600000c QNAGM96c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo96
+FDU QNAGM9700000c QNAGM97c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo97
+FDU QNAGM9800000c QNAGM98c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo98
+FDU QNAGM9900000c QNAGM99c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo99
+FDU QNAGP3700000c QNAGP37c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo37
+FDU QNAGP3800000c QNAGP38c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo38
+FDU QNAGP3900000c QNAGP39c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo39
+FDU QNAGP4000000c QNAGP40c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo40
+FDU QNAGP4100000c QNAGP41c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo41
+FDU QNAGP4200000c QNAGP42c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo42
+FDU QNAGP4300000c QNAGP43c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo43
+FDU QNAGP4400000c QNAGP44c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo44
+FDU QNAGP4500000c QNAGP45c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo45
+FDU QNAGP4600000c QNAGP46c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo46
+FDU QNAGP4700000c QNAGP47c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo47
+FDU QNAGP4800000c QNAGP48c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo48
+FDU QNAGP4900000c QNAGP49c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo49
+FDU QNAGP5000000c QNAGP50c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo50
+FDU QNAGP5100000c QNAGP51c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo51
+FDU QNAGP5200000c QNAGP52c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo52
+FDU QNAGP5300000c QNAGP53c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo53
+FDU QNAGP5400000c QNAGP54c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo54
+FDU QNAGP5500000c QNAGP55c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo55
+FDU QNAGP5600000c QNAGP56c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo56
+FDU QNAGP5700000c QNAGP57c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo57
+FDU QNAGP5800000c QNAGP58c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo58
+FDU QNAGP5900000c QNAGP59c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo59
+FDU QNAGP6000000c QNAGP60c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo60
+FDU QNAGP6100000c QNAGP61c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo61
+FDU QNAGP6200000c QNAGP62c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo62
+FDU QNAGP6300000c QNAGP63c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo63
+FDU QNAGP6400000c QNAGP64c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo64
+FDU QNAGP6500000c QNAGP65c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo65
+FDU QNAGP6600000c QNAGP66c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo66
+FDU QNAGP6700000c QNAGP67c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo67
+FDU QNAGP6800000c QNAGP68c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo68
+FDU QNAGP6900000c QNAGP69c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo69
+FDU QNAGP7000000c QNAGP70c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo70
+FDU QNAGP7100000c QNAGP71c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo71
+FDU QTIH10000000c QTIH100c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo100
+FDU QTIH10100000c QTIH101c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo101
+FDU QTIH10200000c QTIH102c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo102
+FDU QTIH10300000c QTIH103c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo103
+FDU QTIH10400000c QTIH104c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo104
+FDU QTIH10500000c QTIH105c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo105
+FDU QTIH10600000c QTIH106c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo106
+FDU QTIH10700000c QTIH107c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo107
+FDU QTIH10800000c QTIH108c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo108
+FDU QTIH10900000c QTIH109c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo109
+FDU QTIH11000000c QTIH110c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo110
+FDU QTIH11100000c QTIH111c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo111
+FDU QTIH11200000c QTIH112c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo112
+FDU QTIH11300000c QTIH113c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo113
+FDU QTIH11400000c QTIH114c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo114
+FDU QTIH11500000c QTIH115c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo115
+FDU QTIH11600000c QTIH116c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo116
+FDU QTIH11700000c QTIH117c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo117
+FDU QTIH11800000c QTIH118c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo118
+FDU QTIH11900000c QTIH119c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo119
+FDU QTIH12000000c QTIH120c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo120
+FDU QTIH12100000c QTIH121c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo121
+FDU QTIH12200000c QTIH122c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo122
+FDU QTIH12300000c QTIH123c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo123
+FDU QTIH12400000c QTIH124c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo124
+FDU QTIH12500000c QTIH125c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo125
+FDU QTIH12600000c QTIH126c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo126
+FDU QTIH12700000c QTIH127c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo127
+FDU QTIH12800000c QTIH128c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo128
+FDU QTIH12900000c QTIH129c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo129
+FDU QTIH13000000c QTIH130c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo130
+FDU QTIH13100000c QTIH131c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo131
+FDU QTIH13200000c QTIH132c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo132
+FDU QTIH13300000c QTIH133c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo133
+FDU QTIH13400000c QTIH134c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo134
+FDU QTIH13500000c QTIH135c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo135
+FDU QTIH13600000c QTIH136c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo136
+FDU QTIH13700000c QTIH137c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo137
+FDU QTIH13800000c QTIH138c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo138
+FDU QTIH13900000c QTIH139c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo139
+FDU QTIH14000000c QTIH140c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo140
+FDU QTIH14100000c QTIH141c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo141
+FDU QTIH14200000c QTIH142c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo142
+FDU QTIH14300000c QTIH143c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo143
+FDU QTIH14400000c QTIH144c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo144
+FDU QTIH14500000c QTIH145c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo145
+FDU QTIH14600000c QTIH146c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo146
+FDU QTIH14700000c QTIH147c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo147
+FDU QTIH14800000c QTIH148c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo148
+FDU QTIH14900000c QTIH149c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo149
+FDU QTIH15000000c QTIH150c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo150
+FDU QTIH15100000c QTIH151c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo151
+FDU QF1AP3700000c QF1AP37c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo37
+FDU QF1AP3800000c QF1AP38c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo38
+FDU QF1AP3900000c QF1AP39c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo39
+FDU QF1AP4000000c QF1AP40c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo40
+FDU QF1AP4100000c QF1AP41c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo41
+FDU QF1AP4200000c QF1AP42c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo42
+FDU QF1AP4300000c QF1AP43c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo43
+FDU QF1AP4400000c QF1AP44c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo44
+FDU QF1AP4500000c QF1AP45c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo45
+FDU QF1AP4600000c QF1AP46c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo46
+FDU QF1AP4700000c QF1AP47c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo47
+FDU QF1AP4800000c QF1AP48c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo48
+FDU QF1AP4900000c QF1AP49c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo49
+FDU QF1AP5000000c QF1AP50c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo50
+FDU QF1AP5100000c QF1AP51c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo51
+FDU QF1AP5200000c QF1AP52c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo52
+FDU QF1AP5300000c QF1AP53c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo53
+FDU QF1AP5400000c QF1AP54c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo54
+FDU QF1AP5500000c QF1AP55c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo55
+FDU QLFG10000000c QLFG100c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo100
+FDU QLFG10100000c QLFG101c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo101
+FDU QLFG10200000c QLFG102c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo102
+FDU QLFG10300000c QLFG103c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo103
+FDU QLFG10400000c QLFG104c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo104
+FDU QLFG10500000c QLFG105c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo105
+FDU QLFG10600000c QLFG106c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo106
+FDU QLFG10700000c QLFG107c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo107
+FDU QLFG10800000c QLFG108c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo108
+FDU QLFG10900000c QLFG109c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo109
+FDU QLFG11000000c QLFG110c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo110
+FDU QLFG11100000c QLFG111c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo111
+FDU QLFG11200000c QLFG112c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo112
+FDU QLFG11300000c QLFG113c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo113
+FDU QLFG11400000c QLFG114c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo114
+FDU QLFG11500000c QLFG115c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo115
+FDU QLFG11600000c QLFG116c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo116
+FDU QLFG11700000c QLFG117c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo117
+FDU QLFG11800000c QLFG118c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo118
+FDU QLFG11900000c QLFG119c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo119
+FDU QLFG12000000c QLFG120c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo120
+FDU QLFG12100000c QLFG121c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo121
+FDU QLFG12200000c QLFG122c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo122
+FDU QLFG12300000c QLFG123c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo123
+FDU QLFG12400000c QLFG124c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo124
+FDU QLFG12500000c QLFG125c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo125
+FDU QLFG12600000c QLFG126c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo126
+FDU QLFG12700000c QLFG127c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo127
+FDU QLFG12800000c QLFG128c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo128
+FDU QLFG12900000c QLFG129c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo129
+FDU QLFG13000000c QLFG130c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo130
+FDU QLFG13100000c QLFG131c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo131
+FDU QLFG13200000c QLFG132c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo132
+FDU QLFG13300000c QLFG133c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo133
+FDU QLFG13400000c QLFG134c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo134
+FDU QLFG13500000c QLFG135c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo135
+FDU QLFG13600000c QLFG136c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo136
+FDU QLFG13700000c QLFG137c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo137
+FDU QLFG13800000c QLFG138c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo138
+FDU QLFG13900000c QLFG139c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo139
+FDU QLFG14000000c QLFG140c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo140
+FDU QLFG14100000c QLFG141c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo141
+FDU QLFG14200000c QLFG142c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo142
+FDU QLFG14300000c QLFG143c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo143
+FDU QLFG14400000c QLFG144c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo144
+FDU QLFG14500000c QLFG145c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo145
+FDU QLFG14600000c QLFG146c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo146
+FDU QLFG14700000c QLFG147c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo147
+FDU QLFG14800000c QLFG148c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo148
+FDU QNAGP7200000c QNAGP72c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo72
+FDU QNAGP7300000c QNAGP73c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Mo73
+FDU QNAGP7400000c QNAGP74c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Mo74
+FDU QNAGP7500000c QNAGP75c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Mo75
+FDU QNAGP7600000c QNAGP76c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Mo76
+FDU QNAGP7700000c QNAGP77c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Mo77
+FDU QNAGP7800000c QNAGP78c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Mo78
+FDU QNAGP7900000c QNAGP79c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Mo79
+FDU QNAGP8000000c QNAGP80c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Mo80
+FDU QNAGP8100000c QNAGP81c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Mo81
+FDU QNAGP8200000c QNAGP82c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Mo82
+FDU QNAGP8300000c QNAGP83c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Mo83
+FDU QNAGP8400000c QNAGP84c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Mo84
+FDU QNAGQ1300000c QNAGQ13c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Qr13
+FDU QNAGQ1400000c QNAGQ14c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Qr14
+FDU QNAGQ1500000c QNAGQ15c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Qr15
+FDU QNAGQ1600000c QNAGQ16c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Qr16
+FDU QNAGQ1700000c QNAGQ17c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Qr17
+FDU QNAGQ1800000c QNAGQ18c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Qr18
+FDU QNAGQ1900000c QNAGQ19c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Qr19
+FDU QNAGQ2000000c QNAGQ20c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Qr20
+FDU QNAGQ2100000c QNAGQ21c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Qr21
+FDU QNAGQ2200000c QNAGQ22c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Qr22
+FDU QNAGQ2300000c QNAGQ23c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Qr23
+FDU QNAGQ2400000c QNAGQ24c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Qr24
+FDU QNAGY0400000c QNAGY04c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Yr04
+FDU QNAGY0500000c QNAGY05c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Yr05
+FDU QNAGY0600000c QNAGY06c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Yr06
+FDU QTIH15200000c QTIH152c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo152
+FDU QTIH15300000c QTIH153c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo153
+FDU QTIH15400000c QTIH154c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo154
+FDU QTIH15500000c QTIH155c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo155
+FDU QTIH15600000c QTIH156c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo156
+FDU QTIH15700000c QTIH157c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo157
+FDU QTIH15800000c QTIH158c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo158
+FDU QTIH15900000c QTIH159c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo159
+FDU QTIH16000000c QTIH160c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo160
+FDU QTIH16100000c QTIH161c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo161
+FDU QTIH16200000c QTIH162c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo162
+FDU QTIH16300000c QTIH163c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo163
+FDU QTIH16400000c QTIH164c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo164
+FDU QTIH16500000c QTIH165c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo165
+FDU QTIH16600000c QTIH166c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo166
+FDU QTIH16700000c QTIH167c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo167
+FDU QTIH16800000c QTIH168c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo168
+FDU QTIH16900000c QTIH169c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo169
+FDU QTIH17000000c QTIH170c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo170
+FDU QTIH17100000c QTIH171c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo171
+FDU QTIH17200000c QTIH172c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo172
+FDU QTIH17300000c QTIH173c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo173
+FDU QTIH17400000c QTIH174c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo174
+FDU QTIH17500000c QTIH175c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo175
+FDU QTIH17600000c QTIH176c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo176
+FDU QTIH17700000c QTIH177c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo177
+FDU QTIH17800000c QTIH178c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo178
+FDU QTIH17900000c QTIH179c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo179
+FDU QTIH18000000c QTIH180c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo180
+FDU QTIH18100000c QTIH181c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo181
+FDU QTIH18200000c QTIH182c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo182
+FDU QTIH18300000c QTIH183c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo183
+FDU QTIH18400000c QTIH184c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo184
+FDU QTIH18500000c QTIH185c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo185
+FDU QTIH18600000c QTIH186c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo186
+FDU QTIH18700000c QTIH187c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo187
+FDU QTIH18800000c QTIH188c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo188
+FDU QTIH18900000c QTIH189c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo189
+FDU QTIH19000000c QTIH190c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo190
+FDU QTIH19100000c QTIH191c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo191
+FDU QTIH19200000c QTIH192c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo192
+FDU QTIH19300000c QTIH193c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo193
+FDU QTIH19400000c QTIH194c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo194
+FDU QTIH19500000c QTIH195c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo195
+FDU QTIH19600000c QTIH196c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo196
+FDU QTIH19700000c QTIH197c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo197
+FDU QTIH19800000c QTIH198c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo198
+FDU QTIH19900000c QTIH199c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo199
+FDU QTIH20000000c QTIH200c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo200
+FDU QTIH20100000c QTIH201c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo201
+FDU QTIH20200000c QTIH202c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo202
+FDU QTIH20300000c QTIH203c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo203
+FDU QTIH20400000c QTIH204c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo204
+FDU QTIH20500000c QTIH205c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo205
+FDU QTIH20600000c QTIH206c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo206
+FDU QTIH20700000c QTIH207c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo207
+FDU QUL3P3700000c QUL3P37c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo37
+FDU QUL3P3800000c QUL3P38c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo38
+FDU QUL3P3900000c QUL3P39c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo39
+FDU QUL3P4000000c QUL3P40c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo40
+FDU QUL3P4100000c QUL3P41c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo41
+FDU QUL3P4200000c QUL3P42c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo42
+FDU QUL3P4300000c QUL3P43c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo43
+FDU QUL3P4400000c QUL3P44c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo44
+FDU QUL3P4500000c QUL3P45c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo45
+FDU QUL3P4600000c QUL3P46c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo46
+FDU QUL3P4700000c QUL3P47c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo47
+FDU QUL3P4800000c QUL3P48c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo48
+FDU QUL3P4900000c QUL3P49c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo49
+FDU QUL3P5000000c QUL3P50c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo50
+FDU QUL3P5100000c QUL3P51c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo51
+FDU QUL3P5200000c QUL3P52c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo52
+FDU QUL3P5300000c QUL3P53c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo53
+FDU QUL3P5400000c QUL3P54c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo54
+FDU QUL3P5500000c QUL3P55c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo55
+FDU QUL3P5600000c QUL3P56c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo56
+FDU QUL3P5700000c QUL3P57c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo57
+FDU QUL3P5800000c QUL3P58c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo58
+FDU QUL3P5900000c QUL3P59c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo59
+FDU QUL3P6000000c QUL3P60c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo60
+FDU QUL3P6100000c QUL3P61c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo61
+FDU QUL3P6200000c QUL3P62c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo62
+FDU QUL3P6300000c QUL3P63c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo63
+FDU QUL3P6400000c QUL3P64c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo64
+FDU QUL3P6500000c QUL3P65c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo65
+FDU QUL3P6600000c QUL3P66c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo66
+FDU QUL3P6700000c QUL3P67c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo67
+FDU QF1AP5600000c QF1AP56c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo56
+FDU QF1AP5700000c QF1AP57c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo57
+FDU QF1AP5800000c QF1AP58c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo58
+FDU QF1AP5900000c QF1AP59c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo59
+FDU QF1AP6000000c QF1AP60c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo60
+FDU QF1AP6100000c QF1AP61c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo61
+FDU QF1AP6200000c QF1AP62c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo62
+FDU QF1AP6300000c QF1AP63c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo63
+FDU QF1AP6400000c QF1AP64c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo64
+FDU QF1AP6500000c QF1AP65c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo65
+FDU QF1AP6600000c QF1AP66c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo66
+FDU QF1AP6700000c QF1AP67c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo67
+FDU QF1AP6800000c QF1AP68c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo68
+FDU QF1AP6900000c QF1AP69c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo69
+FDU QF1AP7000000c QF1AP70c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo70
+FDU QF1AP7100000c QF1AP71c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo71
+FDU QF1AP7200000c QF1AP72c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo72
+FDU QF1AP7300000c QF1AP73c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo73
+FDU QF1AP7400000c QF1AP74c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo74
+FDU QF1AP7500000c QF1AP75c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo75
+FDU QF1AP7600000c QF1AP76c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo76
+FDU QF1AP7700000c QF1AP77c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo77
+FDU QF1AP7800000c QF1AP78c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo78
+FDU QF1AP7900000c QF1AP79c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo79
+FDU QF1AP8000000c QF1AP80c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo80
+FDU QF1AP8100000c QF1AP81c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo81
+FDU QF1AP8200000c QF1AP82c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo82
+FDU QF1AP8300000c QF1AP83c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo83
+FDU QF1AP8400000c QF1AP84c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo84
+FDU QF1AQ1300000c QF1AQ13c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo M2M Financial Qr13
+FDU QF1AQ1400000c QF1AQ14c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo M2M Financial Qr14
+FDU QF1AQ1500000c QF1AQ15c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo M2M Financial Qr15
+FDU QF1AQ1600000c QF1AQ16c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo M2M Financial Qr16
+FDU QF1AQ1700000c QF1AQ17c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo M2M Financial Qr17
+FDU QF1AQ1800000c QF1AQ18c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo M2M Financial Qr18
+FDU QF1AQ1900000c QF1AQ19c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo M2M Financial Qr19
+FDU QF1AQ2000000c QF1AQ20c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo M2M Financial Qr20
+FDU QF1AQ2100000c QF1AQ21c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo M2M Financial Qr21
+FDU QF1AQ2200000c QF1AQ22c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo M2M Financial Qr22
+FDU QF1AQ2300000c QF1AQ23c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo M2M Financial Qr23
+FDU QF1AQ2400000c QF1AQ24c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo M2M Financial Qr24
+FDU QF1AQ2500000c QF1AQ25c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo M2M Financial Qr25
+FDU QF1AQ2600000c QF1AQ26c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo M2M Financial Qr26
+FDU QF1AQ2700000c QF1AQ27c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo M2M Financial Qr27
+FDU QF1AQ2800000c QF1AQ28c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo M2M Financial Qr28
+FDU QLFG14900000c QLFG149c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo149
+FDU QLFG15000000c QLFG150c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo150
+FDU QLFG15100000c QLFG151c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo151
+FDU QLFG15200000c QLFG152c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo152
+FDU QLFG15300000c QLFG153c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo153
+FDU QLFG15400000c QLFG154c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo154
+FDU QLFG15500000c QLFG155c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo155
+FDU QLFG15600000c QLFG156c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo156
+FDU QLFG15700000c QLFG157c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo157
+FDU QLFG15800000c QLFG158c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo158
+FDU QLFG15900000c QLFG159c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo159
+FDU QLFG16000000c QLFG160c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo160
+FDU QLFG16100000c QLFG161c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo161
+FDU QLFG16200000c QLFG162c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo162
+FDU QLFG16300000c QLFG163c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo163
+FDU QLFG16400000c QLFG164c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo164
+FDU QLFG16500000c QLFG165c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo165
+FDU QLFG16600000c QLFG166c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo166
+FDU QLFG16700000c QLFG167c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo167
+FDU QLFG16800000c QLFG168c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo168
+FDU QLFG16900000c QLFG169c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo169
+FDU QLFG17000000c QLFG170c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo170
+FDU QLFG17100000c QLFG171c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo171
+FDU QLFG17200000c QLFG172c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo172
+FDU QLFG17300000c QLFG173c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo173
+FDU QLFG17400000c QLFG174c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo174
+FDU QLFG17500000c QLFG175c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo175
+FDU QLFG17600000c QLFG176c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo176
+FDU QLFG17700000c QLFG177c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo177
+FDU QLFG17800000c QLFG178c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo178
+FDU QLFG17900000c QLFG179c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo179
+FDU QLFG18000000c QLFG180c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo180
+FDU QLFG18100000c QLFG181c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo181
+FDU QLFG18200000c QLFG182c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo182
+FDU QLFG18300000c QLFG183c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo183
+FDU QLFG18400000c QLFG184c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo184
+FDU QLFG18500000c QLFG185c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo185
+FDU QLFG18600000c QLFG186c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo186
+FDU QLFG18700000c QLFG187c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo187
+FDU QLFG18800000c QLFG188c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo188
+FDU QLFG18900000c QLFG189c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo189
+FDU QLFG19000000c QLFG190c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo190
+FDU QLFG19100000c QLFG191c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo191
+FDU QLFG19200000c QLFG192c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo192
+FDU QLFG19300000c QLFG193c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo193
+FDU QLFG19400000c QLFG194c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo194
+FDU QLFG19500000c QLFG195c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo195
+FDU QLFG19600000c QLFG196c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo196
+FDU QLFG19700000c QLFG197c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo197
+FDU QLFG19800000c QLFG198c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo198
+FDU QLFG19900000c QLFG199c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo199
+FDU QLFG20000000c QLFG200c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo200
+FDU QLFG20100000c QLFG201c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo201
+FDU QLFG20200000c QLFG202c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo202
+FDU QLFG20300000c QLFG203c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo203
+FDU QLFG20400000c QLFG204c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo204
+FDU QLFG20500000c QLFG205c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo205
+FDU QLFG20600000c QLFG206c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo206
+FDU QLFG20700000c QLFG207c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo207
+FDU QLFG20800000c QLFG208c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo208
+FDU QTIH20800000c QTIH208c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo208
+FDU QTIH20900000c QTIH209c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo209
+FDU QTIH21000000c QTIH210c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo210
+FDU QTIH21100000c QTIH211c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo211
+FDU QTIH21200000c QTIH212c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo212
+FDU QTIH21300000c QTIH213c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo213
+FDU QTIH21400000c QTIH214c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo214
+FDU QTIH21500000c QTIH215c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo215
+FDU QTIH21600000c QTIH216c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo216
+FDU QTIH21700000c QTIH217c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo217
+FDU QTIH21800000c QTIH218c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo218
+FDU QTIH21900000c QTIH219c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo219
+FDU QTIH22000000c QTIH220c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo220
+FDU QTIH22100000c QTIH221c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo221
+FDU QTIH22200000c QTIH222c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo222
+FDU QTIH22300000c QTIH223c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo223
+FDU QTIH22400000c QTIH224c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo224
+FDU QTIH22500000c QTIH225c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo225
+FDU QTIH22600000c QTIH226c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo226
+FDU QTIH22700000c QTIH227c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo227
+FDU QTIH22800000c QTIH228c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo228
+FDU QTIH22900000c QTIH229c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo229
+FDU QTIH23000000c QTIH230c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo230
+FDU QTIH23100000c QTIH231c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo231
+FDU QTIH23200000c QTIH232c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo232
+FDU QTIH23300000c QTIH233c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo233
+FDU QTIH23400000c QTIH234c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo234
+FDU QTIH23500000c QTIH235c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo235
+FDU QTIH23600000c QTIH236c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo236
+FDU QTIH23700000c QTIH237c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo237
+FDU QTIH23800000c QTIH238c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo238
+FDU QTIH23900000c QTIH239c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo239
+FDU QTIH24000000c QTIH240c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo240
+FDU QTIHM8500000c QTIHM85c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo85
+FDU QTIHM8600000c QTIHM86c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo86
+FDU QTIHM8700000c QTIHM87c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo87
+FDU QTIHM8800000c QTIHM88c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo88
+FDU QTIHM8900000c QTIHM89c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo89
+FDU QTIHM9000000c QTIHM90c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo90
+FDU QTIHM9100000c QTIHM91c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo91
+FDU QTIHM9200000c QTIHM92c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo92
+FDU QTIHM9300000c QTIHM93c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo93
+FDU QTIHM9400000c QTIHM94c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo94
+FDU QTIHM9500000c QTIHM95c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo95
+FDU QTIHM9600000c QTIHM96c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo96
+FDU QTIHM9700000c QTIHM97c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo97
+FDU QTIHM9800000c QTIHM98c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo98
+FDU QTIHM9900000c QTIHM99c           DW USD BBL               WTI Frontline at Houston MOC M2M Financial Mo99
+FDU QTIHP3700000c QTIHP37c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo37
+FDU QTIHP3800000c QTIHP38c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo38
+FDU QTIHP3900000c QTIHP39c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo39
+FDU QTIHP4000000c QTIHP40c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo40
+FDU QTIHP4100000c QTIHP41c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo41
+FDU QTIHP4200000c QTIHP42c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo42
+FDU QTIHP4300000c QTIHP43c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo43
+FDU QUL3P6800000c QUL3P68c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo68
+FDU QUL3P6900000c QUL3P69c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo69
+FDU QUL3P7000000c QUL3P70c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo70
+FDU QUL3P7100000c QUL3P71c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo71
+FDU QUL3P7200000c QUL3P72c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo72
+FDU QUL3P7300000c QUL3P73c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Mo73
+FDU QUL3P7400000c QUL3P74c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Mo74
+FDU QUL3P7500000c QUL3P75c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Mo75
+FDU QUL3P7600000c QUL3P76c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Mo76
+FDU QUL3P7700000c QUL3P77c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Mo77
+FDU QUL3P7800000c QUL3P78c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Mo78
+FDU QUL3P7900000c QUL3P79c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Mo79
+FDU QUL3P8000000c QUL3P80c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Mo80
+FDU QUL3P8100000c QUL3P81c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Mo81
+FDU QUL3P8200000c QUL3P82c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Mo82
+FDU QUL3P8300000c QUL3P83c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Mo83
+FDU QUL3P8400000c QUL3P84c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Mo84
+FDU QUL3Q1300000c QUL3Q13c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Qr13
+FDU QUL3Q1400000c QUL3Q14c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Qr14
+FDU QUL3Q1500000c QUL3Q15c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Qr15
+FDU QUL3Q1600000c QUL3Q16c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Qr16
+FDU QUL3Q1700000c QUL3Q17c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Qr17
+FDU QUL3Q1800000c QUL3Q18c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Qr18
+FDU QUL3Q1900000c QUL3Q19c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Qr19
+FDU QUL3Q2000000c QUL3Q20c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Qr20
+FDU QUL3Q2100000c QUL3Q21c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Qr21
+FDU QUL3Q2200000c QUL3Q22c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Qr22
+FDU QUL3Q2300000c QUL3Q23c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Qr23
+FDU QUL3Q2400000c QUL3Q24c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Qr24
+FDU QUL3Y0400000c QUL3Y04c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Yr04
+FDU QUL3Y0500000c QUL3Y05c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Yr05
+FDU QUL3Y0600000c QUL3Y06c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Yr06
+FDU QULC10000000c QULC100c           DW USC GAL               ULSD Chicago M2M Financial Mo100
+FDU QULC10100000c QULC101c           DW USC GAL               ULSD Chicago M2M Financial Mo101
+FDU QULC10200000c QULC102c           DW USC GAL               ULSD Chicago M2M Financial Mo102
+FDU QULC10300000c QULC103c           DW USC GAL               ULSD Chicago M2M Financial Mo103
+FDU QULC10400000c QULC104c           DW USC GAL               ULSD Chicago M2M Financial Mo104
+FDU QULC10500000c QULC105c           DW USC GAL               ULSD Chicago M2M Financial Mo105
+FDU QULC10600000c QULC106c           DW USC GAL               ULSD Chicago M2M Financial Mo106
+FDU QDBHP3700000c QDBHP37c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo37
+FDU QDBHP3800000c QDBHP38c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo38
+FDU QDBHP3900000c QDBHP39c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo39
+FDU QDBHP4000000c QDBHP40c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo40
+FDU QDBHP4100000c QDBHP41c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo41
+FDU QDBHP4200000c QDBHP42c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo42
+FDU QLFG21000000c QLFG210c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo210
+FDU QLFG21100000c QLFG211c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo211
+FDU QLFG21200000c QLFG212c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo212
+FDU QLFG21300000c QLFG213c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo213
+FDU QLFG21400000c QLFG214c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo214
+FDU QLFG21500000c QLFG215c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo215
+FDU QLFG21600000c QLFG216c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo216
+FDU QLFG21700000c QLFG217c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo217
+FDU QLFG21800000c QLFG218c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo218
+FDU QLFG21900000c QLFG219c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo219
+FDU QLFG22000000c QLFG220c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo220
+FDU QLFG22100000c QLFG221c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo221
+FDU QLFG22200000c QLFG222c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo222
+FDU QLFG22300000c QLFG223c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo223
+FDU QLFG22400000c QLFG224c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo224
+FDU QLFG22500000c QLFG225c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo225
+FDU QLFG22600000c QLFG226c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo226
+FDU QLFG22700000c QLFG227c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo227
+FDU QLFG22800000c QLFG228c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo228
+FDU QLFG22900000c QLFG229c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo229
+FDU QLFG23000000c QLFG230c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo230
+FDU QLFG23100000c QLFG231c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo231
+FDU QLFG23200000c QLFG232c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo232
+FDU QLFG23300000c QLFG233c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo233
+FDU QLFG23400000c QLFG234c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo234
+FDU QLFG23500000c QLFG235c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo235
+FDU QLFG23600000c QLFG236c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo236
+FDU QLFG23700000c QLFG237c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo237
+FDU QLFG23800000c QLFG238c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo238
+FDU QLFG23900000c QLFG239c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo239
+FDU QLFG24000000c QLFG240c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo240
+FDU QLFGM8500000c QLFGM85c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo85
+FDU QLFGM8600000c QLFGM86c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo86
+FDU QLFGM8700000c QLFGM87c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo87
+FDU QLFGM8800000c QLFGM88c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo88
+FDU QLFGM8900000c QLFGM89c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo89
+FDU QLFGM9000000c QLFGM90c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo90
+FDU QLFGM9100000c QLFGM91c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo91
+FDU QLFGM9200000c QLFGM92c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo92
+FDU QLFGM9300000c QLFGM93c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo93
+FDU QLFGM9400000c QLFGM94c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo94
+FDU QLFGM9500000c QLFGM95c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo95
+FDU QLFGM9600000c QLFGM96c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo96
+FDU QLFGM9700000c QLFGM97c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo97
+FDU QLFGM9800000c QLFGM98c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo98
+FDU QLFGM9900000c QLFGM99c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo99
+FDU QLFG20900000c QLFG209c           DW USD BBL               FO 1.0% USGC Cargo M2M Financial Mo209
+FDU QTIHP4400000c QTIHP44c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo44
+FDU QTIHP4500000c QTIHP45c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo45
+FDU QTIHP4600000c QTIHP46c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo46
+FDU QTIHP4700000c QTIHP47c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo47
+FDU QTIHP4800000c QTIHP48c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo48
+FDU QTIHP4900000c QTIHP49c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo49
+FDU QTIHP5000000c QTIHP50c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo50
+FDU QTIHP5100000c QTIHP51c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo51
+FDU QTIHP5200000c QTIHP52c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo52
+FDU QTIHP5300000c QTIHP53c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo53
+FDU QTIHP5400000c QTIHP54c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo54
+FDU QTIHP5500000c QTIHP55c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo55
+FDU QTIHP5600000c QTIHP56c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo56
+FDU QTIHP5700000c QTIHP57c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo57
+FDU QTIHP5800000c QTIHP58c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo58
+FDU QTIHP5900000c QTIHP59c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo59
+FDU QTIHP6000000c QTIHP60c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo60
+FDU QTIHP6100000c QTIHP61c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo61
+FDU QTIHP6200000c QTIHP62c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo62
+FDU QTIHP6300000c QTIHP63c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo63
+FDU QTIHP6400000c QTIHP64c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo64
+FDU QTIHP6500000c QTIHP65c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo65
+FDU QTIHP6600000c QTIHP66c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo66
+FDU QTIHP6700000c QTIHP67c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo67
+FDU QTIHP6800000c QTIHP68c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo68
+FDU QTIHP6900000c QTIHP69c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo69
+FDU QTIHP7000000c QTIHP70c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo70
+FDU QTIHP7100000c QTIHP71c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo71
+FDU QTIHP7200000c QTIHP72c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo72
+FDU QTIHP7300000c QTIHP73c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo73
+FDU QTIHP7400000c QTIHP74c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo74
+FDU QTIHP7500000c QTIHP75c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo75
+FDU QTIHP7600000c QTIHP76c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo76
+FDU QTIHP7700000c QTIHP77c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo77
+FDU QTIHP7800000c QTIHP78c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo78
+FDU QTIHP7900000c QTIHP79c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo79
+FDU QTIHP8000000c QTIHP80c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo80
+FDU QTIHP8100000c QTIHP81c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo81
+FDU QTIHP8200000c QTIHP82c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo82
+FDU QTIHP8300000c QTIHP83c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo83
+FDU QTIHP8400000c QTIHP84c           DW USD BBL 160314 190118 WTI Frontline at Houston MOC M2M Financial Mo84
+FDU QTIHQ1300000c QTIHQ13c           DW USD BBL 160808 190118 WTI Frontline at Houston MOC M2M Financial Qr13
+FDU QTIHQ1400000c QTIHQ14c           DW USD BBL 160808 190118 WTI Frontline at Houston MOC M2M Financial Qr14
+FDU QTIHQ1500000c QTIHQ15c           DW USD BBL 160808 190118 WTI Frontline at Houston MOC M2M Financial Qr15
+FDU QTIHQ1600000c QTIHQ16c           DW USD BBL 160808 190118 WTI Frontline at Houston MOC M2M Financial Qr16
+FDU QTIHQ1700000c QTIHQ17c           DW USD BBL 160808 190118 WTI Frontline at Houston MOC M2M Financial Qr17
+FDU QTIHQ1800000c QTIHQ18c           DW USD BBL 160808 190118 WTI Frontline at Houston MOC M2M Financial Qr18
+FDU QTIHQ1900000c QTIHQ19c           DW USD BBL 160808 190118 WTI Frontline at Houston MOC M2M Financial Qr19
+FDU QTIHQ2000000c QTIHQ20c           DW USD BBL 160808 190118 WTI Frontline at Houston MOC M2M Financial Qr20
+FDU QTIHQ2100000c QTIHQ21c           DW USD BBL 160808 190118 WTI Frontline at Houston MOC M2M Financial Qr21
+FDU QULC10800000c QULC108c           DW USC GAL               ULSD Chicago M2M Financial Mo108
+FDU QULC10900000c QULC109c           DW USC GAL               ULSD Chicago M2M Financial Mo109
+FDU QULC11000000c QULC110c           DW USC GAL               ULSD Chicago M2M Financial Mo110
+FDU QULC11100000c QULC111c           DW USC GAL               ULSD Chicago M2M Financial Mo111
+FDU QULC11200000c QULC112c           DW USC GAL               ULSD Chicago M2M Financial Mo112
+FDU QULC11300000c QULC113c           DW USC GAL               ULSD Chicago M2M Financial Mo113
+FDU QULC11400000c QULC114c           DW USC GAL               ULSD Chicago M2M Financial Mo114
+FDU QULC11500000c QULC115c           DW USC GAL               ULSD Chicago M2M Financial Mo115
+FDU QULC11600000c QULC116c           DW USC GAL               ULSD Chicago M2M Financial Mo116
+FDU QULC11700000c QULC117c           DW USC GAL               ULSD Chicago M2M Financial Mo117
+FDU QULC11800000c QULC118c           DW USC GAL               ULSD Chicago M2M Financial Mo118
+FDU QULC11900000c QULC119c           DW USC GAL               ULSD Chicago M2M Financial Mo119
+FDU QULC12000000c QULC120c           DW USC GAL               ULSD Chicago M2M Financial Mo120
+FDU QULC12100000c QULC121c           DW USC GAL               ULSD Chicago M2M Financial Mo121
+FDU QULC12200000c QULC122c           DW USC GAL               ULSD Chicago M2M Financial Mo122
+FDU QULC12300000c QULC123c           DW USC GAL               ULSD Chicago M2M Financial Mo123
+FDU QULC12400000c QULC124c           DW USC GAL               ULSD Chicago M2M Financial Mo124
+FDU QULC12500000c QULC125c           DW USC GAL               ULSD Chicago M2M Financial Mo125
+FDU QULC12600000c QULC126c           DW USC GAL               ULSD Chicago M2M Financial Mo126
+FDU QULC12700000c QULC127c           DW USC GAL               ULSD Chicago M2M Financial Mo127
+FDU QULC12800000c QULC128c           DW USC GAL               ULSD Chicago M2M Financial Mo128
+FDU QULC12900000c QULC129c           DW USC GAL               ULSD Chicago M2M Financial Mo129
+FDU QULC13000000c QULC130c           DW USC GAL               ULSD Chicago M2M Financial Mo130
+FDU QULC13100000c QULC131c           DW USC GAL               ULSD Chicago M2M Financial Mo131
+FDU QULC13200000c QULC132c           DW USC GAL               ULSD Chicago M2M Financial Mo132
+FDU QULC13300000c QULC133c           DW USC GAL               ULSD Chicago M2M Financial Mo133
+FDU QULC13400000c QULC134c           DW USC GAL               ULSD Chicago M2M Financial Mo134
+FDU QULC13500000c QULC135c           DW USC GAL               ULSD Chicago M2M Financial Mo135
+FDU QULC13600000c QULC136c           DW USC GAL               ULSD Chicago M2M Financial Mo136
+FDU QULC13700000c QULC137c           DW USC GAL               ULSD Chicago M2M Financial Mo137
+FDU QULC13800000c QULC138c           DW USC GAL               ULSD Chicago M2M Financial Mo138
+FDU QULC13900000c QULC139c           DW USC GAL               ULSD Chicago M2M Financial Mo139
+FDU QULC14000000c QULC140c           DW USC GAL               ULSD Chicago M2M Financial Mo140
+FDU QULC14100000c QULC141c           DW USC GAL               ULSD Chicago M2M Financial Mo141
+FDU QULC14200000c QULC142c           DW USC GAL               ULSD Chicago M2M Financial Mo142
+FDU QULC14300000c QULC143c           DW USC GAL               ULSD Chicago M2M Financial Mo143
+FDU QULC14400000c QULC144c           DW USC GAL               ULSD Chicago M2M Financial Mo144
+FDU QULC14500000c QULC145c           DW USC GAL               ULSD Chicago M2M Financial Mo145
+FDU QULC14600000c QULC146c           DW USC GAL               ULSD Chicago M2M Financial Mo146
+FDU QULC14700000c QULC147c           DW USC GAL               ULSD Chicago M2M Financial Mo147
+FDU QULC14800000c QULC148c           DW USC GAL               ULSD Chicago M2M Financial Mo148
+FDU QULC14900000c QULC149c           DW USC GAL               ULSD Chicago M2M Financial Mo149
+FDU QULC15000000c QULC150c           DW USC GAL               ULSD Chicago M2M Financial Mo150
+FDU QULC15100000c QULC151c           DW USC GAL               ULSD Chicago M2M Financial Mo151
+FDU QULC15200000c QULC152c           DW USC GAL               ULSD Chicago M2M Financial Mo152
+FDU QULC15300000c QULC153c           DW USC GAL               ULSD Chicago M2M Financial Mo153
+FDU QULC10700000c QULC107c           DW USC GAL               ULSD Chicago M2M Financial Mo107
+FDU QULC15400000c QULC154c           DW USC GAL               ULSD Chicago M2M Financial Mo154
+FDU QULC15500000c QULC155c           DW USC GAL               ULSD Chicago M2M Financial Mo155
+FDU QULC15600000c QULC156c           DW USC GAL               ULSD Chicago M2M Financial Mo156
+FDU QULC15700000c QULC157c           DW USC GAL               ULSD Chicago M2M Financial Mo157
+FDU QULC15800000c QULC158c           DW USC GAL               ULSD Chicago M2M Financial Mo158
+FDU QULC15900000c QULC159c           DW USC GAL               ULSD Chicago M2M Financial Mo159
+FDU QULC16000000c QULC160c           DW USC GAL               ULSD Chicago M2M Financial Mo160
+FDU QULC16100000c QULC161c           DW USC GAL               ULSD Chicago M2M Financial Mo161
+FDU QULC16200000c QULC162c           DW USC GAL               ULSD Chicago M2M Financial Mo162
+FDU QULC16300000c QULC163c           DW USC GAL               ULSD Chicago M2M Financial Mo163
+FDU QULC16400000c QULC164c           DW USC GAL               ULSD Chicago M2M Financial Mo164
+FDU QULC16500000c QULC165c           DW USC GAL               ULSD Chicago M2M Financial Mo165
+FDU QULC16600000c QULC166c           DW USC GAL               ULSD Chicago M2M Financial Mo166
+FDU QULC16700000c QULC167c           DW USC GAL               ULSD Chicago M2M Financial Mo167
+FDU QULC16800000c QULC168c           DW USC GAL               ULSD Chicago M2M Financial Mo168
+FDU QULC16900000c QULC169c           DW USC GAL               ULSD Chicago M2M Financial Mo169
+FDU QULC17000000c QULC170c           DW USC GAL               ULSD Chicago M2M Financial Mo170
+FDU QDBHP4300000c QDBHP43c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo43
+FDU QDBHP4400000c QDBHP44c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo44
+FDU QDBHP4500000c QDBHP45c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo45
+FDU QDBHP4600000c QDBHP46c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo46
+FDU QDBHP4700000c QDBHP47c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo47
+FDU QDBHP4800000c QDBHP48c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo48
+FDU QDBHP4900000c QDBHP49c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo49
+FDU QDBHP5000000c QDBHP50c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo50
+FDU QDBHP5100000c QDBHP51c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo51
+FDU QDBHP5200000c QDBHP52c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo52
+FDU QDBHP5300000c QDBHP53c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo53
+FDU QDBHP5400000c QDBHP54c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo54
+FDU QDBHP5500000c QDBHP55c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo55
+FDU QDBHP5600000c QDBHP56c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo56
+FDU QDBHP5700000c QDBHP57c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo57
+FDU QDBHP5800000c QDBHP58c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo58
+FDU QDBHP5900000c QDBHP59c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo59
+FDU QDBHP6000000c QDBHP60c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo60
+FDU QDBHP6100000c QDBHP61c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo61
+FDU QDBHP6200000c QDBHP62c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo62
+FDU QDBHP6300000c QDBHP63c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo63
+FDU QDBHP6400000c QDBHP64c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo64
+FDU QDBHP6500000c QDBHP65c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo65
+FDU QDBHP6600000c QDBHP66c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo66
+FDU QDBHP6700000c QDBHP67c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo67
+FDU QDBHP6800000c QDBHP68c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo68
+FDU QDBHP6900000c QDBHP69c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo69
+FDU QDBHP7000000c QDBHP70c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo70
+FDU QDBHP7100000c QDBHP71c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo71
+FDU QDBHP7200000c QDBHP72c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo72
+FDU QDBHP7300000c QDBHP73c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo73
+FDU QDBHP7400000c QDBHP74c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo74
+FDU QDBHP7500000c QDBHP75c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo75
+FDU QDBHP7600000c QDBHP76c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo76
+FDU QDBHP7700000c QDBHP77c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo77
+FDU QDBHP7800000c QDBHP78c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo78
+FDU QDBHP7900000c QDBHP79c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo79
+FDU QDBHP8000000c QDBHP80c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo80
+FDU QDBHP8100000c QDBHP81c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo81
+FDU QDBHP8200000c QDBHP82c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo82
+FDU QDBHP8300000c QDBHP83c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo83
+FDU QDBHP8400000c QDBHP84c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo84
+FDU QF1AY0400000c QF1AY04c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo M2M Financial Yr04
+FDU QF1AY0500000c QF1AY05c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo M2M Financial Yr05
+FDU QF1AY0600000c QF1AY06c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo M2M Financial Yr06
+FDU QF1AY0700000c QF1AY07c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo M2M Financial Yr07
+FDU QLFGP3700000c QLFGP37c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo37
+FDU QLFGP3800000c QLFGP38c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo38
+FDU QLFGP3900000c QLFGP39c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo39
+FDU QLFGP4000000c QLFGP40c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo40
+FDU QLFGP4100000c QLFGP41c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo41
+FDU QLFGP4200000c QLFGP42c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo42
+FDU QLFGP4300000c QLFGP43c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo43
+FDU QLFGP4400000c QLFGP44c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo44
+FDU QLFGP4500000c QLFGP45c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo45
+FDU QLFGP4600000c QLFGP46c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo46
+FDU QLFGP4700000c QLFGP47c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo47
+FDU QLFGP4800000c QLFGP48c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo48
+FDU QLFGP4900000c QLFGP49c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo49
+FDU QLFGP5000000c QLFGP50c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo50
+FDU QLFGP5100000c QLFGP51c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo51
+FDU QLFGP5200000c QLFGP52c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo52
+FDU QLFGP5300000c QLFGP53c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo53
+FDU QLFGP5400000c QLFGP54c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo54
+FDU QLFGP5500000c QLFGP55c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo55
+FDU QLFGP5600000c QLFGP56c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo56
+FDU QLFGP5700000c QLFGP57c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo57
+FDU QLFGP5800000c QLFGP58c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo58
+FDU QLFGP5900000c QLFGP59c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo59
+FDU QLFGP6000000c QLFGP60c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo60
+FDU QLFGP6100000c QLFGP61c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo61
+FDU QLFGP6200000c QLFGP62c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo62
+FDU QLFGP6300000c QLFGP63c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo63
+FDU QLFGP6400000c QLFGP64c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo64
+FDU QLFGP6500000c QLFGP65c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo65
+FDU QLFGP6600000c QLFGP66c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo66
+FDU QTIHQ2200000c QTIHQ22c           DW USD BBL 160808 190118 WTI Frontline at Houston MOC M2M Financial Qr22
+FDU QTIHQ2300000c QTIHQ23c           DW USD BBL 160808 190118 WTI Frontline at Houston MOC M2M Financial Qr23
+FDU QTIHQ2400000c QTIHQ24c           DW USD BBL 160808 190118 WTI Frontline at Houston MOC M2M Financial Qr24
+FDU QTIHQ2500000c QTIHQ25c           DW USD BBL 160808 190118 WTI Frontline at Houston MOC M2M Financial Qr25
+FDU QTIHQ2600000c QTIHQ26c           DW USD BBL 160808 190118 WTI Frontline at Houston MOC M2M Financial Qr26
+FDU QTIHQ2700000c QTIHQ27c           DW USD BBL 160808 190118 WTI Frontline at Houston MOC M2M Financial Qr27
+FDU QTIHQ2800000c QTIHQ28c           DW USD BBL 160808 190118 WTI Frontline at Houston MOC M2M Financial Qr28
+FDU QULC17200000c QULC172c           DW USC GAL               ULSD Chicago M2M Financial Mo172
+FDU QULC17300000c QULC173c           DW USC GAL               ULSD Chicago M2M Financial Mo173
+FDU QULC17400000c QULC174c           DW USC GAL               ULSD Chicago M2M Financial Mo174
+FDU QULC17500000c QULC175c           DW USC GAL               ULSD Chicago M2M Financial Mo175
+FDU QULC17600000c QULC176c           DW USC GAL               ULSD Chicago M2M Financial Mo176
+FDU QULC17700000c QULC177c           DW USC GAL               ULSD Chicago M2M Financial Mo177
+FDU QULC17800000c QULC178c           DW USC GAL               ULSD Chicago M2M Financial Mo178
+FDU QULC17900000c QULC179c           DW USC GAL               ULSD Chicago M2M Financial Mo179
+FDU QULC18000000c QULC180c           DW USC GAL               ULSD Chicago M2M Financial Mo180
+FDU QULC18100000c QULC181c           DW USC GAL               ULSD Chicago M2M Financial Mo181
+FDU QULC18200000c QULC182c           DW USC GAL               ULSD Chicago M2M Financial Mo182
+FDU QULC18300000c QULC183c           DW USC GAL               ULSD Chicago M2M Financial Mo183
+FDU QULC18400000c QULC184c           DW USC GAL               ULSD Chicago M2M Financial Mo184
+FDU QULC18500000c QULC185c           DW USC GAL               ULSD Chicago M2M Financial Mo185
+FDU QULC18600000c QULC186c           DW USC GAL               ULSD Chicago M2M Financial Mo186
+FDU QULC18700000c QULC187c           DW USC GAL               ULSD Chicago M2M Financial Mo187
+FDU QULC18800000c QULC188c           DW USC GAL               ULSD Chicago M2M Financial Mo188
+FDU QULC18900000c QULC189c           DW USC GAL               ULSD Chicago M2M Financial Mo189
+FDU QULC19000000c QULC190c           DW USC GAL               ULSD Chicago M2M Financial Mo190
+FDU QULC19100000c QULC191c           DW USC GAL               ULSD Chicago M2M Financial Mo191
+FDU QULC19200000c QULC192c           DW USC GAL               ULSD Chicago M2M Financial Mo192
+FDU QULC19300000c QULC193c           DW USC GAL               ULSD Chicago M2M Financial Mo193
+FDU QULC19400000c QULC194c           DW USC GAL               ULSD Chicago M2M Financial Mo194
+FDU QULC19500000c QULC195c           DW USC GAL               ULSD Chicago M2M Financial Mo195
+FDU QULC19600000c QULC196c           DW USC GAL               ULSD Chicago M2M Financial Mo196
+FDU QULC19700000c QULC197c           DW USC GAL               ULSD Chicago M2M Financial Mo197
+FDU QULC19800000c QULC198c           DW USC GAL               ULSD Chicago M2M Financial Mo198
+FDU QULC19900000c QULC199c           DW USC GAL               ULSD Chicago M2M Financial Mo199
+FDU QULC20000000c QULC200c           DW USC GAL               ULSD Chicago M2M Financial Mo200
+FDU QULC20100000c QULC201c           DW USC GAL               ULSD Chicago M2M Financial Mo201
+FDU QULC20200000c QULC202c           DW USC GAL               ULSD Chicago M2M Financial Mo202
+FDU QULC20300000c QULC203c           DW USC GAL               ULSD Chicago M2M Financial Mo203
+FDU QULC20400000c QULC204c           DW USC GAL               ULSD Chicago M2M Financial Mo204
+FDU QULC20500000c QULC205c           DW USC GAL               ULSD Chicago M2M Financial Mo205
+FDU QULC20600000c QULC206c           DW USC GAL               ULSD Chicago M2M Financial Mo206
+FDU QULC20700000c QULC207c           DW USC GAL               ULSD Chicago M2M Financial Mo207
+FDU QULC20800000c QULC208c           DW USC GAL               ULSD Chicago M2M Financial Mo208
+FDU QULC20900000c QULC209c           DW USC GAL               ULSD Chicago M2M Financial Mo209
+FDU QULC21000000c QULC210c           DW USC GAL               ULSD Chicago M2M Financial Mo210
+FDU QULC21100000c QULC211c           DW USC GAL               ULSD Chicago M2M Financial Mo211
+FDU QULC21200000c QULC212c           DW USC GAL               ULSD Chicago M2M Financial Mo212
+FDU QULC21300000c QULC213c           DW USC GAL               ULSD Chicago M2M Financial Mo213
+FDU QULC21400000c QULC214c           DW USC GAL               ULSD Chicago M2M Financial Mo214
+FDU QULC21500000c QULC215c           DW USC GAL               ULSD Chicago M2M Financial Mo215
+FDU QULC17100000c QULC171c           DW USC GAL               ULSD Chicago M2M Financial Mo171
+FDU QULC21600000c QULC216c           DW USC GAL               ULSD Chicago M2M Financial Mo216
+FDU QULC21700000c QULC217c           DW USC GAL               ULSD Chicago M2M Financial Mo217
+FDU QULC21800000c QULC218c           DW USC GAL               ULSD Chicago M2M Financial Mo218
+FDU QULC21900000c QULC219c           DW USC GAL               ULSD Chicago M2M Financial Mo219
+FDU QULC22000000c QULC220c           DW USC GAL               ULSD Chicago M2M Financial Mo220
+FDU QULC22100000c QULC221c           DW USC GAL               ULSD Chicago M2M Financial Mo221
+FDU QULC22200000c QULC222c           DW USC GAL               ULSD Chicago M2M Financial Mo222
+FDU QULC22300000c QULC223c           DW USC GAL               ULSD Chicago M2M Financial Mo223
+FDU QULC22400000c QULC224c           DW USC GAL               ULSD Chicago M2M Financial Mo224
+FDU QULC22500000c QULC225c           DW USC GAL               ULSD Chicago M2M Financial Mo225
+FDU QULC22600000c QULC226c           DW USC GAL               ULSD Chicago M2M Financial Mo226
+FDU QULC22700000c QULC227c           DW USC GAL               ULSD Chicago M2M Financial Mo227
+FDU QULC22800000c QULC228c           DW USC GAL               ULSD Chicago M2M Financial Mo228
+FDU QULC22900000c QULC229c           DW USC GAL               ULSD Chicago M2M Financial Mo229
+FDU QULC23000000c QULC230c           DW USC GAL               ULSD Chicago M2M Financial Mo230
+FDU QULC23100000c QULC231c           DW USC GAL               ULSD Chicago M2M Financial Mo231
+FDU QULC23200000c QULC232c           DW USC GAL               ULSD Chicago M2M Financial Mo232
+FDU QULC23300000c QULC233c           DW USC GAL               ULSD Chicago M2M Financial Mo233
+FDU QULC23400000c QULC234c           DW USC GAL               ULSD Chicago M2M Financial Mo234
+FDU QDBHQ1300000c QDBHQ13c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Qr13
+FDU QDBHQ1400000c QDBHQ14c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Qr14
+FDU QDBHQ1500000c QDBHQ15c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Qr15
+FDU QDBHQ1600000c QDBHQ16c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Qr16
+FDU QDBHQ1700000c QDBHQ17c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Qr17
+FDU QDBHQ1800000c QDBHQ18c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Qr18
+FDU QDBHQ1900000c QDBHQ19c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Qr19
+FDU QDBHQ2000000c QDBHQ20c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Qr20
+FDU QDBHQ2100000c QDBHQ21c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Qr21
+FDU QDBHQ2200000c QDBHQ22c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Qr22
+FDU QDBHQ2300000c QDBHQ23c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Qr23
+FDU QDBHQ2400000c QDBHQ24c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Qr24
+FDU QDBHQ2500000c QDBHQ25c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Qr25
+FDU QDBHQ2600000c QDBHQ26c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Qr26
+FDU QDBHQ2700000c QDBHQ27c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Qr27
+FDU QDBHQ2800000c QDBHQ28c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Qr28
+FDU QLFGP6700000c QLFGP67c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo67
+FDU QLFGP6800000c QLFGP68c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo68
+FDU QLFGP6900000c QLFGP69c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo69
+FDU QLFGP7000000c QLFGP70c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo70
+FDU QLFGP7100000c QLFGP71c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo71
+FDU QLFGP7200000c QLFGP72c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo72
+FDU QLFGP7300000c QLFGP73c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo73
+FDU QLFGP7400000c QLFGP74c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo74
+FDU QLFGP7500000c QLFGP75c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo75
+FDU QLFGP7600000c QLFGP76c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo76
+FDU QLFGP7700000c QLFGP77c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo77
+FDU QLFGP7800000c QLFGP78c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo78
+FDU QLFGP7900000c QLFGP79c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo79
+FDU QLFGP8000000c QLFGP80c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo80
+FDU QLFGP8100000c QLFGP81c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo81
+FDU QLFGP8200000c QLFGP82c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo82
+FDU QLFGP8300000c QLFGP83c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo83
+FDU QLFGP8400000c QLFGP84c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo84
+FDU QLFGQ1300000c QLFGQ13c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Qr13
+FDU QLFGQ1400000c QLFGQ14c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Qr14
+FDU QLFGQ1500000c QLFGQ15c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Qr15
+FDU QLFGQ1600000c QLFGQ16c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Qr16
+FDU QLFGQ1700000c QLFGQ17c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Qr17
+FDU QLFGQ1800000c QLFGQ18c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Qr18
+FDU QLFGQ1900000c QLFGQ19c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Qr19
+FDU QLFGQ2000000c QLFGQ20c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Qr20
+FDU QLFGQ2100000c QLFGQ21c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Qr21
+FDU QLFGQ2200000c QLFGQ22c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Qr22
+FDU QLFGQ2300000c QLFGQ23c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Qr23
+FDU QLFGQ2400000c QLFGQ24c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Qr24
+FDU QLFGQ2500000c QLFGQ25c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Qr25
+FDU QLFGQ2600000c QLFGQ26c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Qr26
+FDU QLFGQ2700000c QLFGQ27c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Qr27
+FDU QLFGQ2800000c QLFGQ28c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Qr28
+FDU QLFGY0400000c QLFGY04c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Yr04
+FDU QLFGY0500000c QLFGY05c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Yr05
+FDU QLFGY0600000c QLFGY06c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Yr06
+FDU QLFGY0700000c QLFGY07c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Yr07
+FDU QTIHY0400000c QTIHY04c           DW USD BBL 160808 190118 WTI Frontline at Houston MOC M2M Financial Yr04
+FDU QTIHY0500000c QTIHY05c           DW USD BBL 160808 190118 WTI Frontline at Houston MOC M2M Financial Yr05
+FDU QTIHY0600000c QTIHY06c           DW USD BBL 160808 190118 WTI Frontline at Houston MOC M2M Financial Yr06
+FDU QTIHY0700000c QTIHY07c           DW USD BBL 160808 190118 WTI Frontline at Houston MOC M2M Financial Yr07
+FDU QULC23500000c QULC235c           DW USC GAL               ULSD Chicago M2M Financial Mo235
+FDU QULC23600000c QULC236c           DW USC GAL               ULSD Chicago M2M Financial Mo236
+FDU QULC23700000c QULC237c           DW USC GAL               ULSD Chicago M2M Financial Mo237
+FDU QULC23800000c QULC238c           DW USC GAL               ULSD Chicago M2M Financial Mo238
+FDU QULC23900000c QULC239c           DW USC GAL               ULSD Chicago M2M Financial Mo239
+FDU QULC24000000c QULC240c           DW USC GAL               ULSD Chicago M2M Financial Mo240
+FDU QULCM3700000c QULCM37c           DW USC GAL               ULSD Chicago M2M Financial Mo37
+FDU QULCM3800000c QULCM38c           DW USC GAL               ULSD Chicago M2M Financial Mo38
+FDU QULCM3900000c QULCM39c           DW USC GAL               ULSD Chicago M2M Financial Mo39
+FDU QULCM4000000c QULCM40c           DW USC GAL               ULSD Chicago M2M Financial Mo40
+FDU QULCM4100000c QULCM41c           DW USC GAL               ULSD Chicago M2M Financial Mo41
+FDU QULCM4200000c QULCM42c           DW USC GAL               ULSD Chicago M2M Financial Mo42
+FDU QULCM4300000c QULCM43c           DW USC GAL               ULSD Chicago M2M Financial Mo43
+FDU QULCM4400000c QULCM44c           DW USC GAL               ULSD Chicago M2M Financial Mo44
+FDU QULCM4500000c QULCM45c           DW USC GAL               ULSD Chicago M2M Financial Mo45
+FDU QULCM4600000c QULCM46c           DW USC GAL               ULSD Chicago M2M Financial Mo46
+FDU QULCM4700000c QULCM47c           DW USC GAL               ULSD Chicago M2M Financial Mo47
+FDU QULCM4800000c QULCM48c           DW USC GAL               ULSD Chicago M2M Financial Mo48
+FDU QULCM4900000c QULCM49c           DW USC GAL               ULSD Chicago M2M Financial Mo49
+FDU QULCM5000000c QULCM50c           DW USC GAL               ULSD Chicago M2M Financial Mo50
+FDU QULCM5100000c QULCM51c           DW USC GAL               ULSD Chicago M2M Financial Mo51
+FDU QULCM5200000c QULCM52c           DW USC GAL               ULSD Chicago M2M Financial Mo52
+FDU QULCM5300000c QULCM53c           DW USC GAL               ULSD Chicago M2M Financial Mo53
+FDU QULCM5400000c QULCM54c           DW USC GAL               ULSD Chicago M2M Financial Mo54
+FDU QULCM5500000c QULCM55c           DW USC GAL               ULSD Chicago M2M Financial Mo55
+FDU QULCM5600000c QULCM56c           DW USC GAL               ULSD Chicago M2M Financial Mo56
+FDU QULCM5700000c QULCM57c           DW USC GAL               ULSD Chicago M2M Financial Mo57
+FDU QULCM5800000c QULCM58c           DW USC GAL               ULSD Chicago M2M Financial Mo58
+FDU QBRH10000000c QBRH100c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo100
+FDU QBRH10100000c QBRH101c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo101
+FDU QBRH10200000c QBRH102c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo102
+FDU QBRH10300000c QBRH103c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo103
+FDU QBRH10400000c QBRH104c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo104
+FDU QBRH10500000c QBRH105c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo105
+FDU QBRH10600000c QBRH106c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo106
+FDU QBRH10700000c QBRH107c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo107
+FDU QBRH10800000c QBRH108c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo108
+FDU QBRH10900000c QBRH109c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo109
+FDU QBRH11000000c QBRH110c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo110
+FDU QBRH11100000c QBRH111c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo111
+FDU QBRH11200000c QBRH112c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo112
+FDU QBRH11300000c QBRH113c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo113
+FDU QBRH11400000c QBRH114c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo114
+FDU QBRH11500000c QBRH115c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo115
+FDU QBRH11600000c QBRH116c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo116
+FDU QBRH11700000c QBRH117c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo117
+FDU QBRH11800000c QBRH118c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo118
+FDU QBRH11900000c QBRH119c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo119
+FDU QBRH12000000c QBRH120c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo120
+FDU QBRH12100000c QBRH121c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo121
+FDU QBRH12200000c QBRH122c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo122
+FDU QBRH12300000c QBRH123c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo123
+FDU QBRH12400000c QBRH124c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo124
+FDU QBRH12500000c QBRH125c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo125
+FDU QBRH12600000c QBRH126c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo126
+FDU QBRH12700000c QBRH127c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo127
+FDU QBRH12800000c QBRH128c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo128
+FDU QBRH12900000c QBRH129c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo129
+FDU QBRH13000000c QBRH130c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo130
+FDU QBRH13100000c QBRH131c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo131
+FDU QBRH13200000c QBRH132c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo132
+FDU QBRH13300000c QBRH133c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo133
+FDU QBRH13400000c QBRH134c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo134
+FDU QBRH13500000c QBRH135c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo135
+FDU QBRH13600000c QBRH136c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo136
+FDU QBRH13700000c QBRH137c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo137
+FDU QBRH13800000c QBRH138c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo138
+FDU QBRH13900000c QBRH139c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo139
+FDU QBRH14000000c QBRH140c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo140
+FDU QBRH14100000c QBRH141c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo141
+FDU QBRH14200000c QBRH142c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo142
+FDU QBRH14300000c QBRH143c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo143
+FDU QDBHY0400000c QDBHY04c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Yr04
+FDU QDBHY0500000c QDBHY05c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Yr05
+FDU QDBHY0600000c QDBHY06c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Yr06
+FDU QDBHY0700000c QDBHY07c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Yr07
+FDU QF3GP3700000c QF3GP37c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo37
+FDU QF3GP3800000c QF3GP38c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo38
+FDU QF3GP3900000c QF3GP39c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo39
+FDU QF3GP4000000c QF3GP40c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo40
+FDU QF3GP4100000c QF3GP41c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo41
+FDU QF3GP4200000c QF3GP42c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo42
+FDU QF3GP4300000c QF3GP43c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo43
+FDU QF3GP4400000c QF3GP44c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo44
+FDU QF3GP4500000c QF3GP45c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo45
+FDU QF3GP4600000c QF3GP46c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo46
+FDU QF3GP4700000c QF3GP47c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo47
+FDU QF3GP4800000c QF3GP48c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo48
+FDU QF3GP4900000c QF3GP49c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo49
+FDU QF3GP5000000c QF3GP50c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo50
+FDU QF3GP5100000c QF3GP51c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo51
+FDU QF3GP5200000c QF3GP52c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo52
+FDU QF3GP5300000c QF3GP53c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo53
+FDU QF3GP5400000c QF3GP54c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo54
+FDU QF3GP5500000c QF3GP55c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo55
+FDU QF3GP5600000c QF3GP56c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo56
+FDU QF3GP5700000c QF3GP57c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo57
+FDU QF3GP5800000c QF3GP58c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo58
+FDU QF3GP5900000c QF3GP59c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo59
+FDU QF3GP6000000c QF3GP60c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo60
+FDU QF3GP6100000c QF3GP61c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo61
+FDU QF3GP6200000c QF3GP62c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo62
+FDU QF3GP6300000c QF3GP63c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo63
+FDU QF3GP6400000c QF3GP64c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo64
+FDU QF3GP6500000c QF3GP65c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo65
+FDU QF3GP6600000c QF3GP66c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo66
+FDU QF3GP6700000c QF3GP67c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo67
+FDU QF3GP6800000c QF3GP68c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo68
+FDU QF3GP6900000c QF3GP69c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo69
+FDU QF3GP7000000c QF3GP70c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo70
+FDU QF3GP7100000c QF3GP71c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo71
+FDU QF3GP7200000c QF3GP72c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo72
+FDU QF3GP7300000c QF3GP73c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Mo73
+FDU QF3GP7400000c QF3GP74c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Mo74
+FDU QF3GP7500000c QF3GP75c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Mo75
+FDU QF3GP7600000c QF3GP76c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Mo76
+FDU QF3GP7700000c QF3GP77c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Mo77
+FDU QULCM5900000c QULCM59c           DW USC GAL               ULSD Chicago M2M Financial Mo59
+FDU QULCM6000000c QULCM60c           DW USC GAL               ULSD Chicago M2M Financial Mo60
+FDU QULCM6100000c QULCM61c           DW USC GAL               ULSD Chicago M2M Financial Mo61
+FDU QULCM6200000c QULCM62c           DW USC GAL               ULSD Chicago M2M Financial Mo62
+FDU QULCM6300000c QULCM63c           DW USC GAL               ULSD Chicago M2M Financial Mo63
+FDU QULCM6400000c QULCM64c           DW USC GAL               ULSD Chicago M2M Financial Mo64
+FDU QULCM6500000c QULCM65c           DW USC GAL               ULSD Chicago M2M Financial Mo65
+FDU QULCM6600000c QULCM66c           DW USC GAL               ULSD Chicago M2M Financial Mo66
+FDU QULCM6700000c QULCM67c           DW USC GAL               ULSD Chicago M2M Financial Mo67
+FDU QULCM6800000c QULCM68c           DW USC GAL               ULSD Chicago M2M Financial Mo68
+FDU QULCM6900000c QULCM69c           DW USC GAL               ULSD Chicago M2M Financial Mo69
+FDU QULCM7000000c QULCM70c           DW USC GAL               ULSD Chicago M2M Financial Mo70
+FDU QULCM7100000c QULCM71c           DW USC GAL               ULSD Chicago M2M Financial Mo71
+FDU QULCM7200000c QULCM72c           DW USC GAL               ULSD Chicago M2M Financial Mo72
+FDU QULCM7300000c QULCM73c           DW USC GAL               ULSD Chicago M2M Financial Mo73
+FDU QULCM7400000c QULCM74c           DW USC GAL               ULSD Chicago M2M Financial Mo74
+FDU QULCM7500000c QULCM75c           DW USC GAL               ULSD Chicago M2M Financial Mo75
+FDU QULCM7600000c QULCM76c           DW USC GAL               ULSD Chicago M2M Financial Mo76
+FDU QULCM7700000c QULCM77c           DW USC GAL               ULSD Chicago M2M Financial Mo77
+FDU QULCM7800000c QULCM78c           DW USC GAL               ULSD Chicago M2M Financial Mo78
+FDU QULCM7900000c QULCM79c           DW USC GAL               ULSD Chicago M2M Financial Mo79
+FDU QULCM8000000c QULCM80c           DW USC GAL               ULSD Chicago M2M Financial Mo80
+FDU QULCM8100000c QULCM81c           DW USC GAL               ULSD Chicago M2M Financial Mo81
+FDU QULCM8200000c QULCM82c           DW USC GAL               ULSD Chicago M2M Financial Mo82
+FDU QULCM8300000c QULCM83c           DW USC GAL               ULSD Chicago M2M Financial Mo83
+FDU QULCM8400000c QULCM84c           DW USC GAL               ULSD Chicago M2M Financial Mo84
+FDU QULCM8500000c QULCM85c           DW USC GAL               ULSD Chicago M2M Financial Mo85
+FDU QULCM8600000c QULCM86c           DW USC GAL               ULSD Chicago M2M Financial Mo86
+FDU QULCM8700000c QULCM87c           DW USC GAL               ULSD Chicago M2M Financial Mo87
+FDU QULCM8800000c QULCM88c           DW USC GAL               ULSD Chicago M2M Financial Mo88
+FDU QULCM8900000c QULCM89c           DW USC GAL               ULSD Chicago M2M Financial Mo89
+FDU QULCM9000000c QULCM90c           DW USC GAL               ULSD Chicago M2M Financial Mo90
+FDU QULCM9100000c QULCM91c           DW USC GAL               ULSD Chicago M2M Financial Mo91
+FDU QULCM9200000c QULCM92c           DW USC GAL               ULSD Chicago M2M Financial Mo92
+FDU QULCM9300000c QULCM93c           DW USC GAL               ULSD Chicago M2M Financial Mo93
+FDU QULCM9400000c QULCM94c           DW USC GAL               ULSD Chicago M2M Financial Mo94
+FDU QULCM9500000c QULCM95c           DW USC GAL               ULSD Chicago M2M Financial Mo95
+FDU QULCM9600000c QULCM96c           DW USC GAL               ULSD Chicago M2M Financial Mo96
+FDU QULCM9700000c QULCM97c           DW USC GAL               ULSD Chicago M2M Financial Mo97
+FDU QULCM9800000c QULCM98c           DW USC GAL               ULSD Chicago M2M Financial Mo98
+FDU QULCM9900000c QULCM99c           DW USC GAL               ULSD Chicago M2M Financial Mo99
+FDU QULG10000000c QULG100c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo100
+FDU QULG10100000c QULG101c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo101
+FDU QULG10200000c QULG102c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo102
+FDU QULG10300000c QULG103c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo103
+FDU QULG10400000c QULG104c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo104
+FDU QULG10500000c QULG105c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo105
+FDU QULG10600000c QULG106c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo106
+FDU QULG10700000c QULG107c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo107
+FDU QULG10800000c QULG108c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo108
+FDU QULG10900000c QULG109c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo109
+FDU QULG11000000c QULG110c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo110
+FDU QULG11100000c QULG111c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo111
+FDU QULG11200000c QULG112c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo112
+FDU QULG11300000c QULG113c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo113
+FDU QULG11400000c QULG114c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo114
+FDU QULG11500000c QULG115c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo115
+FDU QULG11600000c QULG116c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo116
+FDU QULG11700000c QULG117c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo117
+FDU QULG11800000c QULG118c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo118
+FDU QULG11900000c QULG119c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo119
+FDU QULG12000000c QULG120c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo120
+FDU QBRH14400000c QBRH144c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo144
+FDU QBRH14500000c QBRH145c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo145
+FDU QBRH14600000c QBRH146c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo146
+FDU QBRH14700000c QBRH147c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo147
+FDU QBRH14800000c QBRH148c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo148
+FDU QBRH14900000c QBRH149c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo149
+FDU QBRH15000000c QBRH150c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo150
+FDU QBRH15100000c QBRH151c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo151
+FDU QBRH15200000c QBRH152c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo152
+FDU QBRH15300000c QBRH153c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo153
+FDU QBRH15400000c QBRH154c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo154
+FDU QBRH15500000c QBRH155c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo155
+FDU QBRH15600000c QBRH156c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo156
+FDU QBRH15700000c QBRH157c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo157
+FDU QBRH15800000c QBRH158c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo158
+FDU QBRH15900000c QBRH159c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo159
+FDU QBRH16000000c QBRH160c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo160
+FDU QBRH16100000c QBRH161c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo161
+FDU QBRH16200000c QBRH162c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo162
+FDU QBRH16300000c QBRH163c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo163
+FDU QBRH16400000c QBRH164c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo164
+FDU QBRH16500000c QBRH165c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo165
+FDU QBRH16600000c QBRH166c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo166
+FDU QBRH16700000c QBRH167c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo167
+FDU QBRH16800000c QBRH168c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo168
+FDU QBRH16900000c QBRH169c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo169
+FDU QBRH17000000c QBRH170c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo170
+FDU QBRH17100000c QBRH171c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo171
+FDU QBRH17200000c QBRH172c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo172
+FDU QBRH17300000c QBRH173c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo173
+FDU QBRH17400000c QBRH174c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo174
+FDU QBRH17500000c QBRH175c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo175
+FDU QBRH17600000c QBRH176c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo176
+FDU QBRH17700000c QBRH177c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo177
+FDU QBRH17800000c QBRH178c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo178
+FDU QBRH17900000c QBRH179c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo179
+FDU QBRH18000000c QBRH180c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo180
+FDU QBRH18100000c QBRH181c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo181
+FDU QBRH18200000c QBRH182c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo182
+FDU QBRH18300000c QBRH183c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo183
+FDU QBRH18400000c QBRH184c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo184
+FDU QBRH18500000c QBRH185c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo185
+FDU QBRH18600000c QBRH186c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo186
+FDU QBRH18700000c QBRH187c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo187
+FDU QBRH18800000c QBRH188c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo188
+FDU QBRH18900000c QBRH189c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo189
+FDU QBRH19000000c QBRH190c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo190
+FDU QBRH19100000c QBRH191c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo191
+FDU QBRH19200000c QBRH192c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo192
+FDU QF3GP7800000c QF3GP78c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Mo78
+FDU QF3GP7900000c QF3GP79c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Mo79
+FDU QF3GP8000000c QF3GP80c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Mo80
+FDU QF3GP8100000c QF3GP81c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Mo81
+FDU QF3GP8200000c QF3GP82c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Mo82
+FDU QF3GP8300000c QF3GP83c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Mo83
+FDU QF3GP8400000c QF3GP84c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Mo84
+FDU QF3GQ1300000c QF3GQ13c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Qr13
+FDU QF3GQ1400000c QF3GQ14c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Qr14
+FDU QF3GQ1500000c QF3GQ15c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Qr15
+FDU QF3GQ1600000c QF3GQ16c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Qr16
+FDU QF3GQ1700000c QF3GQ17c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Qr17
+FDU QF3GQ1800000c QF3GQ18c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Qr18
+FDU QF3GQ1900000c QF3GQ19c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Qr19
+FDU QF3GQ2000000c QF3GQ20c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Qr20
+FDU QF3GQ2100000c QF3GQ21c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Qr21
+FDU QF3GQ2200000c QF3GQ22c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Qr22
+FDU QF3GQ2300000c QF3GQ23c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Qr23
+FDU QF3GQ2400000c QF3GQ24c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Qr24
+FDU QF3GY0400000c QF3GY04c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Yr04
+FDU QF3GY0500000c QF3GY05c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Yr05
+FDU QF3GY0600000c QF3GY06c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Yr06
+FDU QULG12200000c QULG122c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo122
+FDU QULG12300000c QULG123c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo123
+FDU QULG12400000c QULG124c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo124
+FDU QULG12500000c QULG125c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo125
+FDU QULG12600000c QULG126c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo126
+FDU QULG12700000c QULG127c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo127
+FDU QULG12800000c QULG128c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo128
+FDU QULG12900000c QULG129c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo129
+FDU QULG13000000c QULG130c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo130
+FDU QULG13100000c QULG131c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo131
+FDU QULG13200000c QULG132c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo132
+FDU QULG13300000c QULG133c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo133
+FDU QULG13400000c QULG134c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo134
+FDU QULG13500000c QULG135c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo135
+FDU QULG13600000c QULG136c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo136
+FDU QULG13700000c QULG137c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo137
+FDU QULG13800000c QULG138c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo138
+FDU QULG13900000c QULG139c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo139
+FDU QULG14000000c QULG140c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo140
+FDU QULG14100000c QULG141c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo141
+FDU QULG14200000c QULG142c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo142
+FDU QULG14300000c QULG143c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo143
+FDU QULG14400000c QULG144c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo144
+FDU QULG14500000c QULG145c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo145
+FDU QULG14600000c QULG146c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo146
+FDU QULG14700000c QULG147c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo147
+FDU QULG14800000c QULG148c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo148
+FDU QULG14900000c QULG149c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo149
+FDU QULG15000000c QULG150c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo150
+FDU QULG15100000c QULG151c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo151
+FDU QULG15200000c QULG152c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo152
+FDU QULG15300000c QULG153c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo153
+FDU QULG15400000c QULG154c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo154
+FDU QULG15500000c QULG155c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo155
+FDU QULG15600000c QULG156c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo156
+FDU QULG15700000c QULG157c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo157
+FDU QULG15800000c QULG158c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo158
+FDU QULG15900000c QULG159c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo159
+FDU QULG16000000c QULG160c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo160
+FDU QULG16100000c QULG161c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo161
+FDU QULG16200000c QULG162c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo162
+FDU QULG16300000c QULG163c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo163
+FDU QULG16400000c QULG164c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo164
+FDU QULG12100000c QULG121c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo121
+FDU QULG16500000c QULG165c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo165
+FDU QULG16600000c QULG166c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo166
+FDU QULG16700000c QULG167c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo167
+FDU QULG16800000c QULG168c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo168
+FDU QULG16900000c QULG169c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo169
+FDU QULG17000000c QULG170c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo170
+FDU QULG17100000c QULG171c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo171
+FDU QULG17200000c QULG172c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo172
+FDU QULG17300000c QULG173c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo173
+FDU QULG17400000c QULG174c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo174
+FDU QULG17500000c QULG175c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo175
+FDU QULG17600000c QULG176c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo176
+FDU QULG17700000c QULG177c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo177
+FDU QBRH19300000c QBRH193c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo193
+FDU QBRH19400000c QBRH194c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo194
+FDU QBRH19500000c QBRH195c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo195
+FDU QBRH19600000c QBRH196c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo196
+FDU QBRH19700000c QBRH197c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo197
+FDU QBRH19800000c QBRH198c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo198
+FDU QBRH19900000c QBRH199c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo199
+FDU QBRH20000000c QBRH200c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo200
+FDU QBRH20100000c QBRH201c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo201
+FDU QBRH20200000c QBRH202c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo202
+FDU QBRH20300000c QBRH203c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo203
+FDU QBRH20400000c QBRH204c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo204
+FDU QBRH20500000c QBRH205c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo205
+FDU QBRH20600000c QBRH206c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo206
+FDU QBRH20700000c QBRH207c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo207
+FDU QBRH20800000c QBRH208c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo208
+FDU QBRH20900000c QBRH209c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo209
+FDU QBRH21000000c QBRH210c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo210
+FDU QBRH21100000c QBRH211c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo211
+FDU QBRH21200000c QBRH212c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo212
+FDU QBRH21300000c QBRH213c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo213
+FDU QBRH21400000c QBRH214c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo214
+FDU QBRH21500000c QBRH215c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo215
+FDU QBRH21600000c QBRH216c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo216
+FDU QBRH21700000c QBRH217c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo217
+FDU QBRH21800000c QBRH218c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo218
+FDU QBRH21900000c QBRH219c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo219
+FDU QBRH22000000c QBRH220c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo220
+FDU QBRH22100000c QBRH221c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo221
+FDU QBRH22200000c QBRH222c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo222
+FDU QBRH22300000c QBRH223c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo223
+FDU QBRH22400000c QBRH224c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo224
+FDU QBRH22500000c QBRH225c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo225
+FDU QBRH22600000c QBRH226c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo226
+FDU QBRH22700000c QBRH227c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo227
+FDU QBRH22800000c QBRH228c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo228
+FDU QBRH22900000c QBRH229c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo229
+FDU QBRH23000000c QBRH230c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo230
+FDU QBRH23100000c QBRH231c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo231
+FDU QBRH23200000c QBRH232c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo232
+FDU QBRH23300000c QBRH233c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo233
+FDU QBRH23400000c QBRH234c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo234
+FDU QBRH23500000c QBRH235c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo235
+FDU QBRH23600000c QBRH236c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo236
+FDU QBRH23700000c QBRH237c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo237
+FDU QBRH23800000c QBRH238c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo238
+FDU QBRH23900000c QBRH239c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo239
+FDU QBRH24000000c QBRH240c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo240
+FDU QBRHM8500000c QBRHM85c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo85
+FDU QULG17800000c QULG178c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo178
+FDU QULG17900000c QULG179c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo179
+FDU QULG18000000c QULG180c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo180
+FDU QULG18100000c QULG181c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo181
+FDU QULG18200000c QULG182c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo182
+FDU QULG18300000c QULG183c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo183
+FDU QULG18400000c QULG184c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo184
+FDU QULG18500000c QULG185c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo185
+FDU QULG18600000c QULG186c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo186
+FDU QULG18700000c QULG187c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo187
+FDU QULG18800000c QULG188c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo188
+FDU QULG18900000c QULG189c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo189
+FDU QULG19000000c QULG190c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo190
+FDU QULG19100000c QULG191c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo191
+FDU QULG19200000c QULG192c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo192
+FDU QULG19300000c QULG193c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo193
+FDU QULG19400000c QULG194c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo194
+FDU QULG19500000c QULG195c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo195
+FDU QULG19600000c QULG196c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo196
+FDU QULG19700000c QULG197c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo197
+FDU QULG19800000c QULG198c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo198
+FDU QULG19900000c QULG199c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo199
+FDU QULG20000000c QULG200c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo200
+FDU QULG20100000c QULG201c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo201
+FDU QULG20200000c QULG202c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo202
+FDU QULG20300000c QULG203c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo203
+FDU QULG20400000c QULG204c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo204
+FDU QULG20500000c QULG205c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo205
+FDU QULG20600000c QULG206c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo206
+FDU QULG20700000c QULG207c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo207
+FDU QULG20800000c QULG208c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo208
+FDU QULG20900000c QULG209c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo209
+FDU QULG21000000c QULG210c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo210
+FDU QULG21100000c QULG211c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo211
+FDU QULG21200000c QULG212c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo212
+FDU QULG21300000c QULG213c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo213
+FDU QULG21400000c QULG214c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo214
+FDU QULG21500000c QULG215c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo215
+FDU QULG21600000c QULG216c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo216
+FDU QULG21700000c QULG217c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo217
+FDU QULG21800000c QULG218c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo218
+FDU QULG21900000c QULG219c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo219
+FDU QULG22000000c QULG220c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo220
+FDU QULG22100000c QULG221c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo221
+FDU QULG22200000c QULG222c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo222
+FDU QULG22300000c QULG223c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo223
+FDU QULG22400000c QULG224c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo224
+FDU QULG22500000c QULG225c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo225
+FDU QULG22600000c QULG226c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo226
+FDU QULG22700000c QULG227c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo227
+FDU QULG22800000c QULG228c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo228
+FDU QULG22900000c QULG229c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo229
+FDU QULG23000000c QULG230c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo230
+FDU QULG23100000c QULG231c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo231
+FDU QULG23200000c QULG232c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo232
+FDU QULG23300000c QULG233c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo233
+FDU QULG23400000c QULG234c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo234
+FDU QBRHM8600000c QBRHM86c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo86
+FDU QBRHM8700000c QBRHM87c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo87
+FDU QBRHM8800000c QBRHM88c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo88
+FDU QBRHM8900000c QBRHM89c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo89
+FDU QBRHM9000000c QBRHM90c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo90
+FDU QBRHM9100000c QBRHM91c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo91
+FDU QBRHM9200000c QBRHM92c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo92
+FDU QBRHM9300000c QBRHM93c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo93
+FDU QBRHM9400000c QBRHM94c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo94
+FDU QBRHM9500000c QBRHM95c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo95
+FDU QBRHM9600000c QBRHM96c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo96
+FDU QBRHM9700000c QBRHM97c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo97
+FDU QBRHM9800000c QBRHM98c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo98
+FDU QBRHM9900000c QBRHM99c           DW USD BBL 190109 190118 Brent Frontline at Houston MOC M2M Financial Mo99
+FDU QBRHP3700000c QBRHP37c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo37
+FDU QBRHP3800000c QBRHP38c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo38
+FDU QBRHP3900000c QBRHP39c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo39
+FDU QBRHP4000000c QBRHP40c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo40
+FDU QBRHP4100000c QBRHP41c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo41
+FDU QBRHP4200000c QBRHP42c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo42
+FDU QBRHP4300000c QBRHP43c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo43
+FDU QBRHP4400000c QBRHP44c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo44
+FDU QBRHP4500000c QBRHP45c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo45
+FDU QBRHP4600000c QBRHP46c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo46
+FDU QBRHP4700000c QBRHP47c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo47
+FDU QBRHP4800000c QBRHP48c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo48
+FDU QBRHP4900000c QBRHP49c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo49
+FDU QBRHP5000000c QBRHP50c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo50
+FDU QBRHP5100000c QBRHP51c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo51
+FDU QBRHP5200000c QBRHP52c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo52
+FDU QBRHP5300000c QBRHP53c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo53
+FDU QBRHP5400000c QBRHP54c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo54
+FDU QBRHP5500000c QBRHP55c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo55
+FDU QBRHP5600000c QBRHP56c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo56
+FDU QBRHP5700000c QBRHP57c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo57
+FDU QBRHP5800000c QBRHP58c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo58
+FDU QBRHP5900000c QBRHP59c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo59
+FDU QBRHP6000000c QBRHP60c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo60
+FDU QBRHP6100000c QBRHP61c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo61
+FDU QBRHP6200000c QBRHP62c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo62
+FDU QBRHP6300000c QBRHP63c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo63
+FDU QBRHP6400000c QBRHP64c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo64
+FDU QBRHP6500000c QBRHP65c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo65
+FDU QBRHP6600000c QBRHP66c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo66
+FDU QBRHP6700000c QBRHP67c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo67
+FDU QBRHP6800000c QBRHP68c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo68
+FDU QBRHP6900000c QBRHP69c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo69
+FDU QBRHP7000000c QBRHP70c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo70
+FDU QBRHP7100000c QBRHP71c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo71
+FDU QBRHP7200000c QBRHP72c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo72
+FDU QULG23500000c QULG235c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo235
+FDU QULG23600000c QULG236c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo236
+FDU QULG23700000c QULG237c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo237
+FDU QULG23800000c QULG238c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo238
+FDU QULG23900000c QULG239c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo239
+FDU QULG24000000c QULG240c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo240
+FDU QULGM8500000c QULGM85c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo85
+FDU QULGM8600000c QULGM86c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo86
+FDU QULGM8700000c QULGM87c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo87
+FDU QULGM8800000c QULGM88c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo88
+FDU QULGM8900000c QULGM89c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo89
+FDU QULGM9000000c QULGM90c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo90
+FDU QULGM9100000c QULGM91c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo91
+FDU QULGM9200000c QULGM92c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo92
+FDU QULGM9300000c QULGM93c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo93
+FDU QULGM9400000c QULGM94c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo94
+FDU QULGM9500000c QULGM95c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo95
+FDU QULGM9600000c QULGM96c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo96
+FDU QULGM9700000c QULGM97c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo97
+FDU QULGM9800000c QULGM98c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo98
+FDU QULGM9900000c QULGM99c           DW USC GAL               ULSD USGC Prompt Pipeline M2M Financial Mo99
+FDU QULGP3700000c QULGP37c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo37
+FDU QULGP3800000c QULGP38c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo38
+FDU QULGP3900000c QULGP39c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo39
+FDU QULGP4000000c QULGP40c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo40
+FDU QULGP4100000c QULGP41c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo41
+FDU QULGP4200000c QULGP42c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo42
+FDU QULGP4300000c QULGP43c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo43
+FDU QULGP4400000c QULGP44c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo44
+FDU QULGP4500000c QULGP45c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo45
+FDU QBRHP7300000c QBRHP73c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo73
+FDU QBRHP7400000c QBRHP74c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo74
+FDU QBRHP7500000c QBRHP75c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo75
+FDU QBRHP7600000c QBRHP76c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo76
+FDU QBRHP7700000c QBRHP77c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo77
+FDU QBRHP7800000c QBRHP78c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo78
+FDU QBRHP7900000c QBRHP79c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo79
+FDU QBRHP8000000c QBRHP80c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo80
+FDU QBRHP8100000c QBRHP81c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo81
+FDU QBRHP8200000c QBRHP82c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo82
+FDU QBRHP8300000c QBRHP83c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo83
+FDU QBRHP8400000c QBRHP84c           DW USD BBL 160314 190118 Brent Frontline at Houston MOC M2M Financial Mo84
+FDU QBRHQ1300000c QBRHQ13c           DW USD BBL 160808 190118 Brent Frontline at Houston MOC M2M Financial Qr13
+FDU QBRHQ1400000c QBRHQ14c           DW USD BBL 160808 190118 Brent Frontline at Houston MOC M2M Financial Qr14
+FDU QBRHQ1500000c QBRHQ15c           DW USD BBL 160808 190118 Brent Frontline at Houston MOC M2M Financial Qr15
+FDU QBRHQ1600000c QBRHQ16c           DW USD BBL 160808 190118 Brent Frontline at Houston MOC M2M Financial Qr16
+FDU QBRHQ1700000c QBRHQ17c           DW USD BBL 160808 190118 Brent Frontline at Houston MOC M2M Financial Qr17
+FDU QBRHQ1800000c QBRHQ18c           DW USD BBL 160808 190118 Brent Frontline at Houston MOC M2M Financial Qr18
+FDU QBRHQ1900000c QBRHQ19c           DW USD BBL 160808 190118 Brent Frontline at Houston MOC M2M Financial Qr19
+FDU QBRHQ2000000c QBRHQ20c           DW USD BBL 160808 190118 Brent Frontline at Houston MOC M2M Financial Qr20
+FDU QBRHQ2100000c QBRHQ21c           DW USD BBL 160808 190118 Brent Frontline at Houston MOC M2M Financial Qr21
+FDU QBRHQ2200000c QBRHQ22c           DW USD BBL 160808 190118 Brent Frontline at Houston MOC M2M Financial Qr22
+FDU QBRHQ2300000c QBRHQ23c           DW USD BBL 160808 190118 Brent Frontline at Houston MOC M2M Financial Qr23
+FDU QBRHQ2400000c QBRHQ24c           DW USD BBL 160808 190118 Brent Frontline at Houston MOC M2M Financial Qr24
+FDU QBRHQ2500000c QBRHQ25c           DW USD BBL 160808 190118 Brent Frontline at Houston MOC M2M Financial Qr25
+FDU QBRHQ2600000c QBRHQ26c           DW USD BBL 160808 190118 Brent Frontline at Houston MOC M2M Financial Qr26
+FDU QBRHQ2700000c QBRHQ27c           DW USD BBL 160808 190118 Brent Frontline at Houston MOC M2M Financial Qr27
+FDU QBRHQ2800000c QBRHQ28c           DW USD BBL 160808 190118 Brent Frontline at Houston MOC M2M Financial Qr28
+FDU QEFDP3700000c QEFDP37c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo37
+FDU QEFDP3800000c QEFDP38c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo38
+FDU QEFDP3900000c QEFDP39c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo39
+FDU QEFDP4000000c QEFDP40c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo40
+FDU QEFDP4100000c QEFDP41c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo41
+FDU QEFDP4200000c QEFDP42c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo42
+FDU QEFDP4300000c QEFDP43c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo43
+FDU QEFDP4400000c QEFDP44c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo44
+FDU QEFDP4500000c QEFDP45c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo45
+FDU QEFDP4600000c QEFDP46c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo46
+FDU QEFDP4700000c QEFDP47c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo47
+FDU QEFDP4800000c QEFDP48c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo48
+FDU QEFDP4900000c QEFDP49c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo49
+FDU QEFDP5000000c QEFDP50c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo50
+FDU QEFDP5100000c QEFDP51c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo51
+FDU QEFDP5200000c QEFDP52c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo52
+FDU QEFDP5300000c QEFDP53c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo53
+FDU QEFDP5400000c QEFDP54c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo54
+FDU QEFDP5500000c QEFDP55c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo55
+FDU QEFDP5600000c QEFDP56c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo56
+FDU QEFDP5700000c QEFDP57c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo57
+FDU QEFDP5800000c QEFDP58c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo58
+FDU QEFDP5900000c QEFDP59c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo59
+FDU QEFDP6000000c QEFDP60c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo60
+FDU QEFDP6100000c QEFDP61c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo61
+FDU QEFDP6200000c QEFDP62c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo62
+FDU QEFDP6300000c QEFDP63c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo63
+FDU QEFDP6400000c QEFDP64c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo64
+FDU QEFDP6500000c QEFDP65c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo65
+FDU QEFDP6600000c QEFDP66c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Mo66
+FDU QEFDP6700000c QEFDP67c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Mo67
+FDU QMAYP3700000c QMAYP37c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo37
+FDU QMAYP3800000c QMAYP38c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo38
+FDU QMAYP3900000c QMAYP39c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo39
+FDU QMAYP4000000c QMAYP40c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo40
+FDU QMAYP4100000c QMAYP41c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo41
+FDU QMAYP4200000c QMAYP42c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo42
+FDU QMAYP4300000c QMAYP43c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo43
+FDU QMAYP4400000c QMAYP44c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo44
+FDU QMAYP4500000c QMAYP45c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo45
+FDU QMAYP4600000c QMAYP46c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo46
+FDU QMAYP4700000c QMAYP47c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo47
+FDU QMAYP4800000c QMAYP48c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo48
+FDU QMAYP4900000c QMAYP49c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo49
+FDU QMAYP5000000c QMAYP50c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo50
+FDU QMAYP5100000c QMAYP51c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo51
+FDU QMAYP5200000c QMAYP52c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo52
+FDU QMAYP5300000c QMAYP53c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo53
+FDU QMAYP5400000c QMAYP54c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo54
+FDU QMAYP5500000c QMAYP55c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo55
+FDU QMAYP5600000c QMAYP56c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo56
+FDU QMAYP5700000c QMAYP57c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo57
+FDU QMAYP5800000c QMAYP58c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo58
+FDU QMAYP5900000c QMAYP59c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo59
+FDU QMAYP6000000c QMAYP60c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo60
+FDU QMAYP6100000c QMAYP61c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo61
+FDU QMAYP6200000c QMAYP62c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo62
+FDU QMAYP6300000c QMAYP63c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo63
+FDU QMAYP6400000c QMAYP64c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo64
+FDU QMAYP6500000c QMAYP65c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo65
+FDU QULGP4600000c QULGP46c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo46
+FDU QULGP4700000c QULGP47c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo47
+FDU QULGP4800000c QULGP48c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo48
+FDU QULGP4900000c QULGP49c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo49
+FDU QULGP5000000c QULGP50c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo50
+FDU QULGP5100000c QULGP51c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo51
+FDU QULGP5200000c QULGP52c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo52
+FDU QULGP5300000c QULGP53c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo53
+FDU QULGP5400000c QULGP54c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo54
+FDU QULGP5500000c QULGP55c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo55
+FDU QULGP5600000c QULGP56c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo56
+FDU QULGP5700000c QULGP57c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo57
+FDU QULGP5800000c QULGP58c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo58
+FDU QULGP5900000c QULGP59c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo59
+FDU QULGP6000000c QULGP60c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo60
+FDU QULGP6100000c QULGP61c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo61
+FDU QULGP6200000c QULGP62c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo62
+FDU QULGP6300000c QULGP63c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo63
+FDU QULGP6400000c QULGP64c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo64
+FDU QULGP6500000c QULGP65c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo65
+FDU QULGP6600000c QULGP66c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo66
+FDU QULGP6700000c QULGP67c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo67
+FDU QULGP6800000c QULGP68c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo68
+FDU QULGP6900000c QULGP69c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo69
+FDU QULGP7000000c QULGP70c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo70
+FDU QULGP7100000c QULGP71c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo71
+FDU QULGP7200000c QULGP72c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo72
+FDU QULGP7300000c QULGP73c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo73
+FDU QULGP7400000c QULGP74c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo74
+FDU QULGP7500000c QULGP75c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo75
+FDU QULGP7600000c QULGP76c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo76
+FDU QULGP7700000c QULGP77c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo77
+FDU QULGP7800000c QULGP78c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo78
+FDU QULGP7900000c QULGP79c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo79
+FDU QULGP8000000c QULGP80c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo80
+FDU QULGP8100000c QULGP81c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo81
+FDU QULGP8200000c QULGP82c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo82
+FDU QULGP8300000c QULGP83c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo83
+FDU QULGP8400000c QULGP84c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo84
+FDU QULGQ1300000c QULGQ13c           DW USC GAL 160808 190118 ULSD USGC Prompt Pipeline M2M Financial Qr13
+FDU QBRHY0400000c QBRHY04c           DW USD BBL 160808 190118 Brent Frontline at Houston MOC M2M Financial Yr04
+FDU QBRHY0500000c QBRHY05c           DW USD BBL 160808 190118 Brent Frontline at Houston MOC M2M Financial Yr05
+FDU QBRHY0600000c QBRHY06c           DW USD BBL 160808 190118 Brent Frontline at Houston MOC M2M Financial Yr06
+FDU QBRHY0700000c QBRHY07c           DW USD BBL 160808 190118 Brent Frontline at Houston MOC M2M Financial Yr07
+FDU QEFDP6800000c QEFDP68c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Mo68
+FDU QEFDP6900000c QEFDP69c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Mo69
+FDU QEFDP7000000c QEFDP70c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Mo70
+FDU QEFDP7100000c QEFDP71c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Mo71
+FDU QEFDP7200000c QEFDP72c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Mo72
+FDU QEFDP7300000c QEFDP73c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Mo73
+FDU QEFDP7400000c QEFDP74c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Mo74
+FDU QEFDP7500000c QEFDP75c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Mo75
+FDU QEFDP7600000c QEFDP76c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Mo76
+FDU QEFDP7700000c QEFDP77c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Mo77
+FDU QEFDP7800000c QEFDP78c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Mo78
+FDU QEFDP7900000c QEFDP79c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Mo79
+FDU QEFDP8000000c QEFDP80c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Mo80
+FDU QEFDP8100000c QEFDP81c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Mo81
+FDU QEFDP8200000c QEFDP82c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Mo82
+FDU QEFDP8300000c QEFDP83c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Mo83
+FDU QEFDP8400000c QEFDP84c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Mo84
+FDU QEFDQ1300000c QEFDQ13c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Qr13
+FDU QEFDQ1400000c QEFDQ14c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Qr14
+FDU QEFDQ1500000c QEFDQ15c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Qr15
+FDU QEFDQ1600000c QEFDQ16c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Qr16
+FDU QEFDQ1700000c QEFDQ17c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Qr17
+FDU QEFDQ1800000c QEFDQ18c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Qr18
+FDU QEFDQ1900000c QEFDQ19c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Qr19
+FDU QEFDQ2000000c QEFDQ20c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Qr20
+FDU QEFDQ2100000c QEFDQ21c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Qr21
+FDU QEFDQ2200000c QEFDQ22c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Qr22
+FDU QEFDQ2300000c QEFDQ23c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Qr23
+FDU QEFDQ2400000c QEFDQ24c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Qr24
+FDU QEFDY0400000c QEFDY04c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Yr04
+FDU QEFDY0500000c QEFDY05c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Yr05
+FDU QEFDY0600000c QEFDY06c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Yr06
+FDU QMAYP6600000c QMAYP66c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo66
+FDU QMAYP6700000c QMAYP67c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo67
+FDU QMAYP6800000c QMAYP68c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo68
+FDU QMAYP6900000c QMAYP69c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo69
+FDU QMAYP7000000c QMAYP70c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo70
+FDU QMAYP7100000c QMAYP71c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo71
+FDU QMAYP7200000c QMAYP72c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo72
+FDU QMAYP7300000c QMAYP73c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo73
+FDU QMAYP7400000c QMAYP74c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo74
+FDU QMAYP7500000c QMAYP75c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo75
+FDU QMAYP7600000c QMAYP76c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo76
+FDU QMAYP7700000c QMAYP77c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo77
+FDU QMAYP7800000c QMAYP78c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo78
+FDU QMAYP7900000c QMAYP79c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo79
+FDU QMAYP8000000c QMAYP80c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo80
+FDU QMAYP8100000c QMAYP81c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo81
+FDU QMAYP8200000c QMAYP82c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo82
+FDU QMAYP8300000c QMAYP83c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo83
+FDU QMAYP8400000c QMAYP84c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo84
+FDU QMAYQ1300000c QMAYQ13c           DW USD BBL 160808 190118 Maya Crude M2M Financial Qr13
+FDU QMAYQ1400000c QMAYQ14c           DW USD BBL 160808 190118 Maya Crude M2M Financial Qr14
+FDU QMAYQ1500000c QMAYQ15c           DW USD BBL 160808 190118 Maya Crude M2M Financial Qr15
+FDU QMAYQ1600000c QMAYQ16c           DW USD BBL 160808 190118 Maya Crude M2M Financial Qr16
+FDU QMAYQ1700000c QMAYQ17c           DW USD BBL 160808 190118 Maya Crude M2M Financial Qr17
+FDU QMAYQ1800000c QMAYQ18c           DW USD BBL 160808 190118 Maya Crude M2M Financial Qr18
+FDU QMAYQ1900000c QMAYQ19c           DW USD BBL 160808 190118 Maya Crude M2M Financial Qr19
+FDU QMAYQ2000000c QMAYQ20c           DW USD BBL 160808 190118 Maya Crude M2M Financial Qr20
+FDU QMAYQ2100000c QMAYQ21c           DW USD BBL 160808 190118 Maya Crude M2M Financial Qr21
+FDU QMAYQ2200000c QMAYQ22c           DW USD BBL 160808 190118 Maya Crude M2M Financial Qr22
+FDU QMAYQ2300000c QMAYQ23c           DW USD BBL 160808 190118 Maya Crude M2M Financial Qr23
+FDU QMAYQ2400000c QMAYQ24c           DW USD BBL 160808 190118 Maya Crude M2M Financial Qr24
+FDU QMAYQ2500000c QMAYQ25c           DW USD BBL 160808 190118 Maya Crude M2M Financial Qr25
+FDU QMAYQ2600000c QMAYQ26c           DW USD BBL 160808 190118 Maya Crude M2M Financial Qr26
+FDU QMAYQ2700000c QMAYQ27c           DW USD BBL 160808 190118 Maya Crude M2M Financial Qr27
+FDU QMAYQ2800000c QMAYQ28c           DW USD BBL 160808 190118 Maya Crude M2M Financial Qr28
+FDU QULGQ1500000c QULGQ15c           DW USC GAL 160808 190118 ULSD USGC Prompt Pipeline M2M Financial Qr15
+FDU QULGQ1600000c QULGQ16c           DW USC GAL 160808 190118 ULSD USGC Prompt Pipeline M2M Financial Qr16
+FDU QULGQ1700000c QULGQ17c           DW USC GAL 160808 190118 ULSD USGC Prompt Pipeline M2M Financial Qr17
+FDU QULGQ1800000c QULGQ18c           DW USC GAL 160808 190118 ULSD USGC Prompt Pipeline M2M Financial Qr18
+FDU QULGQ1900000c QULGQ19c           DW USC GAL 160808 190118 ULSD USGC Prompt Pipeline M2M Financial Qr19
+FDU QULGQ2000000c QULGQ20c           DW USC GAL 160808 190118 ULSD USGC Prompt Pipeline M2M Financial Qr20
+FDU QULGQ2100000c QULGQ21c           DW USC GAL 160808 190118 ULSD USGC Prompt Pipeline M2M Financial Qr21
+FDU QULGQ2200000c QULGQ22c           DW USC GAL 160808 190118 ULSD USGC Prompt Pipeline M2M Financial Qr22
+FDU QULGQ2300000c QULGQ23c           DW USC GAL 160808 190118 ULSD USGC Prompt Pipeline M2M Financial Qr23
+FDU QULGQ2400000c QULGQ24c           DW USC GAL 160808 190118 ULSD USGC Prompt Pipeline M2M Financial Qr24
+FDU QULGY0400000c QULGY04c           DW USC GAL 160808 190118 ULSD USGC Prompt Pipeline M2M Financial Yr04
+FDU QULGY0500000c QULGY05c           DW USC GAL 160808 190118 ULSD USGC Prompt Pipeline M2M Financial Yr05
+FDU QULGY0600000c QULGY06c           DW USC GAL 160808 190118 ULSD USGC Prompt Pipeline M2M Financial Yr06
+FDU QULGQ1400000c QULGQ14c           DW USC GAL 160808 190118 ULSD USGC Prompt Pipeline M2M Financial Qr14
+FDU QMAYY0400000c QMAYY04c           DW USD BBL 160808 190118 Maya Crude M2M Financial Yr04
+FDU QMAYY0500000c QMAYY05c           DW USD BBL 160808 190118 Maya Crude M2M Financial Yr05
+FDU QMAYY0600000c QMAYY06c           DW USD BBL 160808 190118 Maya Crude M2M Financial Yr06
+FDU QMAYY0700000c QMAYY07c           DW USD BBL 160808 190118 Maya Crude M2M Financial Yr07
+FDU QNAG10000000c QNAG100c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo100
+FDU QNAG10100000c QNAG101c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo101
+FDU QNAG10200000c QNAG102c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo102
+FDU QNAG10300000c QNAG103c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo103
+FDU QNAG10400000c QNAG104c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo104
+FDU QNAG10500000c QNAG105c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo105
+FDU QNAG10600000c QNAG106c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo106
+FDU QNAG10700000c QNAG107c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo107
+FDU QNAG10800000c QNAG108c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo108
+FDU QNAG10900000c QNAG109c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo109
+FDU QNAG11000000c QNAG110c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo110
+FDU QNAG11100000c QNAG111c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo111
+FDU QNAG11200000c QNAG112c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo112
+FDU QNAG11300000c QNAG113c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo113
+FDU QNAG11400000c QNAG114c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo114
+FDU QNAG11500000c QNAG115c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo115
+FDU QNAG11600000c QNAG116c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo116
+FDU QNAG11700000c QNAG117c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo117
+FDU QNAG11800000c QNAG118c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo118
+FDU QNAG11900000c QNAG119c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo119
+FDU QNAG12000000c QNAG120c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo120
+FDU QNAG12100000c QNAG121c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo121
+FDU QNAG12200000c QNAG122c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo122
+FDU QNAG12300000c QNAG123c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo123
+FDU QNAG12400000c QNAG124c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo124
+FDU QNAG12500000c QNAG125c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo125
+FDU QNAG12600000c QNAG126c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo126
+FDU QNAG12700000c QNAG127c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo127
+FDU QNAG12800000c QNAG128c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo128
+FDU QNAG12900000c QNAG129c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo129
+FDU QNAG13000000c QNAG130c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo130
+FDU QNAG13100000c QNAG131c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo131
+FDU QNAG13200000c QNAG132c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo132
+FDU QNAG13300000c QNAG133c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo133
+FDU QNAG13400000c QNAG134c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo134
+FDU QNAG13500000c QNAG135c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo135
+FDU QNAG13600000c QNAG136c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo136
+FDU QNAG13700000c QNAG137c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo137
+FDU QNAG13800000c QNAG138c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo138
+FDU QNAG13900000c QNAG139c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo139
+FDU QNAG14000000c QNAG140c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo140
+FDU QNAG14100000c QNAG141c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo141
+FDU QNAG14200000c QNAG142c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo142
+FDU QNAG14300000c QNAG143c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo143
+FDU QNAG14400000c QNAG144c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo144
+FDU QNAG14500000c QNAG145c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo145
+FDU QNAG14600000c QNAG146c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo146
+FDU QNAG14700000c QNAG147c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo147
+FDU QNAG14800000c QNAG148c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo148
+FDU QNAG14900000c QNAG149c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo149
+FDU QNAG15000000c QNAG150c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo150
+FDU QNAG15100000c QNAG151c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo151
+FDU QNAG15200000c QNAG152c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo152
+FDU QNAG15300000c QNAG153c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo153
+FDU QNAG15400000c QNAG154c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo154
+FDU QNAG15500000c QNAG155c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo155
+FDU QNAG15600000c QNAG156c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo156
+FDU QNAG15700000c QNAG157c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo157
+FDU QNAG15800000c QNAG158c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo158
+FDU QNAG15900000c QNAG159c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo159
+FDU QNAG16000000c QNAG160c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo160
+FDU QNAG16100000c QNAG161c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo161
+FDU QNAG16200000c QNAG162c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo162
+FDU QNAG16300000c QNAG163c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo163
+FDU QNAG16400000c QNAG164c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo164
+FDU QNAG16500000c QNAG165c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo165
+FDU QNAG16600000c QNAG166c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo166
+FDU QNAG16700000c QNAG167c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo167
+FDU QNAG16800000c QNAG168c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo168
+FDU QNAG16900000c QNAG169c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo169
+FDU QNAG17000000c QNAG170c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo170
+FDU QNAG17100000c QNAG171c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo171
+FDU QNAG17200000c QNAG172c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo172
+FDU QNAG17300000c QNAG173c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo173
+FDU QNAG17400000c QNAG174c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo174
+FDU QNAG17500000c QNAG175c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo175
+FDU QNAG17600000c QNAG176c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo176
+FDU QNAG17700000c QNAG177c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo177
+FDU QNAG17800000c QNAG178c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo178
+FDU QNAG17900000c QNAG179c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo179
+FDU QNAG18000000c QNAG180c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo180
+FDU QNAG18100000c QNAG181c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo181
+FDU QNAG18200000c QNAG182c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo182
+FDU QNAG18300000c QNAG183c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo183
+FDU QNAG18400000c QNAG184c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo184
+FDU QNAG18500000c QNAG185c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo185
+FDU QNAG18600000c QNAG186c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo186
+FDU QNAG18700000c QNAG187c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo187
+FDU QNAG18800000c QNAG188c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo188
+FDU QNAG18900000c QNAG189c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo189
+FDU QNAG19000000c QNAG190c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo190
+FDU QNAG19100000c QNAG191c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo191
+FDU QNAG19200000c QNAG192c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo192
+FDU QNAG19300000c QNAG193c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo193
+FDU QNAG19400000c QNAG194c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo194
+FDU QNAG19500000c QNAG195c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo195
+FDU QNAG19600000c QNAG196c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo196
+FDU QNAG19700000c QNAG197c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo197
+FDU QNAG19800000c QNAG198c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo198
+FDU QNAG19900000c QNAG199c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo199
+FDU QNAG20000000c QNAG200c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo200
+FDU QNAG20100000c QNAG201c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo201
+FDU QNAG20200000c QNAG202c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo202
+FDU QNAG20300000c QNAG203c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo203
+FDU QNAG20400000c QNAG204c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo204
+FDU QNAG20500000c QNAG205c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo205
+FDU QNAG20600000c QNAG206c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo206
+FDU QNAG20700000c QNAG207c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo207
+FDU QNAG20800000c QNAG208c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo208
+FDU QNAG20900000c QNAG209c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo209
+FDU QNAG21000000c QNAG210c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo210
+FDU QNAG21100000c QNAG211c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo211
+FDU QNAG21200000c QNAG212c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo212
+FDU QNAG21300000c QNAG213c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo213
+FDU QNAG21400000c QNAG214c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo214
+FDU QNAG21500000c QNAG215c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo215
+FDU QNAG21600000c QNAG216c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo216
+FDU QNAG21700000c QNAG217c           DW USC GAL               Naphtha FOB USGC Cargo M2M Financial Mo217

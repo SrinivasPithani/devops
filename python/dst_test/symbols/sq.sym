@@ -1,0 +1,143 @@
+SQ                                                           © 2019 by S&P Global Inc.,190119
+SQ AAXNI0000000c AAXNI00c           MA USD MT  140331 190101 7 inch steel OCTG FOB Tianjin China $/Mt
+SQ AAXNI0000000h AAXNI00h           MA USD MT  140331 190101 7 inch steel OCTG FOB Tianjin China $/Mt
+SQ AAXNI0000000l AAXNI00l           MA USD MT  140331 190101 7 inch steel OCTG FOB Tianjin China $/Mt
+SQ AAXNK0000000c AAXNK00c           MA USD FT  140331 190101 7 inch steel OCTG FOB Tianjin China $/Ft
+SQ AAXNK0000000h AAXNK00h           MA USD FT  140331 190101 7 inch steel OCTG FOB Tianjin China $/Ft
+SQ AAXNK0000000l AAXNK00l           MA USD FT  140331 190101 7 inch steel OCTG FOB Tianjin China $/Ft
+SQ MMAJF0300000c MMAJF03c           MA USD MT  120601 181201 Silicon 553 grade FOB China MAvg
+SQ MMAJF1600000c MMAJF16c           YR USD MT  121231 181231 Silicon 553 grade FOB China $/MT YAvg
+SQ SBMAN0300000c SBMAN03c           MA USD TON 130101 190101 Shindachi Bara New Cut Unpressed Tokyo Steel Purch Prc Dom Prod Dlvd Okayama Mthly $/Ton
+SQ SBMAN0300000h SBMAN03h           MA USD TON 130101 190101 Shindachi Bara New Cut Unpressed Tokyo Steel Purch Prc Dom Prod Dlvd Okayama Mthly $/Ton
+SQ SBMAN0300000l SBMAN03l           MA USD TON 130101 190101 Shindachi Bara New Cut Unpressed Tokyo Steel Purch Prc Dom Prod Dlvd Okayama Mthly $/Ton
+SQ SBMAO0300000c SBMAO03c           MA USD TON 130101 190101 Shindachi Bara New Cut Unpressed TokyoSteel Purch Prc Dom Prod Dlvd Utsunomiya Mthly $/Ton
+SQ SBMAO0300000h SBMAO03h           MA USD TON 130101 190101 Shindachi Bara New Cut Unpressed TokyoSteel Purch Prc Dom Prod Dlvd Utsunomiya Mthly $/Ton
+SQ SBMAO0300000l SBMAO03l           MA USD TON 130101 190101 Shindachi Bara New Cut Unpressed TokyoSteel Purch Prc Dom Prod Dlvd Utsunomiya Mthly $/Ton
+SQ SB0103200000c SB01032c           DW CNY TON 050301 190118 Billet Ex-stock Tangshan VAT-inclusive
+SQ SB0103200000h SB01032h           DW CNY TON 050301 190118 Billet Ex-stock Tangshan VAT-inclusive
+SQ SB0103200000l SB01032l           DW CNY TON 050301 190118 Billet Ex-stock Tangshan VAT-inclusive
+SQ SB0103500000c SB01035c           WA USD TON 000103 190118 Billet CFR Southeast Asia Wkly
+SQ SB0103500000h SB01035h           WA USD TON 000103 190118 Billet CFR Southeast Asia Wkly
+SQ SB0103500000l SB01035l           WA USD TON 000103 190118 Billet CFR Southeast Asia Wkly
+SQ SB0105800000c SB01058c           MA CNY TON 050301 190101 CR304 Ex-warehouse Foshan VAT-inclusive Mthly
+SQ SB0105800000h SB01058h           MA CNY TON 050301 190101 CR304 Ex-warehouse Foshan VAT-inclusive Mthly
+SQ SB0105800000l SB01058l           MA CNY TON 050301 190101 CR304 Ex-warehouse Foshan VAT-inclusive Mthly
+SQ SB0106300000c SB01063c           WA USD TON 031006 190118 CR304 2B 2MM E Asia Imp CFR Wkly
+SQ SB0106300000h SB01063h           WA USD TON 031006 190118 CR304 2B 2MM E Asia Imp CFR Wkly
+SQ SB0106300000l SB01063l           WA USD TON 031006 190118 CR304 2B 2MM E Asia Imp CFR Wkly
+SQ SB0107400000c SB01074c           MA CNY TON 070501 190101 CR430 Ex-warehouse Foshan VAT-inclusive Mthly
+SQ SB0107400000h SB01074h           MA CNY TON 070501 190101 CR430 Ex-warehouse Foshan VAT-inclusive Mthly
+SQ SB0107400000l SB01074l           MA CNY TON 070501 190101 CR430 Ex-warehouse Foshan VAT-inclusive Mthly
+SQ SB0108200000c SB01082c           WA CNY TON 010903 190115 CRC Ex-stock Shanghai VAT-inclusive Wkly
+SQ SB0108200000h SB01082h           WA CNY TON 010903 190115 CRC Ex-stock Shanghai VAT-inclusive Wkly
+SQ SB0108200000l SB01082l           WA CNY TON 010903 190115 CRC Ex-stock Shanghai VAT-inclusive Wkly
+SQ SB0108300000c SB01083c           WA USD TON 061201 190115 CRC China Exp FOB Shanghai Wkly
+SQ SB0108300000h SB01083h           WA USD TON 061201 190115 CRC China Exp FOB Shanghai Wkly
+SQ SB0108300000l SB01083l           WA USD TON 061201 190115 CRC China Exp FOB Shanghai Wkly
+SQ SB0108400000c SB01084c           MA USD TON 000101 190101 CRC E Asia Imp CFR Mthly
+SQ SB0108400000h SB01084h           MA USD TON 000101 190101 CRC E Asia Imp CFR Mthly
+SQ SB0108400000l SB01084l           MA USD TON 000101 190101 CRC E Asia Imp CFR Mthly
+SQ SB0111400000c SB01114c           MA USD TON 000101 190101 H-Beam CFR Southeast Asia Mthly
+SQ SB0111400000h SB01114h           MA USD TON 000101 190101 H-Beam CFR Southeast Asia Mthly
+SQ SB0111400000l SB01114l           MA USD TON 000101 190101 H-Beam CFR Southeast Asia Mthly
+SQ SB0111500000c SB01115c           MA JPY TON 000101 190101 H-Beams Japan Domestic (Tokyo Steel) FOT Mthly
+SQ SB0111500000h SB01115h           MA JPY TON 000101 190101 H-Beams Japan Domestic (Tokyo Steel) FOT Mthly
+SQ SB0111500000l SB01115l           MA JPY TON 000101 190101 H-Beams Japan Domestic (Tokyo Steel) FOT Mthly
+SQ SB0111800000c SB01118c           MA CNY TON 050101 190101 HDG Ex-stock Shanghai VAT-inclusive Mthly
+SQ SB0111800000h SB01118h           MA CNY TON 050101 190101 HDG Ex-stock Shanghai VAT-inclusive Mthly
+SQ SB0111800000l SB01118l           MA CNY TON 050101 190101 HDG Ex-stock Shanghai VAT-inclusive Mthly
+SQ SB0111900000c SB01119c           MA USD TON 061101 190101 HDG China Exp FOB Shanghai Mthly
+SQ SB0111900000h SB01119h           MA USD TON 061101 190101 HDG China Exp FOB Shanghai Mthly
+SQ SB0111900000l SB01119l           MA USD TON 061101 190101 HDG China Exp FOB Shanghai Mthly
+SQ SB0113600000c SB01136c           MA CNY TON 050301 190101 HR304 Ex-warehouse Foshan VAT-inclusive Mthly
+SQ SB0113600000h SB01136h           MA CNY TON 050301 190101 HR304 Ex-warehouse Foshan VAT-inclusive Mthly
+SQ SB0113600000l SB01136l           MA CNY TON 050301 190101 HR304 Ex-warehouse Foshan VAT-inclusive Mthly
+SQ SB0114200000c SB01142c           DW USD TON 000103 190118 HRC CFR Southeast Asia
+SQ SB0114200000h SB01142h           DW USD TON 000103 190118 HRC CFR Southeast Asia
+SQ SB0114200000l SB01142l           DW USD TON 000103 190118 HRC CFR Southeast Asia
+SQ SB0115300000c SB01153c           MA JPY TON 000101 190101 HRC Japan Domestic (Tokyo Steel) FOT Mthly
+SQ SB0115300000h SB01153h           MA JPY TON 000101 190101 HRC Japan Domestic (Tokyo Steel) FOT Mthly
+SQ SB0115300000l SB01153l           MA JPY TON 000101 190101 HRC Japan Domestic (Tokyo Steel) FOT Mthly
+SQ SB0117800000c SB01178c           MA CNY TON 010901 190101 Plate Ex-stock Shanghai VAT-inclusive Mthly
+SQ SB0117800000h SB01178h           MA CNY TON 010901 190101 Plate Ex-stock Shanghai VAT-inclusive Mthly
+SQ SB0117800000l SB01178l           MA CNY TON 010901 190101 Plate Ex-stock Shanghai VAT-inclusive Mthly
+SQ SB0118000000c SB01180c           MA USD TON 060201 190101 Plate Commercial Grd China Exp FOB Shanghai Mthly
+SQ SB0118000000h SB01180h           MA USD TON 060201 190101 Plate Commercial Grd China Exp FOB Shanghai Mthly
+SQ SB0118000000l SB01180l           MA USD TON 060201 190101 Plate Commercial Grd China Exp FOB Shanghai Mthly
+SQ SB0119500000c SB01195c           DW USD TON 000103 190118 Rebar CFR Southeast Asia
+SQ SB0119500000h SB01195h           DW USD TON 000103 190118 Rebar CFR Southeast Asia
+SQ SB0119500000l SB01195l           DW USD TON 000103 190118 Rebar CFR Southeast Asia
+SQ SB0119800000c SB01198c           DW CNY TON 120227 190118 Rebar Ex-stock Beijing VAT-inclusive
+SQ SB0119800000h SB01198h           DW CNY TON 120227 190118 Rebar Ex-stock Beijing VAT-inclusive
+SQ SB0119800000l SB01198l           DW CNY TON 120227 190118 Rebar Ex-stock Beijing VAT-inclusive
+SQ SB0120500000c SB01205c           MA JPY TON 000101 190101 Rebar Japan Domestic (Tokyo Steel) CIF Mthly
+SQ SB0120500000h SB01205h           MA JPY TON 000101 190101 Rebar Japan Domestic (Tokyo Steel) CIF Mthly
+SQ SB0120500000l SB01205l           MA JPY TON 000101 190101 Rebar Japan Domestic (Tokyo Steel) CIF Mthly
+SQ SB0122100000c SB01221c           MA JPY TON 051001 190101 Shindachi Bara New Cut Unpressed Tokyo Steel Purchase Prc Dom Prod Dlvd Okayama Mthly
+SQ SB0122100000h SB01221h           MA JPY TON 051001 190101 Shindachi Bara New Cut Unpressed Tokyo Steel Purchase Prc Dom Prod Dlvd Okayama Mthly
+SQ SB0122100000l SB01221l           MA JPY TON 051001 190101 Shindachi Bara New Cut Unpressed Tokyo Steel Purchase Prc Dom Prod Dlvd Okayama Mthly
+SQ SB0122200000c SB01222c           MA JPY TON 051001 190101 Shindachi Bara New Cut Unpressed Tokyo Steel Purchase Prc Dom Prod Dlvd Utsunomiya Mthly
+SQ SB0122200000h SB01222h           MA JPY TON 051001 190101 Shindachi Bara New Cut Unpressed Tokyo Steel Purchase Prc Dom Prod Dlvd Utsunomiya Mthly
+SQ SB0122200000l SB01222l           MA JPY TON 051001 190101 Shindachi Bara New Cut Unpressed Tokyo Steel Purchase Prc Dom Prod Dlvd Utsunomiya Mthly
+SQ SB0123500000c SB01235c           MA USD TON 000101 190101 Slab CFR Southeast Asia Mthly
+SQ SB0123500000h SB01235h           MA USD TON 000101 190101 Slab CFR Southeast Asia Mthly
+SQ SB0123500000l SB01235l           MA USD TON 000101 190101 Slab CFR Southeast Asia Mthly
+SQ SB0125900000c SB01259c           WA CNY TON 130304 190118 Rebar EXW Jiangsu VAT-inclusive Wkly
+SQ SB0125900000h SB01259h           WA CNY TON 130304 190118 Rebar EXW Jiangsu VAT-inclusive Wkly
+SQ SB0125900000l SB01259l           WA CNY TON 130304 190118 Rebar EXW Jiangsu VAT-inclusive Wkly
+SQ SB0126000000c SB01260c           DW CNY TON 970106 190118 HRC Ex-stock Shanghai VAT-inclusive
+SQ SB0126000000h SB01260h           DW CNY TON 970106 190118 HRC Ex-stock Shanghai VAT-inclusive
+SQ SB0126000000l SB01260l           DW CNY TON 970106 190118 HRC Ex-stock Shanghai VAT-inclusive
+SQ SB0126100000c SB01261c           WA USD TON 101227 190116 Wire Rod Mesh Quality China Exp FOB Shanghai Wkly
+SQ SB0126100000h SB01261h           WA USD TON 101227 190116 Wire Rod Mesh Quality China Exp FOB Shanghai Wkly
+SQ SB0126100000l SB01261l           WA USD TON 101227 190116 Wire Rod Mesh Quality China Exp FOB Shanghai Wkly
+SQ SB0126200000c SB01262c           WA CNY TON 101108 190116 Wire Rod Ex-stock Shanghai VAT-inclusive Wkly
+SQ SB0126200000h SB01262h           WA CNY TON 101108 190116 Wire Rod Ex-stock Shanghai VAT-inclusive Wkly
+SQ SB0126200000l SB01262l           WA CNY TON 101108 190116 Wire Rod Ex-stock Shanghai VAT-inclusive Wkly
+SQ SB0130000000c SB01300c           MA CNY TON 150701 181201 Rebar Ex-stock Beijing VAT-inclusive MAvg
+SQ SB0130000000h SB01300h           MA CNY TON 150701 181201 Rebar Ex-stock Beijing VAT-inclusive MAvg
+SQ SB0130000000l SB01300l           MA CNY TON 150701 181201 Rebar Ex-stock Beijing VAT-inclusive MAvg
+SQ SB0130100000c SB01301c           MA CNY TON 150701 181201 Rebar EXW Jiangsu VAT-inclusive MAvg
+SQ SB0130100000h SB01301h           MA CNY TON 150701 181201 Rebar EXW Jiangsu VAT-inclusive MAvg
+SQ SB0130100000l SB01301l           MA CNY TON 150701 181201 Rebar EXW Jiangsu VAT-inclusive MAvg
+SQ SB0130200000c SB01302c           MA USD TON 150701 181201 Rebar CFR Southeast Asia MAvg
+SQ SB0130200000h SB01302h           MA USD TON 150701 181201 Rebar CFR Southeast Asia MAvg
+SQ SB0130200000l SB01302l           MA USD TON 150701 181201 Rebar CFR Southeast Asia MAvg
+SQ SB0136000000c SB01360c           DW USD MT  150410 190118 HRC Ex-stock Shanghai VAT-inclusive $/MT
+SQ SB0136000000h SB01360h           DW USD MT  150410 190118 HRC Ex-stock Shanghai VAT-inclusive $/MT
+SQ SB0136000000l SB01360l           DW USD MT  150410 190118 HRC Ex-stock Shanghai VAT-inclusive $/MT
+SQ SB0219800000c SB02198c           DW USD MT  150410 190118 Rebar Ex-stock Beijing VAT-inclusive $/MT
+SQ SB0219800000h SB02198h           DW USD MT  150410 190118 Rebar Ex-stock Beijing VAT-inclusive $/MT
+SQ SB0219800000l SB02198l           DW USD MT  150410 190118 Rebar Ex-stock Beijing VAT-inclusive $/MT
+SQ STHRY0000000c STHRY00c           DW USD MT  150601 190118 HRC SAE1006 Premium FOB China
+SQ STHRY0300000c STHRY03c           MA USD MT  150601 181201 CbnStl HRC SAE1006 Premium FOB China MAvg
+SQ STHRZ0000000c STHRZ00c           DW USD MT                CbnStl HRC FOB China $/Mt
+SQ STHRZ0000000h STHRZ00h           DW USD MT                CbnStl HRC FOB China $/Mt
+SQ STHRZ0000000l STHRZ00l           DW USD MT                CbnStl HRC FOB China $/Mt
+SQ STHRZ0200000c STHRZ02c           DW USD MT  060101 190118 Carbon Steel HRC SS400 China FOB $/MT
+SQ STHRZ0200000h STHRZ02h           DW USD MT  060101 190118 Carbon Steel HRC SS400 China FOB $/MT
+SQ STHRZ0200000l STHRZ02l           DW USD MT  060101 190118 Carbon Steel HRC SS400 China FOB $/MT
+SQ STHRZ0300000c STHRZ03c           MA USD MT  080401 181201 CbnStl HRC FOB China $/Mt MAvg
+SQ STHSA0000000c STHSA00c           DW USD MT  150601 190118 HRC SAE1006 FOB China
+SQ STHSA0000000h STHSA00h           DW USD MT  150601 190118 HRC SAE1006 FOB China
+SQ STHSA0000000l STHSA00l           DW USD MT  150601 190118 HRC SAE1006 FOB China
+SQ STHSA0300000c STHSA03c           MA USD MT  150601 181201 HRC SAE1006 FOB China MAvg
+SQ STHSA0300000h STHSA03h           MA USD MT  150601 181201 HRC SAE1006 FOB China MAvg
+SQ STHSA0300000l STHSA03l           MA USD MT  150601 181201 HRC SAE1006 FOB China MAvg
+SQ STSBF0000000c STSBF00c           DW USD MT  160901 190118 Square bar FOB China $/mt
+SQ STSBF0000000h STSBF00h           DW USD MT  160901 190118 Square bar FOB China $/mt
+SQ STSBF0000000l STSBF00l           DW USD MT  160901 190118 Square bar FOB China $/mt
+SQ STSBF0300000c STSBF03c           MA USD MT                Square bar FOB China $/mt MAvg
+SQ STSBF0300000h STSBF03h           MA USD MT                Square bar FOB China $/mt MAvg
+SQ STSBF0300000l STSBF03l           MA USD MT                Square bar FOB China $/mt MAvg
+SQ STCBZ0200000c STCBZ02c           DW USD MT  061101 190118 CbnStl Rebar FOB China $/Mt
+SQ STCBZ0200000h STCBZ02h           DW USD MT  061101 190118 CbnStl Rebar FOB China $/Mt
+SQ STCBZ0200000l STCBZ02l           DW USD MT  061101 190118 CbnStl Rebar FOB China $/Mt
+SQ STCBZ2300000c STCBZ23c           MA USD MT  080401 181201 CbnStl Rebar FOB China $/Mt MAvg
+SQ TS0104100000c TS01041c           DW USD MT  130729 190118 TSI HRC [SAE] Asean Imports CFR Asean Port
+SQ TS0104300000c TS01043c           WA USD MT  000101 190116 Plate CFR East Asia Wkly
+SQ TS0104600000c TS01046c           WA INR MT  090201 190116 HRC India Domestic Delivered Mumbai Wkly
+SQ TSMBO0300000c TSMBO03c           MA USD MT  140101 181201 TSI HRC [SAE] Asean Imports CFR Asean Port MAvg
+SQ TSMBQ0300000c TSMBQ03c           MA USD MT  140101 181201 Plate CFR East Asia MAvg
+SQ TSMBT0300000c TSMBT03c           MA INR MT  140601 181201 HRC India Domestic Delivered Mumbai MAvg
+SQ TSMBZ0300000c TSMBZ03c           DW USD MT  171101 190118 TSI HRC [SAE] Asean Imports CFR Asean Port Rolling MAvg

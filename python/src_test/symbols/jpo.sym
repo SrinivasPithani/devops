@@ -1,0 +1,61 @@
+JPO                                                           © 2019 by S&P Global Inc.,190119
+JPO PJPAA0000000c PJPAA00c           DW JPY KL  160425 190118 RON89 Gasoline FOB Tokyo Bay LC1 Waterborne
+JPO PJPAA0300000c PJPAA03c           MA JPY KL  160501 181201 RON89 Gasoline FOB Tokyo Bay LC1 Waterborne MAvg
+JPO PJPAB0000000c PJPAB00c           DW JPY KL  160425 190118 Gasoil 10ppm FOB Tokyo Bay LC1 Waterborne
+JPO PJPAB0300000c PJPAB03c           MA JPY KL  160501 181201 Gasoil 10ppm FOB Tokyo Bay LC1 Waterborne MAvg
+JPO PJPAC0000000c PJPAC00c           DW JPY KL  160425 190118 Kerosene FOB Tokyo Bay LC1 Waterborne
+JPO PJPAC0300000c PJPAC03c           MA JPY KL  160501 181201 Kerosene FOB Tokyo Bay LC1 Waterborne MAvg
+JPO PJPAD0000000c PJPAD00c           DW JPY KL  160425 190118 Low Sulfur A-Fuel Oil 0.1% FOB Tokyo Bay LC1 Waterborne
+JPO PJPAD0300000c PJPAD03c           MA JPY KL  160501 181201 Low Sulfur A-Fuel Oil 0.1% FOB Tokyo Bay LC1 Waterborne MAvg
+JPO PJPAE0000000c PJPAE00c           DW JPY KL  160425 190118 High Sulfur A-Fuel Oil 1% FOB Tokyo Bay LC1 Waterborne
+JPO PJPAE0300000c PJPAE03c           MA JPY KL  160501 181201 High Sulfur A-Fuel Oil 1% FOB Tokyo Bay LC1 Waterborne MAvg
+JPO PJPAF0000000c PJPAF00c           DW JPY KL  160425 190118 RON89 Gasoline FOB Chukyo LC1 Waterborne
+JPO PJPAF0300000c PJPAF03c           MA JPY KL  160501 181201 RON89 Gasoline FOB Chukyo LC1 Waterborne MAvg
+JPO PJPAG0000000c PJPAG00c           DW JPY KL  160425 190118 Gasoil 10ppm FOB Chukyo LC1 Waterborne
+JPO PJPAG0300000c PJPAG03c           MA JPY KL  160501 181201 Gasoil 10ppm FOB Chukyo LC1 Waterborne MAvg
+JPO PJPAH0000000c PJPAH00c           DW JPY KL  160425 190118 Kerosene FOB Chukyo LC1 Waterborne
+JPO PJPAH0300000c PJPAH03c           MA JPY KL  160501 181201 Kerosene FOB Chukyo LC1 Waterborne MAvg
+JPO PJPAJ0000000c PJPAJ00c           DW JPY KL  160425 190118 Low Sulfur A-Fuel Oil 0.1% FOB Chukyo LC1 Waterborne
+JPO PJPAJ0300000c PJPAJ03c           MA JPY KL  160501 181201 Low Sulfur A-Fuel Oil 0.1% FOB Chukyo LC1 Waterborne MAvg
+JPO PJPAK0000000c PJPAK00c           DW JPY KL  160425 190118 High Sulfur A-Fuel Oil 1% FOB Chukyo LC1 Waterborne
+JPO PJPAK0300000c PJPAK03c           MA JPY KL  160501 181201 High Sulfur A-Fuel Oil 1% FOB Chukyo LC1 Waterborne MAvg
+JPO PJPAL0000000c PJPAL00c           DW JPY KL  160425 190118 RON89 Gasoline FOB Hanshin LC1 Waterborne
+JPO PJPAL0300000c PJPAL03c           MA JPY KL  160501 181201 RON89 Gasoline FOB Hanshin LC1 Waterborne MAvg
+JPO PJPAM0000000c PJPAM00c           DW JPY KL  160425 190118 Gasoil 10ppm FOB Hanshin LC1 Waterborne
+JPO PJPAM0300000c PJPAM03c           MA JPY KL  160501 181201 Gasoil 10ppm FOB Hanshin LC1 Waterborne MAvg
+JPO PJPAN0000000c PJPAN00c           DW JPY KL  160425 190118 Kerosene FOB Hanshin LC1 Waterborne
+JPO PJPAN0300000c PJPAN03c           MA JPY KL  160501 181201 Kerosene FOB Hanshin LC1 Waterborne MAvg
+JPO PJPAP0000000c PJPAP00c           DW JPY KL  160425 190118 Low Sulfur A-Fuel Oil 0.1% FOB Hanshin LC1 Waterborne
+JPO PJPAP0300000c PJPAP03c           MA JPY KL  160501 181201 Low Sulfur A-Fuel Oil 0.1% FOB Hanshin LC1 Waterborne MAvg
+JPO PJPAQ0000000c PJPAQ00c           DW JPY KL  160425 190118 High Sulfur A-Fuel Oil 1% FOB Hanshin LC1 Waterborne
+JPO PJPAQ0300000c PJPAQ03c           MA JPY KL  160501 181201 High Sulfur A-Fuel Oil 1% FOB Hanshin LC1 Waterborne MAvg
+JPO PJPBG0000000c PJPBG00c           DW JPY KL  160801 190118 RON89 Gasoline FOB Tokyo Bay LC2 Waterborne
+JPO PJPBH0000000c PJPBH00c           DW JPY KL  160801 190118 RON89 Gasoline FOB Chukyo LC2 Waterborne
+JPO PJPBJ0000000c PJPBJ00c           DW JPY KL  160801 190118 RON89 Gasoline FOB Hanshin LC2 Waterborne
+JPO PJPBK0000000c PJPBK00c           DW JPY KL  160801 190118 Kerosene FOB Tokyo Bay LC2 Waterborne
+JPO PJPBL0000000c PJPBL00c           DW JPY KL  160801 190118 Kerosene FOB Chukyo LC2 Waterborne
+JPO PJPBM0000000c PJPBM00c           DW JPY KL  160801 190118 Kerosene FOB Hanshin LC2 Waterborne
+JPO PJPBN0000000c PJPBN00c           DW JPY KL  160801 190118 Gasoil 10ppm FOB Tokyo Bay LC2 Waterborne
+JPO PJPBP0000000c PJPBP00c           DW JPY KL  160801 190118 Gasoil 10ppm FOB Chukyo LC2 Waterborne
+JPO PJPBQ0000000c PJPBQ00c           DW JPY KL  160801 190118 Gasoil 10ppm FOB Hanshin LC2 Waterborne
+JPO PJPBR0000000c PJPBR00c           DW JPY KL  160801 190118 Low Sulfur A-Fuel Oil 0.1% FOB Tokyo Bay LC2 Waterborne
+JPO PJPBS0000000c PJPBS00c           DW JPY KL  160801 190118 Low Sulfur A-Fuel Oil 0.1% FOB Chukyo LC2 Waterborne
+JPO PJPBT0000000c PJPBT00c           DW JPY KL  160801 190118 Low Sulfur A-Fuel Oil 0.1% FOB Hanshin LC2 Waterborne
+JPO PJPBU0000000c PJPBU00c           DW JPY KL  160801 190118 High Sulfur A-Fuel Oil 1% FOB Tokyo Bay LC2 Waterborne
+JPO PJPBV0000000c PJPBV00c           DW JPY KL  160801 190118 High Sulfur A-Fuel Oil 1% FOB Chukyo LC2 Waterborne
+JPO PJPBW0000000c PJPBW00c           DW JPY KL  160801 190118 High Sulfur A-Fuel Oil 1% FOB Hanshin LC2 Waterborne
+JPO PJPCH0000000c PJPCH00c           DW JPY KL  170511 190118 RON89 Gasoline FOB Onishi LC1 Waterborne
+JPO PJPCH0300000c PJPCH03c           MA JPY KL  170501 181201 RON89 Gasoline FOB Onishi LC1 Waterborne MAvg
+JPO PJPCJ0000000c PJPCJ00c           DW JPY KL  170511 190118 Kerosene FOB Onishi LC1 Waterborne
+JPO PJPCJ0300000c PJPCJ03c           MA JPY KL  170501 181201 Kerosene FOB Onishi LC1 Waterborne MAvg
+JPO PJPCK0000000c PJPCK00c           DW JPY KL  170511 190118 Gasoil 10ppm FOB Onishi LC1 Waterborne
+JPO PJPCK0300000c PJPCK03c           MA JPY KL  170501 181201 Gasoil 10ppm FOB Onishi LC1 Waterborne MAvg
+JPO PJPCL0000000c PJPCL00c           DW JPY KL  170511 190118 Low Sulfur A-Fuel Oil 0.1% FOB Onishi LC1 Waterborne
+JPO PJPCL0300000c PJPCL03c           MA JPY KL  170501 181201 Low Sulfur A-Fuel Oil 0.1% FOB Onishi LC1 Waterborne MAvg
+JPO PJPCM0000000c PJPCM00c           DW JPY KL  170511 190118 High Sulfur A-Fuel Oil 1% FOB Onishi LC1 Waterborne
+JPO PJPCM0300000c PJPCM03c           MA JPY KL  170501 181201 High Sulfur A-Fuel Oil 1% FOB Onishi LC1 Waterborne MAvg
+JPO PJPCN0000000c PJPCN00c           DW JPY KL  170511 190118 RON89 Gasoline FOB Onishi LC2 Waterborne
+JPO PJPCP0000000c PJPCP00c           DW JPY KL  170511 190118 Kerosene FOB Onishi LC2 Waterborne
+JPO PJPCQ0000000c PJPCQ00c           DW JPY KL  170511 190118 Gasoil 10ppm FOB Onishi LC2 Waterborne
+JPO PJPCR0000000c PJPCR00c           DW JPY KL  170511 190118 Low Sulfur A-Fuel Oil 0.1% FOB Onishi LC2 Waterborne
+JPO PJPCS0000000c PJPCS00c           DW JPY KL  170511 190118 High Sulfur A-Fuel Oil 1% FOB Onishi LC2 Waterborne

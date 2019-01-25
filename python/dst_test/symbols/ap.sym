@@ -1,0 +1,80 @@
+AP                                                           © 2019 by S&P Global Inc.,190119
+AP AI0000100000u AI00001u           MA N/A NT  050101 181001 AISI Pig Iron US Production Mthly
+AP AI0000200000u AI00002u           MA N/A PCT 050101 181001 AISI Rate of Cap Util US Production Percent Mthly
+AP AI0000300000u AI00003u           MA N/A NT  050101 181001 AISI Blast Alloy US Production Mthly
+AP AI0000400000u AI00004u           MA N/A NT  050101 181001 AISI Blast Carbon US Production Mthly
+AP AI0000500000u AI00005u           MA N/A NT                AISI Blast Stainless US Production Mthly
+AP AI0000600000u AI00006u           MA N/A NT  050101 181001 AISI Electric Alloy US Production Mthly
+AP AI0000700000u AI00007u           MA N/A NT  050101 181001 AISI Electric Carbon US Production Mthly
+AP AI0000800000u AI00008u           MA N/A NT  050101 181001 AISI Electric Stainless US Production Mthly
+AP AI0000900000u AI00009u           MA N/A NT  050101 181001 AISI Raw Steel ALA-TENN-MISS-ARK-KY Production Mthly
+AP AI0001000000u AI00010u           MA N/A NT  050101 181001 AISI Raw Steel COL-UTAH-WASH-OR-CA-AZ Production Mthly
+AP AI0001100000u AI00011u           MA N/A NT  050101 181001 AISI Raw Steel IL Production Mthly
+AP AI0001200000u AI00012u           MA N/A NT  050101 181001 AISI Raw Steel IN Production Mthly
+AP AI0001300000u AI00013u           MA N/A NT  050101 181001 AISI Raw Steel MI Production Mthly
+AP AI0001400000u AI00014u           MA N/A NT  050101 181001 AISI Raw Steel MINN-WISC-MO-OK-NEB-IOWA Production Mthly
+AP AI0001500000u AI00015u           MA N/A NT  050101 181001 AISI Raw Steel OH Production Mthly
+AP AI0001600000u AI00016u           MA N/A NT  050101 181001 AISI Raw Steel PA Production Mthly
+AP AI0001700000u AI00017u           MA N/A NT  050101 181001 AISI Raw Steel RI-CONN-NJ-DEL-MD-NY Production Mthly
+AP AI0001800000u AI00018u           MA N/A NT  050101 181001 AISI Raw Steel TX Production Mthly
+AP AI0001900000u AI00019u           MA N/A NT  050101 181001 AISI Raw Steel VA-WVA-GA-FL-NC-SC-LA Production Mthly
+AP AI0805500000u AI08055u           QR N/A NT                AISI Nickel Bearing Stainless 138 Production Qtly
+AP AI0805600000u AI08056u           QR N/A NT                AISI Nickel Bearing Stainless 155 Production Qtly
+AP AI0805700000u AI08057u           QR N/A NT  131201 170101 AISI Nickel Bearing Stainless 174 Production Qtly
+AP AI0805800000u AI08058u           QR N/A NT                AISI Nickel Bearing Stainless 177 Production Qtly
+AP AI0805900000u AI08059u           QR N/A NT  131201 170101 AISI Nickel Bearing Stainless 201 Production Qtly
+AP AI0806000000u AI08060u           QR N/A NT                AISI Nickel Bearing Stainless 202 And 205 Production Qtly
+AP AI0806100000u AI08061u           QR N/A NT  131201 170101 AISI Nickel Bearing Stainless 301 Production Qtly
+AP AI0806200000u AI08062u           QR N/A NT  131201 160401 AISI Nickel Bearing Stainless 302 And 302B Production Qtly
+AP AI0806300000u AI08063u           QR N/A NT  131201 170101 AISI Nickel Bearing Stainless 303 And 303Se Production Qtly
+AP AI0806400000u AI08064u           QR N/A NT  131201 170101 AISI Nickel Bearing Stainless 304 Production Qtly
+AP AI0806500000u AI08065u           QR N/A NT                AISI Nickel Bearing Stainless 304H And 304N Production Qtly
+AP AI0806600000u AI08066u           QR N/A NT  131201 170101 AISI Nickel Bearing Stainless 304L Production Qtly
+AP AI0806700000u AI08067u           QR N/A NT                AISI Nickel Bearing Stainless 304LN Production Qtly
+AP AI0806800000u AI08068u           QR N/A NT  131201 170101 AISI Nickel Bearing Stainless 305 Production Qtly
+AP AI0806900000u AI08069u           QR N/A NT                AISI Nickel Bearing Stainless 308 Production Qtly
+AP AI0807000000u AI08070u           QR N/A NT  131201 170101 AISI Nickel Bearing Stainless 309 And 309S Production Qtly
+AP AI0807100000u AI08071u           QR N/A NT                AISI Nickel Bearing Stainless 310S Production Qtly
+AP AI0807200000u AI08072u           QR N/A NT  131201 160701 AISI Nickel Bearing Stainless 316 Production Qtly
+AP AI0807300000u AI08073u           QR N/A NT                AISI Nickel Bearing Stainless 316F 316H And 316N Production Qtly
+AP AI0807400000u AI08074u           QR N/A NT  131201 170101 AISI Nickel Bearing Stainless 316L Production Qtly
+AP AI0807500000u AI08075u           QR N/A NT                AISI Nickel Bearing Stainless 316LN Production Qtly
+AP AI0807600000u AI08076u           QR N/A NT                AISI Nickel Bearing Stainless 317 And 317L Production Qtly
+AP AI0807700000u AI08077u           QR N/A NT  131201 170101 AISI Nickel Bearing Stainless 321 And 321H Production Qtly
+AP AI0807800000u AI08078u           QR N/A NT  131201 170101 AISI Nickel Bearing Stainless 329 Production Qtly
+AP AI0807900000u AI08079u           QR N/A NT                AISI Nickel Bearing Stainless 347 And 347H Production Qtly
+AP AI0808000000u AI08080u           QR N/A NT                AISI Nickel Bearing Stainless 348 And 348H Production Qtly
+AP AI0808100000u AI08081u           QR N/A NT                AISI Nickel Bearing Stainless All Other Duplex Grades Production Qtly
+AP AI0808200000u AI08082u           QR N/A NT                AISI Nickel Bearing Stainless All other PH Grades Production Qtly
+AP AI0808300000u AI08083u           QR N/A NT                AISI Nickel Bearing Stainless Nickel 8-16% Production Qtly
+AP AI0808400000u AI08084u           QR N/A NT  131201 170101 AISI Nickel Bearing Stainless Nickel over 16-24% Production Qtly
+AP AI0808500000u AI08085u           QR N/A NT                AISI Nickel Bearing Stainless Nickel over 24% Production Qtly
+AP AI0808600000u AI08086u           QR N/A NT  131201 170101 AISI Nickel Bearing Stainless Nickel under 8% Production Qtly
+AP AI0808700000u AI08087u           QR N/A NT  131201 170101 AISI Nickel Free Stainless 15% Chromium or Less Production Qtly
+AP AI0808800000u AI08088u           QR N/A NT                AISI Nickel Free Stainless 403 Production Qtly
+AP AI0808900000u AI08089u           QR N/A NT                AISI Nickel Free Stainless 405 Production Qtly
+AP AI0809000000u AI08090u           QR N/A NT  131201 170101 AISI Nickel Free Stainless 409 Production Qtly
+AP AI0809100000u AI08091u           QR N/A NT                AISI Nickel Free Stainless 410 And 410S Production Qtly
+AP AI0809200000u AI08092u           QR N/A NT                AISI Nickel Free Stainless 414 Production Qtly
+AP AI0809300000u AI08093u           QR N/A NT  131201 170101 AISI Nickel Free Stainless 416 Production Qtly
+AP AI0809400000u AI08094u           QR N/A NT  131201 170101 AISI Nickel Free Stainless 420 Production Qtly
+AP AI0809500000u AI08095u           QR N/A NT                AISI Nickel Free Stainless 420F Production Qtly
+AP AI0809600000u AI08096u           QR N/A NT                AISI Nickel Free Stainless 422 Production Qtly
+AP AI0809700000u AI08097u           QR N/A NT  131201 170101 AISI Nickel Free Stainless 430 Production Qtly
+AP AI0809800000u AI08098u           QR N/A NT                AISI Nickel Free Stainless 430F Production Qtly
+AP AI0809900000u AI08099u           QR N/A NT                AISI Nickel Free Stainless 431 Production Qtly
+AP AI0810000000u AI08100u           QR N/A NT  131201 170101 AISI Nickel Free Stainless 434 Production Qtly
+AP AI0810100000u AI08101u           QR N/A NT                AISI Nickel Free Stainless 436 Production Qtly
+AP AI0810200000u AI08102u           QR N/A NT  131201 170101 AISI Nickel Free Stainless 439 Production Qtly
+AP AI0810300000u AI08103u           QR N/A NT                AISI Nickel Free Stainless 440A Production Qtly
+AP AI0810400000u AI08104u           QR N/A NT                AISI Nickel Free Stainless 440B Production Qtly
+AP AI0810500000u AI08105u           QR N/A NT  160101 170101 AISI Nickel Free Stainless 440C Production Qtly
+AP AI0810600000u AI08106u           QR N/A NT                AISI Nickel Free Stainless 444 Production Qtly
+AP AI0810700000u AI08107u           QR N/A NT                AISI Nickel Free Stainless 446 Production Qtly
+AP AI0810800000u AI08108u           QR N/A NT                AISI Nickel Free Stainless 501 Production Qtly
+AP AI0810900000u AI08109u           QR N/A NT                AISI Nickel Free Stainless 502 Production Qtly
+AP AI0811000000u AI08110u           QR N/A NT                AISI Nickel Free Stainless 503 Production Qtly
+AP AI0811100000u AI08111u           QR N/A NT                AISI Nickel Free Stainless 504 Production Qtly
+AP AI0811200000u AI08112u           QR N/A NT                AISI Nickel Free Stainless All Other High Chromium Heat Resisting Steels Production Qtly
+AP AI0811300000u AI08113u           QR N/A NT                AISI Nickel Free Stainless Over 15% Chromium Production Qtly
+AP AI0811400000u AI08114u           QR N/A NT  131201 170101 AISI Nickel Free Stainless Production Not Shown By Type Production Qtly

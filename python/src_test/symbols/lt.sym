@@ -1,0 +1,60 @@
+LT                                                           © 2019 by S&P Global Inc.,190119
+LT AAIUT0000000c AAIUT00c           WA EUR MT  020307 190117 Silicon 553 grade in-warehouse Europe
+LT AAIUT0000000h AAIUT00h           WA EUR MT  020307 190117 Silicon 553 grade in-warehouse Europe
+LT AAIUT0000000l AAIUT00l           WA EUR MT  020307 190117 Silicon 553 grade in-warehouse Europe
+LT AAVSK0000000h AAVSK00h           WA USD MT  080108 190118 Magnesium 99.8% FOB China
+LT AAVSK0000000l AAVSK00l           WA USD MT  080108 190118 Magnesium 99.8% FOB China
+LT AAVSK0300000c AAVSK03c           MA USD MT  080101 181201 Magnesium 99.8% FOB China MAvg
+LT AAVSK1600000c AAVSK16c           YR USD MT  081231 181231 Magnesium 99.8% FOB China YAvg
+LT MEMMGSFRMAWEc MMAIZ00c           WA USD MT  920430 190117 Magnes Eur Free Mkt Wkly
+LT MEMMGSFRMAWEh MMAIZ00h WMMG1EUFH WA USD MT  920430 190117 Magnes Eur Free Mkt Wkly
+LT MEMMGSFRMAWEl MMAIZ00l WMMG1EUFL WA USD MT  920430 190117 Magnes Eur Free Mkt Wkly
+LT MEMSLDIMPAWUc MMAJM00c           WA USC LB  751022 190116 Silicon 553 grade delivered US Midwest
+LT MEMSLDIMPAWUh MMAJM00h           WA USC LB  751022 190116 Silicon 553 grade delivered US Midwest
+LT MEMSLDIMPAWUl MMAJM00l           WA USC LB  751022 190116 Silicon 553 grade delivered US Midwest
+LT MEMSLDIMPAWTc MMAJM03c           MA USC LB  920901 181201 Silicon 553 grade delivered US Midwest MAvg
+LT MMAJM1600000c MMAJM16c           YR USC LB  001231 181231 Silicon 553 grade delivered US Midwest YAvg
+LT MEMTTFUNSAXEc MMAJW00c           WA GBP KG  920903 190117 Ferrotitanium Eur 70% Wk
+LT MEMTTFUNSAXEh MMAJW00h           WA GBP KG  920903 190117 Ferrotitanium Eur 70% Wk
+LT MEMTTFUNSAXEl MMAJW00l           WA GBP KG  920903 190117 Ferrotitanium Eur 70% Wk
+LT MEMTTFUNSAXFc MMAJX00c WMTFVUNSH WA USD LB  920903 190117 Ferrotitanium 70% delivered US
+LT MEMTTFUNSAXFh MMAJX00h WMTFVUNSH WA USD LB  920903 190117 Ferrotitanium 70% delivered US
+LT MEMTTFUNSAXFl MMAJX00l WMTFVUNSL WA USD LB  920903 190117 Ferrotitanium 70% delivered US
+LT MMAJX0300000c MMAJX03c           MA USD LB  050701 181201 Ferrotitanium 70% delivered US MAvg
+LT MMAJX1600000c MMAJX16c           YR USD LB  051231 181231 Ferrotitanium 70% delivered US YAvg
+LT MEMTT5UNSAXGc MMAJY00c           WA USD LB  920903 190117 Titanium .5% Euro Turning Wk
+LT MEMTT5UNSAXGh MMAJY00h WMTTVEURH WA USD LB  920903 190117 Titanium .5% Euro Turning Wk
+LT MEMTT5UNSAXGl MMAJY00l WMTTVEURL WA USD LB  920903 190117 Titanium .5% Euro Turning Wk
+LT MEMTT5UNSAXHc MMAJZ00c WMTTVUNSH WA USD LB  920903 190117 Titanium Turning .5% delivered US
+LT MEMTT5UNSAXHh MMAJZ00h WMTTVUNSH WA USD LB  920903 190117 Titanium Turning .5% delivered US
+LT MEMTT5UNSAXHl MMAJZ00l WMTTVUNSL WA USD LB  920903 190117 Titanium Turning .5% delivered US
+LT MMAJZ0300000c MMAJZ03c           MA USD LB  050701 181201 Titanium Turning .5% delivered US MAvg
+LT MMAJZ1600000c MMAJZ16c           YR USD LB  051231 181231 Titanium Turning .5% delivered US YAvg
+LT MEMSL9SPTAABc MMAZH03c           MA EUR MT  030701 181201 Silicon 553 grade in-warehouse Europe MAvg
+LT MMDCA0300000c MMDCA03c           MA USD LB                Magnesium Diecast Alloy DDP Canada MAvg
+LT MMDCA0400000h MMDCA04h           WA USD LB                Magnesium Diecast Alloy DDP Canada
+LT MMDCA0400000l MMDCA04l           WA USD LB                Magnesium Diecast Alloy DDP Canada
+LT MMDCH0300000c MMDCH03c           MA USD MT  090301 181201 Magnesium Die Cast Alloy FOB China MAvg
+LT MMDCH0400000h MMDCH04h           WA USD MT  090210 190118 Magnesium Die Cast Alloy FOB China
+LT MMDCH0400000l MMDCH04l           WA USD MT  090210 190118 Magnesium Die Cast Alloy FOB China
+LT MMDCH1600000c MMDCH16c           YR USD MT  091231 181231 Magnesium Die Cast Alloy FOB China YAvg
+LT MMDEU0300000c MMDEU03c           MA USD MT                Magnesium Diecast Alloy DDP NW Europe MAvg
+LT MMDEU0400000h MMDEU04h           WA USD MT                Magnesium Diecast Alloy DDP NW Europe
+LT MMDEU0400000l MMDEU04l           WA USD MT                Magnesium Diecast Alloy DDP NW Europe
+LT MMDMX0300000c MMDMX03c           MA USD LB                Magnesium Diecast Alloy CIF Mexico MAvg
+LT MMDMX0400000h MMDMX04h           WA USD LB                Magnesium Diecast Alloy CIF Mexico
+LT MMDMX0400000l MMDMX04l           WA USD LB                Magnesium Diecast Alloy CIF Mexico
+LT MEMMSWUNSAUAc MMAHM00c           WA USC LB  930701 190117 Magnesium Spot Western Production delivered US
+LT MEMMSWUNSAUAh MMAHM00h           WA USC LB  930701 190117 Magnesium Spot Western Production delivered US
+LT MEMMSWUNSAUAl MMAHM00l           WA USC LB  930701 190117 Magnesium Spot Western Production delivered US
+LT MEMMSWUNSATZc MMAHM03c WM3T0$$$0 MA USC LB  930701 181201 Magnesium Spot Western Production delivered US MAvg
+LT MMAHM1600000c MMAHM16c           YR USC LB  001231 181231 Magnesium Spot Western Production delivered US YAvg
+LT MEMMDIUNSAUFc MMAHQ00c           WA USC LB  930701 190117 Magnesium Dealer Import delivered US
+LT MEMMDIUNSAUFh MMAHQ00h           WA USC LB  930701 190117 Magnesium Dealer Import delivered US
+LT MEMMDIUNSAUFl MMAHQ00l           WA USC LB  930701 190117 Magnesium Dealer Import delivered US
+LT MEMMDIUNSAUEc MMAHQ03c WM3U0$$$0 MA USC LB  930701 181201 Magnesium Dealer Import delivered US MAvg
+LT MMAHQ1600000c MMAHQ16c           YR USC LB  001231 181231 Magnesium Dealer Import delivered US YAvg
+LT MEMMDCUNSAUGh MMAHR00h           WA USC LB  930701 190117 Magnesium Die Cast Alloy Transaction delivered US
+LT MEMMDCUNSAUGl MMAHR00l           WA USC LB  930701 190117 Magnesium Die Cast Alloy Transaction delivered US
+LT MMAHR0300000c MMAHR03c           MA USC LB  080401 181201 Magnesium Die Cast Alloy Transaction delivered US MAvg
+LT MMAHR1600000c MMAHR16c           YR USC LB  081231 181231 Magnesium Die Cast Alloy Transaction delivered US YAvg

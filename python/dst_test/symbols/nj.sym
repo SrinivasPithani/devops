@@ -1,0 +1,71 @@
+NJ                                                           © 2019 by S&P Global Inc.,190119
+NJ FNAEL0000000u FNAEL00u           WA USD BBL 020104 131025 BCF 17 Caribbean Cracking Netback WAvg
+NJ FNAER0000000u FNAER00u           WA USD BBL 020104 190111 BCF 22 Caribbean Coking Netback WAvg
+NJ FNAET0000000u FNAET00u           WA USD BBL 020104 190111 BCF 22 Caribbean Cracking Netback WAvg
+NJ FNAFD0000000u FNAFD00u           WA USD BBL 020104 190111 BCF 24 Caribbean Coking Netback WAvg
+NJ FNAFF0000000u FNAFF00u           WA USD BBL 020104 190111 BCF 24 Caribbean Cracking Netback WAvg
+NJ FNAGN0000000u FNAGN00u           WA USD BBL 020104 160101 Bonny Light Caribbean Cracking Netback WAvg
+NJ FNAGZ0000000u FNAGZ00u           WA USD BBL 020104 160101 Brass River Caribbean Cracking Netback WAvg
+NJ FNAKC0000000u FNAKC00u           WA USD BBL 020104 190111 Escalante Caribbean Coking Netback WAvg
+NJ FNAKE0000000u FNAKE00u           WA USD BBL 020104 190111 Escalante Caribbean Cracking Netback WAvg
+NJ FNAKT0000000u FNAKT00u           WA USD BBL 130503 160101 Forcados Caribbean Cracking NetBack WAvg
+NJ FNAML0000000u FNAML00u           WA USD BBL 020104 190111 Isthmus Caribbean Coking Netback WAvg
+NJ FNAMN0000000u FNAMN00u           WA USD BBL 020104 190111 Isthmus Caribbean Cracking Netback WAvg
+NJ FNAOD0000000u FNAOD00u           WA USD BBL 020104 190111 Maya Caribbean Coking Netback WAvg
+NJ FNAOF0000000u FNAOF00u           WA USD BBL 020104 190111 Maya Caribbean Cracking Netback WAvg
+NJ FNAOT0000000u FNAOT00u           WA USD BBL 020104 190111 Merey Caribbean Coking Netback WAvg
+NJ FNAOV0000000u FNAOV00u           WA USD BBL 020104 190111 Merey Caribbean Cracking Netback WAvg
+NJ FNAPB0000000u FNAPB00u           WA USD BBL 020104 190111 Mesa Caribbean Coking Netback WAvg
+NJ FNAPD0000000u FNAPD00u           WA USD BBL 020104 190111 Mesa Caribbean Cracking Netback WAvg
+NJ FNAPZ0000000u FNAPZ00u           WA USD BBL 020104 190111 Olmeca Caribbean Coking Netback WAvg
+NJ FNAQB0000000u FNAQB00u           WA USD BBL 020104 190111 Olmeca Caribbean Cracking Netback WAvg
+NJ FNARH0000000u FNARH00u           WA USD BBL 020104 131025 Rabi Blend Caribbean Cracking Netback WAvg
+NJ FNART0000000u FNART00u           WA USD BBL 020104 131025 Soyo Caribbean Cracking Netback WAvg
+NJ TNAML0000000u TNAML00u           DW USD BBL 020102 190118 Isthmus Caribbean Coking Netback
+NJ TNAML0300000u TNAML03u           MA USD BBL 020101 181201 Isthmus Caribbean Coking Netback MAvg
+NJ TNAMLMR00000c TNAMLMRc           DW USD BBL 130501 190118 Isthmus Caribbean Coking Netback Margin
+NJ TNAMN0000000u TNAMN00u           DW USD BBL 020102 190118 Isthmus Caribbean Cracking Netback
+NJ TNAMN0300000u TNAMN03u           MA USD BBL 020101 181201 Isthmus Caribbean Cracking Netback MAvg
+NJ TNAMNMR00000c TNAMNMRc           DW USD BBL 130501 190118 Isthmus Caribbean Cracking Netback Margin
+NJ TNAOD0000000u TNAOD00u           DW USD BBL 020102 190118 Maya Caribbean Coking Netback
+NJ TNAOD0300000u TNAOD03u           MA USD BBL 020101 181201 Maya Caribbean Coking Netback MAvg
+NJ TNAODMR00000c TNAODMRc           DW USD BBL 130501 190118 Maya Caribbean Coking Netback Margin
+NJ TNAOF0000000u TNAOF00u           DW USD BBL 020102 190118 Maya Caribbean Cracking Netback
+NJ TNAOF0300000u TNAOF03u           MA USD BBL 020101 181201 Maya Caribbean Cracking Netback MAvg
+NJ TNAOFMR00000c TNAOFMRc           DW USD BBL 130501 190118 Maya Caribbean Cracking Netback Margin
+NJ TNAOT0000000u TNAOT00u           DW USD BBL 020102 190118 Merey Caribbean Coking Netback
+NJ TNAOT0300000u TNAOT03u           MA USD BBL 020101 181201 Merey Caribbean Coking Netback MAvg
+NJ TNAOV0000000u TNAOV00u           DW USD BBL 020102 190118 Merey Caribbean Cracking Netback
+NJ TNAOV0300000u TNAOV03u           MA USD BBL 020101 181201 Merey Caribbean Cracking Netback MAvg
+NJ TNAPB0000000u TNAPB00u           DW USD BBL 020102 190118 Mesa Caribbean Coking Netback
+NJ TNAPB0300000u TNAPB03u           MA USD BBL 020101 181201 Mesa Caribbean Coking Netback MAvg
+NJ TNAPBMR00000c TNAPBMRc           DW USD BBL 130501 190118 Mesa Caribbean Coking Netback Margin
+NJ TNAPD0000000u TNAPD00u           DW USD BBL 020102 190118 Mesa Caribbean Cracking Netback
+NJ TNAPD0300000u TNAPD03u           MA USD BBL 020101 181201 Mesa Caribbean Cracking Netback MAvg
+NJ TNAPDMR00000c TNAPDMRc           DW USD BBL 130501 190118 Mesa Caribbean Cracking Netback Margin
+NJ TNAPZ0000000u TNAPZ00u           DW USD BBL 020102 190118 Olmeca Caribbean Coking Netback
+NJ TNAPZ0300000u TNAPZ03u           MA USD BBL 020101 181201 Olmeca Caribbean Coking Netback MAvg
+NJ TNAPZMR00000c TNAPZMRc           DW USD BBL 130501 190118 Olmeca Caribbean Coking Netback Margin
+NJ TNAQB0000000u TNAQB00u           DW USD BBL 020102 190118 Olmeca Caribbean Cracking Netback
+NJ TNAQB0300000u TNAQB03u           MA USD BBL 020101 181201 Olmeca Caribbean Cracking Netback MAvg
+NJ TNAQBMR00000c TNAQBMRc           DW USD BBL 130501 190118 Olmeca Caribbean Cracking Netback Margin
+NJ TNARH0000000u TNARH00u           DW USD BBL 020102 131031 Rabi Blend Caribbean Cracking Netback
+NJ TNARH0300000u TNARH03u           MA USD BBL 020101 131001 Rabi Blend Caribbean Cracking Netback MAvg
+NJ TNART0000000u TNART00u           DW USD BBL 020102 131031 Soyo Caribbean Cracking Netback
+NJ TNART0300000u TNART03u           MA USD BBL 020101 131001 Soyo Caribbean Cracking Netback MAvg
+NJ TNAEL0000000u TNAEL00u           DW USD BBL 020102 131031 BCF 17 Caribbean Cracking Netback
+NJ TNAEL0300000u TNAEL03u           MA USD BBL 020101 131001 BCF 17 Caribbean Cracking Netback MAvg
+NJ TNAER0000000u TNAER00u           DW USD BBL 020102 190118 BCF 22 Caribbean Coking Netback
+NJ TNAER0300000u TNAER03u           MA USD BBL 020101 181201 BCF 22 Caribbean Coking Netback MAvg
+NJ TNAET0000000u TNAET00u           DW USD BBL 020102 190118 BCF 22 Caribbean Cracking Netback
+NJ TNAET0300000u TNAET03u           MA USD BBL 020101 181201 BCF 22 Caribbean Cracking Netback MAvg
+NJ TNAFD0000000u TNAFD00u           DW USD BBL 020102 190118 BCF 24 Caribbean Coking Netback
+NJ TNAFD0300000u TNAFD03u           MA USD BBL 020101 181201 BCF 24 Caribbean Coking Netback MAvg
+NJ TNAFF0000000u TNAFF00u           DW USD BBL 020102 190118 BCF 24 Caribbean Cracking Netback
+NJ TNAFF0300000u TNAFF03u           MA USD BBL 020101 181201 BCF 24 Caribbean Cracking Netback MAvg
+NJ TNAKC0000000u TNAKC00u           DW USD BBL 020102 190118 Escalante Caribbean Coking Netback
+NJ TNAKC0300000u TNAKC03u           MA USD BBL 020101 181201 Escalante Caribbean Coking Netback MAvg
+NJ TNAKCMR00000c TNAKCMRc           DW USD BBL 130501 190118 Escalante Caribbean Coking Netback Margin
+NJ TNAKE0000000u TNAKE00u           DW USD BBL 020102 190118 Escalante Caribbean Cracking Netback
+NJ TNAKE0300000u TNAKE03u           MA USD BBL 020101 181201 Escalante Caribbean Cracking Netback MAvg
+NJ TNAKEMR00000c TNAKEMRc           DW USD BBL 130501 190118 Escalante Caribbean Cracking Netback Margin

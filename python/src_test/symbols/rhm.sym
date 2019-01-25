@@ -1,0 +1,562 @@
+RHM                                                           © 2019 by S&P Global Inc.,190119
+RHM GAMHP0100000c GAMHP01c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo01
+RHM GAMHP0200000c GAMHP02c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo02
+RHM GAMHP0300000c GAMHP03c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo03
+RHM GAMHP0400000c GAMHP04c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo04
+RHM GAMHP0500000c GAMHP05c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo05
+RHM GAMHP0600000c GAMHP06c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo06
+RHM GAMHP0700000c GAMHP07c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo07
+RHM GAMHP0800000c GAMHP08c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo08
+RHM GAMHP0900000c GAMHP09c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo09
+RHM GAMHP1000000c GAMHP10c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo10
+RHM GAMHP1100000c GAMHP11c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo11
+RHM GAMHP1200000c GAMHP12c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo12
+RHM GAMHP1300000c GAMHP13c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo13
+RHM GAMHP1400000c GAMHP14c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo14
+RHM GAMHP1500000c GAMHP15c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo15
+RHM GAMHP1600000c GAMHP16c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo16
+RHM GAMHP1700000c GAMHP17c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo17
+RHM GAMHP1800000c GAMHP18c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo18
+RHM GAMHP1900000c GAMHP19c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo19
+RHM GAMHP2000000c GAMHP20c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo20
+RHM GAMHP2100000c GAMHP21c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo21
+RHM GAMHP2200000c GAMHP22c           DW USD MT  140902 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo22
+RHM GAMHP2300000c GAMHP23c           DW USD MT  140902 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo23
+RHM GAMHP2400000c GAMHP24c           DW USD MT  140902 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo24
+RHM GAMHR0100000c GAMHR01c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Qr01
+RHM GAMHR0200000c GAMHR02c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Qr02
+RHM GAMHR0300000c GAMHR03c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Qr03
+RHM GAMHR0400000c GAMHR04c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Qr04
+RHM GAMHR0500000c GAMHR05c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Qr05
+RHM GAMHR0600000c GAMHR06c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Qr06
+RHM GAMHR0700000c GAMHR07c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Qr07
+RHM GAMHR0800000c GAMHR08c           DW USD MT  140902 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Qr08
+RHM GAMHS0100000c GAMHS01c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Yr01
+RHM GNGHR0200000c GNGHR02c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Qr02
+RHM GNGHR0300000c GNGHR03c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Qr03
+RHM GNGHR0400000c GNGHR04c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Qr04
+RHM GNGHR0500000c GNGHR05c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Qr05
+RHM GNGHR0600000c GNGHR06c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Qr06
+RHM GNGHR0700000c GNGHR07c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Qr07
+RHM GNGHR0800000c GNGHR08c           DW USD MT  140902 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Qr08
+RHM GNGHS0100000c GNGHS01c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Yr01
+RHM GNGHS0200000c GNGHS02c           DW USD MT  130628 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Yr02
+RHM GNLHP0100000c GNLHP01c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo01
+RHM GNLHP0200000c GNLHP02c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo02
+RHM GNLHP0300000c GNLHP03c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo03
+RHM GAMHS0200000c GAMHS02c           DW USD MT  130628 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Yr02
+RHM GNLHP0400000c GNLHP04c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo04
+RHM GNLHP0500000c GNLHP05c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo05
+RHM GNLHP0600000c GNLHP06c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo06
+RHM GNLHP0700000c GNLHP07c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo07
+RHM GNLHP0800000c GNLHP08c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo08
+RHM GNLHP0900000c GNLHP09c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo09
+RHM GNLHP1000000c GNLHP10c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo10
+RHM GNLHP1100000c GNLHP11c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo11
+RHM GNLHP1200000c GNLHP12c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo12
+RHM GNLHP1300000c GNLHP13c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo13
+RHM GNLHP1400000c GNLHP14c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo14
+RHM GNLHP1500000c GNLHP15c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo15
+RHM GNLHP1600000c GNLHP16c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo16
+RHM GNLHP1700000c GNLHP17c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo17
+RHM GNLHP1800000c GNLHP18c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo18
+RHM GNLHP1900000c GNLHP19c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo19
+RHM GNLHP2000000c GNLHP20c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo20
+RHM GNLHP2100000c GNLHP21c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo21
+RHM GNLHP2200000c GNLHP22c           DW USD MT  140902 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo22
+RHM GNLHP2300000c GNLHP23c           DW USD MT  140902 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo23
+RHM GNLHP2400000c GNLHP24c           DW USD MT  140902 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo24
+RHM GNLHR0100000c GNLHR01c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Qr01
+RHM GNLHR0200000c GNLHR02c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Qr02
+RHM GNLHR0300000c GNLHR03c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Qr03
+RHM GNLHR0400000c GNLHR04c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Qr04
+RHM GNLHR0500000c GNLHR05c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Qr05
+RHM GNLHR0600000c GNLHR06c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Qr06
+RHM GNLHR0700000c GNLHR07c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Qr07
+RHM GNLHR0800000c GNLHR08c           DW USD MT  140902 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Qr08
+RHM GNLHS0100000c GNLHS01c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Yr01
+RHM GNLHS0200000c GNLHS02c           DW USD MT  130628 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Yr02
+RHM GMGHP0100000c GMGHP01c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo01
+RHM GMGHP0200000c GMGHP02c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo02
+RHM GMGHP0300000c GMGHP03c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo03
+RHM GMGHP0400000c GMGHP04c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo04
+RHM GMGHP0500000c GMGHP05c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo05
+RHM GMGHP0600000c GMGHP06c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo06
+RHM GMGHP0700000c GMGHP07c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo07
+RHM GMGHP0800000c GMGHP08c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo08
+RHM GMGHP0900000c GMGHP09c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo09
+RHM GMGHP1000000c GMGHP10c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo10
+RHM GMGHP1100000c GMGHP11c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo11
+RHM GMGHP1200000c GMGHP12c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo12
+RHM GMGHP1300000c GMGHP13c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo13
+RHM GMGHP1400000c GMGHP14c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo14
+RHM GMGHP1500000c GMGHP15c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo15
+RHM GMGHP1600000c GMGHP16c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo16
+RHM GMGHP1700000c GMGHP17c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo17
+RHM GMGHP1800000c GMGHP18c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo18
+RHM GMGHP1900000c GMGHP19c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo19
+RHM GMGHP2000000c GMGHP20c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo20
+RHM GMGHP2100000c GMGHP21c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo21
+RHM GMGHP2200000c GMGHP22c           DW USD MT  140902 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo22
+RHM GMGHP2300000c GMGHP23c           DW USD MT  140902 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo23
+RHM GMGHP2400000c GMGHP24c           DW USD MT  140902 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo24
+RHM GMGHR0100000c GMGHR01c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Qr01
+RHM GMGHR0200000c GMGHR02c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Qr02
+RHM GMGHR0300000c GMGHR03c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Qr03
+RHM GMGHR0400000c GMGHR04c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Qr04
+RHM GMGHR0500000c GMGHR05c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Qr05
+RHM GMGHR0600000c GMGHR06c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Qr06
+RHM GMGHR0700000c GMGHR07c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Qr07
+RHM GMGHR0800000c GMGHR08c           DW USD MT  140902 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Qr08
+RHM GMGHS0100000c GMGHS01c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Yr01
+RHM GMGHS0200000c GMGHS02c           DW USD MT  130628 190118 FtS Houston Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Yr02
+RHM GMLHP0100000c GMLHP01c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo01
+RHM GMLHP0200000c GMLHP02c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo02
+RHM GMLHP0300000c GMLHP03c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo03
+RHM GMLHP0400000c GMLHP04c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo04
+RHM GMLHP0500000c GMLHP05c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo05
+RHM GMLHP0600000c GMLHP06c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo06
+RHM GMLHP0700000c GMLHP07c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo07
+RHM GMLHP0800000c GMLHP08c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo08
+RHM GMLHP0900000c GMLHP09c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo09
+RHM GMLHP1000000c GMLHP10c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo10
+RHM GMLHP1100000c GMLHP11c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo11
+RHM GMLHP1200000c GMLHP12c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo12
+RHM GMLHP1300000c GMLHP13c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo13
+RHM GMLHP1400000c GMLHP14c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo14
+RHM GMLHP1500000c GMLHP15c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo15
+RHM GMLHP1600000c GMLHP16c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo16
+RHM GMLHP1700000c GMLHP17c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo17
+RHM GMLHP1800000c GMLHP18c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo18
+RHM GMLHP1900000c GMLHP19c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo19
+RHM GMLHP2000000c GMLHP20c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo20
+RHM GMLHP2100000c GMLHP21c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo21
+RHM GMLHP2200000c GMLHP22c           DW USD MT  140902 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo22
+RHM GMLHP2300000c GMLHP23c           DW USD MT  140902 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo23
+RHM GMLHP2400000c GMLHP24c           DW USD MT  140902 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo24
+RHM GMLHR0100000c GMLHR01c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Qr01
+RHM GMLHR0200000c GMLHR02c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Qr02
+RHM GMLHR0300000c GMLHR03c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Qr03
+RHM GMLHR0400000c GMLHR04c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Qr04
+RHM GMLHR0500000c GMLHR05c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Qr05
+RHM GMLHR0600000c GMLHR06c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Qr06
+RHM GMLHR0700000c GMLHR07c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Qr07
+RHM GMLHR0800000c GMLHR08c           DW USD MT  140902 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Qr08
+RHM GMLHS0100000c GMLHS01c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Yr01
+RHM GMLHS0200000c GMLHS02c           DW USD MT  130628 190118 FtS Houston Gasoil 0.1%S Med CIF Crg Flat Prc Swap Yr02
+RHM GFSHP0100000c GFSHP01c           DW USD MT  130327 190118 FtS Houston LS Gasoil Frontline Swap Mo01
+RHM GFSHP0200000c GFSHP02c           DW USD MT  130327 190118 FtS Houston LS Gasoil Frontline Swap Mo02
+RHM GFSHP0300000c GFSHP03c           DW USD MT  130327 190118 FtS Houston LS Gasoil Frontline Swap Mo03
+RHM GFSHP0400000c GFSHP04c           DW USD MT  130327 190118 FtS Houston LS Gasoil Frontline Swap Mo04
+RHM GFSHP0500000c GFSHP05c           DW USD MT  130327 190118 FtS Houston LS Gasoil Frontline Swap Mo05
+RHM GFSHP0600000c GFSHP06c           DW USD MT  130327 190118 FtS Houston LS Gasoil Frontline Swap Mo06
+RHM GFSHP0700000c GFSHP07c           DW USD MT  130327 190118 FtS Houston LS Gasoil Frontline Swap Mo07
+RHM GFSHP0800000c GFSHP08c           DW USD MT  130327 190118 FtS Houston LS Gasoil Frontline Swap Mo08
+RHM GFSHP0900000c GFSHP09c           DW USD MT  130327 190118 FtS Houston LS Gasoil Frontline Swap Mo09
+RHM GFSHP1000000c GFSHP10c           DW USD MT  130327 190118 FtS Houston LS Gasoil Frontline Swap Mo10
+RHM GFSHP1100000c GFSHP11c           DW USD MT  130327 190118 FtS Houston LS Gasoil Frontline Swap Mo11
+RHM GFSHP1200000c GFSHP12c           DW USD MT  130327 190118 FtS Houston LS Gasoil Frontline Swap Mo12
+RHM GFSHP1300000c GFSHP13c           DW USD MT  130327 190118 FtS Houston LS Gasoil Frontline Swap Mo13
+RHM GFSHP1400000c GFSHP14c           DW USD MT  130327 190118 FtS Houston LS Gasoil Frontline Swap Mo14
+RHM GFSHP1500000c GFSHP15c           DW USD MT  130327 190118 FtS Houston LS Gasoil Frontline Swap Mo15
+RHM GFSHP1600000c GFSHP16c           DW USD MT  130327 190118 FtS Houston LS Gasoil Frontline Swap Mo16
+RHM GFSHP1700000c GFSHP17c           DW USD MT  130327 190118 FtS Houston LS Gasoil Frontline Swap Mo17
+RHM GFSHP1800000c GFSHP18c           DW USD MT  130327 190118 FtS Houston LS Gasoil Frontline Swap Mo18
+RHM GFSHP1900000c GFSHP19c           DW USD MT  130327 190118 FtS Houston LS Gasoil Frontline Swap Mo19
+RHM GFSHP2000000c GFSHP20c           DW USD MT  130327 190118 FtS Houston LS Gasoil Frontline Swap Mo20
+RHM GFSHP2100000c GFSHP21c           DW USD MT  130327 190118 FtS Houston LS Gasoil Frontline Swap Mo21
+RHM GFSHP2200000c GFSHP22c           DW USD MT  140902 190118 FtS Houston LS Gasoil Frontline Swap Mo22
+RHM GFSHP2300000c GFSHP23c           DW USD MT  140902 190118 FtS Houston LS Gasoil Frontline Swap Mo23
+RHM GFSHP2400000c GFSHP24c           DW USD MT  140902 190118 FtS Houston LS Gasoil Frontline Swap Mo24
+RHM GFSHR0100000c GFSHR01c           DW USD MT  130327 190118 FtS Houston LS Gasoil Frontline Swap Qr01
+RHM GFSHR0200000c GFSHR02c           DW USD MT  130327 190118 FtS Houston LS Gasoil Frontline Swap Qr02
+RHM GFSHR0300000c GFSHR03c           DW USD MT  130327 190118 FtS Houston LS Gasoil Frontline Swap Qr03
+RHM GFSHR0400000c GFSHR04c           DW USD MT  130327 190118 FtS Houston LS Gasoil Frontline Swap Qr04
+RHM GFSHR0500000c GFSHR05c           DW USD MT  130327 190118 FtS Houston LS Gasoil Frontline Swap Qr05
+RHM GFSHR0600000c GFSHR06c           DW USD MT  130327 190118 FtS Houston LS Gasoil Frontline Swap Qr06
+RHM GFSHR0700000c GFSHR07c           DW USD MT  130327 190118 FtS Houston LS Gasoil Frontline Swap Qr07
+RHM GFSHR0800000c GFSHR08c           DW USD MT  140902 190118 FtS Houston LS Gasoil Frontline Swap Qr08
+RHM GFSHS0100000c GFSHS01c           DW USD MT  130327 190118 FtS Houston LS Gasoil Frontline Swap Yr01
+RHM GFSHS0200000c GFSHS02c           DW USD MT  130628 190118 FtS Houston LS Gasoil Frontline Swap Yr02
+RHM GRGHP0100000c GRGHP01c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo01
+RHM GRGHP0200000c GRGHP02c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo02
+RHM GRGHP0300000c GRGHP03c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo03
+RHM GRGHP0400000c GRGHP04c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo04
+RHM GRGHP0500000c GRGHP05c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo05
+RHM GRGHP0600000c GRGHP06c           DW USD MT  130328 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo06
+RHM GRGHP0700000c GRGHP07c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo07
+RHM GRGHP0800000c GRGHP08c           DW USD MT  130328 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo08
+RHM GRGHP0900000c GRGHP09c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo09
+RHM GRGHP1000000c GRGHP10c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo10
+RHM GRGHP1100000c GRGHP11c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo11
+RHM GRGHP1200000c GRGHP12c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo12
+RHM GRGHP1300000c GRGHP13c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo13
+RHM GRGHP1400000c GRGHP14c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo14
+RHM GRGHP1500000c GRGHP15c           DW USD MT  130328 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo15
+RHM GRGHP1600000c GRGHP16c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo16
+RHM GRGHP1700000c GRGHP17c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo17
+RHM GRGHP1800000c GRGHP18c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo18
+RHM GRGHP1900000c GRGHP19c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo19
+RHM GRGHP2000000c GRGHP20c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo20
+RHM GRGHP2100000c GRGHP21c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo21
+RHM GRGHP2200000c GRGHP22c           DW USD MT  140902 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo22
+RHM GRGHP2300000c GRGHP23c           DW USD MT  140902 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo23
+RHM GRGHP2400000c GRGHP24c           DW USD MT  140902 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo24
+RHM GRGHR0100000c GRGHR01c           DW USD MT  130328 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Qr01
+RHM GRGHR0200000c GRGHR02c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Qr02
+RHM GRGHR0300000c GRGHR03c           DW USD MT  130328 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Qr03
+RHM GRGHR0400000c GRGHR04c           DW USD MT  130328 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Qr04
+RHM GRGHR0500000c GRGHR05c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Qr05
+RHM GRGHR0600000c GRGHR06c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Qr06
+RHM GRGHR0700000c GRGHR07c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Qr07
+RHM GRGHR0800000c GRGHR08c           DW USD MT  140902 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Qr08
+RHM GRGHS0100000c GRGHS01c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Yr01
+RHM GRGHS0200000c GRGHS02c           DW USD MT  130628 190118 FtS Houston Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Yr02
+RHM GNGHP0100000c GNGHP01c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo01
+RHM GNGHP0200000c GNGHP02c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo02
+RHM GNGHP0300000c GNGHP03c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo03
+RHM GNGHP0400000c GNGHP04c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo04
+RHM GNGHP0500000c GNGHP05c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo05
+RHM GNGHP0600000c GNGHP06c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo06
+RHM GNGHP0700000c GNGHP07c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo07
+RHM GNGHP0800000c GNGHP08c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo08
+RHM GNGHP0900000c GNGHP09c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo09
+RHM GNGHP1000000c GNGHP10c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo10
+RHM GNGHP1100000c GNGHP11c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo11
+RHM GNGHP1200000c GNGHP12c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo12
+RHM GNGHP1300000c GNGHP13c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo13
+RHM GNGHP1400000c GNGHP14c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo14
+RHM GNGHP1500000c GNGHP15c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo15
+RHM GNGHP1600000c GNGHP16c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo16
+RHM GNGHP1700000c GNGHP17c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo17
+RHM GNGHP1800000c GNGHP18c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo18
+RHM GNGHP1900000c GNGHP19c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo19
+RHM GNGHP2000000c GNGHP20c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo20
+RHM GNGHP2100000c GNGHP21c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo21
+RHM GNGHP2200000c GNGHP22c           DW USD MT  140902 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo22
+RHM GNGHP2300000c GNGHP23c           DW USD MT  140902 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo23
+RHM GNGHP2400000c GNGHP24c           DW USD MT  140902 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo24
+RHM GNGHR0100000c GNGHR01c           DW USD MT  130327 190118 FtS Houston Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Qr01
+RHM JNGHH0300000c JNGHH03c           DW USD MT                FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Yr03
+RHM JNGHP0100000c JNGHP01c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo01
+RHM JNGHP0200000c JNGHP02c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo02
+RHM JNGHP0300000c JNGHP03c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo03
+RHM JNGHP0400000c JNGHP04c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo04
+RHM JNGHP0500000c JNGHP05c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo05
+RHM JNGHP0600000c JNGHP06c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo06
+RHM JNGHP0700000c JNGHP07c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo07
+RHM JNGHP0800000c JNGHP08c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo08
+RHM JNGHP0900000c JNGHP09c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo09
+RHM JNGHP1000000c JNGHP10c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo10
+RHM JNGHP1100000c JNGHP11c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo11
+RHM JNGHP1200000c JNGHP12c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo12
+RHM JNGHP1300000c JNGHP13c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo13
+RHM JNGHP1400000c JNGHP14c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo14
+RHM JNGHP1500000c JNGHP15c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo15
+RHM JNGHP1600000c JNGHP16c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo16
+RHM JNGHP1700000c JNGHP17c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo17
+RHM JNGHP1800000c JNGHP18c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo18
+RHM JNGHP1900000c JNGHP19c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo19
+RHM JNGHP2000000c JNGHP20c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo20
+RHM JNGHP2100000c JNGHP21c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo21
+RHM JNGHP2200000c JNGHP22c           DW USD MT  140902 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo22
+RHM JNGHP2300000c JNGHP23c           DW USD MT  140902 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo23
+RHM JNGHP2400000c JNGHP24c           DW USD MT  140902 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo24
+RHM JNGHP2500000c JNGHP25c           DW USD MT                FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo25
+RHM JNGHP2600000c JNGHP26c           DW USD MT                FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo26
+RHM JNGHP2700000c JNGHP27c           DW USD MT                FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo27
+RHM JNGHP2800000c JNGHP28c           DW USD MT                FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo28
+RHM JNGHP2900000c JNGHP29c           DW USD MT                FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo29
+RHM JNGHP3000000c JNGHP30c           DW USD MT                FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo30
+RHM JNGHP3100000c JNGHP31c           DW USD MT                FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo31
+RHM JNGHP3200000c JNGHP32c           DW USD MT                FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo32
+RHM JNGHP3300000c JNGHP33c           DW USD MT                FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo33
+RHM JNGHP3400000c JNGHP34c           DW USD MT                FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo34
+RHM JNGHP3500000c JNGHP35c           DW USD MT                FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo35
+RHM JNGHP3600000c JNGHP36c           DW USD MT                FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo36
+RHM JNGHR0100000c JNGHR01c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Qr01
+RHM JNGHR0200000c JNGHR02c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Qr02
+RHM JNGHR0300000c JNGHR03c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Qr03
+RHM JNGHR0400000c JNGHR04c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Qr04
+RHM JNGHR0500000c JNGHR05c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Qr05
+RHM JNGHR0600000c JNGHR06c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Qr06
+RHM JNGHR0700000c JNGHR07c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Qr07
+RHM JNGHR0800000c JNGHR08c           DW USD MT  140902 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Qr08
+RHM JNGHR0900000c JNGHR09c           DW USD MT                FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Qr09
+RHM JNGHR1000000c JNGHR10c           DW USD MT                FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Qr10
+RHM JNGHR1100000c JNGHR11c           DW USD MT                FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Qr11
+RHM JNGHR1200000c JNGHR12c           DW USD MT                FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Qr12
+RHM JNGHS0100000c JNGHS01c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Yr01
+RHM JNGHS0200000c JNGHS02c           DW USD MT  130628 190118 FtS Houston Jet Kero NWE CIF Crg vs LS GO Frontline Swap Yr02
+RHM JNLHP0100000c JNLHP01c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Mo01
+RHM JNLHP0200000c JNLHP02c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Mo02
+RHM JNLHP0300000c JNLHP03c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Mo03
+RHM JNLHP0400000c JNLHP04c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Mo04
+RHM JNLHP0500000c JNLHP05c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Mo05
+RHM JNLHP0600000c JNLHP06c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Mo06
+RHM JNLHP0700000c JNLHP07c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Mo07
+RHM JNLHP0800000c JNLHP08c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Mo08
+RHM JNLHP0900000c JNLHP09c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Mo09
+RHM JNLHP1000000c JNLHP10c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Mo10
+RHM JNLHP1100000c JNLHP11c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Mo11
+RHM JNLHP1200000c JNLHP12c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Mo12
+RHM JNLHP1300000c JNLHP13c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Mo13
+RHM JNLHP1400000c JNLHP14c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Mo14
+RHM JNLHP1500000c JNLHP15c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Mo15
+RHM JNLHP1600000c JNLHP16c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Mo16
+RHM JNLHP1700000c JNLHP17c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Mo17
+RHM JNLHP1800000c JNLHP18c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Mo18
+RHM JNLHP1900000c JNLHP19c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Mo19
+RHM JNLHP2000000c JNLHP20c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Mo20
+RHM JNLHP2100000c JNLHP21c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Mo21
+RHM JNLHP2200000c JNLHP22c           DW USD MT  140902 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Mo22
+RHM JNLHP2300000c JNLHP23c           DW USD MT  140902 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Mo23
+RHM JNLHP2400000c JNLHP24c           DW USD MT  140902 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Mo24
+RHM JNLHR0100000c JNLHR01c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Qr01
+RHM JNLHR0200000c JNLHR02c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Qr02
+RHM JNLHR0300000c JNLHR03c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Qr03
+RHM JNLHR0400000c JNLHR04c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Qr04
+RHM JNLHR0500000c JNLHR05c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Qr05
+RHM JNLHR0600000c JNLHR06c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Qr06
+RHM JNLHR0700000c JNLHR07c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Qr07
+RHM JNLHR0800000c JNLHR08c           DW USD MT  140902 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Qr08
+RHM JNLHS0100000c JNLHS01c           DW USD MT  130327 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Yr01
+RHM JNLHS0200000c JNLHS02c           DW USD MT  130628 190118 FtS Houston Jet Kero NWE CIF Crg Flat Prc Swap Yr02
+RHM UMUHP0300000c UMUHP03c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Mo03
+RHM UMUHP0400000c UMUHP04c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Mo04
+RHM UMUHP0500000c UMUHP05c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Mo05
+RHM UMUHP0600000c UMUHP06c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Mo06
+RHM UMUHP0700000c UMUHP07c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Mo07
+RHM UMUHP0800000c UMUHP08c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Mo08
+RHM UMUHP0900000c UMUHP09c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Mo09
+RHM UMUHP1000000c UMUHP10c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Mo10
+RHM UMUHP1100000c UMUHP11c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Mo11
+RHM UMUHP1200000c UMUHP12c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Mo12
+RHM UMUHP1300000c UMUHP13c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Mo13
+RHM UMUHP1400000c UMUHP14c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Mo14
+RHM UMUHP1500000c UMUHP15c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Mo15
+RHM UMUHP1600000c UMUHP16c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Mo16
+RHM UMUHP1700000c UMUHP17c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Mo17
+RHM UMUHP1800000c UMUHP18c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Mo18
+RHM UMUHP1900000c UMUHP19c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Mo19
+RHM UMUHP2000000c UMUHP20c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Mo20
+RHM UMUHP2100000c UMUHP21c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Mo21
+RHM UMUHP2200000c UMUHP22c           DW USD MT  140902 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Mo22
+RHM UMUHP2300000c UMUHP23c           DW USD MT  140902 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Mo23
+RHM UMUHP2400000c UMUHP24c           DW USD MT  140902 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Mo24
+RHM UMUHR0100000c UMUHR01c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Qr01
+RHM UMUHR0200000c UMUHR02c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Qr02
+RHM UMUHR0300000c UMUHR03c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Qr03
+RHM UMUHR0400000c UMUHR04c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Qr04
+RHM UMUHR0500000c UMUHR05c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Qr05
+RHM UMUHR0600000c UMUHR06c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Qr06
+RHM UMUHR0700000c UMUHR07c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Qr07
+RHM UMUHR0800000c UMUHR08c           DW USD MT  140902 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Qr08
+RHM UMUHS0100000c UMUHS01c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Yr01
+RHM UMUHS0200000c UMUHS02c           DW USD MT  130628 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Yr02
+RHM UNGHP0100000c UNGHP01c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo01
+RHM UNGHP0200000c UNGHP02c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo02
+RHM UNGHP0300000c UNGHP03c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo03
+RHM UNGHP0400000c UNGHP04c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo04
+RHM UNGHP0500000c UNGHP05c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo05
+RHM UNGHP0600000c UNGHP06c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo06
+RHM UNGHP0700000c UNGHP07c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo07
+RHM UNGHP0800000c UNGHP08c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo08
+RHM UNGHP0900000c UNGHP09c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo09
+RHM UNGHP1000000c UNGHP10c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo10
+RHM UNGHP1100000c UNGHP11c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo11
+RHM UNGHP1200000c UNGHP12c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo12
+RHM UNGHP1300000c UNGHP13c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo13
+RHM UNGHP1400000c UNGHP14c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo14
+RHM UNGHP1500000c UNGHP15c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo15
+RHM UNGHP1600000c UNGHP16c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo16
+RHM UNGHP1700000c UNGHP17c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo17
+RHM UNGHP1800000c UNGHP18c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo18
+RHM UNGHP1900000c UNGHP19c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo19
+RHM UNGHP2000000c UNGHP20c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo20
+RHM UNGHP2100000c UNGHP21c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo21
+RHM UNGHP2200000c UNGHP22c           DW USD MT  140902 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo22
+RHM UNGHP2300000c UNGHP23c           DW USD MT  140902 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo23
+RHM UNGHP2400000c UNGHP24c           DW USD MT  140902 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo24
+RHM UNGHR0100000c UNGHR01c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Qr01
+RHM UNGHR0200000c UNGHR02c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Qr02
+RHM UNGHR0300000c UNGHR03c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Qr03
+RHM UNGHR0400000c UNGHR04c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Qr04
+RHM UNGHR0500000c UNGHR05c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Qr05
+RHM UNGHR0600000c UNGHR06c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Qr06
+RHM UNGHR0700000c UNGHR07c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Qr07
+RHM UNGHR0800000c UNGHR08c           DW USD MT  140902 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Qr08
+RHM UNGHS0100000c UNGHS01c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Yr01
+RHM UNGHS0200000c UNGHS02c           DW USD MT  130628 190118 FtS Houston ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Yr02
+RHM UNLHP0100000c UNLHP01c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo01
+RHM UNLHP0200000c UNLHP02c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo02
+RHM UNLHP0300000c UNLHP03c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo03
+RHM UNLHP0400000c UNLHP04c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo04
+RHM UNLHP0500000c UNLHP05c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo05
+RHM UNLHP0600000c UNLHP06c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo06
+RHM UNLHP0700000c UNLHP07c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo07
+RHM UNLHP0800000c UNLHP08c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo08
+RHM UNLHP0900000c UNLHP09c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo09
+RHM UNLHP1000000c UNLHP10c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo10
+RHM UNLHP1100000c UNLHP11c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo11
+RHM UNLHP1200000c UNLHP12c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo12
+RHM UNLHP1300000c UNLHP13c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo13
+RHM UNLHP1400000c UNLHP14c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo14
+RHM UNLHP1500000c UNLHP15c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo15
+RHM UNLHP1600000c UNLHP16c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo16
+RHM UNLHP1700000c UNLHP17c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo17
+RHM UNLHP1800000c UNLHP18c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo18
+RHM UNLHP1900000c UNLHP19c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo19
+RHM UNLHP2000000c UNLHP20c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo20
+RHM UNLHP2100000c UNLHP21c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo21
+RHM UNLHP2200000c UNLHP22c           DW USD MT  140902 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo22
+RHM UNLHP2300000c UNLHP23c           DW USD MT  140902 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo23
+RHM UNLHP2400000c UNLHP24c           DW USD MT  140902 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo24
+RHM UNLHR0100000c UNLHR01c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Qr01
+RHM UNLHR0200000c UNLHR02c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Qr02
+RHM UNLHR0300000c UNLHR03c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Qr03
+RHM UNLHR0400000c UNLHR04c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Qr04
+RHM UNLHR0500000c UNLHR05c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Qr05
+RHM UNLHR0600000c UNLHR06c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Qr06
+RHM UNLHR0700000c UNLHR07c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Qr07
+RHM UNLHR0800000c UNLHR08c           DW USD MT  140902 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Qr08
+RHM UNLHS0100000c UNLHS01c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Yr01
+RHM UNLHS0200000c UNLHS02c           DW USD MT  130628 190118 FtS Houston ULSD 10ppm NWE CIF Crg Flat Prc Swap Yr02
+RHM URGHP0100000c URGHP01c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo01
+RHM URGHP0200000c URGHP02c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo02
+RHM URGHP0300000c URGHP03c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo03
+RHM URGHP0400000c URGHP04c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo04
+RHM URGHP0500000c URGHP05c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo05
+RHM URGHP0600000c URGHP06c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo06
+RHM URGHP0700000c URGHP07c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo07
+RHM URGHP0800000c URGHP08c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo08
+RHM URGHP0900000c URGHP09c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo09
+RHM URGHP1000000c URGHP10c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo10
+RHM URGHP1100000c URGHP11c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo11
+RHM URGHP1200000c URGHP12c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo12
+RHM URGHP1300000c URGHP13c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo13
+RHM URGHP1400000c URGHP14c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo14
+RHM URGHP1500000c URGHP15c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo15
+RHM URGHP1600000c URGHP16c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo16
+RHM URGHP1700000c URGHP17c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo17
+RHM URGHP1800000c URGHP18c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo18
+RHM URGHP1900000c URGHP19c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo19
+RHM URGHP2000000c URGHP20c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo20
+RHM URGHP2100000c URGHP21c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo21
+RHM URGHP2200000c URGHP22c           DW USD MT  140902 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo22
+RHM URGHP2300000c URGHP23c           DW USD MT  140902 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo23
+RHM URGHP2400000c URGHP24c           DW USD MT  140902 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo24
+RHM URGHR0100000c URGHR01c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Qr01
+RHM UMGHP0100000c UMGHP01c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo01
+RHM UMGHP0200000c UMGHP02c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo02
+RHM UMGHP0300000c UMGHP03c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo03
+RHM UMGHP0400000c UMGHP04c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo04
+RHM UMGHP0500000c UMGHP05c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo05
+RHM UMGHP0600000c UMGHP06c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo06
+RHM UMGHP0700000c UMGHP07c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo07
+RHM UMGHP0800000c UMGHP08c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo08
+RHM UMGHP0900000c UMGHP09c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo09
+RHM UMGHP1000000c UMGHP10c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo10
+RHM UMGHP1100000c UMGHP11c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo11
+RHM UMGHP1200000c UMGHP12c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo12
+RHM UMGHP1300000c UMGHP13c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo13
+RHM UMGHP1400000c UMGHP14c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo14
+RHM UMGHP1500000c UMGHP15c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo15
+RHM UMGHP1600000c UMGHP16c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo16
+RHM UMGHP1700000c UMGHP17c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo17
+RHM UMGHP1800000c UMGHP18c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo18
+RHM UMGHP1900000c UMGHP19c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo19
+RHM UMGHP2000000c UMGHP20c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo20
+RHM UMGHP2100000c UMGHP21c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo21
+RHM UMGHP2200000c UMGHP22c           DW USD MT  140902 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo22
+RHM UMGHP2300000c UMGHP23c           DW USD MT  140902 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo23
+RHM UMGHP2400000c UMGHP24c           DW USD MT  140902 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo24
+RHM UMGHR0100000c UMGHR01c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Qr01
+RHM UMGHR0200000c UMGHR02c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Qr02
+RHM UMGHR0300000c UMGHR03c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Qr03
+RHM UMGHR0400000c UMGHR04c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Qr04
+RHM UMGHR0500000c UMGHR05c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Qr05
+RHM UMGHR0600000c UMGHR06c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Qr06
+RHM UMGHR0700000c UMGHR07c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Qr07
+RHM UMGHR0800000c UMGHR08c           DW USD MT  140902 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Qr08
+RHM UMGHS0100000c UMGHS01c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Yr01
+RHM UMGHS0200000c UMGHS02c           DW USD MT  130628 190118 FtS Houston ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Yr02
+RHM URGHR0200000c URGHR02c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Qr02
+RHM URGHR0300000c URGHR03c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Qr03
+RHM URGHR0400000c URGHR04c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Qr04
+RHM URGHR0500000c URGHR05c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Qr05
+RHM URGHR0600000c URGHR06c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Qr06
+RHM URGHR0700000c URGHR07c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Qr07
+RHM URGHR0800000c URGHR08c           DW USD MT  140902 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Qr08
+RHM URGHS0100000c URGHS01c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Yr01
+RHM URGHS0200000c URGHS02c           DW USD MT  130628 190118 FtS Houston ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Yr02
+RHM URMHP0100000c URMHP01c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo01
+RHM URMHP0200000c URMHP02c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo02
+RHM URMHP0300000c URMHP03c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo03
+RHM URMHP0400000c URMHP04c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo04
+RHM UMLHP0100000c UMLHP01c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Mo01
+RHM UMLHP0200000c UMLHP02c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Mo02
+RHM UMLHP0300000c UMLHP03c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Mo03
+RHM UMLHP0400000c UMLHP04c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Mo04
+RHM UMLHP0500000c UMLHP05c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Mo05
+RHM UMLHP0600000c UMLHP06c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Mo06
+RHM UMLHP0700000c UMLHP07c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Mo07
+RHM UMLHP0800000c UMLHP08c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Mo08
+RHM UMLHP0900000c UMLHP09c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Mo09
+RHM UMLHP1000000c UMLHP10c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Mo10
+RHM UMLHP1100000c UMLHP11c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Mo11
+RHM UMLHP1200000c UMLHP12c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Mo12
+RHM UMLHP1300000c UMLHP13c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Mo13
+RHM UMLHP1400000c UMLHP14c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Mo14
+RHM UMLHP1500000c UMLHP15c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Mo15
+RHM UMLHP1600000c UMLHP16c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Mo16
+RHM UMLHP1700000c UMLHP17c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Mo17
+RHM UMLHP1800000c UMLHP18c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Mo18
+RHM UMLHP1900000c UMLHP19c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Mo19
+RHM UMLHP2000000c UMLHP20c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Mo20
+RHM URMHP0500000c URMHP05c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo05
+RHM URMHP0600000c URMHP06c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo06
+RHM URMHP0700000c URMHP07c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo07
+RHM URMHP0800000c URMHP08c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo08
+RHM URMHP0900000c URMHP09c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo09
+RHM URMHP1000000c URMHP10c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo10
+RHM URMHP1100000c URMHP11c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo11
+RHM URMHP1200000c URMHP12c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo12
+RHM URMHP1300000c URMHP13c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo13
+RHM URMHP1400000c URMHP14c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo14
+RHM URMHP1500000c URMHP15c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo15
+RHM URMHP1600000c URMHP16c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo16
+RHM URMHP1700000c URMHP17c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo17
+RHM URMHP1800000c URMHP18c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo18
+RHM URMHP1900000c URMHP19c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo19
+RHM URMHP2000000c URMHP20c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo20
+RHM URMHP2100000c URMHP21c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo21
+RHM URMHP2200000c URMHP22c           DW USD MT  140902 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo22
+RHM URMHP2300000c URMHP23c           DW USD MT  140902 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo23
+RHM URMHP2400000c URMHP24c           DW USD MT  140902 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo24
+RHM URMHR0100000c URMHR01c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Qr01
+RHM URMHR0200000c URMHR02c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Qr02
+RHM URMHR0300000c URMHR03c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Qr03
+RHM URMHR0400000c URMHR04c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Qr04
+RHM URMHR0500000c URMHR05c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Qr05
+RHM URMHR0600000c URMHR06c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Qr06
+RHM URMHR0700000c URMHR07c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Qr07
+RHM URMHR0800000c URMHR08c           DW USD MT  140902 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Qr08
+RHM URMHS0100000c URMHS01c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Yr01
+RHM URMHS0200000c URMHS02c           DW USD MT  130628 190118 FtS Houston ULSD 10ppm ARA FOB Brg Flat Prc Swap Yr02
+RHM UMLHP2100000c UMLHP21c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Mo21
+RHM UMLHP2200000c UMLHP22c           DW USD MT  140902 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Mo22
+RHM UMLHP2300000c UMLHP23c           DW USD MT  140902 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Mo23
+RHM UMLHP2400000c UMLHP24c           DW USD MT  140902 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Mo24
+RHM UMLHR0100000c UMLHR01c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Qr01
+RHM UMLHR0200000c UMLHR02c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Qr02
+RHM UMLHR0300000c UMLHR03c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Qr03
+RHM UMLHR0400000c UMLHR04c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Qr04
+RHM UMLHR0500000c UMLHR05c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Qr05
+RHM UMLHR0600000c UMLHR06c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Qr06
+RHM UMLHR0700000c UMLHR07c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Qr07
+RHM UMLHR0800000c UMLHR08c           DW USD MT  140902 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Qr08
+RHM UMLHS0100000c UMLHS01c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Yr01
+RHM UMLHS0200000c UMLHS02c           DW USD MT  130628 190118 FtS Houston ULSD 10ppm Med CIF Crg Flat Prc Swap Yr02
+RHM UMUHP0100000c UMUHP01c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Mo01
+RHM UMUHP0200000c UMUHP02c           DW USD MT  130327 190118 FtS Houston ULSD 10ppm Med vs NWE CIF Crg Swap Mo02

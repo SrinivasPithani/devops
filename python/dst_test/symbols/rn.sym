@@ -1,0 +1,281 @@
+RN                                                           © 2019 by S&P Global Inc.,190119
+RN AAWKV0000000c AAWKV00c           DW RUB MT  120322 190118 ULSD Pipeline Fees Nizhny Novgorod Refinery-Primorsk Rb/Mt
+RN AAWKV0300000c AAWKV03c           MA RUB MT  120401 181201 ULSD Pipeline Fees Nizhny Novgorod Refinery-Primorsk MAvg Rb/Mt
+RN AAWKW0000000c AAWKW00c           DW RUB MT  120322 190118 ULSD Pipeline Fees Yaroslavl Refinery-Primorsk Rb/Mt
+RN AAWKW0300000c AAWKW03c           MA RUB MT  120401 181201 ULSD Pipeline Fees Yaroslavl Refinery-Primorsk MAvg Rb/Mt
+RN AAWKX0000000c AAWKX00c           DW RUB MT  120322 190118 ULSD Russia Excise Duty Rb/Mt
+RN AAWKX0300000c AAWKX03c           MA RUB MT  120401 181201 ULSD Russia Excise Duty MAvg Rb/Mt
+RN AAWKY0000000c AAWKY00c           DW RUB MT  120322 190118 Gasoline Rail Fees Nizhny Novgorod Refinery-Vysotsk Rb/MT
+RN AAWKY0300000c AAWKY03c           MA RUB MT  120401 181201 Gasoline Rail Fees Nizhny Novgorod Refinery-Vysotsk MAvg Rb/MT
+RN AAWKZ0000000c AAWKZ00c           DW RUB MT  120322 190118 Gasoline Rail Fees Omsk Refinery-Vysotsk Rb/MT
+RN AAWKZ0300000c AAWKZ03c           MA RUB MT  120401 181201 Gasoline Rail Fees Omsk Refinery-Vysotsk MAvg Rb/MT
+RN AAWLA0000000c AAWLA00c           DW RUB MT  120322 190118 Gasoline Rail Fees Ufa Refinery-Vysotsk Rb/MT
+RN AAWLA0300000c AAWLA03c           MA RUB MT  120401 181201 Gasoline Rail Fees Ufa Refinery-Vysotsk MAvg Rb/MT
+RN AAVVI0000000c AAVVI00c           DW USD MT  110819 190118 Gasoline Russia Export Duty $/MT
+RN AAVVJ0000000c AAVVJ00c           DW USD MT  111003 190118 Naphtha Russia Export Duty $/MT
+RN AAVVK0000000c AAVVK00c           DW USD MT  110819 190118 Diesel Russia Export Duty $/MT
+RN AAVVL0000000c AAVVL00c           DW USD MT  110819 190118 Fuel Oil Russia Export Duty $/MT
+RN AAWQQ0000000c AAWQQ00c           DW USD MT  110819 190118 ARA St Petersburg Clean Freight $/MT
+RN AAWQQ0300000c AAWQQ03c           MA USD MT  110901 181201 ARA St Petersburg Clean Freight $/MT MAvg
+RN AAWQR0000000c AAWQR00c           DW USD MT  110819 190118 ARA Ventspils Clean Freight Jet Fuel $/MT
+RN AAWQR0300000c AAWQR03c           MA USD MT  110901 181201 ARA Ventspils Clean Freight Jet Fuel $/MT MAvg
+RN AAWQS0000000c AAWQS00c           DW USD MT  110819 190118 ARA Vysotsk Clean Freight $/MT
+RN AAWQS0300000c AAWQS03c           MA USD MT  110901 181201 ARA Vysotsk Clean Freight $/MT MAvg
+RN AAWQT0000000c AAWQT00c           DW USD MT  110819 190118 Med Novorossiysk Clean Freight $/MT
+RN AAWQT0300000c AAWQT03c           MA USD MT  110901 181201 Med Novorossiysk Clean Freight $/MT MAvg
+RN AAWQU0000000c AAWQU00c           DW USD MT  110819 190118 Spore Nakhodka Clean Freight $/MT
+RN AAWQU0300000c AAWQU03c           MA USD MT  110901 181201 Spore Nakhodka Clean Freight $/MT MAvg
+RN AAWQV0000000c AAWQV00c           DW USD MT  110819 190118 ARA St Petersburg Dirty Freight $/MT
+RN AAWQV0300000c AAWQV03c           MA USD MT  110901 181201 ARA St Petersburg Dirty Freight $/MT MAvg
+RN AAWQW0000000c AAWQW00c           DW USD MT  110819 190118 Med Novorossiysk Dirty Freight $/MT
+RN AAWQW0300000c AAWQW03c           MA USD MT  110901 181201 Med Novorossiysk Dirty Freight $/MT MAvg
+RN AAWQX0000000c AAWQX00c           DW USD MT  110819 190118 Spore Nakhodka Dirty Freight $/MT
+RN AAWQX0300000c AAWQX03c           MA USD MT  110901 181201 Spore Nakhodka Dirty Freight $/MT MAvg
+RN AAWQY0000000c AAWQY00c           DW RUB MT  110819 190118 Diesel Russia Excise Duty Rb/MT
+RN AAWQY0300000c AAWQY03c           MA USD MT  110901 181201 Diesel Russia Excise Duty Rb/MT MAvg
+RN AAWQZ0000000c AAWQZ00c           DW RUB MT  110819 190118 Gasoline Russia Excise Duty Rb/MT
+RN AAWQZ0300000c AAWQZ03c           MA USD MT  110901 181201 Gasoline Russia Excise Duty Rb/MT MAvg
+RN AAWRA0000000c AAWRA00c           DW USD MT  110819 190118 Fuel Oil 380 CST 4% Spore Cargo Khabarovsk Refinery via Nakhodka Netback $/MT
+RN AAWRA0300000c AAWRA03c           MA USD MT  110901 181201 Fuel Oil 380 CST 4% Spore Cargo Khabarovsk Refinery via Nakhodka Netback $/MT MAvg
+RN AAWRB0000000c AAWRB00c           DW RUB MT  110819 190118 Fuel Oil 380 CST 4% Spore Cargo Khabarovsk Refinery via Nakhodka Netback Rb/MT
+RN AAWRB0300000c AAWRB03c           MA RUB MT  110901 181201 Fuel Oil 380 CST 4% Spore Cargo Khabarovsk Refinery via Nakhodka Netback Rb/MT MAvg
+RN AAWRC0000000c AAWRC00c           DW USD MT  110819 190118 Gasoil 0.05% Spore Cargo Khabarovsk Refinery via Nakhodka Netback $/MT
+RN AAWRC0300000c AAWRC03c           MA USD MT  110901 181201 Gasoil 0.05% Spore Cargo Khabarovsk Refinery via Nakhodka Netback $/MT MAvg
+RN AAWRD0000000c AAWRD00c           DW RUB MT  110819 190118 Gasoil 0.05% Spore Cargo Khabarovsk Refinery via Nakhodka Netback Rb/MT
+RN AAWRD0300000c AAWRD03c           MA RUB MT  110901 181201 Gasoil 0.05% Spore Cargo Khabarovsk Refinery via Nakhodka Netback Rb/MT MAvg
+RN AAWRE0000000c AAWRE00c           DW USD MT  110819 190118 Unl Gasoline 92 Spore Cargo Khabarovsk Refinery via Nakhodka Netback $/MT
+RN AAWRE0300000c AAWRE03c           MA USD MT  110901 181201 Unl Gasoline 92 Spore Cargo Khabarovsk Refinery via Nakhodka Netback $/MT MAvg
+RN AAWRF0000000c AAWRF00c           DW RUB MT  110819 190118 Unl Gasoline 92 Spore Cargo Khabarovsk Refinery via Nakhodka Netback Rb/MT
+RN AAWRF0300000c AAWRF03c           MA RUB MT  110901 181201 Unl Gasoline 92 Spore Cargo Khabarovsk Refinery via Nakhodka Netback Rb/MT MAvg
+RN AAWRG0000000c AAWRG00c           DW USD MT  110819 190118 Fuel Oil 380 CST 4% Spore Cargo Komsomolsk Refinery via Nakhodka Netback $/MT
+RN AAWRG0300000c AAWRG03c           MA USD MT  110901 181201 Fuel Oil 380 CST 4% Spore Cargo Komsomolsk Refinery via Nakhodka Netback $/MT MAvg
+RN AAWRH0000000c AAWRH00c           DW RUB MT  110819 190118 Fuel Oil 380 CST 4% Spore Cargo Komsomolsk Refinery via Nakhodka Netback Rb/MT
+RN AAWRH0300000c AAWRH03c           MA RUB MT  110901 181201 Fuel Oil 380 CST 4% Spore Cargo Komsomolsk Refinery via Nakhodka Netback Rb/MT MAvg
+RN AAYKW0000000c AAYKW00c           DW RUB MT  170502 190118 ULSD Pipeline Fees Ufa Refinery-Primorsk Rb/Mt
+RN AAYKW0300000c AAYKW03c           MA RUB MT  170501 181201 ULSD Pipeline Fees Ufa Refinery-Primorsk Rb/Mt MAvg
+RN AAYKX0000000c AAYKX00c           DW USD MT  170502 190118 Clean Freight Diesel ARA-Ventspils $/MT
+RN AAYKX0300000c AAYKX03c           MA USD MT  170501 181201 Clean Freight Diesel ARA-Ventspils $/MT MAvg
+RN AAWRI0000000c AAWRI00c           DW USD MT  110819 190118 Gasoil 0.05% Spore Cargo Komsomolsk Refinery via Nakhodka Netback $/MT
+RN AAWRI0300000c AAWRI03c           MA USD MT  110901 181201 Gasoil 0.05% Spore Cargo Komsomolsk Refinery via Nakhodka Netback $/MT MAvg
+RN AAWRJ0000000c AAWRJ00c           DW RUB MT  110819 190118 Gasoil 0.05% Spore Cargo Komsomolsk Refinery via Nakhodka Netback Rb/MT
+RN AAWRJ0300000c AAWRJ03c           MA RUB MT  110901 181201 Gasoil 0.05% Spore Cargo Komsomolsk Refinery via Nakhodka Netback Rb/MT MAvg
+RN AAWRK0000000c AAWRK00c           DW USD MT  110819 190118 Unl Gasoline 92 Spore Cargo Komsomolsk Refinery via Nakhodka Netback $/MT
+RN AAWRK0300000c AAWRK03c           MA USD MT  110901 181201 Unl Gasoline 92 Spore Cargo Komsomolsk Refinery via Nakhodka Netback $/MT MAvg
+RN AAWRL0000000c AAWRL00c           DW RUB MT  110819 190118 Unl Gasoline 92 Spore Cargo Komsomolsk Refinery via Nakhodka Netback Rb/MT
+RN AAWRL0300000c AAWRL03c           MA RUB MT  110901 181201 Unl Gasoline 92 Spore Cargo Komsomolsk Refinery via Nakhodka Netback Rb/MT MAvg
+RN AAWRM0000000c AAWRM00c           DW USD MT  110819 190118 Fuel Oil 3.5% ARA Barge Moscow Refinery via St Petersburg Netback $/MT
+RN AAWRM0300000c AAWRM03c           MA USD MT  110901 181201 Fuel Oil 3.5% ARA Barge Moscow Refinery via St Petersburg Netback $/MT MAvg
+RN AAWRN0000000c AAWRN00c           DW RUB MT  110819 190118 Fuel Oil 3.5% ARA Barge Moscow Refinery via St Petersburg Netback Rb/MT
+RN AAWRN0300000c AAWRN03c           MA RUB MT  110901 181201 Fuel Oil 3.5% ARA Barge Moscow Refinery via St Petersburg Netback Rb/MT MAvg
+RN AAWRO0000000c AAWRO00c           DW USD MT  110819 190118 ULSD NWE Moscow Refinery via St Petersburg Netback $/MT
+RN AAWRO0300000c AAWRO03c           MA USD MT  110901 181201 ULSD NWE Moscow Refinery via St Petersburg Netback $/MT MAvg
+RN AAWRP0000000c AAWRP00c           DW RUB MT  110819 190118 ULSD NWE Moscow Refinery via St Petersburg Netback Rb/MT
+RN AAWRP0300000c AAWRP03c           MA RUB MT  110901 181201 ULSD NWE Moscow Refinery via St Petersburg Netback Rb/MT MAvg
+RN AAWRQ0000000c AAWRQ00c           DW USD MT  110819 190118 ULSD NWE Moscow Refinery via Ventspils Netback $/MT
+RN AAWRQ0300000c AAWRQ03c           MA USD MT  110901 181201 ULSD NWE Moscow Refinery via Ventspils Netback $/MT MAvg
+RN AAWRR0000000c AAWRR00c           DW RUB MT  110819 190118 ULSD NWE Moscow Refinery via Ventspils Netback Rb/MT
+RN AAWRR0300000c AAWRR03c           MA RUB MT  110901 181201 ULSD NWE Moscow Refinery via Ventspils Netback Rb/MT MAvg
+RN AAWRS0000000c AAWRS00c           DW USD MT  110819 190118 Eurobob ARA Barge Moscow Refinery via Vysotsk Netback $/MT
+RN AAWRS0300000c AAWRS03c           MA USD MT  110901 181201 Eurobob ARA Barge Moscow Refinery via Vysotsk Netback $/MT MAvg
+RN AAWRT0000000c AAWRT00c           DW RUB MT  110819 190118 Eurobob ARA Barge Moscow Refinery via Vysotsk Netback Rb/MT
+RN AAWRT0300000c AAWRT03c           MA RUB MT  110901 181201 Eurobob ARA Barge Moscow Refinery via Vysotsk Netback Rb/MT MAvg
+RN AAWRU0000000c AAWRU00c           DW USD MT  110819 190118 Gasoil 0.1% Med Cargo Nizhny Novgorod Refinery via Novorossiysk Netback $/MT
+RN AAWRU0300000c AAWRU03c           MA USD MT  110901 181201 Gasoil 0.1% Med Cargo Nizhny Novgorod Refinery via Novorossiysk Netback $/MT MAvg
+RN AAXKA0000000c AAXKA00c           DW RUB MT  110819 190118 Gasoil 0.1% Med Cargo Nizhny Novgorod Refinery via Novorossiysk Netback Rb/MT
+RN AAXKA0300000c AAXKA03c           MA RUB MT  110901 181201 Gasoil 0.1% Med Cargo Nizhny Novgorod Refinery via Novorossiysk Netback Rb/MT MAvg
+RN AAXKB0000000c AAXKB00c           DW USD MT  110819 190118 Fuel Oil 3.5% Med Cargo Nizhny Novgorod Refinery via Novorossiysk Netback $/MT
+RN AAXKB0300000c AAXKB03c           MA USD MT  110901 181201 Fuel Oil 3.5% Med Cargo Nizhny Novgorod Refinery via Novorossiysk Netback $/MT MAvg
+RN AAXKC0000000c AAXKC00c           DW RUB MT  110819 190118 Fuel Oil 3.5% Med Cargo Nizhny Novgorod Refinery via Novorossiysk Netback Rb/MT
+RN AAXKC0300000c AAXKC03c           MA RUB MT  110901 181201 Fuel Oil 3.5% Med Cargo Nizhny Novgorod Refinery via Novorossiysk Netback Rb/MT MAvg
+RN AAXKD0000000c AAXKD00c           DW USD MT  110819 190118 Prem Unl 10 ppm Med Cargo Nizhny Novgorod Refinery via Novorossiysk Netback $/MT
+RN AAXKD0300000c AAXKD03c           MA USD MT  110901 181201 Prem Unl 10 ppm Med Cargo Nizhny Novgorod Refinery via Novorossiysk Netback $/MT MAvg
+RN AAXKE0000000c AAXKE00c           DW RUB MT  110819 190118 Prem Unl 10 ppm Med Cargo Nizhny Novgorod Refinery via Novorossiysk Netback Rb/MT
+RN AAXKE0300000c AAXKE03c           MA RUB MT  110901 181201 Prem Unl 10 ppm Med Cargo Nizhny Novgorod Refinery via Novorossiysk Netback Rb/MT MAvg
+RN AAXKF0000000c AAXKF00c           DW USD MT  110819 190118 Fuel Oil 3.5% Med Cargo Syzran Refinery via Novorossiysk Netback $/MT
+RN AAXKF0300000c AAXKF03c           MA USD MT  110901 181201 Fuel Oil 3.5% Med Cargo Syzran Refinery via Novorossiysk Netback $/MT MAvg
+RN AAXKG0000000c AAXKG00c           DW RUB MT  110819 190118 Fuel Oil 3.5% Med Cargo Syzran Refinery via Novorossiysk Netback Rb/MT
+RN AAXKG0300000c AAXKG03c           MA RUB MT  110901 181201 Fuel Oil 3.5% Med Cargo Syzran Refinery via Novorossiysk Netback Rb/MT MAvg
+RN AAXKH0000000c AAXKH00c           DW USD MT  110819 190118 Gasoil 0.1% Med Cargo Syzran Refinery via Novorossiysk Netback $/MT
+RN AAXKH0300000c AAXKH03c           MA USD MT  110901 181201 Gasoil 0.1% Med Cargo Syzran Refinery via Novorossiysk Netback $/MT MAvg
+RN AAXKI0000000c AAXKI00c           DW RUB MT  110819 190118 Gasoil 0.1% Med Cargo Syzran Refinery via Novorossiysk Netback Rb/MT
+RN AAXKI0300000c AAXKI03c           MA RUB MT  110901 181201 Gasoil 0.1% Med Cargo Syzran Refinery via Novorossiysk Netback Rb/MT MAvg
+RN AAXKK0000000c AAXKK00c           DW USD MT  110819 190118 Prem Unl 10 ppm Med Cargo Syzran Refinery via Novorossiysk Netback $/MT
+RN AAXKK0300000c AAXKK03c           MA USD MT  110901 181201 Prem Unl 10 ppm Med Cargo Syzran Refinery via Novorossiysk Netback $/MT MAvg
+RN AAXKL0000000c AAXKL00c           DW RUB MT  110819 190118 Prem Unl 10 ppm Med Cargo Syzran Refinery via Novorossiysk Netback Rb/MT
+RN AAXKL0300000c AAXKL03c           MA RUB MT  110901 181201 Prem Unl 10 ppm Med Cargo Syzran Refinery via Novorossiysk Netback Rb/MT MAvg
+RN AAXKM0000000c AAXKM00c           DW USD MT  110819 190118 Fuel Oil 3.5% ARA Barge Yaroslavl Refinery via St Petersburg Netback $/MT
+RN AAXKM0300000c AAXKM03c           MA USD MT  110901 181201 Fuel Oil 3.5% ARA Barge Yaroslavl Refinery via St Petersburg Netback $/MT MAvg
+RN AAXKN0000000c AAXKN00c           DW RUB MT  110819 190118 Fuel Oil 3.5% ARA Barge Yaroslavl Refinery via St Petersburg Netback Rb/MT
+RN AAXKN0300000c AAXKN03c           MA RUB MT  110901 181201 Fuel Oil 3.5% ARA Barge Yaroslavl Refinery via St Petersburg Netback Rb/MT MAvg
+RN AAXKO0000000c AAXKO00c           DW USD MT  110819 190118 ULSD NWE Yaroslavl Refinery via St Petersburg Netback $/MT
+RN AAXKO0300000c AAXKO03c           MA USD MT  110901 181201 ULSD NWE Yaroslavl Refinery via St Petersburg Netback $/MT MAvg
+RN AAXKP0000000c AAXKP00c           DW RUB MT  110819 190118 ULSD NWE Yaroslavl Refinery via St Petersburg Netback Rb/MT
+RN AAXKP0300000c AAXKP03c           MA RUB MT  110901 181201 ULSD NWE Yaroslavl Refinery via St Petersburg Netback Rb/MT MAvg
+RN AAXKS0000000c AAXKS00c           DW USD MT  110819 190118 Eurobob ARA Barge Yaroslavl Refinery via Vysotsk Netback $/MT
+RN AAXKS0300000c AAXKS03c           MA USD MT  110901 181201 Eurobob ARA Barge Yaroslavl Refinery via Vysotsk Netback $/MT MAvg
+RN AAXKT0000000c AAXKT00c           DW RUB MT  110819 190118 Eurobob ARA Barge Yaroslavl Refinery via Vysotsk Netback Rb/MT
+RN AAXKT0300000c AAXKT03c           MA RUB MT  110901 181201 Eurobob ARA Barge Yaroslavl Refinery via Vysotsk Netback Rb/MT MAvg
+RN AAXKU0000000c AAXKU00c           DW RUB MT  110819 190118 Diesel Moscow Refinery Latvian Border Pipeline Fees Rb/MT
+RN AAXKU0300000c AAXKU03c           MA RUB MT  110901 181201 Diesel Moscow Refinery Latvian Border Pipeline Fees Rb/MT MAvg
+RN AAXKW0000000c AAXKW00c           DW USD MT  110822 190118 ARA Port Fee $/MT
+RN AAXKW0300000c AAXKW03c           MA USD MT  110901 181201 ARA Port Fee $/MT MAvg
+RN AAXKX0000000c AAXKX00c           DW RUB MT  110819 190118 Diesel Syzran Refinery Novorossiysk Rail Fees Rb/MT
+RN AAXKX0300000c AAXKX03c           MA RUB MT  110901 181201 Diesel Syzran Refinery Novorossiysk Rail Fees Rb/MT MAvg
+RN AAXKY0000000c AAXKY00c           DW RUB MT  110819 190118 Diesel Khabarovsk Refinery Nakhodka Rail Fees Rb/MT
+RN AAXKY0300000c AAXKY03c           MA RUB MT  110901 181201 Diesel Khabarovsk Refinery Nakhodka Rail Fees Rb/MT MAvg
+RN AAXKZ0000000c AAXKZ00c           DW RUB MT  110819 190118 Diesel Komsomolsk Refinery Nakhodka Rail Fees Rb/MT
+RN AAXKZ0300000c AAXKZ03c           MA RUB MT  110901 181201 Diesel Komsomolsk Refinery Nakhodka Rail Fees Rb/MT MAvg
+RN AAXYF0000000c AAXYF00c           DW RUB MT  170502 190118 ULSD NWE Ufa Refinery via Primorsk Netback Rb/Mt
+RN AAXYF0300000c AAXYF03c           MA RUB MT  170501 181201 ULSD NWE Ufa Refinery via Primorsk Netback Rb/Mt MAvg
+RN ABXKQ0000000c ABXKQ00c           DW USD MT  180501 190118 ULSD Med Cargo Volgograd Refinery via Novorossiysk Netback $/MT
+RN ABXKQ0300000c ABXKQ03c           MA USD MT  180501 181201 ULSD Med Cargo Volgograd Refinery via Novorossiysk Netback $/MT MAvg
+RN ABXKR0000000c ABXKR00c           DW RUB MT  180501 190118 ULSD Med Cargo Volgograd Refinery via Novorossiysk Netback Rb/MT
+RN ABXKR0300000c ABXKR03c           MA RUB MT  180501 181201 ULSD Med Cargo Volgograd Refinery via Novorossiysk Netback Rb/MT MAvg
+RN ABXKV0000000c ABXKV00c           DW RUB MT  180501 190118 Diesel Pipeline Fee Volgograd Refinery-Novorossiysk Rb/MT
+RN ABXKV0300000c ABXKV03c           MA RUB MT  180501 181201 Diesel Pipeline Fee Volgograd Refinery-Novorossiysk Rb/MT MAvg
+RN AAXLA0000000c AAXLA00c           DW RUB MT  110819 190118 Diesel Moscow Refinery St Petersburg Rail Fees Rb/MT
+RN AAXLA0300000c AAXLA03c           MA RUB MT  110901 181201 Diesel Moscow Refinery St Petersburg Rail Fees Rb/MT MAvg
+RN AAXLB0000000c AAXLB00c           DW RUB MT  110819 190118 Diesel Nizhny Novgorod Refinery Novorossiysk Rail Fees Rb/MT
+RN AAXLB0300000c AAXLB03c           MA RUB MT  110901 181201 Diesel Nizhny Novgorod Refinery Novorossiysk Rail Fees Rb/MT MAvg
+RN AAXLC0000000c AAXLC00c           DW RUB MT  110819 190118 Fuel Oil Khabarovsk Refinery Nakhodka Rail Fees Rb/MT
+RN AAXLC0300000c AAXLC03c           MA RUB MT  110901 181201 Fuel Oil Khabarovsk Refinery Nakhodka Rail Fees Rb/MT MAvg
+RN AAXLD0000000c AAXLD00c           DW RUB MT  110819 190118 Fuel Oil Komsomolsk Refinery Nakhodka Rail Fees Rb/MT
+RN AAXLD0300000c AAXLD03c           MA RUB MT  110901 181201 Fuel Oil Komsomolsk Refinery Nakhodka Rail Fees Rb/MT MAvg
+RN AAXLE0000000c AAXLE00c           DW RUB MT  110819 190118 Fuel Oil Syzran Refinery Novorossiysk Rail Fees Rb/MT
+RN AAXLE0300000c AAXLE03c           MA RUB MT  110901 181201 Fuel Oil Syzran Refinery Novorossiysk Rail Fees Rb/MT MAvg
+RN AAXLF0000000c AAXLF00c           DW RUB MT  110819 190118 Fuel Oil Yaroslavl Refinery St Petersburg Rail Fees Rb/MT
+RN AAXLF0300000c AAXLF03c           MA RUB MT  110901 181201 Fuel Oil Yaroslavl Refinery St Petersburg Rail Fees Rb/MT MAvg
+RN AAXLG0000000c AAXLG00c           DW RUB MT  110819 190118 Fuel Oil Moscow Refinery St Petersburg Rail Fees Rb/MT
+RN AAXLG0300000c AAXLG03c           MA RUB MT  110901 181201 Fuel Oil Moscow Refinery St Petersburg Rail Fees Rb/MT MAvg
+RN AAXLH0000000c AAXLH00c           DW RUB MT  110819 190118 Fuel Oil Nizhny Novgorod Refinery Novorossiysk Rail Fees Rb/MT
+RN AAXLH0300000c AAXLH03c           MA RUB MT  110901 181201 Fuel Oil Nizhny Novgorod Refinery Novorossiysk Rail Fees Rb/MT MAvg
+RN AAXLI0000000c AAXLI00c           DW RUB MT  110819 190118 Gasoline Khabarovsk Refinery Nakhodka Rail Fees Rb/MT
+RN AAXLI0300000c AAXLI03c           MA RUB MT  110901 181201 Gasoline Khabarovsk Refinery Nakhodka Rail Fees Rb/MT MAvg
+RN AAXLJ0000000c AAXLJ00c           DW RUB MT  110819 190118 Gasoline Komsomolsk Refinery Nakhodka Rail Fees Rb/MT
+RN AAXLJ0300000c AAXLJ03c           MA RUB MT  110901 181201 Gasoline Komsomolsk Refinery Nakhodka Rail Fees Rb/MT MAvg
+RN AAXLK0000000c AAXLK00c           DW RUB MT  110819 190118 Gasoline Yaroslavl Refinery Vysotsk Rail Fees Rb/MT
+RN AAXLK0300000c AAXLK03c           MA RUB MT  110901 181201 Gasoline Yaroslavl Refinery Vysotsk Rail Fees Rb/MT MAvg
+RN AAXLL0000000c AAXLL00c           DW RUB MT  110819 190118 Gasoline Moscow Refinery Vysotsk Rail Fees Rb/MT
+RN AAXLL0300000c AAXLL03c           MA RUB MT  110901 181201 Gasoline Moscow Refinery Vysotsk Rail Fees Rb/MT MAvg
+RN AAXLM0000000c AAXLM00c           DW RUB MT  110819 190118 Gasoline Nizhny Novgorod Refinery Novorossiysk Rail Fees Rb/MT
+RN AAXLM0300000c AAXLM03c           MA RUB MT  110901 181201 Gasoline Nizhny Novgorod Refinery Novorossiysk Rail Fees Rb/MT MAvg
+RN AAXLN0000000c AAXLN00c           DW RUB UNS 110819 190118 Russia Value Added Tax (VAT) Rb
+RN AAXLN0300000c AAXLN03c           MA RUB UNS 110901 181201 Russia Value Added Tax (VAT) Rb MAvg
+RN AAXLO0000000c AAXLO00c           DW RUB MT  110819 190118 Diesel Nakhodka Transshipment Rb/MT
+RN AAXLO0300000c AAXLO03c           MA RUB MT  110901 181201 Diesel Nakhodka Transshipment Rb/MT MAvg
+RN AAXLP0000000c AAXLP00c           DW USD MT  110819 190118 Diesel Novorossiysk Transshipment $/MT
+RN AAXYJ0000000c AAXYJ00c           DW USD MT  170502 190118 ULSD NWE Ufa Refinery via Primorsk Netback $/MT
+RN AAXYJ0300000c AAXYJ03c           MA USD MT  170501 181201 ULSD NWE Ufa Refinery via Primorsk Netback $/MT MAvg
+RN AAXLP0300000c AAXLP03c           MA USD MT  110901 181201 Diesel Novorossiysk Transshipment $/MT MAvg
+RN AAXLQ0000000c AAXLQ00c           DW USD MT  110819 190118 Diesel St Petersburg Transshipment $/MT
+RN AAXLQ0300000c AAXLQ03c           MA USD MT  110901 181201 Diesel St Petersburg Transshipment $/MT MAvg
+RN AAXLR0000000c AAXLR00c           DW USD MT  110819 190118 Diesel Ventspils Transshipment (Incl Pipeline Fees) $/MT
+RN AAXLR0300000c AAXLR03c           MA USD MT  110901 181201 Diesel Ventspils Transshipment (Incl Pipeline Fees) $/MT MAvg
+RN AAXLS0000000c AAXLS00c           DW USD MT  110819 190118 Fuel Oil Novorossiysk Transshipment $/MT
+RN AAXLS0300000c AAXLS03c           MA USD MT  110901 181201 Fuel Oil Novorossiysk Transshipment $/MT MAvg
+RN AAXMA0000000c AAXMA00c           DW USD MT  110819 190118 Fuel Oil St Petersburg Transshipment $/MT
+RN AAXMA0300000c AAXMA03c           MA USD MT  110901 181201 Fuel Oil St Petersburg Transshipment $/MT MAvg
+RN AAXMB0000000c AAXMB00c           DW RUB MT  110819 190118 Gasoline Nakhodka Transshipment Rb/MT
+RN AAXMB0300000c AAXMB03c           MA RUB MT  110901 181201 Gasoline Nakhodka Transshipment Rb/MT MAvg
+RN AAXMC0000000c AAXMC00c           DW USD MT  110819 190118 Gasoline Novorossiysk Transshipment $/MT
+RN AAXMC0300000c AAXMC03c           MA USD MT  110901 181201 Gasoline Novorossiysk Transshipment $/MT MAvg
+RN AAXMD0000000c AAXMD00c           DW USD MT  110819 190118 Gasoline Vysotsk Transshipment $/MT
+RN AAXMD0300000c AAXMD03c           MA USD MT  110901 181201 Gasoline Vysotsk Transshipment $/MT MAvg
+RN AAXME0000000c AAXME00c           DW RUB MT  110819 190118 Gasoline Syzran Refinery Novorossiysk Rail Fees Rb/MT
+RN AAXME0300000c AAXME03c           MA RUB MT  110901 181201 Gasoline Syzran Refinery Novorossiysk Rail Fees Rb/MT MAvg
+RN AAXMF0000000c AAXMF00c           DW RUB MT  110819 190118 Diesel Yaroslavl Refinery St Petersburg Rail Fees Rb/MT
+RN AAXMF0300000c AAXMF03c           MA RUB MT  110901 181201 Diesel Yaroslavl Refinery St Petersburg Rail Fees Rb/MT MAvg
+RN AAXMZ0000000c AAXMZ00c           DW RUB MT  110819 190118 Fuel Oil Nakhodka Transshipment Rb/MT
+RN AAXMZ0300000c AAXMZ03c           MA RUB MT  110901 181201 Fuel Oil Nakhodka Transshipment Rb/MT MAvg
+RN AAWIN0000000c AAWIN00c           DW RUB MT  120322 190118 Eurobob ARA Barge Nizhny Novgorod Refinery Via Vysotsk Netback Rb/Mt
+RN AAWIN0300000c AAWIN03c           MA RUB MT  120401 181201 Eurobob ARA Barge Nizhny Novgorod Refinery Via Vysotsk Netback MAvg Rb/Mt
+RN AAWIO0000000c AAWIO00c           DW USD MT  120322 190118 Eurobob ARA Barge Nizhny Novgorod Refinery Via Vysotsk Netback $/MT
+RN AAWIO0300000c AAWIO03c           MA USD MT  120401 181201 Eurobob ARA Barge Nizhny Novgorod Refinery Via Vysotsk Netback MAvg $/MT
+RN AAWIP0000000c AAWIP00c           DW USD MT  120322 190118 Eurobob ARA Barge Kirishi Refinery Via Vysotsk Netback $/MT
+RN AAWIP0300000c AAWIP03c           MA USD MT  120401 181201 Eurobob ARA Barge Kirishi Refinery Via Vysotsk Netback MAvg $/MT
+RN AAWIW0000000c AAWIW00c           DW RUB MT  120322 190118 Eurobob ARA Barge Kirishi Refinery Via Vysotsk Netback Rb/Mt
+RN AAWIW0300000c AAWIW03c           MA RUB MT  120401 181201 Eurobob ARA Barge Kirishi Refinery Via Vysotsk Netback MAvg Rb/Mt
+RN AAWIX0000000c AAWIX00c           DW USD MT  120322 190118 Eurobob ARA Barge Omsk Refinery Via Vysotsk Netback $/MT
+RN AAWIX0300000c AAWIX03c           MA USD MT  120401 181201 Eurobob ARA Barge Omsk Refinery Via Vysotsk Netback MAvg $/MT
+RN AAWJC0000000c AAWJC00c           DW RUB MT  120322 190118 Eurobob ARA Barge Omsk Refinery Via Vysotsk Netback Rb/Mt
+RN AAWJC0300000c AAWJC03c           MA RUB MT  120401 181201 Eurobob ARA Barge Omsk Refinery Via Vysotsk Netback MAvg Rb/Mt
+RN AAWJD0000000c AAWJD00c           DW USD MT  120322 190118 Eurobob ARA Barge Ufa Refinery Via Vysotsk Netback $/MT
+RN AAWJD0300000c AAWJD03c           MA USD MT  120401 181201 Eurobob ARA Barge Ufa Refinery Via Vysotsk Netback MAvg $/MT
+RN AAWJE0000000c AAWJE00c           DW RUB MT  120322 190118 Eurobob ARA Barge Ufa Refinery Via Vysotsk Netback Rb/Mt
+RN AAWJE0300000c AAWJE03c           MA RUB MT  120401 181201 Eurobob ARA Barge Ufa Refinery Via Vysotsk Netback MAvg Rb/Mt
+RN AAWJF0000000c AAWJF00c           DW USD MT  120322 190118 Fuel Oil 3.5%S ARA Barge Kirishi Refinery Via Vysotsk Netback $/MT
+RN AAWJF0300000c AAWJF03c           MA USD MT  120401 181201 Fuel Oil 3.5%S ARA Barge Kirishi Refinery Via Vysotsk Netback MAvg $/MT
+RN AAWJG0000000c AAWJG00c           DW RUB MT  120322 190118 Fuel Oil 3.5%S ARA Barge Kirishi Refinery Via Vysotsk Netback Rb/MT
+RN AAWJG0300000c AAWJG03c           MA RUB MT  120401 181201 Fuel Oil 3.5%S ARA Barge Kirishi Refinery Via Vysotsk Netback MAvg Rb/MT
+RN AAWJH0000000c AAWJH00c           DW USD MT  120322 190118 Fuel Oil 3.5%S ARA Barge Omsk Refinery Via Vysotsk Netback $/MT
+RN AAWJH0300000c AAWJH03c           MA USD MT  120401 181201 Fuel Oil 3.5%S ARA Barge Omsk Refinery Via Vysotsk Netback MAvg $/MT
+RN AAWJI0000000c AAWJI00c           DW RUB MT  120322 190118 Fuel Oil 3.5%S ARA Barge Omsk Refinery Via Vysotsk Netback Rb/MT
+RN AAWJI0300000c AAWJI03c           MA RUB MT  120401 181201 Fuel Oil 3.5%S ARA Barge Omsk Refinery Via Vysotsk Netback MAvg Rb/Mt
+RN AAWJJ0000000c AAWJJ00c           DW USD MT  120322 190118 Fuel Oil 3.5%S ARA Barge Ufa Refinery Via Vysotsk Netback $/MT
+RN AAWJJ0300000c AAWJJ03c           MA USD MT  120401 181201 Fuel Oil 3.5%S ARA Barge Ufa Refinery Via Vysotsk Netback MAvg $/MT
+RN AAWJK0000000c AAWJK00c           DW RUB MT  120322 190118 Fuel Oil 3.5%S ARA Barge Ufa Refinery Via Vysotsk Netback Rb/MT
+RN AAWJK0300000c AAWJK03c           MA RUB MT  120401 181201 Fuel Oil 3.5%S ARA Barge Ufa Refinery Via Vysotsk Netback MAvg Rb/MT
+RN AAWJN0000000c AAWJN00c           DW USD MT  120322 190118 ULSD NWE Omsk Refinery Via Ventspils Netback $/MT
+RN AAWJN0300000c AAWJN03c           MA USD MT  120401 181201 ULSD NWE Omsk Refinery Via Ventspils Netback $/MT MAvg
+RN AAWJO0000000c AAWJO00c           DW RUB MT  120322 190118 ULSD NWE Omsk Refinery Via Ventspils Netback Rb/Mt
+RN AAWJO0300000c AAWJO03c           MA RUB MT  120401 181201 ULSD NWE Omsk Refinery Via Ventspils Netback Rb/Mt MAvg
+RN AAWJP0000000c AAWJP00c           DW USD MT  120322 190118 ULSD NWE Syzran Refinery Via Ventspils Netback $/MT
+RN AAWJP0300000c AAWJP03c           MA USD MT  120401 181201 ULSD NWE Syzran Refinery Via Ventspils Netback $/MT MAvg
+RN AAWJQ0000000c AAWJQ00c           DW RUB MT  120322 190118 ULSD NWE Syzran Refinery Via Ventspils Netback Rb/Mt
+RN AAWJQ0300000c AAWJQ03c           MA RUB MT  120401 181201 ULSD NWE Syzran Refinery Via Ventspils Netback Rb/Mt MAvg
+RN AAWJR0000000c AAWJR00c           DW USD MT  120322 190118 ULSD NWE Ufa Refinery Via Ventspils Netback $/MT
+RN AAWJR0300000c AAWJR03c           MA USD MT  120401 181201 ULSD NWE Ufa Refinery Via Ventspils Netback $/MT MAvg
+RN AAWJT0000000c AAWJT00c           DW RUB MT  120322 190118 ULSD NWE Ufa Refinery Via Ventspils Netback Rb/Mt
+RN AAWJT0300000c AAWJT03c           MA RUB MT  120401 181201 ULSD NWE Ufa Refinery Via Ventspils Netback Rb/Mt MAvg
+RN AAWJU0000000c AAWJU00c           DW USD MT  120322 190118 ULSD NWE Kirishi Refinery Via Primorsk Netback $/MT
+RN AAWJU0300000c AAWJU03c           MA USD MT  120401 181201 ULSD NWE Kirishi Refinery Via Primorsk Netback $/MT MAvg
+RN AAWJV0000000c AAWJV00c           DW RUB MT  120322 190118 ULSD NWE Kirishi Refinery Via Primorsk Netback Rb/MT
+RN AAWJV0300000c AAWJV03c           MA RUB MT  120401 181201 ULSD NWE Kirishi Refinery Via Primorsk Netback Rb/MT MAvg
+RN AAWJW0000000c AAWJW00c           DW USD MT  120322 190118 ULSD NWE Nizhny Novgorod Refinery Via Primorsk Netback $/MT
+RN AAWJW0300000c AAWJW03c           MA USD MT  120401 181201 ULSD NWE Nizhny Novgorod Refinery Via Primorsk Netback $/MT MAvg
+RN AAWJX0000000c AAWJX00c           DW RUB MT  120322 190118 ULSD NWE Nizhny Novgorod Refinery Via Primorsk Netback Rb/Mt
+RN AAWJX0300000c AAWJX03c           MA RUB MT  120401 181201 ULSD NWE Nizhny Novgorod Refinery Via Primorsk Netback Rb/Mt MAvg
+RN AAWJY0000000c AAWJY00c           DW USD MT  120322 190118 ULSD NWE Yaroslavl Refinery Via Primorsk Netback $/MT
+RN AAWJY0300000c AAWJY03c           MA USD MT  120401 181201 ULSD NWE Yaroslavl Refinery Via Primorsk Netback $/MT MAvg
+RN AAWJZ0000000c AAWJZ00c           DW RUB MT  120322 190118 ULSD NWE Yaroslavl Refinery Via Primorsk Netback Rb/Mt
+RN AAWJZ0300000c AAWJZ03c           MA RUB MT  120401 181201 ULSD NWE Yaroslavl Refinery Via Primorsk Netback Rb/Mt MAvg
+RN AAWKA0000000c AAWKA00c           DW USD MT  120322 190118 Jet Fuel FOB Rotterdam Barge Moscow Refinery Via Ventspils Netback $/MT
+RN AAWKA0300000c AAWKA03c           MA USD MT  120401 181201 Jet Fuel FOB Rotterdam Barge Moscow Refinery Via Ventspils Netback MAvg $/MT
+RN AAWKB0000000c AAWKB00c           DW RUB MT  120322 190118 Jet Fuel FOB Rotterdam Barge Moscow Refinery Via Ventspils Netback Rb/Mt
+RN AAWKB0300000c AAWKB03c           MA RUB MT  120401 181201 Jet Fuel FOB Rotterdam Barge Moscow Refinery Via Ventspils Netback MAvg Rb/Mt
+RN AAWKC0000000c AAWKC00c           DW USD MT  120322 190118 Clean Freight ARA-Primorsk $/MT
+RN AAWKC0300000c AAWKC03c           MA USD MT  120401 181201 Clean Freight ARA-Primorsk MAvg $/MT
+RN AAWKD0000000c AAWKD00c           DW USD MT  120322 190118 Dirty Freight ARA-Vystosk $/MT
+RN AAWKD0300000c AAWKD03c           MA USD MT  120401 181201 Dirty Freight ARA-Vystosk MAvg $/MT
+RN AAWKE0000000c AAWKE00c           DW RUB MT  120322 190118 Diesel Pipeline Fee Kirishi Refinery-Primorsk Rb/Mt
+RN AAWKE0300000c AAWKE03c           MA RUB MT  120401 181201 Diesel Pipeline Fee Kirishi Refinery-Primorsk MAvg Rb/Mt
+RN AAWKF0000000c AAWKF00c           DW RUB MT  120322 190118 Diesel Pipeline Fee Omsk Refinery-Latvian Border Rb/Mt
+RN AAWKF0300000c AAWKF03c           MA RUB MT  120401 181201 Diesel Pipeline Fee Omsk Refinery-Latvian Border MAvg Rb/Mt
+RN AAWKG0000000c AAWKG00c           DW RUB MT  120322 190118 Diesel Rail Fees Omsk Refinery-Novorossiysk Rb/Mt
+RN AAWKG0300000c AAWKG03c           MA RUB MT  120401 181201 Diesel Rail Fees Omsk Refinery-Novorossiysk MAvg Rb/Mt
+RN AAWKI0000000c AAWKI00c           DW USD MT  120322 190118 Diesel Transshipment Primorsk $/MT
+RN AAWKI0300000c AAWKI03c           MA USD MT  120401 181201 Diesel Transshipment Primorsk MAvg $/MT
+RN AAWKJ0000000c AAWKJ00c           DW RUB MT  120322 190118 Diesel Pipeline Fees Syzran Refinery-Latvian Border Rb/MT
+RN AAWKJ0300000c AAWKJ03c           MA RUB MT  120401 181201 Diesel Pipeline Fees Syzran Refinery-Latvian Border MAvg Rb/MT
+RN AAWKK0000000c AAWKK00c           DW RUB MT  120322 190118 Diesel Pipeline Fee Ufa Refinery-Latvian Border Rb/Mt
+RN AAWKK0300000c AAWKK03c           MA RUB MT  120401 181201 Diesel Pipeline Fee Ufa Refinery-Latvian Border MAvg Rb/Mt
+RN AAWKL0000000c AAWKL00c           DW RUB MT  120322 190118 Fuel Oil 3.5%S Rail Fees Kirishi Refinery-Vysotsk Rb/MT
+RN AAWKL0300000c AAWKL03c           MA RUB MT  120401 181201 Fuel Oil 3.5%S Rail Fees Kirishi Refinery-Vysotsk MAvg Rb/MT
+RN AAWKM0000000c AAWKM00c           DW RUB MT  120322 190118 Fuel Oil 3.5%S Rail Fees Omsk Refinery-Vysotsk Rb/MT
+RN AAWKM0300000c AAWKM03c           MA RUB MT  120401 181201 Fuel Oil 3.5%S Rail Fees Omsk Refinery-Vysotsk MAvg Rb/MT
+RN AAWKN0000000c AAWKN00c           DW RUB MT  120322 190118 Fuel Oil 3.5%S Rail Fees Ufa Refinery-Vysotsk Rb/MT
+RN AAWKN0300000c AAWKN03c           MA RUB MT  120401 181201 Fuel Oil 3.5%S Rail Fees Ufa Refinery-Vysotsk MAvg Rb/MT
+RN AAWKO0000000c AAWKO00c           DW USD MT  120322 190118 Fuel Oil 3.5%S Transshipment Vysotsk $/MT
+RN AAWKO0300000c AAWKO03c           MA USD MT  120401 181201 Fuel Oil 3.5%S Transshipment Vysotsk MAvg $/MT
+RN AAWKP0000000c AAWKP00c           DW USD MT  120322 190118 Gasoil 0.1%S Med Cargo Omsk Refinery Via Novorossiysk Netback $/MT
+RN AAWKP0300000c AAWKP03c           MA USD MT  120401 181201 Gasoil 0.1%S Med Cargo Omsk Refinery Via Novorossiysk Netback MAvg $/MT
+RN AAWKQ0000000c AAWKQ00c           DW RUB MT  120322 190118 Gasoil 0.1%S Med Cargo Omsk Refinery Via Novorossiysk Netback Rb/Mt
+RN AAWKQ0300000c AAWKQ03c           MA RUB MT  120401 181201 Gasoil 0.1%S Med Cargo Omsk Refinery Via Novorossiysk Netback MAvg Rb/Mt
+RN AAWKR0000000c AAWKR00c           DW RUB MT  120322 190118 Gasoline Rail Fees Kirishi Refinery-Vysotsk Rb/MT
+RN AAWKR0300000c AAWKR03c           MA RUB MT  120401 181201 Gasoline Rail Fees Kirishi Refinery-Vysotsk MAvg Rb/MT
+RN AAWKS0000000c AAWKS00c           DW RUB MT  120322 190118 Jet Fuel Rail Fees Moscow Refinery-Ventspils Rb/Mt
+RN AAWKS0300000c AAWKS03c           MA RUB MT  120401 181201 Jet Fuel Rail Fees Moscow Refinery-Ventspils MAvg Rb/Mt
+RN AAWKT0000000c AAWKT00c           DW USD MT  120322 190118 Jet Fuel Transshipment Ventspils $/MT
+RN AAWKT0300000c AAWKT03c           MA USD MT  120401 181201 Jet Fuel Transshipment Ventspils MAvg $/MT
+RN AAWKU0000000c AAWKU00c           DW RUB MT                ULSD Pipeline Fees Kirishy Refinery-Primorsk Rb/Mt
+RN AAWKU0300000c AAWKU03c           MA RUB MT                ULSD Pipeline Fees Kirishy Refinery-Primorsk MAvg Rb/Mt

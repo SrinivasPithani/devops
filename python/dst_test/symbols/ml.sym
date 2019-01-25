@@ -1,0 +1,1052 @@
+ML                                                           © 2019 by S&P Global Inc.,190119
+ML AAJJX0000000c AAJJX00c           DA USD MT  020531 190118 LME NA Sec Alum Settle Daily
+ML AAJJY0000000c AAJJY00c           WA USD MT  030912 190118 LME NA Sec Alum Settle WkAvg
+ML AAJJZ0000000c AAJJZ00c           MA USD MT  020701 181201 LME NA Sec Alum Settle MAvg
+ML AAJJZ1600000c AAJJZ16c           YR USD MT  021231 181231 Aluminum NA Alloy LME Settle London $/MT YAvg
+ML AAJKA0000000c AAJKA00c           DW USD MT  020321 190118 Alum LME Alloy Off Sett Daily
+ML AAJKB0000000c AAJKB00c           WA USD MT  110204 190118 Alum LME Alloy Off Sett WkAvg
+ML AAJKC0000000c AAJKC00c           WA USD MT  030901 181201 Alum LME Alloy Off Sett MAvg
+ML AAJKC1600000c AAJKC16c           YR USD MT  031231 181231 Aluminum Alloy LME Settle London $/MT YAvg
+ML AAJKG0000000a AAJKG00a           DW USD MT  020530 190118 LME NA Sec Alum Cash Daily
+ML AAJKG0000000b AAJKG00b           DW USD MT  020530 190118 LME NA Sec Alum Cash Daily
+ML AAJKH0000000c AAJKH00c           WA USD MT  030912 190118 LME NA Sec Alum Cash WkAvg
+ML AAJKI0000000c AAJKI00c           MA USD MT  020701 181201 LME NA Sec Alum Cash MAvg
+ML AAJKI1600000c AAJKI16c           YR USD MT  021231 181231 Aluminum NA Alloy LME Cash London $/MT YAvg
+ML AAJMT0000000u AAJMT00u           DW N/A MT  020704 190117 LME NA Al Alloy Closing Stks
+ML AADCX0000000u AADCX00u           DW N/A MT  991007 190117 LME NA Al Alloy Cancelled Tonnage
+ML AADCY0000000u AADCY00u           DW N/A MT  020502 190117 LME NA Al Alloy Open Tonnage
+ML AAJCB0000000a AAJCB00a           DW USD MT  020321 190118 LME NA Sec Alum 3 Mo CP
+ML AAJCB0000000b AAJCB00b           DW USD MT  020321 190118 LME NA Sec Alum 3 Mo CP
+ML AAJCC0000000c AAJCC00c           WA USD MT  020328 190118 LME NA Sec Alum 3 Mo CP WkAvg
+ML AAJCD0000000c AAJCD00c           MA USD MT  020301 181201 LME NA Sec Alum 3 Mo CP MAvg
+ML AAJCD1600000c AAJCD16c           YR USD MT  021231 181231 Aluminum NA Alloy LME 3 Month London $/MT YAvg
+ML LANAI0000000u LANAI00u           DW N/A MT  110224 190117 LME Al Alloy Dlvd In Stks
+ML LANAO0000000u LANAO00u           DW N/A MT  110224 190117 LME Al Alloy Dlvd Out Stks
+ML LANAP0000000u LANAP00u           DW N/A MT  110224 190117 LME Al Alloy Opening Stks
+ML LMT024200000u LMT0242u           DW N/A N/A 150409 180227 LME Cobalt COT Fut Short Pos Chg Broker Dealer Indx Trder Short
+ML LMT024300000u LMT0243u           DW N/A N/A 150702 171018 LME Cobalt COT Fut Short Pos Chg Not Def Short
+ML LMT024400000u LMT0244u           DW N/A N/A 150409 180227 LME Cobalt COT Fut Short Pos Chg Producer/Merch Short
+ML LMT024500000u LMT0245u           DW N/A N/A 150409 180227 LME Copper COT Fut Short Pos Chg Broker Dealer Indx Trder Short
+ML LMT024600000u LMT0246u           DW N/A N/A 150409 180227 LME Copper COT Fut Short Pos Chg Mngd Money Short
+ML LMT024700000u LMT0247u           DW N/A N/A 150409 180227 LME Copper COT Fut Short Pos Chg Not Def Short
+ML LMT024800000u LMT0248u           DW N/A N/A 150409 180227 LME Copper COT Fut Short Pos Chg Other Reportables Short
+ML LMT024900000u LMT0249u           DW N/A N/A 150409 180227 LME Copper COT Fut Short Pos Chg Producer/Merch Short
+ML LMT025000000u LMT0250u           DW N/A N/A 150409 180227 LME Lead COT Fut Short Pos Chg Broker Dealer Indx Trder Short
+ML LMT025100000u LMT0251u           DW N/A N/A 150409 180227 LME Lead COT Fut Short Pos Chg Mngd Money Short
+ML LMT025200000u LMT0252u           DW N/A N/A 150409 180227 LME Lead COT Fut Short Pos Chg Not Def Short
+ML LMT025300000u LMT0253u           DW N/A N/A 150409 180227 LME Lead COT Fut Short Pos Chg Other Reportables Short
+ML LMT025400000u LMT0254u           DW N/A N/A 150409 180227 LME Lead COT Fut Short Pos Chg Producer/Merch Short
+ML LMT025500000u LMT0255u           DW N/A N/A 150409 180227 LME LMEswap Aluminum COT Fut Short Pos Chg Broker Dealer Indx Trder Short
+ML LMT025600000u LMT0256u           DW N/A N/A 150409 171130 LME LMEswap Aluminum COT Fut Short Pos Chg Mngd Money Short
+ML LMT025700000u LMT0257u           DW N/A N/A 150409 180227 LME LMEswap Aluminum COT Fut Short Pos Chg Producer/Merch Short
+ML LMT025800000u LMT0258u           DW N/A N/A 150409 180227 LME LMEswap Copper COT Fut Short Pos Chg Broker Dealer Indx Trder Short
+ML LMT025900000u LMT0259u           DW N/A N/A 150409 180227 LME LMEswap Copper COT Fut Short Pos Chg Producer/Merch Short
+ML LMT026000000u LMT0260u           DW N/A N/A 150409 180227 LME LMEswap Lead COT Fut Short Pos Chg Broker Dealer Indx Trder Short
+ML LMT026100000u LMT0261u           DW N/A N/A 150409 180227 LME LMEswap Lead COT Fut Short Pos Chg Producer/Merch Short
+ML LMT026200000u LMT0262u           DW N/A N/A 150409 180227 LME LMEswap Nickel COT Fut Short Pos Chg Broker Dealer Indx Trder Short
+ML LMT026300000u LMT0263u           DW N/A N/A               LME LMEswap Nickel COT Fut Short Pos Chg Mngd Money Short
+ML LMT026400000u LMT0264u           DW N/A N/A 150409 180227 LME LMEswap Nickel COT Fut Short Pos Chg Producer/Merch Short
+ML LMT026500000u LMT0265u           DW N/A N/A 150409 180227 LME LMEswap Zinc COT Fut Short Pos Chg Broker Dealer Indx Trder Short
+ML LMT026600000u LMT0266u           DW N/A N/A 150409 180227 LME LMEswap Zinc COT Fut Short Pos Chg Producer/Merch Short
+ML LMT026700000u LMT0267u           DW N/A N/A 150409 160720 LME Molybdenum COT Fut Short Pos Chg Broker Dealer Indx Trder Short
+ML LMT026800000u LMT0268u           DW N/A N/A 160111 160118 LME Molybdenum COT Fut Short Pos Chg Not Def Short
+ML LMT026900000u LMT0269u           DW N/A N/A 150409 150428 LME Molybdenum COT Fut Short Pos Chg Other Reportables Short
+ML LMT027000000u LMT0270u           DW N/A N/A 150409 160817 LME Molybdenum COT Fut Short Pos Chg Producer/Merch Short
+ML LMT027100000u LMT0271u           DW N/A N/A 150409 180227 LME NASSAC COT Fut Short Pos Chg Broker Dealer Indx Trder Short
+ML LMT027200000u LMT0272u           DW N/A N/A 150409 180227 LME NASSAC COT Fut Short Pos Chg Mngd Money Short
+ML LMT027300000u LMT0273u           DW N/A N/A 150603 170801 LME NASSAC COT Fut Short Pos Chg Not Def Short
+ML LMT027400000u LMT0274u           DW N/A N/A 150409 180227 LME NASSAC COT Fut Short Pos Chg Producer/Merch Short
+ML LMT027500000u LMT0275u           DW N/A N/A 150409 180227 LME Nickel COT Fut Short Pos Chg Broker Dealer Indx Trder Short
+ML LMT027600000u LMT0276u           DW N/A N/A 150409 180227 LME Nickel COT Fut Short Pos Chg Mngd Money Short
+ML LMT027700000u LMT0277u           DW N/A N/A 150409 180227 LME Nickel COT Fut Short Pos Chg Not Def Short
+ML LMT027800000u LMT0278u           DW N/A N/A 150409 180227 LME Nickel COT Fut Short Pos Chg Other Reportables Short
+ML LMT027900000u LMT0279u           DW N/A N/A 150409 180227 LME Nickel COT Fut Short Pos Chg Producer/Merch Short
+ML LMT028000000u LMT0280u           DW N/A N/A 150409 171031 LME LMEswap Tin COT Fut Short Pos Chg Broker Dealer Indx Trder Short
+ML LMT028100000u LMT0281u           DW N/A N/A 150409 180227 LME Tin COT Fut Short Pos Chg Broker Dealer Indx Trder Short
+ML LMT028200000u LMT0282u           DW N/A N/A 150409 180227 LME Tin COT Fut Short Pos Chg Mngd Money Short
+ML LMT028300000u LMT0283u           DW N/A N/A 150409 180227 LME Tin COT Fut Short Pos Chg Not Def Short
+ML LMT028400000u LMT0284u           DW N/A N/A 150409 180227 LME Tin COT Fut Short Pos Chg Other Reportables Short
+ML LMT028500000u LMT0285u           DW N/A N/A 150409 180227 LME Tin COT Fut Short Pos Chg Producer/Merch Short
+ML LMT028600000u LMT0286u           DW N/A N/A 150409 180227 LME Zinc COT Fut Short Pos Chg Broker Dealer Indx Trder Short
+ML LMT028700000u LMT0287u           DW N/A N/A 150409 180227 LME Zinc COT Fut Short Pos Chg Mngd Money Short
+ML LMT028800000u LMT0288u           DW N/A N/A 150409 180227 LME Zinc COT Fut Short Pos Chg Not Def Short
+ML LMT028900000u LMT0289u           DW N/A N/A 150409 180227 LME Zinc COT Fut Short Pos Chg Other Reportables Short
+ML LMT029000000u LMT0290u           DW N/A N/A 150409 180227 LME Zinc COT Fut Short Pos Chg Producer/Merch Short
+ML LMT029100000u LMT0291u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Tot Net Pos Broker Dealer Indx Trder Netpsition
+ML LMT029200000u LMT0292u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Tot Net Pos Mngd Money Netpsition
+ML LMT029300000u LMT0293u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Tot Net Pos Not Def Netpsition
+ML LMT029400000u LMT0294u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Tot Net Pos Other Reportables Netpsition
+ML LMT029500000u LMT0295u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Tot Net Pos Producer/Merch Netpsition
+ML LMT029600000u LMT0296u           DW N/A N/A 150409 180227 LME Aluminum Alloy COT Fut Tot Net Pos Broker Dealer Indx Trder Netpsition
+ML LMT029700000u LMT0297u           DW N/A N/A 150409 180227 LME Aluminum Alloy COT Fut Tot Net Pos Mngd Money Netpsition
+ML LMT029800000u LMT0298u           DW N/A N/A 150610 171207 LME Aluminum Alloy COT Fut Tot Net Pos Not Def Netpsition
+ML LMT029900000u LMT0299u           DW N/A N/A 150409 180227 LME Aluminum Alloy COT Fut Tot Net Pos Producer/Merch Netpsition
+ML LMT030000000u LMT0300u           DW N/A N/A 150409 180227 LME Cobalt COT Fut Tot Net Pos Broker Dealer Indx Trder Netpsition
+ML LMT030100000u LMT0301u           DW N/A N/A 150702 171018 LME Cobalt COT Fut Tot Net Pos Not Def Netpsition
+ML LMT030200000u LMT0302u           DW N/A N/A 150409 180227 LME Cobalt COT Fut Tot Net Pos Producer/Merch Netpsition
+ML LMT030300000u LMT0303u           DW N/A N/A 150409 180227 LME Copper COT Fut Tot Net Pos Broker Dealer Indx Trder Netpsition
+ML LMT030400000u LMT0304u           DW N/A N/A 150409 180227 LME Copper COT Fut Tot Net Pos Mngd Money Netpsition
+ML LMT030500000u LMT0305u           DW N/A N/A 150409 180227 LME Copper COT Fut Tot Net Pos Not Def Netpsition
+ML LMT030600000u LMT0306u           DW N/A N/A 150409 180227 LME Copper COT Fut Tot Net Pos Other Reportables Netpsition
+ML LMT030700000u LMT0307u           DW N/A N/A 150409 180227 LME Copper COT Fut Tot Net Pos Producer/Merch Netpsition
+ML LMT030800000u LMT0308u           DW N/A N/A 150409 180227 LME Lead COT Fut Tot Net Pos Broker Dealer Indx Trder Netpsition
+ML LMT030900000u LMT0309u           DW N/A N/A 150409 180227 LME Lead COT Fut Tot Net Pos Mngd Money Netpsition
+ML LMT031000000u LMT0310u           DW N/A N/A 150409 180227 LME Lead COT Fut Tot Net Pos Not Def Netpsition
+ML LMT031100000u LMT0311u           DW N/A N/A 150409 180227 LME Lead COT Fut Tot Net Pos Other Reportables Netpsition
+ML LMT031200000u LMT0312u           DW N/A N/A 150409 180227 LME Lead COT Fut Tot Net Pos Producer/Merch Netpsition
+ML LMT031300000u LMT0313u           DW N/A N/A 150409 180227 LME LMEswap Aluminum COT Fut Tot Net Pos Broker Dealer Indx Trder Netpsition
+ML LMT031400000u LMT0314u           DW N/A N/A 150409 171130 LME LMEswap Aluminum COT Fut Tot Net Pos Mngd Money Netpsition
+ML LMT031500000u LMT0315u           DW N/A N/A 150409 180227 LME LMEswap Aluminum COT Fut Tot Net Pos Producer/Merch Netpsition
+ML LMT031600000u LMT0316u           DW N/A N/A 150409 180227 LME LMEswap Copper COT Fut Tot Net Pos Broker Dealer Indx Trder Netpsition
+ML LMT031700000u LMT0317u           DW N/A N/A 150409 180227 LME LMEswap Copper COT Fut Tot Net Pos Producer/Merch Netpsition
+ML LMT031800000u LMT0318u           DW N/A N/A 150409 180227 LME LMEswap Lead COT Fut Tot Net Pos Broker Dealer Indx Trder Netpsition
+ML LMT031900000u LMT0319u           DW N/A N/A 150409 180227 LME LMEswap Lead COT Fut Tot Net Pos Producer/Merch Netpsition
+ML LMT032000000u LMT0320u           DW N/A N/A 150409 180227 LME LMEswap Nickel COT Fut Tot Net Pos Broker Dealer Indx Trder Netpsition
+ML LMT032100000u LMT0321u           DW N/A N/A               LME LMEswap Nickel COT Fut Tot Net Pos Mngd Money Netpsition
+ML LMT032200000u LMT0322u           DW N/A N/A 150409 180227 LME LMEswap Nickel COT Fut Tot Net Pos Producer/Merch Netpsition
+ML LMT032300000u LMT0323u           DW N/A N/A 150409 180227 LME LMEswap Zinc COT Fut Tot Net Pos Broker Dealer Indx Trder Netpsition
+ML LMT032400000u LMT0324u           DW N/A N/A 150409 180227 LME LMEswap Zinc COT Fut Tot Net Pos Producer/Merch Netpsition
+ML LMT032500000u LMT0325u           DW N/A N/A 150409 160720 LME Molybdenum COT Fut Tot Net Pos Broker Dealer Indx Trder Netpsition
+ML LMT032600000u LMT0326u           DW N/A N/A 160111 160118 LME Molybdenum COT Fut Tot Net Pos Not Def Netpsition
+ML LMT032700000u LMT0327u           DW N/A N/A 150409 150428 LME Molybdenum COT Fut Tot Net Pos Other Reportables Netpsition
+ML LMT032800000u LMT0328u           DW N/A N/A 150409 160817 LME Molybdenum COT Fut Tot Net Pos Producer/Merch Netpsition
+ML LMT032900000u LMT0329u           DW N/A N/A 150409 180227 LME NASSAC COT Fut Tot Net Pos Broker Dealer Indx Trder Netpsition
+ML LMT033000000u LMT0330u           DW N/A N/A 150409 180227 LME NASSAC COT Fut Tot Net Pos Mngd Money Netpsition
+ML LMT033100000u LMT0331u           DW N/A N/A 150603 170801 LME NASSAC COT Fut Tot Net Pos Not Def Netpsition
+ML LMT033200000u LMT0332u           DW N/A N/A 150409 180227 LME NASSAC COT Fut Tot Net Pos Producer/Merch Netpsition
+ML LMT033300000u LMT0333u           DW N/A N/A 150409 180227 LME Nickel COT Fut Tot Net Pos Broker Dealer Indx Trder Netpsition
+ML LMT033400000u LMT0334u           DW N/A N/A 150409 180227 LME Nickel COT Fut Tot Net Pos Mngd Money Netpsition
+ML LMT033500000u LMT0335u           DW N/A N/A 150409 180227 LME Nickel COT Fut Tot Net Pos Not Def Netpsition
+ML LMT033600000u LMT0336u           DW N/A N/A 150409 180227 LME Nickel COT Fut Tot Net Pos Other Reportables Netpsition
+ML LMT033700000u LMT0337u           DW N/A N/A 150409 180227 LME Nickel COT Fut Tot Net Pos Producer/Merch Netpsition
+ML LMT033800000u LMT0338u           DW N/A N/A 150409 171031 LME LMEswap Tin COT Fut Tot Net Pos Broker Dealer Indx Trder Netpsition
+ML LMT033900000u LMT0339u           DW N/A N/A 150409 180227 LME Tin COT Fut Tot Net Pos Broker Dealer Indx Trder Netpsition
+ML LMT034000000u LMT0340u           DW N/A N/A 150409 180227 LME Tin COT Fut Tot Net Pos Mngd Money Netpsition
+ML LMT034100000u LMT0341u           DW N/A N/A 150409 180227 LME Tin COT Fut Tot Net Pos Not Def Netpsition
+ML LMT034200000u LMT0342u           DW N/A N/A 150409 180227 LME Tin COT Fut Tot Net Pos Other Reportables Netpsition
+ML LMT034300000u LMT0343u           DW N/A N/A 150409 180227 LME Tin COT Fut Tot Net Pos Producer/Merch Netpsition
+ML LMT034400000u LMT0344u           DW N/A N/A 150409 180227 LME Zinc COT Fut Tot Net Pos Broker Dealer Indx Trder Netpsition
+ML LMT034500000u LMT0345u           DW N/A N/A 150409 180227 LME Zinc COT Fut Tot Net Pos Mngd Money Netpsition
+ML LMT034600000u LMT0346u           DW N/A N/A 150409 180227 LME Zinc COT Fut Tot Net Pos Not Def Netpsition
+ML LMT034700000u LMT0347u           DW N/A N/A 150409 180227 LME Zinc COT Fut Tot Net Pos Other Reportables Netpsition
+ML LMT034800000u LMT0348u           DW N/A N/A 150409 180227 LME Zinc COT Fut Tot Net Pos Producer/Merch Netpsition
+ML LMT034900000u LMT0349u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Tot No Of Longs Broker Dealer Indx Trder Long
+ML LMT035000000u LMT0350u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Tot No Of Longs Mngd Money Long
+ML LMT035100000u LMT0351u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Tot No Of Longs Not Def Long
+ML LMT035200000u LMT0352u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Tot No Of Longs Other Reportables Long
+ML LMT035300000u LMT0353u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Tot No Of Longs Producer/Merch Long
+ML LMT035400000u LMT0354u           DW N/A N/A 150409 180227 LME Aluminum Alloy COT Fut Tot No Of Longs Broker Dealer Indx Trder Long
+ML LMT035500000u LMT0355u           DW N/A N/A 150409 180227 LME Aluminum Alloy COT Fut Tot No Of Longs Mngd Money Long
+ML LMT035600000u LMT0356u           DW N/A N/A 150610 171207 LME Aluminum Alloy COT Fut Tot No Of Longs Not Def Long
+ML LMT035700000u LMT0357u           DW N/A N/A 150409 180227 LME Aluminum Alloy COT Fut Tot No Of Longs Producer/Merch Long
+ML LMT035800000u LMT0358u           DW N/A N/A 150409 180227 LME Cobalt COT Fut Tot No Of Longs Broker Dealer Indx Trder Long
+ML LMT035900000u LMT0359u           DW N/A N/A 150702 171018 LME Cobalt COT Fut Tot No Of Longs Not Def Long
+ML LMT036000000u LMT0360u           DW N/A N/A 150409 180227 LME Cobalt COT Fut Tot No Of Longs Producer/Merch Long
+ML LMT036100000u LMT0361u           DW N/A N/A 150409 180227 LME Copper COT Fut Tot No Of Longs Broker Dealer Indx Trder Long
+ML LMT036200000u LMT0362u           DW N/A N/A 150409 180227 LME Copper COT Fut Tot No Of Longs Mngd Money Long
+ML LMT036300000u LMT0363u           DW N/A N/A 150409 180227 LME Copper COT Fut Tot No Of Longs Not Def Long
+ML LMT036400000u LMT0364u           DW N/A N/A 150409 180227 LME Copper COT Fut Tot No Of Longs Other Reportables Long
+ML LMT036500000u LMT0365u           DW N/A N/A 150409 180227 LME Copper COT Fut Tot No Of Longs Producer/Merch Long
+ML LMT036600000u LMT0366u           DW N/A N/A 150409 180227 LME Lead COT Fut Tot No Of Longs Broker Dealer Indx Trder Long
+ML LMT036700000u LMT0367u           DW N/A N/A 150409 180227 LME Lead COT Fut Tot No Of Longs Mngd Money Long
+ML LMT036800000u LMT0368u           DW N/A N/A 150409 180227 LME Lead COT Fut Tot No Of Longs Not Def Long
+ML LMT036900000u LMT0369u           DW N/A N/A 150409 180227 LME Lead COT Fut Tot No Of Longs Other Reportables Long
+ML LMT037000000u LMT0370u           DW N/A N/A 150409 180227 LME Lead COT Fut Tot No Of Longs Producer/Merch Long
+ML LMT037100000u LMT0371u           DW N/A N/A 150409 180227 LME LMEswap Aluminum COT Fut Tot No Of Longs Broker Dealer Indx Trder Long
+ML LMT037200000u LMT0372u           DW N/A N/A 150409 171130 LME LMEswap Aluminum COT Fut Tot No Of Longs Mngd Money Long
+ML LMT037300000u LMT0373u           DW N/A N/A 150409 180227 LME LMEswap Aluminum COT Fut Tot No Of Longs Producer/Merch Long
+ML LMT037400000u LMT0374u           DW N/A N/A 150409 180227 LME LMEswap Copper COT Fut Tot No Of Longs Broker Dealer Indx Trder Long
+ML LMT037500000u LMT0375u           DW N/A N/A 150409 180227 LME LMEswap Copper COT Fut Tot No Of Longs Producer/Merch Long
+ML LMT037600000u LMT0376u           DW N/A N/A 150409 180227 LME LMEswap Lead COT Fut Tot No Of Longs Broker Dealer Indx Trder Long
+ML LMT037700000u LMT0377u           DW N/A N/A 150409 180227 LME LMEswap Lead COT Fut Tot No Of Longs Producer/Merch Long
+ML LMT037800000u LMT0378u           DW N/A N/A 150409 180227 LME LMEswap Nickel COT Fut Tot No Of Longs Broker Dealer Indx Trder Long
+ML LMT037900000u LMT0379u           DW N/A N/A               LME LMEswap Nickel COT Fut Tot No Of Longs Mngd Money Long
+ML LMT038000000u LMT0380u           DW N/A N/A 150409 180227 LME LMEswap Nickel COT Fut Tot No Of Longs Producer/Merch Long
+ML LMT038100000u LMT0381u           DW N/A N/A 150409 180227 LME LMEswap Zinc COT Fut Tot No Of Longs Broker Dealer Indx Trder Long
+ML LMT038200000u LMT0382u           DW N/A N/A 150409 180227 LME LMEswap Zinc COT Fut Tot No Of Longs Producer/Merch Long
+ML LMT038300000u LMT0383u           DW N/A N/A 150409 160720 LME Molybdenum COT Fut Tot No Of Longs Broker Dealer Indx Trder Long
+ML LMT038400000u LMT0384u           DW N/A N/A 160111 160118 LME Molybdenum COT Fut Tot No Of Longs Not Def Long
+ML LMT038500000u LMT0385u           DW N/A N/A 150409 150428 LME Molybdenum COT Fut Tot No Of Longs Other Reportables Long
+ML LMT038600000u LMT0386u           DW N/A N/A 150409 160817 LME Molybdenum COT Fut Tot No Of Longs Producer/Merch Long
+ML LMT038700000u LMT0387u           DW N/A N/A 150409 180227 LME NASSAC COT Fut Tot No Of Longs Broker Dealer Indx Trder Long
+ML LMT038800000u LMT0388u           DW N/A N/A 150409 180227 LME NASSAC COT Fut Tot No Of Longs Mngd Money Long
+ML LMT038900000u LMT0389u           DW N/A N/A 150603 170801 LME NASSAC COT Fut Tot No Of Longs Not Def Long
+ML LMT039000000u LMT0390u           DW N/A N/A 150409 180227 LME NASSAC COT Fut Tot No Of Longs Producer/Merch Long
+ML LMT039100000u LMT0391u           DW N/A N/A 150409 180227 LME Nickel COT Fut Tot No Of Longs Broker Dealer Indx Trder Long
+ML LMT039200000u LMT0392u           DW N/A N/A 150409 180227 LME Nickel COT Fut Tot No Of Longs Mngd Money Long
+ML LMT039300000u LMT0393u           DW N/A N/A 150409 180227 LME Nickel COT Fut Tot No Of Longs Not Def Long
+ML LMT039400000u LMT0394u           DW N/A N/A 150409 180227 LME Nickel COT Fut Tot No Of Longs Other Reportables Long
+ML LMT039500000u LMT0395u           DW N/A N/A 150409 180227 LME Nickel COT Fut Tot No Of Longs Producer/Merch Long
+ML LMT039600000u LMT0396u           DW N/A N/A 150409 171031 LME LMEswap Tin COT Fut Tot No Of Longs Broker Dealer Indx Trder Long
+ML LMT039700000u LMT0397u           DW N/A N/A 150409 180227 LME Tin COT Fut Tot No Of Longs Broker Dealer Indx Trder Long
+ML LMT039800000u LMT0398u           DW N/A N/A 150409 180227 LME Tin COT Fut Tot No Of Longs Mngd Money Long
+ML LMT039900000u LMT0399u           DW N/A N/A 150409 180227 LME Tin COT Fut Tot No Of Longs Not Def Long
+ML LMT040000000u LMT0400u           DW N/A N/A 150409 180227 LME Tin COT Fut Tot No Of Longs Other Reportables Long
+ML LMT040100000u LMT0401u           DW N/A N/A 150409 180227 LME Tin COT Fut Tot No Of Longs Producer/Merch Long
+ML LMT040200000u LMT0402u           DW N/A N/A 150409 180227 LME Zinc COT Fut Tot No Of Longs Broker Dealer Indx Trder Long
+ML LMT040300000u LMT0403u           DW N/A N/A 150409 180227 LME Zinc COT Fut Tot No Of Longs Mngd Money Long
+ML LMT040400000u LMT0404u           DW N/A N/A 150409 180227 LME Zinc COT Fut Tot No Of Longs Not Def Long
+ML LMT040500000u LMT0405u           DW N/A N/A 150409 180227 LME Zinc COT Fut Tot No Of Longs Other Reportables Long
+ML LMT040600000u LMT0406u           DW N/A N/A 150409 180227 LME Zinc COT Fut Tot No Of Longs Producer/Merch Long
+ML LMT040700000u LMT0407u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Tot No Of Shorts Broker Dealer Indx Trder Short
+ML LMT040800000u LMT0408u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Tot No Of Shorts Mngd Money Short
+ML LMT040900000u LMT0409u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Tot No Of Shorts Not Def Short
+ML LMT041000000u LMT0410u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Tot No Of Shorts Other Reportables Short
+ML LMT041100000u LMT0411u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Tot No Of Shorts Producer/Merch Short
+ML LMT041200000u LMT0412u           DW N/A N/A 150409 180227 LME Aluminum Alloy COT Fut Tot No Of Shorts Broker Dealer Indx Trder Short
+ML LMT041300000u LMT0413u           DW N/A N/A 150409 180227 LME Aluminum Alloy COT Fut Tot No Of Shorts Mngd Money Short
+ML LMT041400000u LMT0414u           DW N/A N/A 150610 171207 LME Aluminum Alloy COT Fut Tot No Of Shorts Not Def Short
+ML LMT041500000u LMT0415u           DW N/A N/A 150409 180227 LME Aluminum Alloy COT Fut Tot No Of Shorts Producer/Merch Short
+ML LMT041600000u LMT0416u           DW N/A N/A 150409 180227 LME Cobalt COT Fut Tot No Of Shorts Broker Dealer Indx Trder Short
+ML LMT041700000u LMT0417u           DW N/A N/A 150702 171018 LME Cobalt COT Fut Tot No Of Shorts Not Def Short
+ML LMT041800000u LMT0418u           DW N/A N/A 150409 180227 LME Cobalt COT Fut Tot No Of Shorts Producer/Merch Short
+ML LMT041900000u LMT0419u           DW N/A N/A 150409 180227 LME Copper COT Fut Tot No Of Shorts Broker Dealer Indx Trder Short
+ML LMT042000000u LMT0420u           DW N/A N/A 150409 180227 LME Copper COT Fut Tot No Of Shorts Mngd Money Short
+ML LMT042100000u LMT0421u           DW N/A N/A 150409 180227 LME Copper COT Fut Tot No Of Shorts Not Def Short
+ML LMT042200000u LMT0422u           DW N/A N/A 150409 180227 LME Copper COT Fut Tot No Of Shorts Other Reportables Short
+ML LMT042300000u LMT0423u           DW N/A N/A 150409 180227 LME Copper COT Fut Tot No Of Shorts Producer/Merch Short
+ML LMT042400000u LMT0424u           DW N/A N/A 150409 180227 LME Lead COT Fut Tot No Of Shorts Broker Dealer Indx Trder Short
+ML LMT042500000u LMT0425u           DW N/A N/A 150409 180227 LME Lead COT Fut Tot No Of Shorts Mngd Money Short
+ML LMT042600000u LMT0426u           DW N/A N/A 150409 180227 LME Lead COT Fut Tot No Of Shorts Not Def Short
+ML LMT042700000u LMT0427u           DW N/A N/A 150409 180227 LME Lead COT Fut Tot No Of Shorts Other Reportables Short
+ML LMT042800000u LMT0428u           DW N/A N/A 150409 180227 LME Lead COT Fut Tot No Of Shorts Producer/Merch Short
+ML LMT042900000u LMT0429u           DW N/A N/A 150409 180227 LME LMEswap Aluminum COT Fut Tot No Of Shorts Broker Dealer Indx Trder Short
+ML LMT043000000u LMT0430u           DW N/A N/A 150409 171130 LME LMEswap Aluminum COT Fut Tot No Of Shorts Mngd Money Short
+ML LMT043100000u LMT0431u           DW N/A N/A 150409 180227 LME LMEswap Aluminum COT Fut Tot No Of Shorts Producer/Merch Short
+ML LJANT0000000u LJANT00u           DW N/A MT  110301 120309 LME Alum Japan Closing Stks
+ML LLJHC0000000u LLJHC00u           DW N/A MT  110224 190117 LME Lead Johor Closing Stks
+ML LLJHI0000000u LLJHI00u           DW N/A MT  110224 190117 LME Lead Johor Dlvd In Stks
+ML LLJHL0000000u LLJHL00u           DW N/A MT  110224 190117 LME Lead Johor Cancelled Tonnage
+ML LLJHN0000000u LLJHN00u           DW N/A MT  110224 190117 LME Lead Johor Open Tonnage
+ML LLJHO0000000u LLJHO00u           DW N/A MT  110224 190117 LME Lead Johor Dlvd Out Stks
+ML LLJHP0000000u LLJHP00u           DW N/A MT  110224 190117 LME Lead Johor Opening Stks
+ML LLNAI0000000u LLNAI00u           DW N/A MT  110224 190117 LME Lead Dlvd In Stks
+ML LLNAO0000000u LLNAO00u           DW N/A MT  110224 190117 LME Lead Dlvd Out Stks
+ML LLNAP0000000u LLNAP00u           DW N/A MT  110224 190117 LME Lead Opening Stks
+ML LLPKC0000000u LLPKC00u           DW N/A MT  110224 190117 LME Lead Port Klang Closing Stks
+ML LLPKI0000000u LLPKI00u           DW N/A MT  110224 190117 LME Lead Port Klang Dlvd In Stks
+ML LLPKL0000000u LLPKL00u           DW N/A MT  110224 190117 LME Lead Port Klang Cancelled Tonnage
+ML LLPKN0000000u LLPKN00u           DW N/A MT  110224 190117 LME Lead Port Klang Open Tonnage
+ML LLPKO0000000u LLPKO00u           DW N/A MT  110224 190117 LME Lead Port Klang Dlvd Out Stks
+ML LLPKP0000000u LLPKP00u           DW N/A MT  110224 190117 LME Lead Port Klang Opening Stks
+ML LLSGC0000000u LLSGC00u           DW N/A MT  110224 190117 LME Lead Singapore Closing Stks
+ML LLSGI0000000u LLSGI00u           DW N/A MT  110224 190117 LME Lead Singapore Dlvd In Stks
+ML LMT043200000u LMT0432u           DW N/A N/A 150409 180227 LME LMEswap Copper COT Fut Tot No Of Shorts Broker Dealer Indx Trder Short
+ML LMT043300000u LMT0433u           DW N/A N/A 150409 180227 LME LMEswap Copper COT Fut Tot No Of Shorts Producer/Merch Short
+ML LMT043400000u LMT0434u           DW N/A N/A 150409 180227 LME LMEswap Lead COT Fut Tot No Of Shorts Broker Dealer Indx Trder Short
+ML LMT043500000u LMT0435u           DW N/A N/A 150409 180227 LME LMEswap Lead COT Fut Tot No Of Shorts Producer/Merch Short
+ML LMT043600000u LMT0436u           DW N/A N/A 150409 180227 LME LMEswap Nickel COT Fut Tot No Of Shorts Broker Dealer Indx Trder Short
+ML LMT043700000u LMT0437u           DW N/A N/A               LME LMEswap Nickel COT Fut Tot No Of Shorts Mngd Money Short
+ML LMT043800000u LMT0438u           DW N/A N/A 150409 180227 LME LMEswap Nickel COT Fut Tot No Of Shorts Producer/Merch Short
+ML LMT043900000u LMT0439u           DW N/A N/A 150409 180227 LME LMEswap Zinc COT Fut Tot No Of Shorts Broker Dealer Indx Trder Short
+ML LMT044000000u LMT0440u           DW N/A N/A 150409 180227 LME LMEswap Zinc COT Fut Tot No Of Shorts Producer/Merch Short
+ML LMT044100000u LMT0441u           DW N/A N/A 150409 160720 LME Molybdenum COT Fut Tot No Of Shorts Broker Dealer Indx Trder Short
+ML LMT044200000u LMT0442u           DW N/A N/A 160111 160118 LME Molybdenum COT Fut Tot No Of Shorts Not Def Short
+ML LMT044300000u LMT0443u           DW N/A N/A 150409 150428 LME Molybdenum COT Fut Tot No Of Shorts Other Reportables Short
+ML LMT044400000u LMT0444u           DW N/A N/A 150409 160817 LME Molybdenum COT Fut Tot No Of Shorts Producer/Merch Short
+ML LMT044500000u LMT0445u           DW N/A N/A 150409 180227 LME NASSAC COT Fut Tot No Of Shorts Broker Dealer Indx Trder Short
+ML LMT044600000u LMT0446u           DW N/A N/A 150409 180227 LME NASSAC COT Fut Tot No Of Shorts Mngd Money Short
+ML LMT044700000u LMT0447u           DW N/A N/A 150603 170801 LME NASSAC COT Fut Tot No Of Shorts Not Def Short
+ML LMT044800000u LMT0448u           DW N/A N/A 150409 180227 LME NASSAC COT Fut Tot No Of Shorts Producer/Merch Short
+ML LMT044900000u LMT0449u           DW N/A N/A 150409 180227 LME Nickel COT Fut Tot No Of Shorts Broker Dealer Indx Trder Short
+ML LMT045000000u LMT0450u           DW N/A N/A 150409 180227 LME Nickel COT Fut Tot No Of Shorts Mngd Money Short
+ML LMT045100000u LMT0451u           DW N/A N/A 150409 180227 LME Nickel COT Fut Tot No Of Shorts Not Def Short
+ML LMT045200000u LMT0452u           DW N/A N/A 150409 180227 LME Nickel COT Fut Tot No Of Shorts Other Reportables Short
+ML LMT045300000u LMT0453u           DW N/A N/A 150409 180227 LME Nickel COT Fut Tot No Of Shorts Producer/Merch Short
+ML LMT045400000u LMT0454u           DW N/A N/A 150409 171031 LME LMEswap Tin COT Fut Tot No Of Shorts Broker Dealer Indx Trder Short
+ML LMT045500000u LMT0455u           DW N/A N/A 150409 180227 LME Tin COT Fut Tot No Of Shorts Broker Dealer Indx Trder Short
+ML LMT045600000u LMT0456u           DW N/A N/A 150409 180227 LME Tin COT Fut Tot No Of Shorts Mngd Money Short
+ML LMT045700000u LMT0457u           DW N/A N/A 150409 180227 LME Tin COT Fut Tot No Of Shorts Not Def Short
+ML LMT045800000u LMT0458u           DW N/A N/A 150409 180227 LME Tin COT Fut Tot No Of Shorts Other Reportables Short
+ML LMT045900000u LMT0459u           DW N/A N/A 150409 180227 LME Tin COT Fut Tot No Of Shorts Producer/Merch Short
+ML LMT046000000u LMT0460u           DW N/A N/A 150409 180227 LME Zinc COT Fut Tot No Of Shorts Broker Dealer Indx Trder Short
+ML LMT046100000u LMT0461u           DW N/A N/A 150409 180227 LME Zinc COT Fut Tot No Of Shorts Mngd Money Short
+ML LMT046200000u LMT0462u           DW N/A N/A 150409 180227 LME Zinc COT Fut Tot No Of Shorts Not Def Short
+ML LMT046300000u LMT0463u           DW N/A N/A 150409 180227 LME Zinc COT Fut Tot No Of Shorts Other Reportables Short
+ML LMT046400000u LMT0464u           DW N/A N/A 150409 180227 LME Zinc COT Fut Tot No Of Shorts Producer/Merch Short
+ML LMT046500000u LMT0465u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Tot Number Of Entities Broker Dealer Indx Trder
+ML LMT046600000u LMT0466u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Tot Number Of Entities Mngd Money
+ML LMT046700000u LMT0467u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Tot Number Of Entities Not Def
+ML LMT046800000u LMT0468u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Tot Number Of Entities Other Reportables
+ML LMT046900000u LMT0469u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Tot Number Of Entities Producer/Merch
+ML LMT047000000u LMT0470u           DW N/A N/A 150409 180227 LME Aluminum Alloy COT Fut Tot Number Of Entities Broker Dealer Indx Trder
+ML LMT047100000u LMT0471u           DW N/A N/A 150409 180227 LME Aluminum Alloy COT Fut Tot Number Of Entities Mngd Money
+ML LMT047200000u LMT0472u           DW N/A N/A 150610 171207 LME Aluminum Alloy COT Fut Tot Number Of Entities Not Def
+ML LMT047300000u LMT0473u           DW N/A N/A 150409 180227 LME Aluminum Alloy COT Fut Tot Number Of Entities Producer/Merch
+ML LMT047400000u LMT0474u           DW N/A N/A 150409 180227 LME Cobalt COT Fut Tot Number Of Entities Broker Dealer Indx Trder
+ML LMT047500000u LMT0475u           DW N/A N/A 150702 171018 LME Cobalt COT Fut Tot Number Of Entities Not Def
+ML LMT047600000u LMT0476u           DW N/A N/A 150409 180227 LME Cobalt COT Fut Tot Number Of Entities Producer/Merch
+ML LMT047700000u LMT0477u           DW N/A N/A 150409 180227 LME Copper COT Fut Tot Number Of Entities Broker Dealer Indx Trder
+ML LMT047800000u LMT0478u           DW N/A N/A 150409 180227 LME Copper COT Fut Tot Number Of Entities Mngd Money
+ML LABSC0000000u LABSC00u           DW N/A MT  110224 190117 LME Al Alloy Busan Closing Stks
+ML LABSI0000000u LABSI00u           DW N/A MT  110224 190117 LME Al Alloy Busan Dlvd In Stks
+ML LABSL0000000u LABSL00u           DW N/A MT  110224 190117 LME Al Alloy Busan Cancelled Tonnage
+ML LABSN0000000u LABSN00u           DW N/A MT  110224 190117 LME Al Alloy Busan Open Tonnage
+ML LABSO0000000u LABSO00u           DW N/A MT  110224 190117 LME Al Alloy Busan Dlvd Out Stks
+ML LABSP0000000u LABSP00u           DW N/A MT  110224 190117 LME Al Alloy Busan Opening Stks
+ML LAPKC0000000u LAPKC00u           DW N/A MT  110224 190117 LME Al Alloy Port Klang Closing Stks
+ML LAPKI0000000u LAPKI00u           DW N/A MT  110224 190117 LME Al Alloy Port Klang Dlvd In Stks
+ML LAPKL0000000u LAPKL00u           DW N/A MT  110224 190117 LME Al Alloy Port Klang Cancelled Tonnage
+ML LAPKN0000000u LAPKN00u           DW N/A MT  110224 190117 LME Al Alloy Port Klang Open Tonnage
+ML LAPKO0000000u LAPKO00u           DW N/A MT  110224 190117 LME Al Alloy Port Klang Dlvd Out Stks
+ML LAPKP0000000u LAPKP00u           DW N/A MT  110224 190117 LME Al Alloy Port Klang Opening Stks
+ML LASGC0000000u LASGC00u           DW N/A MT  110224 190117 LME Al Alloy Singapore Closing Stks
+ML LASGI0000000u LASGI00u           DW N/A MT  110224 190117 LME Al Alloy Singapore Dlvd In Stks
+ML LASGL0000000u LASGL00u           DW N/A MT  110224 190117 LME Al Alloy Singapore Cancelled Tonnage
+ML LASGN0000000u LASGN00u           DW N/A MT  110224 190117 LME Al Alloy Singapore Open Tonnage
+ML LASGO0000000u LASGO00u           DW N/A MT  110224 190117 LME Al Alloy Singapore Dlvd Out Stks
+ML LASGP0000000u LASGP00u           DW N/A MT  110224 190117 LME Al Alloy Singapore Opening Stks
+ML LLSGL0000000u LLSGL00u           DW N/A MT  110224 190117 LME Lead Singapore Cancelled Tonnage
+ML LLSGN0000000u LLSGN00u           DW N/A MT  110224 190117 LME Lead Singapore Open Tonnage
+ML LLSGO0000000u LLSGO00u           DW N/A MT  110224 190117 LME Lead Singapore Dlvd Out Stks
+ML LLSGP0000000u LLSGP00u           DW N/A MT  110224 190117 LME Lead Singapore Opening Stks
+ML FULAHG3MAAADh LMAAB00h           DW USD MT  921006 190118 Alum LME Alloy 3 Month Daily
+ML FULAHG3MAAADl LMAAB00l           DW USD MT  921006 190118 Alum LME Alloy 3 Month Daily
+ML FULAHG3MAAACu LMAAB01u           WA USD MT  921009 190118 Alum LME Alloy 3 Month Wk Avg
+ML FULAHG3MAAABu LMAAB02u DM0B103A3 MA USD MT  921101 181201 Alum LME Alloy 3 Month Mo Avg
+ML LMAAB1600000c LMAAB16c           YR USD MT  001231 181231 Aluminum Alloy LME 3 Month London $/MT YAvg
+ML FULAHGM03AAGh LMAAC00h           DW USD MT  870601 190118 Alum LME HG 3 Month Daily
+ML FULAHGM03AAGl LMAAC00l           DW USD MT  870601 190118 Alum LME HG 3 Month Daily
+ML FULAHGM03AAFu LMAAC01u           WA USD MT  920103 190118 Alum LME HG 3 Month Wk Avg
+ML FULAHGM03AAEu LMAAC02u DM0B103M3 MA USD MT  870601 181201 Alum LME HG 3 Month Mo Avg
+ML LMAAC1600000c LMAAC16c           YR USD MT  001231 181231 Aluminum HG LME 3 Month London $/MT YAvg
+ML FULAHGCSAAASh LMAAG00h           DW USD MT  930125 190118 Alum LME Alloy Cash Daily
+ML FULAHGCSAAASl LMAAG00l           DW USD MT  930125 190118 Alum LME Alloy Cash Daily
+ML FULAHGCSAAARu LMAAG01u           WA USD MT  930129 190118 Alum LME Alloy Cash Wk Avg
+ML FULAHGCSAAAQu LMAAG02u DM0B1CSA3 MA USD MT  930201 181201 Alum LME Alloy Cash Mo Avg
+ML LMAAG1600000c LMAAG16c           YR USD MT  001231 181231 Aluminum Alloy LME Cash London $/MT YAvg
+ML FULAHGCSHAAVh LMAAH00h           DW USD MT  870827 190118 Alum LME HG Cash Daily
+ML FULAHGCSHAAVl LMAAH00l           DW USD MT  870827 190118 Alum LME HG Cash Daily
+ML FULAHGCSHAAUu LMAAH01u           WA USD MT  870828 190118 Alum LME HG Cash Wk Avg
+ML FULAHGCSHAATu LMAAH02u DM0B1CSH3 MA USD MT  870901 181201 Alum LME HG Cash Mo Avg
+ML LMAAH1600000c LMAAH16c           YR USD MT  001231 181231 Aluminum HG LME Cash London $/MT YAvg
+ML LMAAI0000000c LMAAI00c           DW USC LB  120402 190118 Aluminum LME Settlement Daily Cts/Lb
+ML FULAHGSETAAXu LMAAI01u           WA USD MT  920103 190118 Alum LME Settlement Wk Avg
+ML FULAHGSETAAWu LMAAI02u DM0B1SET3 MA USD MT  900701 181201 Alum LME Settlement Mo Avg
+ML LMAAI0300000c LMAAI03c           MA USC LB  120401 181201 Aluminum LME Settlement Cts/Lb MAvg
+ML LMAAI0400000c LMAAI04c           WA USC LB  120427 190118 Aluminum LME Settlement Cts/Lb WAvg
+ML FULAHGSETAAYu LMAAI10u           DW USD MT  900702 190118 Alum LME Settlement Daily
+ML LMAAI1600000c LMAAI16c           YR USD MT  001231 181231 Aluminum HG LME Settle London $/MT YAvg
+ML FULCPAM03ABBh LMAAJ00h           DW USD MT  800102 190118 Copper LME 3 Month Daily
+ML FULCPAM03ABBl LMAAJ00l           DW USD MT  800102 190118 Copper LME 3 Month Daily
+ML FULCPAM03ABAu LMAAJ01u           WA USD MT  930709 190118 Copper LME 3 Month Wk Avg
+ML FULCPAM03AAZu LMAAJ02u DM0E103M3 MA USD MT  930701 181201 Copper LME 3 Month Mo Avg
+ML LMAAJ1600000c LMAAJ16c           YR USD MT  001231 181231 Copper LME 3 Month London $/MT YAvg
+ML FULCPACSHABKh LMAAM00h           DW USD MT  800102 190118 Copper LME Cash Daily
+ML FULCPACSHABKl LMAAM00l           DW USD MT  800102 190118 Copper LME Cash Daily
+ML FULCPACSHABJu LMAAM01u           WA USD MT  930709 190118 Copper LME Cash Wk Avg
+ML FULCPACSHABIu LMAAM02u DM0E1CSH3 MA USD MT  930701 181201 Copper LME Cash Mo Avg
+ML LMAAM1600000c LMAAM16c           YR USD MT  001231 181231 Copper LME Cash London $/MT YAvg
+ML FULCPASETABMu LMAAN01u           WA USD MT  930709 190118 Copper LME Settle Wk Avg
+ML FULCPASETABLu LMAAN02u DM0E1SET3 MA USD MT  930701 181201 Copper LME Settle Mo Avg
+ML FULCPASETABNu LMAAN10u           DW USD MT  900702 190118 Copper LME Settle Daily
+ML LMAAN1600000c LMAAN16c           YR USD MT  001231 181231 Copper LME Settle London $/MT YAvg
+ML FULLEDM03ACGh LMAAT00h           DW USD MT  800102 190118 Lead LME 3 Month Daily
+ML FULLEDM03ACGl LMAAT00l           DW USD MT  800102 190118 Lead LME 3 Month Daily
+ML FULLEDM03ACFu LMAAT01u           WA USD MT  930709 190118 Lead LME 3 Month Wk Avg
+ML FULLEDM03ACEu LMAAT02u DM0F103M3 MA USD MT  930701 181201 Lead LME 3 Month Mo Avg
+ML LMAAT1600000c LMAAT16c           YR USD MT  001231 181231 Lead LME 3 Month London $/MT YAvg
+ML FULLEDCSHACMh LMAAV00h           DW USD MT  800102 190118 Lead LME Cash Daily
+ML FULLEDCSHACMl LMAAV00l           DW USD MT  800102 190118 Lead LME Cash Daily
+ML FULLEDCSHACLu LMAAV01u           WA USD MT  930709 190118 Lead LME Cash Wk Avg
+ML FULLEDCSHACKu LMAAV02u DM0F1CSH3 MA USD MT  930701 181201 Lead LME Cash Mo Avg
+ML LMAAV1600000c LMAAV16c           YR USD MT  001231 181231 Lead LME Cash London $/MT YAvg
+ML FULLEDSETACRu LMAAX01u           WA USD MT  930709 190118 Lead LME Settle Wk Avg
+ML FULLEDSETACQu LMAAX02u DM0F1SET3 MA USD MT  930701 181201 Lead LME Settle Mo Avg
+ML FULLEDSETACSu LMAAX10u           DW USD MT  900702 190118 Lead LME Settle Daily
+ML LMAAX1600000c LMAAX16c           YR USD MT  001231 181231 Lead LME Settle London $/MT YAvg
+ML FULNCKM03ADKh LMABD00h           DW USD MT  880201 190118 Nickel LME 3 Month Daily
+ML LMT047900000u LMT0479u           DW N/A N/A 150409 180227 LME Copper COT Fut Tot Number Of Entities Not Def
+ML LMT048000000u LMT0480u           DW N/A N/A 150409 180227 LME Copper COT Fut Tot Number Of Entities Other Reportables
+ML LMT048100000u LMT0481u           DW N/A N/A 150409 180227 LME Copper COT Fut Tot Number Of Entities Producer/Merch
+ML LMT048200000u LMT0482u           DW N/A N/A 150409 180227 LME Lead COT Fut Tot Number Of Entities Broker Dealer Indx Trder
+ML LMT048300000u LMT0483u           DW N/A N/A 150409 180227 LME Lead COT Fut Tot Number Of Entities Mngd Money
+ML LMT048400000u LMT0484u           DW N/A N/A 150409 180227 LME Lead COT Fut Tot Number Of Entities Not Def
+ML LMT048500000u LMT0485u           DW N/A N/A 150409 180227 LME Lead COT Fut Tot Number Of Entities Other Reportables
+ML LMT048600000u LMT0486u           DW N/A N/A 150409 180227 LME Lead COT Fut Tot Number Of Entities Producer/Merch
+ML LMT048700000u LMT0487u           DW N/A N/A 150409 180227 LME LMEswap Aluminum COT Fut Tot Number Of Entities Broker Dealer Indx Trder
+ML LMT048800000u LMT0488u           DW N/A N/A 150409 171130 LME LMEswap Aluminum COT Fut Tot Number Of Entities Mngd Money
+ML LMT048900000u LMT0489u           DW N/A N/A 150409 180227 LME LMEswap Aluminum COT Fut Tot Number Of Entities Producer/Merch
+ML LMT049000000u LMT0490u           DW N/A N/A 150409 180227 LME LMEswap Copper COT Fut Tot Number Of Entities Broker Dealer Indx Trder
+ML LMT049100000u LMT0491u           DW N/A N/A 150409 180227 LME LMEswap Copper COT Fut Tot Number Of Entities Producer/Merch
+ML LMT049200000u LMT0492u           DW N/A N/A 150409 180227 LME LMEswap Lead COT Fut Tot Number Of Entities Broker Dealer Indx Trder
+ML LMT049300000u LMT0493u           DW N/A N/A 150409 180227 LME LMEswap Lead COT Fut Tot Number Of Entities Producer/Merch
+ML LMT049400000u LMT0494u           DW N/A N/A 150409 180227 LME LMEswap Nickel COT Fut Tot Number Of Entities Broker Dealer Indx Trder
+ML LMT049500000u LMT0495u           DW N/A N/A               LME LMEswap Nickel COT Fut Tot Number Of Entities Mngd Money
+ML LMT049600000u LMT0496u           DW N/A N/A 150409 180227 LME LMEswap Nickel COT Fut Tot Number Of Entities Producer/Merch
+ML LMT049700000u LMT0497u           DW N/A N/A 150409 180227 LME LMEswap Zinc COT Fut Tot Number Of Entities Broker Dealer Indx Trder
+ML LMT049800000u LMT0498u           DW N/A N/A 150409 180227 LME LMEswap Zinc COT Fut Tot Number Of Entities Producer/Merch
+ML LMT049900000u LMT0499u           DW N/A N/A 150409 160720 LME Molybdenum COT Fut Tot Number Of Entities Broker Dealer Indx Trder
+ML LMT050000000u LMT0500u           DW N/A N/A 160111 160118 LME Molybdenum COT Fut Tot Number Of Entities Not Def
+ML LMT050100000u LMT0501u           DW N/A N/A 150409 150428 LME Molybdenum COT Fut Tot Number Of Entities Other Reportables
+ML LMT050200000u LMT0502u           DW N/A N/A 150409 160817 LME Molybdenum COT Fut Tot Number Of Entities Producer/Merch
+ML LMT050300000u LMT0503u           DW N/A N/A 150409 180227 LME NASSAC COT Fut Tot Number Of Entities Broker Dealer Indx Trder
+ML LMT050400000u LMT0504u           DW N/A N/A 150409 180227 LME NASSAC COT Fut Tot Number Of Entities Mngd Money
+ML LMT050500000u LMT0505u           DW N/A N/A 150603 170801 LME NASSAC COT Fut Tot Number Of Entities Not Def
+ML LMT050600000u LMT0506u           DW N/A N/A 150409 180227 LME NASSAC COT Fut Tot Number Of Entities Producer/Merch
+ML LMT050700000u LMT0507u           DW N/A N/A 150409 180227 LME Nickel COT Fut Tot Number Of Entities Broker Dealer Indx Trder
+ML LMT050800000u LMT0508u           DW N/A N/A 150409 180227 LME Nickel COT Fut Tot Number Of Entities Mngd Money
+ML LMT050900000u LMT0509u           DW N/A N/A 150409 180227 LME Nickel COT Fut Tot Number Of Entities Not Def
+ML LMT051000000u LMT0510u           DW N/A N/A 150409 180227 LME Nickel COT Fut Tot Number Of Entities Other Reportables
+ML LMT051100000u LMT0511u           DW N/A N/A 150409 180227 LME Nickel COT Fut Tot Number Of Entities Producer/Merch
+ML LMT051200000u LMT0512u           DW N/A N/A 150409 171031 LME LMEswap Tin COT Fut Tot Number Of Entities Broker Dealer Indx Trder
+ML LMT051300000u LMT0513u           DW N/A N/A 150409 180227 LME Tin COT Fut Tot Number Of Entities Broker Dealer Indx Trder
+ML LMT051400000u LMT0514u           DW N/A N/A 150409 180227 LME Tin COT Fut Tot Number Of Entities Mngd Money
+ML LMT051500000u LMT0515u           DW N/A N/A 150409 180227 LME Tin COT Fut Tot Number Of Entities Not Def
+ML LMT051600000u LMT0516u           DW N/A N/A 150409 180227 LME Tin COT Fut Tot Number Of Entities Other Reportables
+ML LMT051700000u LMT0517u           DW N/A N/A 150409 180227 LME Tin COT Fut Tot Number Of Entities Producer/Merch
+ML LMT051800000u LMT0518u           DW N/A N/A 150409 180227 LME Zinc COT Fut Tot Number Of Entities Broker Dealer Indx Trder
+ML LMT051900000u LMT0519u           DW N/A N/A 150409 180227 LME Zinc COT Fut Tot Number Of Entities Mngd Money
+ML LMT052000000u LMT0520u           DW N/A N/A 150409 180227 LME Zinc COT Fut Tot Number Of Entities Not Def
+ML LMT052100000u LMT0521u           DW N/A N/A 150409 180227 LME Zinc COT Fut Tot Number Of Entities Other Reportables
+ML LMT052200000u LMT0522u           DW N/A N/A 150409 180227 LME Zinc COT Fut Tot Number Of Entities Producer/Merch
+ML LMT052300000u LMT0523u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Tot Open Interest Broker Dealer Indx Trder
+ML LMT052400000u LMT0524u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Tot Open Interest Mngd Money
+ML LMT052500000u LMT0525u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Tot Open Interest Not Def
+ML FXKGBPUSDAADu LCAAA00u           DW USD N/A 911230 190118 LME Stg Spot Daily
+ML FXKGBPUSDAACu LCAAA01u           WA USD UNS 920103 190118 LME Stg Wkly Avg
+ML FXLJPYUSDAAHu LCAAC00u           DW JPY N/A 910610 190118 LME Yen Daily
+ML FXLJPYUSDAAGu LCAAC01u           WA JPY UNS 920103 190118 LME Yen Wk Avg
+ML FULNCKM03ADKl LMABD00l           DW USD MT  880201 190118 Nickel LME 3 Month Daily
+ML FULNCKM03ADJu LMABD01u           WA USD MT  880205 190118 Nickel LME 3 Month Wk Avg
+ML FULNCKM03ADIu LMABD02u DM0G103M3 MA USD MT  880201 181201 Nickel LME 3 Month Mo Avg
+ML LMABD1600000c LMABD16c           YR USD MT  001231 181231 Nickel LME 3 Month London $/MT YAvg
+ML FULNCKCSHADQh LMABF00h           DW USD MT  880201 190118 Nickel LME Cash Daily
+ML FULNCKCSHADQl LMABF00l           DW USD MT  880201 190118 Nickel LME Cash Daily
+ML FULNCKCSHADPu LMABF01u           WA USD MT  880205 190118 Nickel LME Cash Wk Avg
+ML FULNCKCSHADOu LMABF02u DM0G1CSH3 MA USD MT  880201 181201 Nickel LME Cash Mo Avg
+ML FULNCKSETADSu LMABG01u           WA USD MT  890609 190118 Nickel LME Settle Wk Avg
+ML FULNCKSETADRu LMABG02u DM0G1SET3 MA USD MT  881101 181201 Nickel LME Settle Mo Avg
+ML FULNCKSETADTu LMABG10u           DW USD MT  880701 190118 Nickel LME Settle Daily
+ML LMABG1600000c LMABG16c           YR USD MT  001231 181231 Nickel LME Settle London $/MT YAvg
+ML FULTINM03ADWh LMABH00h           DW USD MT  890601 190118 Tin LME 3 Month Daily
+ML FULTINM03ADWl LMABH00l           DW USD MT  890601 190118 Tin LME 3 Month Daily
+ML FULTINM03ADVu LMABH01u           WA USD MT  920103 190118 Tin LME 3 Month Wk Avg
+ML FULTINM03ADUu LMABH02u DM0K103M3 MA USD MT  910101 181201 Tin LME 3 Month Mo Avg
+ML LMABH1600000c LMABH16c           YR USD MT  001231 181231 Tin LME 3 Month London $/MT YAvg
+ML FULTINM15ADZh LMABI00h           DW USD MT  890601 190118 Tin LME 15 Month Daily
+ML FULTINM15ADZl LMABI00l           DW USD MT  890601 190118 Tin LME 15 Month Daily
+ML FULTINM15ADYu LMABI01u           WA USD MT  920103 190118 Tin LME 15 Month Wk Avg
+ML FULTINM15ADXu LMABI02u DM0K115M3 MA USD MT  910101 181201 Tin LME 15 Month Mo Avg
+ML LMABI1600000c LMABI16c           YR USD MT  001231 181231 Tin LME 15 Month London $/MT YAvg
+ML FULTINCSHAECh LMABJ00h           DW USD MT  890601 190118 Tin LME Cash Daily
+ML FULTINCSHAECl LMABJ00l           DW USD MT  890601 190118 Tin LME Cash Daily
+ML FULTINCSHAEBu LMABJ01u           WA USD MT  920103 190118 Tin LME Cash Wk Avg
+ML FULTINCSHAEAu LMABJ02u DM0K1CSH3 MA USD MT  910101 181201 Tin LME Cash Mo Avg
+ML LMABJ1600000c LMABJ16c           YR USD MT  001231 181231 Tin LME Cash London $/MT YAvg
+ML FULTINSETAEEu LMABK01u           WA USD MT  920103 190118 Tin LME Settle Wk Avg
+ML FULTINSETAEDu LMABK02u DM0K1SET3 MA USD MT  900701 181201 Tin LME Settle Mo Avg
+ML FULTINSETAEFu LMABK10u           DW USD MT  900702 190118 Tin LME Settle Daily
+ML LMABK1600000c LMABK16c           YR USD MT  001231 181231 Tin LME Settle London $/MT YAvg
+ML FULZNSM03AEIh LMABL00h           DW USD MT  880901 190118 Zinc LME 3 Month Daily
+ML FULZNSM03AEIl LMABL00l           DW USD MT  880901 190118 Zinc LME 3 Month Daily
+ML FULZNSM03AEHu LMABL01u           WA USD MT  920103 190118 Zinc LME 3 Month Wk Avg
+ML FULZNSM03AEGu LMABL02u DM0M103M3 MA USD MT  890101 181201 Zinc LME 3 Month Mo Avg
+ML LMABL1600000c LMABL16c           YR USD MT  001231 181231 Zinc LME 3 Month London $/MT YAvg
+ML FULZNSCSHAERh LMABO00h           DW USD MT  881129 190118 Zinc LME Cash Daily
+ML FULZNSCSHAERl LMABO00l           DW USD MT  881129 190118 Zinc LME Cash Daily
+ML FULZNSCSHAEQu LMABO01u           WA USD MT  881202 190118 Zinc LME Cash Wk Avg
+ML FULZNSCSHAEPu LMABO02u DM0M1CSH3 MA USD MT  890101 181201 Zinc LME Cash Mo Avg
+ML LMABO1600000c LMABO16c           YR USD MT  001231 181231 Zinc LME Cash London $/MT YAvg
+ML LMT052600000u LMT0526u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Tot Open Interest Other Reportables
+ML LMT052700000u LMT0527u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Tot Open Interest Producer/Merch
+ML LMT052800000u LMT0528u           DW N/A N/A 150409 180227 LME Aluminum Alloy COT Fut Tot Open Interest Broker Dealer Indx Trder
+ML LMT052900000u LMT0529u           DW N/A N/A 150409 180227 LME Aluminum Alloy COT Fut Tot Open Interest Mngd Money
+ML LMT053000000u LMT0530u           DW N/A N/A 150610 171207 LME Aluminum Alloy COT Fut Tot Open Interest Not Def
+ML LMT053100000u LMT0531u           DW N/A N/A 150409 180227 LME Aluminum Alloy COT Fut Tot Open Interest Producer/Merch
+ML LMT053200000u LMT0532u           DW N/A N/A 150409 180227 LME Cobalt COT Fut Tot Open Interest Broker Dealer Indx Trder
+ML LMT053300000u LMT0533u           DW N/A N/A 150702 171018 LME Cobalt COT Fut Tot Open Interest Not Def
+ML LMT053400000u LMT0534u           DW N/A N/A 150409 180227 LME Cobalt COT Fut Tot Open Interest Producer/Merch
+ML LMT053500000u LMT0535u           DW N/A N/A 150409 180227 LME Copper COT Fut Tot Open Interest Broker Dealer Indx Trder
+ML LMT053600000u LMT0536u           DW N/A N/A 150409 180227 LME Copper COT Fut Tot Open Interest Mngd Money
+ML LMT053700000u LMT0537u           DW N/A N/A 150409 180227 LME Copper COT Fut Tot Open Interest Not Def
+ML LMT053800000u LMT0538u           DW N/A N/A 150409 180227 LME Copper COT Fut Tot Open Interest Other Reportables
+ML LMT053900000u LMT0539u           DW N/A N/A 150409 180227 LME Copper COT Fut Tot Open Interest Producer/Merch
+ML LMT054000000u LMT0540u           DW N/A N/A 150409 180227 LME Lead COT Fut Tot Open Interest Broker Dealer Indx Trder
+ML LMT054100000u LMT0541u           DW N/A N/A 150409 180227 LME Lead COT Fut Tot Open Interest Mngd Money
+ML LMT054200000u LMT0542u           DW N/A N/A 150409 180227 LME Lead COT Fut Tot Open Interest Not Def
+ML LMT054300000u LMT0543u           DW N/A N/A 150409 180227 LME Lead COT Fut Tot Open Interest Other Reportables
+ML LMT054400000u LMT0544u           DW N/A N/A 150409 180227 LME Lead COT Fut Tot Open Interest Producer/Merch
+ML LMT054500000u LMT0545u           DW N/A N/A 150409 180227 LME LMEswap Aluminum COT Fut Tot Open Interest Broker Dealer Indx Trder
+ML LMT054600000u LMT0546u           DW N/A N/A 150409 171130 LME LMEswap Aluminum COT Fut Tot Open Interest Mngd Money
+ML LMT054700000u LMT0547u           DW N/A N/A 150409 180227 LME LMEswap Aluminum COT Fut Tot Open Interest Producer/Merch
+ML LMT054800000u LMT0548u           DW N/A N/A 150409 180227 LME LMEswap Copper COT Fut Tot Open Interest Broker Dealer Indx Trder
+ML LMT054900000u LMT0549u           DW N/A N/A 150409 180227 LME LMEswap Copper COT Fut Tot Open Interest Producer/Merch
+ML LMT055000000u LMT0550u           DW N/A N/A 150409 180227 LME LMEswap Lead COT Fut Tot Open Interest Broker Dealer Indx Trder
+ML LMT055100000u LMT0551u           DW N/A N/A 150409 180227 LME LMEswap Lead COT Fut Tot Open Interest Producer/Merch
+ML LMT055200000u LMT0552u           DW N/A N/A 150409 180227 LME LMEswap Nickel COT Fut Tot Open Interest Broker Dealer Indx Trder
+ML LMT055300000u LMT0553u           DW N/A N/A               LME LMEswap Nickel COT Fut Tot Open Interest Mngd Money
+ML LMT055400000u LMT0554u           DW N/A N/A 150409 180227 LME LMEswap Nickel COT Fut Tot Open Interest Producer/Merch
+ML LMT055500000u LMT0555u           DW N/A N/A 150409 180227 LME LMEswap Zinc COT Fut Tot Open Interest Broker Dealer Indx Trder
+ML LMT055600000u LMT0556u           DW N/A N/A 150409 180227 LME LMEswap Zinc COT Fut Tot Open Interest Producer/Merch
+ML LMT055700000u LMT0557u           DW N/A N/A 150409 160720 LME Molybdenum COT Fut Tot Open Interest Broker Dealer Indx Trder
+ML LMT055800000u LMT0558u           DW N/A N/A 160111 160118 LME Molybdenum COT Fut Tot Open Interest Not Def
+ML LMT055900000u LMT0559u           DW N/A N/A 150409 150428 LME Molybdenum COT Fut Tot Open Interest Other Reportables
+ML LMT056000000u LMT0560u           DW N/A N/A 150409 160817 LME Molybdenum COT Fut Tot Open Interest Producer/Merch
+ML LMT056100000u LMT0561u           DW N/A N/A 150409 180227 LME NASSAC COT Fut Tot Open Interest Broker Dealer Indx Trder
+ML LMT056200000u LMT0562u           DW N/A N/A 150409 180227 LME NASSAC COT Fut Tot Open Interest Mngd Money
+ML LMT056300000u LMT0563u           DW N/A N/A 150603 170801 LME NASSAC COT Fut Tot Open Interest Not Def
+ML LMT056400000u LMT0564u           DW N/A N/A 150409 180227 LME NASSAC COT Fut Tot Open Interest Producer/Merch
+ML LMT056500000u LMT0565u           DW N/A N/A 150409 180227 LME Nickel COT Fut Tot Open Interest Broker Dealer Indx Trder
+ML LMT056600000u LMT0566u           DW N/A N/A 150409 180227 LME Nickel COT Fut Tot Open Interest Mngd Money
+ML LMT056700000u LMT0567u           DW N/A N/A 150409 180227 LME Nickel COT Fut Tot Open Interest Not Def
+ML LMT056800000u LMT0568u           DW N/A N/A 150409 180227 LME Nickel COT Fut Tot Open Interest Other Reportables
+ML LMT056900000u LMT0569u           DW N/A N/A 150409 180227 LME Nickel COT Fut Tot Open Interest Producer/Merch
+ML LMT057000000u LMT0570u           DW N/A N/A 150409 171031 LME LMEswap Tin COT Fut Tot Open Interest Broker Dealer Indx Trder
+ML LMT057100000u LMT0571u           DW N/A N/A 150409 180227 LME Tin COT Fut Tot Open Interest Broker Dealer Indx Trder
+ML LMT057200000u LMT0572u           DW N/A N/A 150409 180227 LME Tin COT Fut Tot Open Interest Mngd Money
+ML LMT057300000u LMT0573u           DW N/A N/A 150409 180227 LME Tin COT Fut Tot Open Interest Not Def
+ML FULZNSSETAETu LMACB01u           WA USD MT  920103 190118 Zinc LME Settle Wk Avg
+ML FULZNSSETAESu LMACB02u DM0M1SET3 MA USD MT  900701 181201 Zinc LME Settle Mo Avg
+ML FULZNSSETAEUu LMACB10u           DW USD MT  900702 190118 Zinc LME Settle Daily
+ML LMACB1600000c LMACB16c           YR USD MT  001231 181231 Zinc LME Settle London $/MT YAvg
+ML FULZNCSTKDNYu LMACC10u           DW N/A MT  880930 190117 LME Zinc Closing Stks
+ML FULTINSTKDNZu LMACD10u           DW N/A MT  700102 190117 LME Tin Closing Stks
+ML FULLEDSTKDOAu LMACE10u           DW N/A MT  700102 190117 LME Lead Closing Stks
+ML FULNCKSTKDOBu LMACF10u           DW N/A MT  790713 190117 LME Nickel Closing Stks
+ML FULALASTKDOCu LMACG10u           DW N/A MT  921201 190117 LME Al Alloy Closing Stks
+ML FULCPRSTKDODu LMACH10u           DW N/A MT  700102 190117 LME Copper Closing Stks
+ML FULALUSTKDOEu LMACI10u           DW N/A MT  781229 190117 LME Alum Closing Stks
+ML FULALUSTKDOFu LMACJ00u           DW N/A MT  971001 190117 LME Alum Open Tonnage
+ML FULALUSTKDOHu LMACL00u           DW N/A MT  971001 190117 LME Alum Cancelled Tonnage
+ML FULALASTKDODu LMACN00u           DW N/A MT  971001 190117 LME Al Alloy Open Tonnage
+ML FULALASTKDOFu LMACP00u           DW N/A MT  971001 190117 LME Al Alloy Cancelled Tonnage
+ML FULNCKSTKDOCu LMACR00u           DW N/A MT  971001 190117 LME Nickel Open Tonnage
+ML FULNCKSTKDOEu LMACT00u           DW N/A MT  971001 190117 LME Nickel Cancelled Tonnage
+ML FULTINSTKDOAu LMACV00u           DW N/A MT  971001 190117 LME Tin Open Tonnage
+ML FULTINSTKDOCu LMACX00u           DW N/A MT  971001 190117 LME Tin Cancelled Tonnage
+ML FULLEDSTKDOBu LMACZ00u           DW N/A MT  971001 190117 LME Lead Open Tonnage
+ML FULLEDSTKDODu LMADB00u           DW N/A MT  971001 190117 LME Lead Cancelled Tonnage
+ML FULZNCSTKDNZu LMADD00u           DW N/A MT  971001 190117 LME Zinc Open Tonnage
+ML FULZNCSTKDOBu LMADF00u           DW N/A MT  971001 190117 LME Zinc Cancelled Tonnage
+ML FULCPRSTKDOEu LMADH00u           DW N/A MT  971001 190117 LME Copper Open Tonnage
+ML FULCPRSTKDOGu LMADJ00u           DW N/A MT  971001 190117 LME Copper Cancelled Tonnage
+ML FXLEURUSDAAAu LMADM00u           DW USD N/A 990104 190118 LME Euro US Dollar Daily
+ML FXLEURUSDAABu LMADN04u           WA USD UNS 030829 190118 LME EURO-US Dollar Wkly Avg
+ML LMT057400000u LMT0574u           DW N/A N/A 150409 180227 LME Tin COT Fut Tot Open Interest Other Reportables
+ML LMT057500000u LMT0575u           DW N/A N/A 150409 180227 LME Tin COT Fut Tot Open Interest Producer/Merch
+ML LMT057600000u LMT0576u           DW N/A N/A 150409 180227 LME Zinc COT Fut Tot Open Interest Broker Dealer Indx Trder
+ML LMT057700000u LMT0577u           DW N/A N/A 150409 180227 LME Zinc COT Fut Tot Open Interest Mngd Money
+ML LMT057800000u LMT0578u           DW N/A N/A 150409 180227 LME Zinc COT Fut Tot Open Interest Not Def
+ML LMT057900000u LMT0579u           DW N/A N/A 150409 180227 LME Zinc COT Fut Tot Open Interest Other Reportables
+ML LMT058000000u LMT0580u           DW N/A N/A 150409 180227 LME Zinc COT Fut Tot Open Interest Producer/Merch
+ML LMT058100000u LMT0581u           DW N/A PCT 150409 160718 LME Molybdenum COT Fut % Of Tot Oi (L) Mngd Money Long
+ML LMT058200000u LMT0582u           DW N/A PCT 150409 160718 LME Molybdenum COT Fut % Of Tot Oi (S) Mngd Money Short
+ML LMT058300000u LMT0583u           DW N/A N/A 150409 160718 LME Molybdenum COT Fut Long Pos Chg Mngd Money Long
+ML LMT058400000u LMT0584u           DW N/A N/A 150409 160718 LME Molybdenum COT Fut Net Pos Chg Mngd Money Netpsition
+ML LMT058500000u LMT0585u           DW N/A N/A 150409 160718 LME Molybdenum COT Fut Short Pos Chg Mngd Money Short
+ML LMT058600000u LMT0586u           DW N/A N/A 150409 160718 LME Molybdenum COT Fut Tot Net Pos Mngd Money Netpsition
+ML LMT058700000u LMT0587u           DW N/A N/A 150409 160718 LME Molybdenum COT Fut Tot No Of Longs Mngd Money Long
+ML LMT058800000u LMT0588u           DW N/A N/A 150409 160718 LME Molybdenum COT Fut Tot No Of Shorts Mngd Money Short
+ML LMT058900000u LMT0589u           DW N/A N/A 150409 160718 LME Molybdenum COT Fut Tot Number Of Entities Mngd Money
+ML LMT059000000u LMT0590u           DW N/A N/A 150409 160718 LME Molybdenum COT Fut Tot Open Interest Mngd Money
+ML LMZNY1000000h LMZNY10h           DW USD MT  111017 190118 LME Zinc SHG $/MT Y1
+ML LMZNY1000000l LMZNY10l           DW USD MT  111017 190118 LME Zinc SHG $/MT Y1
+ML LMZNY1300000c LMZNY13c           MA USD MT  111101 181201 LME Zinc SHG $/MT Y1 MAvg
+ML LMZNY1400000c LMZNY14c           WA USD MT  111021 190118 LME Zinc SHG $/MT Y1 WAvg
+ML LMZNY2000000h LMZNY20h           DW USD MT  111017 190118 LME Zinc SHG $/MT Y2
+ML LMZNY2000000l LMZNY20l           DW USD MT  111017 190118 LME Zinc SHG $/MT Y2
+ML LMZNY2300000c LMZNY23c           MA USD MT  111101 181201 LME Zinc SHG $/MT Y2 MAvg
+ML LMZNY2400000c LMZNY24c           WA USD MT  111021 190118 LME Zinc SHG $/MT Y2 WAvg
+ML LMZNY3000000h LMZNY30h           DW USD MT  111017 190118 LME Zinc SHG $/MT Y3
+ML LMZNY3000000l LMZNY30l           DW USD MT  111017 190118 LME Zinc SHG $/MT Y3
+ML LMZNY3300000c LMZNY33c           MA USD MT  111101 181201 LME Zinc SHG $/MT Y3 MAvg
+ML LMZNY3400000c LMZNY34c           WA USD MT  111021 190118 LME Zinc SHG $/MT Y3 WAvg
+ML LNBSC0000000u LNBSC00u           DW N/A MT  110224 190117 LME Nickel Busan Closing Stks
+ML LNBSI0000000u LNBSI00u           DW N/A MT  110224 190117 LME Nickel Busan Dlvd In Stks
+ML LNBSL0000000u LNBSL00u           DW N/A MT  110224 190117 LME Nickel Busan Cancelled Tonnage
+ML LNBSN0000000u LNBSN00u           DW N/A MT  110224 190117 LME Nickel Busan Open Tonnage
+ML LNBSO0000000u LNBSO00u           DW N/A MT  110224 190117 LME Nickel Busan Dlvd Out Stks
+ML LNBSP0000000u LNBSP00u           DW N/A MT  110224 190117 LME Nickel Busan Opening Stks
+ML LNGYC0000000u LNGYC00u           DW N/A MT  110224 190117 LME Nickel Gwangyang Closing Stks
+ML LNGYI0000000u LNGYI00u           DW N/A MT  110224 190117 LME Nickel Gwangyang Dlvd In Stks
+ML LNGYL0000000u LNGYL00u           DW N/A MT  110224 190117 LME Nickel Gwangyang Cancelled Tonnage
+ML LNGYN0000000u LNGYN00u           DW N/A MT  110224 190117 LME Nickel Gwangyang Open Tonnage
+ML LNGYO0000000u LNGYO00u           DW N/A MT  110224 190117 LME Nickel Gwangyang Dlvd Out Stks
+ML LNGYP0000000u LNGYP00u           DW N/A MT  110224 190117 LME Nickel Gwangyang Opening Stks
+ML LNICC0000000u LNICC00u           DW N/A MT  110224 190117 LME Nickel Incheon Closing Stks
+ML LNICI0000000u LNICI00u           DW N/A MT  110224 190117 LME Nickel Incheon Dlvd In Stks
+ML LNICL0000000u LNICL00u           DW N/A MT  110224 190117 LME Nickel Incheon Cancelled Tonnage
+ML LNICN0000000u LNICN00u           DW N/A MT  110224 190117 LME Nickel Incheon Open Tonnage
+ML LNICO0000000u LNICO00u           DW N/A MT  110224 190117 LME Nickel Incheon Dlvd Out Stks
+ML LNICP0000000u LNICP00u           DW N/A MT  110224 190117 LME Nickel Incheon Opening Stks
+ML LNJHC0000000u LNJHC00u           DW N/A MT  110224 190117 LME Nickel Johor Closing Stks
+ML LNJHI0000000u LNJHI00u           DW N/A MT  110224 190117 LME Nickel Johor Dlvd In Stks
+ML LNJHL0000000u LNJHL00u           DW N/A MT  110224 190117 LME Nickel Johor Cancelled Tonnage
+ML LNJHN0000000u LNJHN00u           DW N/A MT  110224 190117 LME Nickel Johor Open Tonnage
+ML LNJHO0000000u LNJHO00u           DW N/A MT  110224 190117 LME Nickel Johor Dlvd Out Stks
+ML LMALY1000000h LMALY10h           DW USD MT  111017 190118 LME Alum Alloy $/MT Y1
+ML LMALY1000000l LMALY10l           DW USD MT  111017 190118 LME Alum Alloy $/MT Y1
+ML LMALY1300000c LMALY13c           MA USD MT  111101 181201 LME Al Alloy $/MT Y1 MAvg
+ML LMALY1400000c LMALY14c           WA USD MT  111021 190118 LME Al Alloy $/MT Y1 WAvg
+ML LMCUY1000000h LMCUY10h           DW USD MT  111017 190118 LME Copper Grade A $/MT Y1
+ML LMCUY1000000l LMCUY10l           DW USD MT  111017 190118 LME Copper Grade A $/MT Y1
+ML LMCUY1300000c LMCUY13c           MA USD MT  111101 181201 LME Copper Grade A $/MT Y1 MAvg
+ML LMCUY1400000c LMCUY14c           WA USD MT  111021 190118 LME Copper Grade A $/MT Y1 WAvg
+ML LMCUY2000000h LMCUY20h           DW USD MT  111017 190118 LME Copper Grade A $/MT Y2
+ML LMCUY2000000l LMCUY20l           DW USD MT  111017 190118 LME Copper Grade A $/MT Y2
+ML LMCUY2300000c LMCUY23c           MA USD MT  111101 181201 LME Copper Grade A $/MT Y2 MAvg
+ML LMCUY2400000c LMCUY24c           WA USD MT  111021 190118 LME Copper Grade A $/MT Y2 WAvg
+ML LMCUY3000000h LMCUY30h           DW USD MT  111017 190118 LME Copper Grade A $/MT Y3
+ML LMCUY3000000l LMCUY30l           DW USD MT  111017 190118 LME Copper Grade A $/MT Y3
+ML LMCUY3300000c LMCUY33c           MA USD MT  111101 181201 LME Copper Grade A $/MT Y3 MAvg
+ML LMCUY3400000c LMCUY34c           WA USD MT  111021 190118 LME Copper Grade A $/MT Y3 WAvg
+ML LNJHP0000000u LNJHP00u           DW N/A MT  110224 190117 LME Nickel Johor Opening Stks
+ML LNNAI0000000u LNNAI00u           DW N/A MT  110224 190117 LME Nickel Dlvd In Stks
+ML LNNAO0000000u LNNAO00u           DW N/A MT  110224 190117 LME Nickel Dlvd Out Stks
+ML LNNAP0000000u LNNAP00u           DW N/A MT  110224 190117 LME Nickel Opening Stks
+ML LNPKC0000000u LNPKC00u           DW N/A MT  110224 190117 LME Nickel Port Klang Closing Stks
+ML LNPKI0000000u LNPKI00u           DW N/A MT  110224 190117 LME Nickel Port Klang Dlvd In Stks
+ML LNPKL0000000u LNPKL00u           DW N/A MT  110224 190117 LME Nickel Port Klang Cancelled Tonnage
+ML LNPKN0000000u LNPKN00u           DW N/A MT  110224 190117 LME Nickel Port Klang Open Tonnage
+ML LNPKO0000000u LNPKO00u           DW N/A MT  110224 190117 LME Nickel Port Klang Dlvd Out Stks
+ML LNPKP0000000u LNPKP00u           DW N/A MT  110224 190117 LME Nickel Port Klang Opening Stks
+ML LNSGC0000000u LNSGC00u           DW N/A MT  110224 190117 LME Nickel Singapore Closing Stks
+ML LNSGI0000000u LNSGI00u           DW N/A MT  110224 190117 LME Nickel Singapore Dlvd In Stks
+ML LNSGL0000000u LNSGL00u           DW N/A MT  110224 190117 LME Nickel Singapore Cancelled Tonnage
+ML LNSGN0000000u LNSGN00u           DW N/A MT  110224 190117 LME Nickel Singapore Open Tonnage
+ML LNSGO0000000u LNSGO00u           DW N/A MT  110224 190117 LME Nickel Singapore Dlvd Out Stks
+ML LNSGP0000000u LNSGP00u           DW N/A MT  110224 190117 LME Nickel Singapore Opening Stks
+ML LPBSC0000000u LPBSC00u           DW N/A MT  110224 190117 LME Copper Busan Closing Stks
+ML LPBSI0000000u LPBSI00u           DW N/A MT  110224 190117 LME Copper Busan Dlvd In Stks
+ML LPBSL0000000u LPBSL00u           DW N/A MT  110224 190117 LME Copper Busan Cancelled Tonnage
+ML LPBSN0000000u LPBSN00u           DW N/A MT  110224 190117 LME Copper Busan Open Tonnage
+ML LPBSO0000000u LPBSO00u           DW N/A MT  110224 190117 LME Copper Busan Dlvd Out Stks
+ML LPBSP0000000u LPBSP00u           DW N/A MT  110224 190117 LME Copper Busan Opening Stks
+ML LPGYC0000000u LPGYC00u           DW N/A MT  110224 190117 LME Copper Gwangyang Closing Stks
+ML LPGYI0000000u LPGYI00u           DW N/A MT  110224 190117 LME Copper Gwangyang Dlvd In Stks
+ML LPGYL0000000u LPGYL00u           DW N/A MT  110224 190117 LME Copper Gwangyang Cancelled Tonnage
+ML LPGYN0000000u LPGYN00u           DW N/A MT  110224 190117 LME Copper Gwangyang Open Tonnage
+ML LPGYO0000000u LPGYO00u           DW N/A MT  110224 190117 LME Copper Gwangyang Dlvd Out Stks
+ML LPGYP0000000u LPGYP00u           DW N/A MT  110224 190117 LME Copper Gwangyang Opening Stks
+ML LPICC0000000u LPICC00u           DW N/A MT  110224 190117 LME Copper Incheon Closing Stks
+ML LPICI0000000u LPICI00u           DW N/A MT  110224 190117 LME Copper Incheon Dlvd In Stks
+ML LPICL0000000u LPICL00u           DW N/A MT  110224 190117 LME Copper Incheon Cancelled Tonnage
+ML LPICN0000000u LPICN00u           DW N/A MT  110224 190117 LME Copper Incheon Open Tonnage
+ML LPICO0000000u LPICO00u           DW N/A MT  110224 190117 LME Copper Incheon Dlvd Out Stks
+ML LPICP0000000u LPICP00u           DW N/A MT  110224 190117 LME Copper Incheon Opening Stks
+ML LPJHC0000000u LPJHC00u           DW N/A MT  110224 190117 LME Copper Johor Closing Stks
+ML LPJHI0000000u LPJHI00u           DW N/A MT  110224 190117 LME Copper Johor Dlvd In Stks
+ML LPJHL0000000u LPJHL00u           DW N/A MT  110224 190117 LME Copper Johor Cancelled Tonnage
+ML LPJHN0000000u LPJHN00u           DW N/A MT  110224 190117 LME Copper Johor Open Tonnage
+ML LPJHO0000000u LPJHO00u           DW N/A MT  110224 190117 LME Copper Johor Dlvd Out Stks
+ML LPJHP0000000u LPJHP00u           DW N/A MT  110224 190117 LME Copper Johor Opening Stks
+ML LMHGY1000000h LMHGY10h           DW USD MT  111017 190118 LME Alum HG $/MT Y1
+ML LPNAI0000000u LPNAI00u           DW N/A MT  110224 190117 LME Copper Dlvd In Stks
+ML LPNAO0000000u LPNAO00u           DW N/A MT  110224 190117 LME Copper Dlvd Out Stks
+ML LPNAP0000000u LPNAP00u           DW N/A MT  110224 190117 LME Copper Opening Stks
+ML LPPKC0000000u LPPKC00u           DW N/A MT  110224 190117 LME Copper Port Klang Closing Stks
+ML LPPKI0000000u LPPKI00u           DW N/A MT  110224 190117 LME Copper Port Klang Dlvd In Stks
+ML LPPKL0000000u LPPKL00u           DW N/A MT  110224 190117 LME Copper Port Klang Cancelled Tonnage
+ML LPPKN0000000u LPPKN00u           DW N/A MT  110224 190117 LME Copper Port Klang Open Tonnage
+ML LPPKO0000000u LPPKO00u           DW N/A MT  110224 190117 LME Copper Port Klang Dlvd Out Stks
+ML LPPKP0000000u LPPKP00u           DW N/A MT  110224 190117 LME Copper Port Klang Opening Stks
+ML LPSGC0000000u LPSGC00u           DW N/A MT  110224 190117 LME Copper Singapore Closing Stks
+ML LPSGI0000000u LPSGI00u           DW N/A MT  110224 190117 LME Copper Singapore Dlvd In Stks
+ML LPSGL0000000u LPSGL00u           DW N/A MT  110224 190117 LME Copper Singapore Cancelled Tonnage
+ML LPSGN0000000u LPSGN00u           DW N/A MT  110224 190117 LME Copper Singapore Open Tonnage
+ML LPSGO0000000u LPSGO00u           DW N/A MT  110224 190117 LME Copper Singapore Dlvd Out Stks
+ML LPSGP0000000u LPSGP00u           DW N/A MT  110224 190117 LME Copper Singapore Opening Stks
+ML LTBSC0000000u LTBSC00u           DW N/A MT  110224 190117 LME Tin Busan Closing Stks
+ML LTBSI0000000u LTBSI00u           DW N/A MT  110224 190117 LME Tin Busan Dlvd In Stks
+ML LTBSL0000000u LTBSL00u           DW N/A MT  110224 190117 LME Tin Busan Cancelled Tonnage
+ML LTBSN0000000u LTBSN00u           DW N/A MT  110224 190117 LME Tin Busan Open Tonnage
+ML LTBSO0000000u LTBSO00u           DW N/A MT  110224 190117 LME Tin Busan Dlvd Out Stks
+ML LTBSP0000000u LTBSP00u           DW N/A MT  110224 190117 LME Tin Busan Opening Stks
+ML LTGYC0000000u LTGYC00u           DW N/A MT  110224 190117 LME Tin Gwangyang Closing Stks
+ML LTGYI0000000u LTGYI00u           DW N/A MT  110224 190117 LME Tin Gwangyang Dlvd In Stks
+ML LTGYL0000000u LTGYL00u           DW N/A MT  110224 190117 LME Tin Gwangyang Cancelled Tonnage
+ML LTGYN0000000u LTGYN00u           DW N/A MT  110224 190117 LME Tin Gwangyang Open Tonnage
+ML LTGYO0000000u LTGYO00u           DW N/A MT  110224 190117 LME Tin Gwangyang Dlvd Out Stks
+ML LTGYP0000000u LTGYP00u           DW N/A MT  110224 190117 LME Tin Gwangyang Opening Stks
+ML LTJHC0000000u LTJHC00u           DW N/A MT  110224 190117 LME Tin Johor Closing Stks
+ML LTJHI0000000u LTJHI00u           DW N/A MT  110224 190117 LME Tin Johor Dlvd In Stks
+ML LTJHL0000000u LTJHL00u           DW N/A MT  110224 190117 LME Tin Johor Cancelled Tonnage
+ML LTJHN0000000u LTJHN00u           DW N/A MT  110224 190117 LME Tin Johor Open Tonnage
+ML LTJHO0000000u LTJHO00u           DW N/A MT  110224 190117 LME Tin Johor Dlvd Out Stks
+ML LTJHP0000000u LTJHP00u           DW N/A MT  110224 190117 LME Tin Johor Opening Stks
+ML LAGYC0000000u LAGYC00u           DW N/A MT  110224 190117 LME Al Alloy Gwangyang Closing Stks
+ML LAGYI0000000u LAGYI00u           DW N/A MT  110224 190117 LME Al Alloy Gwangyang Dlvd In Stks
+ML LAGYL0000000u LAGYL00u           DW N/A MT  110224 190117 LME Al Alloy Gwangyang Cancelled Tonnage
+ML LMHGY1000000l LMHGY10l           DW USD MT  111017 190118 LME Alum HG $/MT Y1
+ML LMHGY1300000c LMHGY13c           MA USD MT  111101 181201 LME Alum HG $/MT Y1 MAvg
+ML LMHGY1400000c LMHGY14c           WA USD MT  111021 190118 LME Alum HG $/MT Y1 WAvg
+ML LMHGY2000000h LMHGY20h           DW USD MT  111017 190118 LME Alum HG $/MT Y2
+ML LMHGY2000000l LMHGY20l           DW USD MT  111017 190118 LME Alum HG $/MT Y2
+ML LMHGY2300000c LMHGY23c           MA USD MT  111101 181201 LME Alum HG $/MT Y2 MAvg
+ML LMHGY2400000c LMHGY24c           WA USD MT  111021 190118 LME Alum HG $/MT Y2 WAvg
+ML LMHGY3000000h LMHGY30h           DW USD MT  111017 190118 LME Alum HG $/MT Y3
+ML LMHGY3000000l LMHGY30l           DW USD MT  111017 190118 LME Alum HG $/MT Y3
+ML LMHGY3300000c LMHGY33c           MA USD MT  111101 181201 LME Alum HG $/MT Y3 MAvg
+ML LMHGY3400000c LMHGY34c           WA USD MT  111021 190118 LME Alum HG $/MT Y3 WAvg
+ML LMNAY1000000h LMNAY10h           DW USD MT  111017 190118 LME Alum NA Alloy $/MT Y1
+ML LMNAY1000000l LMNAY10l           DW USD MT  111017 190118 LME Alum NA Alloy $/MT Y1
+ML LMNAY1300000c LMNAY13c           MA USD MT  111101 181201 LME Alum NA Alloy $/MT Y1 MAvg
+ML LMNAY1400000c LMNAY14c           WA USD MT  111021 190118 LME Alum NA Alloy $/MT Y1 WAvg
+ML LMNIY1000000h LMNIY10h           DW USD MT  111017 190118 LME Nickel $/MT Y1
+ML LMNIY1000000l LMNIY10l           DW USD MT  111017 190118 LME Nickel $/MT Y1
+ML LMNIY1300000c LMNIY13c           MA USD MT  111101 181201 LME Nickel $/MT Y1 MAvg
+ML LMNIY1400000c LMNIY14c           WA USD MT  111021 190118 LME Nickel $/MT Y1 WAvg
+ML LMNIY2000000h LMNIY20h           DW USD MT  111017 190118 LME Nickel $/MT Y2
+ML LMNIY2000000l LMNIY20l           DW USD MT  111017 190118 LME Nickel $/MT Y2
+ML LMNIY2300000c LMNIY23c           MA USD MT  111101 181201 LME Nickel $/MT Y2 MAvg
+ML LMNIY2400000c LMNIY24c           WA USD MT  111021 190118 LME Nickel $/MT Y2 WAvg
+ML LMNIY3000000h LMNIY30h           DW USD MT  111017 190118 LME Nickel $/MT Y3
+ML LMNIY3000000l LMNIY30l           DW USD MT  111017 190118 LME Nickel $/MT Y3
+ML LMNIY3300000c LMNIY33c           MA USD MT  111101 181201 LME Nickel $/MT Y3 MAvg
+ML LMNIY3400000c LMNIY34c           WA USD MT  111021 190118 LME Nickel $/MT Y3 WAvg
+ML LMPBY1000000h LMPBY10h           DW USD MT  111017 190118 LME Lead $/MT Y1
+ML LMPBY1000000l LMPBY10l           DW USD MT  111017 190118 LME Lead $/MT Y1
+ML LMPBY1300000c LMPBY13c           MA USD MT  111101 181201 LME Lead $/MT Y1 MAvg
+ML LMPBY1400000c LMPBY14c           WA USD MT  111021 190118 LME Lead $/MT Y1 WAvg
+ML LMPBY1600000c LMPBY16c           YR USD MT  111231 181231 Lead LME London 1Y $/MT YAvg
+ML LMPBY2000000h LMPBY20h           DW USD MT  111017 190118 LME Lead $/MT Y2
+ML LMPBY2000000l LMPBY20l           DW USD MT  111017 190118 LME Lead $/MT Y2
+ML LMPBY2300000c LMPBY23c           MA USD MT  111101 181201 LME Lead $/MT Y2 MAvg
+ML LMPBY2400000c LMPBY24c           WA USD MT  111021 190118 LME Lead $/MT Y2 WAvg
+ML LMPBY2600000c LMPBY26c           YR USD MT  111231 181231 Lead LME London 2Y $/MT YAvg
+ML LMPBY3000000h LMPBY30h           DW USD MT  111017 190118 LME Lead $/MT Y3
+ML LMPBY3000000l LMPBY30l           DW USD MT  111017 190118 LME Lead $/MT Y3
+ML LMPBY3300000c LMPBY33c           MA USD MT  111101 181201 LME Lead $/MT Y3 MAvg
+ML LMPBY3400000c LMPBY34c           WA USD MT  111021 190118 LME Lead $/MT Y3 WAvg
+ML LMPBY3600000c LMPBY36c           YR USD MT  111231 181231 Lead LME London 3Y $/MT YAvg
+ML LMT000100000u LMT0001u           DW N/A PCT 150409 180227 LME Aluminum COT Fut % Of Tot Oi (L) Broker Dealer Indx Trder Long
+ML LMT000200000u LMT0002u           DW N/A PCT 150409 180227 LME Aluminum COT Fut % Of Tot Oi (L) Mngd Money Long
+ML LMT000300000u LMT0003u           DW N/A PCT 150409 180227 LME Aluminum COT Fut % Of Tot Oi (L) Not Def Long
+ML LMT000400000u LMT0004u           DW N/A PCT 150409 180227 LME Aluminum COT Fut % Of Tot Oi (L) Other Reportables Long
+ML LTNAI0000000u LTNAI00u           DW N/A MT  110224 190117 LME Tin Dlvd In Stks
+ML LTNAO0000000u LTNAO00u           DW N/A MT  110224 190117 LME Tin Dlvd Out Stks
+ML LTNAP0000000u LTNAP00u           DW N/A MT  110224 190117 LME Tin Opening Stks
+ML LTPKC0000000u LTPKC00u           DW N/A MT  140613 190117 LME Tin Port Klang Closing Stks
+ML LTPKI0000000u LTPKI00u           DW N/A MT  140613 190117 LME Tin Port Klang Dlvd In Stks
+ML LTPKL0000000u LTPKL00u           DW N/A MT  140613 190117 LME Tin Port Klang Cancelled Tonnage
+ML LTPKN0000000u LTPKN00u           DW N/A MT  140613 190117 LME Tin Port Klang Open Tonnage
+ML LTPKO0000000u LTPKO00u           DW N/A MT  140613 190117 LME Tin Port Klang Dlvd Out Stks
+ML LTPKP0000000u LTPKP00u           DW N/A MT  140613 190117 LME Tin Port Klang Opening Stks
+ML LTSGC0000000u LTSGC00u           DW N/A MT  110224 190117 LME Tin Singapore Closing Stks
+ML LTSGI0000000u LTSGI00u           DW N/A MT  110224 190117 LME Tin Singapore Dlvd In Stks
+ML LTSGL0000000u LTSGL00u           DW N/A MT  110224 190117 LME Tin Singapore Cancelled Tonnage
+ML LTSGN0000000u LTSGN00u           DW N/A MT  110224 190117 LME Tin Singapore Open Tonnage
+ML LTSGO0000000u LTSGO00u           DW N/A MT  110224 190117 LME Tin Singapore Dlvd Out Stks
+ML LTSGP0000000u LTSGP00u           DW N/A MT  110224 190117 LME Tin Singapore Opening Stks
+ML LUBSC0000000u LUBSC00u           DW N/A MT  110224 190117 LME Alum Busan Closing Stks
+ML LUBSI0000000u LUBSI00u           DW N/A MT  110224 190117 LME Alum Busan Dlvd In Stks
+ML LUBSL0000000u LUBSL00u           DW N/A MT  110224 190117 LME Alum Busan Cancelled Tonnage
+ML LUBSN0000000u LUBSN00u           DW N/A MT  110224 190117 LME Alum Busan Open Tonnage
+ML LUBSO0000000u LUBSO00u           DW N/A MT  110224 190117 LME Alum Busan Dlvd Out Stks
+ML LUBSP0000000u LUBSP00u           DW N/A MT  110224 190117 LME Alum Busan Opening Stks
+ML LUGYC0000000u LUGYC00u           DW N/A MT  110224 190117 LME Alum Gwangyang Closing Stks
+ML LUGYI0000000u LUGYI00u           DW N/A MT  110224 190117 LME Alum Gwangyang Dlvd In Stks
+ML LUGYL0000000u LUGYL00u           DW N/A MT  110224 190117 LME Alum Gwangyang Cancelled Tonnage
+ML LUGYN0000000u LUGYN00u           DW N/A MT  110224 190117 LME Alum Gwangyang Open Tonnage
+ML LUGYO0000000u LUGYO00u           DW N/A MT  110224 190117 LME Alum Gwangyang Dlvd Out Stks
+ML LUGYP0000000u LUGYP00u           DW N/A MT  110224 190117 LME Alum Gwangyang Opening Stks
+ML LUICC0000000u LUICC00u           DW N/A MT  110224 190117 LME Alum Incheon Closing Stks
+ML LUICI0000000u LUICI00u           DW N/A MT  110224 190117 LME Alum Incheon Dlvd In Stks
+ML LUICL0000000u LUICL00u           DW N/A MT  110224 190117 LME Alum Incheon Cancelled Tonnage
+ML LUICN0000000u LUICN00u           DW N/A MT  110224 190117 LME Alum Incheon Open Tonnage
+ML LUICO0000000u LUICO00u           DW N/A MT  110224 190117 LME Alum Incheon Dlvd Out Stks
+ML LUICP0000000u LUICP00u           DW N/A MT  110224 190117 LME Alum Incheon Opening Stks
+ML LUJHC0000000u LUJHC00u           DW N/A MT  110224 190117 LME Alum Johor Closing Stks
+ML LUJHI0000000u LUJHI00u           DW N/A MT  110224 190117 LME Alum Johor Dlvd In Stks
+ML LUJHL0000000u LUJHL00u           DW N/A MT  110224 190117 LME Alum Johor Cancelled Tonnage
+ML LUJHN0000000u LUJHN00u           DW N/A MT  110224 190117 LME Alum Johor Open Tonnage
+ML LUJHO0000000u LUJHO00u           DW N/A MT  110224 190117 LME Alum Johor Dlvd Out Stks
+ML LUJHP0000000u LUJHP00u           DW N/A MT  110224 190117 LME Alum Johor Opening Stks
+ML LAGYN0000000u LAGYN00u           DW N/A MT  110224 190117 LME Al Alloy Gwangyang Open Tonnage
+ML LAGYO0000000u LAGYO00u           DW N/A MT  110224 190117 LME Al Alloy Gwangyang Dlvd Out Stks
+ML LAGYP0000000u LAGYP00u           DW N/A MT  110224 190117 LME Al Alloy Gwangyang Opening Stks
+ML LAICC0000000u LAICC00u           DW N/A MT  110224 190117 LME Al Alloy Incheon Closing Stks
+ML LAICI0000000u LAICI00u           DW N/A MT  110224 190117 LME Al Alloy Incheon Dlvd In Stks
+ML LAICL0000000u LAICL00u           DW N/A MT  110224 190117 LME Al Alloy Incheon Cancelled Tonnage
+ML LAICN0000000u LAICN00u           DW N/A MT  110224 190117 LME Al Alloy Incheon Open Tonnage
+ML LAICO0000000u LAICO00u           DW N/A MT  110224 190117 LME Al Alloy Incheon Dlvd Out Stks
+ML LAICP0000000u LAICP00u           DW N/A MT  110224 190117 LME Al Alloy Incheon Opening Stks
+ML LAJHC0000000u LAJHC00u           DW N/A MT  110224 190117 LME Al Alloy Johor Closing Stks
+ML LAJHI0000000u LAJHI00u           DW N/A MT  110224 190117 LME Al Alloy Johor Dlvd In Stks
+ML LAJHL0000000u LAJHL00u           DW N/A MT  110224 190117 LME Al Alloy Johor Cancelled Tonnage
+ML LAJHN0000000u LAJHN00u           DW N/A MT  110224 190117 LME Al Alloy Johor Open Tonnage
+ML LAJHO0000000u LAJHO00u           DW N/A MT  110224 190117 LME Al Alloy Johor Dlvd Out Stks
+ML LAJHP0000000u LAJHP00u           DW N/A MT  110224 190117 LME Al Alloy Johor Opening Stks
+ML LMT000500000u LMT0005u           DW N/A PCT 150409 180227 LME Aluminum COT Fut % Of Tot Oi (L) Producer/Merch Long
+ML LMT000600000u LMT0006u           DW N/A PCT 150409 180227 LME Aluminum Alloy COT Fut % Of Tot Oi (L) Broker Dealer Indx Trder Long
+ML LMT000700000u LMT0007u           DW N/A PCT 150409 180227 LME Aluminum Alloy COT Fut % Of Tot Oi (L) Mngd Money Long
+ML LMT000800000u LMT0008u           DW N/A PCT 150610 171207 LME Aluminum Alloy COT Fut % Of Tot Oi (L) Not Def Long
+ML LMT000900000u LMT0009u           DW N/A PCT 150409 180227 LME Aluminum Alloy COT Fut % Of Tot Oi (L) Producer/Merch Long
+ML LMT001000000u LMT0010u           DW N/A PCT 150409 180227 LME Cobalt COT Fut % Of Tot Oi (L) Broker Dealer Indx Trder Long
+ML LMT001100000u LMT0011u           DW N/A PCT 150702 171018 LME Cobalt COT Fut % Of Tot Oi (L) Not Def Long
+ML LMT001200000u LMT0012u           DW N/A PCT 150409 180227 LME Cobalt COT Fut % Of Tot Oi (L) Producer/Merch Long
+ML LMT001300000u LMT0013u           DW N/A PCT 150409 180227 LME Copper COT Fut % Of Tot Oi (L) Broker Dealer Indx Trder Long
+ML LMT001400000u LMT0014u           DW N/A PCT 150409 180227 LME Copper COT Fut % Of Tot Oi (L) Mngd Money Long
+ML LMT001500000u LMT0015u           DW N/A PCT 150409 180227 LME Copper COT Fut % Of Tot Oi (L) Not Def Long
+ML LMT001600000u LMT0016u           DW N/A PCT 150409 180227 LME Copper COT Fut % Of Tot Oi (L) Other Reportables Long
+ML LMT001700000u LMT0017u           DW N/A PCT 150409 180227 LME Copper COT Fut % Of Tot Oi (L) Producer/Merch Long
+ML LMT001800000u LMT0018u           DW N/A PCT 150409 180227 LME Lead COT Fut % Of Tot Oi (L) Broker Dealer Indx Trder Long
+ML LMT001900000u LMT0019u           DW N/A PCT 150409 180227 LME Lead COT Fut % Of Tot Oi (L) Mngd Money Long
+ML LMT002000000u LMT0020u           DW N/A PCT 150409 180227 LME Lead COT Fut % Of Tot Oi (L) Not Def Long
+ML LMT002100000u LMT0021u           DW N/A PCT 150409 180227 LME Lead COT Fut % Of Tot Oi (L) Other Reportables Long
+ML LMT002200000u LMT0022u           DW N/A PCT 150409 180227 LME Lead COT Fut % Of Tot Oi (L) Producer/Merch Long
+ML LMT002300000u LMT0023u           DW N/A PCT 150409 180227 LME LMEswap Aluminum COT Fut % Of Tot Oi (L) Broker Dealer Indx Trder Long
+ML LMT002400000u LMT0024u           DW N/A PCT 150409 171130 LME LMEswap Aluminum COT Fut % Of Tot Oi (L) Mngd Money Long
+ML LMT002500000u LMT0025u           DW N/A PCT 150409 180227 LME LMEswap Aluminum COT Fut % Of Tot Oi (L) Producer/Merch Long
+ML LMT002600000u LMT0026u           DW N/A PCT 150409 180227 LME LMEswap Copper COT Fut % Of Tot Oi (L) Broker Dealer Indx Trder Long
+ML LMT002700000u LMT0027u           DW N/A PCT 150409 180227 LME LMEswap Copper COT Fut % Of Tot Oi (L) Producer/Merch Long
+ML LMT002800000u LMT0028u           DW N/A PCT 150409 180227 LME LMEswap Lead COT Fut % Of Tot Oi (L) Broker Dealer Indx Trder Long
+ML LMT002900000u LMT0029u           DW N/A PCT 150409 180227 LME LMEswap Lead COT Fut % Of Tot Oi (L) Producer/Merch Long
+ML LMT003000000u LMT0030u           DW N/A PCT 150409 180227 LME LMEswap Nickel COT Fut % Of Tot Oi (L) Broker Dealer Indx Trder Long
+ML LMT003100000u LMT0031u           DW N/A PCT               LME LMEswap Nickel COT Fut % Of Tot Oi (L) Mngd Money Long
+ML LMT003200000u LMT0032u           DW N/A PCT 150409 180227 LME LMEswap Nickel COT Fut % Of Tot Oi (L) Producer/Merch Long
+ML LMT003300000u LMT0033u           DW N/A PCT 150409 180227 LME LMEswap Zinc COT Fut % Of Tot Oi (L) Broker Dealer Indx Trder Long
+ML LMT003400000u LMT0034u           DW N/A PCT 150409 180227 LME LMEswap Zinc COT Fut % Of Tot Oi (L) Producer/Merch Long
+ML LMT003500000u LMT0035u           DW N/A PCT 150409 160720 LME Molybdenum COT Fut % Of Tot Oi (L) Broker Dealer Indx Trder Long
+ML LMT003600000u LMT0036u           DW N/A PCT 160111 160118 LME Molybdenum COT Fut % Of Tot Oi (L) Not Def Long
+ML LMT003700000u LMT0037u           DW N/A PCT 150409 150428 LME Molybdenum COT Fut % Of Tot Oi (L) Other Reportables Long
+ML LMT003800000u LMT0038u           DW N/A PCT 150409 160817 LME Molybdenum COT Fut % Of Tot Oi (L) Producer/Merch Long
+ML LMT003900000u LMT0039u           DW N/A PCT 150409 180227 LME NASSAC COT Fut % Of Tot Oi (L) Broker Dealer Indx Trder Long
+ML LMT004000000u LMT0040u           DW N/A PCT 150409 180227 LME NASSAC COT Fut % Of Tot Oi (L) Mngd Money Long
+ML LMT004100000u LMT0041u           DW N/A PCT 150603 170801 LME NASSAC COT Fut % Of Tot Oi (L) Not Def Long
+ML LMT004200000u LMT0042u           DW N/A PCT 150409 180227 LME NASSAC COT Fut % Of Tot Oi (L) Producer/Merch Long
+ML LMT004300000u LMT0043u           DW N/A PCT 150409 180227 LME Nickel COT Fut % Of Tot Oi (L) Broker Dealer Indx Trder Long
+ML LMT004400000u LMT0044u           DW N/A PCT 150409 180227 LME Nickel COT Fut % Of Tot Oi (L) Mngd Money Long
+ML LMT004500000u LMT0045u           DW N/A PCT 150409 180227 LME Nickel COT Fut % Of Tot Oi (L) Not Def Long
+ML LMT004600000u LMT0046u           DW N/A PCT 150409 180227 LME Nickel COT Fut % Of Tot Oi (L) Other Reportables Long
+ML LMT004700000u LMT0047u           DW N/A PCT 150409 180227 LME Nickel COT Fut % Of Tot Oi (L) Producer/Merch Long
+ML LMT004800000u LMT0048u           DW N/A PCT 150409 171031 LME LMEswap Tin COT Fut % Of Tot Oi (L) Broker Dealer Indx Trder Long
+ML LMT004900000u LMT0049u           DW N/A PCT 150409 180227 LME Tin COT Fut % Of Tot Oi (L) Broker Dealer Indx Trder Long
+ML LMT005000000u LMT0050u           DW N/A PCT 150409 180227 LME Tin COT Fut % Of Tot Oi (L) Mngd Money Long
+ML LMT005100000u LMT0051u           DW N/A PCT 150409 180227 LME Tin COT Fut % Of Tot Oi (L) Not Def Long
+ML LUNAI0000000u LUNAI00u           DW N/A MT  110224 190117 LME Alum Dlvd In Stks
+ML LUNAO0000000u LUNAO00u           DW N/A MT  110224 190117 LME Alum Dlvd Out Stks
+ML LUNAP0000000u LUNAP00u           DW N/A MT  110224 190117 LME Alum Opening Stks
+ML LUPKC0000000u LUPKC00u           DW N/A MT  110224 190117 LME Alum Port Klang Closing Stks
+ML LUPKI0000000u LUPKI00u           DW N/A MT  110224 190117 LME Alum Port Klang Dlvd In Stks
+ML LUPKL0000000u LUPKL00u           DW N/A MT  110224 190117 LME Alum Port Klang Cancelled Tonnage
+ML LUPKN0000000u LUPKN00u           DW N/A MT  110224 190117 LME Alum Port Klang Open Tonnage
+ML LUPKO0000000u LUPKO00u           DW N/A MT  110224 190117 LME Alum Port Klang Dlvd Out Stks
+ML LUPKP0000000u LUPKP00u           DW N/A MT  110224 190117 LME Alum Port Klang Opening Stks
+ML LUSGC0000000u LUSGC00u           DW N/A MT  110224 190117 LME Alum Singapore Closing Stks
+ML LUSGI0000000u LUSGI00u           DW N/A MT  110224 190117 LME Alum Singapore Dlvd In Stks
+ML LUSGL0000000u LUSGL00u           DW N/A MT  110224 190117 LME Alum Singapore Cancelled Tonnage
+ML LUSGN0000000u LUSGN00u           DW N/A MT  110224 190117 LME Alum Singapore Open Tonnage
+ML LUSGO0000000u LUSGO00u           DW N/A MT  110224 190117 LME Alum Singapore Dlvd Out Stks
+ML LUSGP0000000u LUSGP00u           DW N/A MT  110224 190117 LME Alum Singapore Opening Stks
+ML LUYHC0000000u LUYHC00u           DW N/A MT  110224 190117 LME Alum Yokohama Closing Stks
+ML LUYHI0000000u LUYHI00u           DW N/A MT  110224 190117 LME Alum Yokohama Dlvd In Stks
+ML LUYHL0000000u LUYHL00u           DW N/A MT  110224 190117 LME Alum Yokohama Cancelled Tonnage
+ML LUYHN0000000u LUYHN00u           DW N/A MT  110224 190117 LME Alum Yokohama Open Tonnage
+ML LUYHO0000000u LUYHO00u           DW N/A MT  110224 190117 LME Alum Yokohama Dlvd Out Stks
+ML LUYHP0000000u LUYHP00u           DW N/A MT  110224 190117 LME Alum Yokohama Opening Stks
+ML LYNAI0000000u LYNAI00u           DW N/A MT  110224 190117 LME NA Al Alloy Dlvd In Stks
+ML LYNAO0000000u LYNAO00u           DW N/A MT  110224 190117 LME NA Al Alloy Dlvd Out Stks
+ML LYNAP0000000u LYNAP00u           DW N/A MT  110224 190117 LME NA Al Alloy Opening Stks
+ML LZJHC0000000u LZJHC00u           DW N/A MT  110224 190117 LME Zinc Johor Closing Stks
+ML LZJHI0000000u LZJHI00u           DW N/A MT  110224 190117 LME Zinc Johor Dlvd In Stks
+ML LZJHL0000000u LZJHL00u           DW N/A MT  110224 190117 LME Zinc Johor Cancelled Tonnage
+ML LZJHN0000000u LZJHN00u           DW N/A MT  110224 190117 LME Zinc Johor Open Tonnage
+ML LZJHO0000000u LZJHO00u           DW N/A MT  110224 190117 LME Zinc Johor Dlvd Out Stks
+ML LZJHP0000000u LZJHP00u           DW N/A MT  110224 190117 LME Zinc Johor Opening Stks
+ML LZNAI0000000u LZNAI00u           DW N/A MT  110224 190117 LME Zinc Dlvd In Stks
+ML LZNAO0000000u LZNAO00u           DW N/A MT  110224 190117 LME Zinc Dlvd Out Stks
+ML LZNAP0000000u LZNAP00u           DW N/A MT  110224 190117 LME Zinc Opening Stks
+ML LZPKC0000000u LZPKC00u           DW N/A MT  110224 190117 LME Zinc Port Klang Closing Stks
+ML LZPKI0000000u LZPKI00u           DW N/A MT  110224 190117 LME Zinc Port Klang Dlvd In Stks
+ML LZPKL0000000u LZPKL00u           DW N/A MT  110224 190117 LME Zinc Port Klang Cancelled Tonnage
+ML LZPKN0000000u LZPKN00u           DW N/A MT  110224 190117 LME Zinc Port Klang Open Tonnage
+ML LZPKO0000000u LZPKO00u           DW N/A MT  110224 190117 LME Zinc Port Klang Dlvd Out Stks
+ML LZPKP0000000u LZPKP00u           DW N/A MT  110224 190117 LME Zinc Port Klang Opening Stks
+ML LZSGC0000000u LZSGC00u           DW N/A MT  110224 190117 LME Zinc Singapore Closing Stks
+ML LZSGI0000000u LZSGI00u           DW N/A MT  110224 190117 LME Zinc Singapore Dlvd In Stks
+ML LZSGL0000000u LZSGL00u           DW N/A MT  110224 190117 LME Zinc Singapore Cancelled Tonnage
+ML LZSGN0000000u LZSGN00u           DW N/A MT  110224 190117 LME Zinc Singapore Open Tonnage
+ML LZSGO0000000u LZSGO00u           DW N/A MT  110224 190117 LME Zinc Singapore Dlvd Out Stks
+ML LZSGP0000000u LZSGP00u           DW N/A MT  110224 190117 LME Zinc Singapore Opening Stks
+ML LMT005200000u LMT0052u           DW N/A PCT 150409 180227 LME Tin COT Fut % Of Tot Oi (L) Other Reportables Long
+ML LMT005300000u LMT0053u           DW N/A PCT 150409 180227 LME Tin COT Fut % Of Tot Oi (L) Producer/Merch Long
+ML LMT005400000u LMT0054u           DW N/A PCT 150409 180227 LME Zinc COT Fut % Of Tot Oi (L) Broker Dealer Indx Trder Long
+ML LMT005500000u LMT0055u           DW N/A PCT 150409 180227 LME Zinc COT Fut % Of Tot Oi (L) Mngd Money Long
+ML LMT005600000u LMT0056u           DW N/A PCT 150409 180227 LME Zinc COT Fut % Of Tot Oi (L) Not Def Long
+ML LMT005700000u LMT0057u           DW N/A PCT 150409 180227 LME Zinc COT Fut % Of Tot Oi (L) Other Reportables Long
+ML LMT005800000u LMT0058u           DW N/A PCT 150409 180227 LME Zinc COT Fut % Of Tot Oi (L) Producer/Merch Long
+ML LMT005900000u LMT0059u           DW N/A PCT 150409 180227 LME Aluminum COT Fut % Of Tot Oi (S) Broker Dealer Indx Trder Short
+ML LMT006000000u LMT0060u           DW N/A PCT 150409 180227 LME Aluminum COT Fut % Of Tot Oi (S) Mngd Money Short
+ML LMT006100000u LMT0061u           DW N/A PCT 150409 180227 LME Aluminum COT Fut % Of Tot Oi (S) Not Def Short
+ML LMT006200000u LMT0062u           DW N/A PCT 150409 180227 LME Aluminum COT Fut % Of Tot Oi (S) Other Reportables Short
+ML LMT006300000u LMT0063u           DW N/A PCT 150409 180227 LME Aluminum COT Fut % Of Tot Oi (S) Producer/Merch Short
+ML LMT006400000u LMT0064u           DW N/A PCT 150409 180227 LME Aluminum Alloy COT Fut % Of Tot Oi (S) Broker Dealer Indx Trder Short
+ML LMT006500000u LMT0065u           DW N/A PCT 150409 180227 LME Aluminum Alloy COT Fut % Of Tot Oi (S) Mngd Money Short
+ML LMT006600000u LMT0066u           DW N/A PCT 150610 171207 LME Aluminum Alloy COT Fut % Of Tot Oi (S) Not Def Short
+ML LMT006700000u LMT0067u           DW N/A PCT 150409 180227 LME Aluminum Alloy COT Fut % Of Tot Oi (S) Producer/Merch Short
+ML LMT006800000u LMT0068u           DW N/A PCT 150409 180227 LME Cobalt COT Fut % Of Tot Oi (S) Broker Dealer Indx Trder Short
+ML LMT006900000u LMT0069u           DW N/A PCT 150702 171018 LME Cobalt COT Fut % Of Tot Oi (S) Not Def Short
+ML LMT007000000u LMT0070u           DW N/A PCT 150409 180227 LME Cobalt COT Fut % Of Tot Oi (S) Producer/Merch Short
+ML LMT007100000u LMT0071u           DW N/A PCT 150409 180227 LME Copper COT Fut % Of Tot Oi (S) Broker Dealer Indx Trder Short
+ML LMT007200000u LMT0072u           DW N/A PCT 150409 180227 LME Copper COT Fut % Of Tot Oi (S) Mngd Money Short
+ML LMT007300000u LMT0073u           DW N/A PCT 150409 180227 LME Copper COT Fut % Of Tot Oi (S) Not Def Short
+ML LMT007400000u LMT0074u           DW N/A PCT 150409 180227 LME Copper COT Fut % Of Tot Oi (S) Other Reportables Short
+ML LMT007500000u LMT0075u           DW N/A PCT 150409 180227 LME Copper COT Fut % Of Tot Oi (S) Producer/Merch Short
+ML LMT007600000u LMT0076u           DW N/A PCT 150409 180227 LME Lead COT Fut % Of Tot Oi (S) Broker Dealer Indx Trder Short
+ML LMT007700000u LMT0077u           DW N/A PCT 150409 180227 LME Lead COT Fut % Of Tot Oi (S) Mngd Money Short
+ML LMT007800000u LMT0078u           DW N/A PCT 150409 180227 LME Lead COT Fut % Of Tot Oi (S) Not Def Short
+ML LMT007900000u LMT0079u           DW N/A PCT 150409 180227 LME Lead COT Fut % Of Tot Oi (S) Other Reportables Short
+ML LMT008000000u LMT0080u           DW N/A PCT 150409 180227 LME Lead COT Fut % Of Tot Oi (S) Producer/Merch Short
+ML LMT008100000u LMT0081u           DW N/A PCT 150409 180227 LME LMEswap Aluminum COT Fut % Of Tot Oi (S) Broker Dealer Indx Trder Short
+ML LMT008200000u LMT0082u           DW N/A PCT 150409 171130 LME LMEswap Aluminum COT Fut % Of Tot Oi (S) Mngd Money Short
+ML LMT008300000u LMT0083u           DW N/A PCT 150409 180227 LME LMEswap Aluminum COT Fut % Of Tot Oi (S) Producer/Merch Short
+ML LMT008400000u LMT0084u           DW N/A PCT 150409 180227 LME LMEswap Copper COT Fut % Of Tot Oi (S) Broker Dealer Indx Trder Short
+ML LMT008500000u LMT0085u           DW N/A PCT 150409 180227 LME LMEswap Copper COT Fut % Of Tot Oi (S) Producer/Merch Short
+ML LMT008600000u LMT0086u           DW N/A PCT 150409 180227 LME LMEswap Lead COT Fut % Of Tot Oi (S) Broker Dealer Indx Trder Short
+ML LMT008700000u LMT0087u           DW N/A PCT 150409 180227 LME LMEswap Lead COT Fut % Of Tot Oi (S) Producer/Merch Short
+ML LMT008800000u LMT0088u           DW N/A PCT 150409 180227 LME LMEswap Nickel COT Fut % Of Tot Oi (S) Broker Dealer Indx Trder Short
+ML LMT008900000u LMT0089u           DW N/A PCT               LME LMEswap Nickel COT Fut % Of Tot Oi (S) Mngd Money Short
+ML LMT009000000u LMT0090u           DW N/A PCT 150409 180227 LME LMEswap Nickel COT Fut % Of Tot Oi (S) Producer/Merch Short
+ML LMT009100000u LMT0091u           DW N/A PCT 150409 180227 LME LMEswap Zinc COT Fut % Of Tot Oi (S) Broker Dealer Indx Trder Short
+ML LMT009200000u LMT0092u           DW N/A PCT 150409 180227 LME LMEswap Zinc COT Fut % Of Tot Oi (S) Producer/Merch Short
+ML LMT009300000u LMT0093u           DW N/A PCT 150409 160720 LME Molybdenum COT Fut % Of Tot Oi (S) Broker Dealer Indx Trder Short
+ML LMT009400000u LMT0094u           DW N/A PCT 160111 160118 LME Molybdenum COT Fut % Of Tot Oi (S) Not Def Short
+ML LMT009500000u LMT0095u           DW N/A PCT 150409 150428 LME Molybdenum COT Fut % Of Tot Oi (S) Other Reportables Short
+ML LMT009600000u LMT0096u           DW N/A PCT 150409 160817 LME Molybdenum COT Fut % Of Tot Oi (S) Producer/Merch Short
+ML LMT009700000u LMT0097u           DW N/A PCT 150409 180227 LME NASSAC COT Fut % Of Tot Oi (S) Broker Dealer Indx Trder Short
+ML LMT009800000u LMT0098u           DW N/A PCT 150409 180227 LME NASSAC COT Fut % Of Tot Oi (S) Mngd Money Short
+ML LMT009900000u LMT0099u           DW N/A PCT 150603 170801 LME NASSAC COT Fut % Of Tot Oi (S) Not Def Short
+ML LMT010000000u LMT0100u           DW N/A PCT 150409 180227 LME NASSAC COT Fut % Of Tot Oi (S) Producer/Merch Short
+ML LMT010100000u LMT0101u           DW N/A PCT 150409 180227 LME Nickel COT Fut % Of Tot Oi (S) Broker Dealer Indx Trder Short
+ML LMT010200000u LMT0102u           DW N/A PCT 150409 180227 LME Nickel COT Fut % Of Tot Oi (S) Mngd Money Short
+ML LMT010300000u LMT0103u           DW N/A PCT 150409 180227 LME Nickel COT Fut % Of Tot Oi (S) Not Def Short
+ML LMT010400000u LMT0104u           DW N/A PCT 150409 180227 LME Nickel COT Fut % Of Tot Oi (S) Other Reportables Short
+ML LMT010500000u LMT0105u           DW N/A PCT 150409 180227 LME Nickel COT Fut % Of Tot Oi (S) Producer/Merch Short
+ML LMT010600000u LMT0106u           DW N/A PCT 150409 171031 LME LMEswap Tin COT Fut % Of Tot Oi (S) Broker Dealer Indx Trder Short
+ML LMT010700000u LMT0107u           DW N/A PCT 150409 180227 LME Tin COT Fut % Of Tot Oi (S) Broker Dealer Indx Trder Short
+ML LMT010800000u LMT0108u           DW N/A PCT 150409 180227 LME Tin COT Fut % Of Tot Oi (S) Mngd Money Short
+ML LMT010900000u LMT0109u           DW N/A PCT 150409 180227 LME Tin COT Fut % Of Tot Oi (S) Not Def Short
+ML LMT011000000u LMT0110u           DW N/A PCT 150409 180227 LME Tin COT Fut % Of Tot Oi (S) Other Reportables Short
+ML LMT011100000u LMT0111u           DW N/A PCT 150409 180227 LME Tin COT Fut % Of Tot Oi (S) Producer/Merch Short
+ML LMT011200000u LMT0112u           DW N/A PCT 150409 180227 LME Zinc COT Fut % Of Tot Oi (S) Broker Dealer Indx Trder Short
+ML LMT011300000u LMT0113u           DW N/A PCT 150409 180227 LME Zinc COT Fut % Of Tot Oi (S) Mngd Money Short
+ML LMT011400000u LMT0114u           DW N/A PCT 150409 180227 LME Zinc COT Fut % Of Tot Oi (S) Not Def Short
+ML LMT011500000u LMT0115u           DW N/A PCT 150409 180227 LME Zinc COT Fut % Of Tot Oi (S) Other Reportables Short
+ML LMT011600000u LMT0116u           DW N/A PCT 150409 180227 LME Zinc COT Fut % Of Tot Oi (S) Producer/Merch Short
+ML LMT011700000u LMT0117u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Long Pos Chg Broker Dealer Indx Trder Long
+ML LMT011800000u LMT0118u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Long Pos Chg Mngd Money Long
+ML LMT011900000u LMT0119u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Long Pos Chg Not Def Long
+ML LMT012000000u LMT0120u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Long Pos Chg Other Reportables Long
+ML LMT012100000u LMT0121u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Long Pos Chg Producer/Merch Long
+ML LMT012200000u LMT0122u           DW N/A N/A 150409 180227 LME Aluminum Alloy COT Fut Long Pos Chg Broker Dealer Indx Trder Long
+ML LMT012300000u LMT0123u           DW N/A N/A 150409 180227 LME Aluminum Alloy COT Fut Long Pos Chg Mngd Money Long
+ML LMT012400000u LMT0124u           DW N/A N/A 150610 171207 LME Aluminum Alloy COT Fut Long Pos Chg Not Def Long
+ML LMT012500000u LMT0125u           DW N/A N/A 150409 180227 LME Aluminum Alloy COT Fut Long Pos Chg Producer/Merch Long
+ML LMT012600000u LMT0126u           DW N/A N/A 150409 180227 LME Cobalt COT Fut Long Pos Chg Broker Dealer Indx Trder Long
+ML LMT012700000u LMT0127u           DW N/A N/A 150702 171018 LME Cobalt COT Fut Long Pos Chg Not Def Long
+ML LMT012800000u LMT0128u           DW N/A N/A 150409 180227 LME Cobalt COT Fut Long Pos Chg Producer/Merch Long
+ML LMT012900000u LMT0129u           DW N/A N/A 150409 180227 LME Copper COT Fut Long Pos Chg Broker Dealer Indx Trder Long
+ML LMT013000000u LMT0130u           DW N/A N/A 150409 180227 LME Copper COT Fut Long Pos Chg Mngd Money Long
+ML LMT013100000u LMT0131u           DW N/A N/A 150409 180227 LME Copper COT Fut Long Pos Chg Not Def Long
+ML LMT013200000u LMT0132u           DW N/A N/A 150409 180227 LME Copper COT Fut Long Pos Chg Other Reportables Long
+ML LMT013300000u LMT0133u           DW N/A N/A 150409 180227 LME Copper COT Fut Long Pos Chg Producer/Merch Long
+ML LMT013400000u LMT0134u           DW N/A N/A 150409 180227 LME Lead COT Fut Long Pos Chg Broker Dealer Indx Trder Long
+ML LMT013500000u LMT0135u           DW N/A N/A 150409 180227 LME Lead COT Fut Long Pos Chg Mngd Money Long
+ML LMT013600000u LMT0136u           DW N/A N/A 150409 180227 LME Lead COT Fut Long Pos Chg Not Def Long
+ML LMT013700000u LMT0137u           DW N/A N/A 150409 180227 LME Lead COT Fut Long Pos Chg Other Reportables Long
+ML LMT013800000u LMT0138u           DW N/A N/A 150409 180227 LME Lead COT Fut Long Pos Chg Producer/Merch Long
+ML LMT013900000u LMT0139u           DW N/A N/A 150409 180227 LME LMEswap Aluminum COT Fut Long Pos Chg Broker Dealer Indx Trder Long
+ML LMT014000000u LMT0140u           DW N/A N/A 150409 171130 LME LMEswap Aluminum COT Fut Long Pos Chg Mngd Money Long
+ML LMT014100000u LMT0141u           DW N/A N/A 150409 180227 LME LMEswap Aluminum COT Fut Long Pos Chg Producer/Merch Long
+ML LMT014200000u LMT0142u           DW N/A N/A 150409 180227 LME LMEswap Copper COT Fut Long Pos Chg Broker Dealer Indx Trder Long
+ML LMT014300000u LMT0143u           DW N/A N/A 150409 180227 LME LMEswap Copper COT Fut Long Pos Chg Producer/Merch Long
+ML LMT014400000u LMT0144u           DW N/A N/A 150409 180227 LME LMEswap Lead COT Fut Long Pos Chg Broker Dealer Indx Trder Long
+ML LMT014500000u LMT0145u           DW N/A N/A 150409 180227 LME LMEswap Lead COT Fut Long Pos Chg Producer/Merch Long
+ML LMT014600000u LMT0146u           DW N/A N/A 150409 180227 LME LMEswap Nickel COT Fut Long Pos Chg Broker Dealer Indx Trder Long
+ML LMT014700000u LMT0147u           DW N/A N/A               LME LMEswap Nickel COT Fut Long Pos Chg Mngd Money Long
+ML LMT014800000u LMT0148u           DW N/A N/A 150409 180227 LME LMEswap Nickel COT Fut Long Pos Chg Producer/Merch Long
+ML LMT014900000u LMT0149u           DW N/A N/A 150409 180227 LME LMEswap Zinc COT Fut Long Pos Chg Broker Dealer Indx Trder Long
+ML LMT015000000u LMT0150u           DW N/A N/A 150409 180227 LME LMEswap Zinc COT Fut Long Pos Chg Producer/Merch Long
+ML LMT015100000u LMT0151u           DW N/A N/A 150409 160720 LME Molybdenum COT Fut Long Pos Chg Broker Dealer Indx Trder Long
+ML LMT015200000u LMT0152u           DW N/A N/A 160111 160118 LME Molybdenum COT Fut Long Pos Chg Not Def Long
+ML LMT015300000u LMT0153u           DW N/A N/A 150409 150428 LME Molybdenum COT Fut Long Pos Chg Other Reportables Long
+ML LMT015400000u LMT0154u           DW N/A N/A 150409 160817 LME Molybdenum COT Fut Long Pos Chg Producer/Merch Long
+ML LMT015500000u LMT0155u           DW N/A N/A 150409 180227 LME NASSAC COT Fut Long Pos Chg Broker Dealer Indx Trder Long
+ML LMT015600000u LMT0156u           DW N/A N/A 150409 180227 LME NASSAC COT Fut Long Pos Chg Mngd Money Long
+ML LMT015700000u LMT0157u           DW N/A N/A 150603 170801 LME NASSAC COT Fut Long Pos Chg Not Def Long
+ML LMT015800000u LMT0158u           DW N/A N/A 150409 180227 LME NASSAC COT Fut Long Pos Chg Producer/Merch Long
+ML LMT015900000u LMT0159u           DW N/A N/A 150409 180227 LME Nickel COT Fut Long Pos Chg Broker Dealer Indx Trder Long
+ML LMT016000000u LMT0160u           DW N/A N/A 150409 180227 LME Nickel COT Fut Long Pos Chg Mngd Money Long
+ML LMT016100000u LMT0161u           DW N/A N/A 150409 180227 LME Nickel COT Fut Long Pos Chg Not Def Long
+ML LMT016200000u LMT0162u           DW N/A N/A 150409 180227 LME Nickel COT Fut Long Pos Chg Other Reportables Long
+ML LMT016300000u LMT0163u           DW N/A N/A 150409 180227 LME Nickel COT Fut Long Pos Chg Producer/Merch Long
+ML LMT016400000u LMT0164u           DW N/A N/A 150409 171031 LME LMEswap Tin COT Fut Long Pos Chg Broker Dealer Indx Trder Long
+ML LMT016500000u LMT0165u           DW N/A N/A 150409 180227 LME Tin COT Fut Long Pos Chg Broker Dealer Indx Trder Long
+ML LMT016600000u LMT0166u           DW N/A N/A 150409 180227 LME Tin COT Fut Long Pos Chg Mngd Money Long
+ML LMT016700000u LMT0167u           DW N/A N/A 150409 180227 LME Tin COT Fut Long Pos Chg Not Def Long
+ML LMT016800000u LMT0168u           DW N/A N/A 150409 180227 LME Tin COT Fut Long Pos Chg Other Reportables Long
+ML LMT016900000u LMT0169u           DW N/A N/A 150409 180227 LME Tin COT Fut Long Pos Chg Producer/Merch Long
+ML LMT017000000u LMT0170u           DW N/A N/A 150409 180227 LME Zinc COT Fut Long Pos Chg Broker Dealer Indx Trder Long
+ML LMT017100000u LMT0171u           DW N/A N/A 150409 180227 LME Zinc COT Fut Long Pos Chg Mngd Money Long
+ML LMT017200000u LMT0172u           DW N/A N/A 150409 180227 LME Zinc COT Fut Long Pos Chg Not Def Long
+ML LMT017300000u LMT0173u           DW N/A N/A 150409 180227 LME Zinc COT Fut Long Pos Chg Other Reportables Long
+ML LMT017400000u LMT0174u           DW N/A N/A 150409 180227 LME Zinc COT Fut Long Pos Chg Producer/Merch Long
+ML LMT017500000u LMT0175u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Net Pos Chg Broker Dealer Indx Trder Netpsition
+ML LMT017600000u LMT0176u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Net Pos Chg Mngd Money Netpsition
+ML LMT017700000u LMT0177u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Net Pos Chg Not Def Netpsition
+ML LMT017800000u LMT0178u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Net Pos Chg Other Reportables Netpsition
+ML LMT017900000u LMT0179u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Net Pos Chg Producer/Merch Netpsition
+ML LMT018000000u LMT0180u           DW N/A N/A 150409 180227 LME Aluminum Alloy COT Fut Net Pos Chg Broker Dealer Indx Trder Netpsition
+ML LMT018100000u LMT0181u           DW N/A N/A 150409 180227 LME Aluminum Alloy COT Fut Net Pos Chg Mngd Money Netpsition
+ML LMT018200000u LMT0182u           DW N/A N/A 150610 171207 LME Aluminum Alloy COT Fut Net Pos Chg Not Def Netpsition
+ML LMT018300000u LMT0183u           DW N/A N/A 150409 180227 LME Aluminum Alloy COT Fut Net Pos Chg Producer/Merch Netpsition
+ML LMT018400000u LMT0184u           DW N/A N/A 150409 180227 LME Cobalt COT Fut Net Pos Chg Broker Dealer Indx Trder Netpsition
+ML LMT018500000u LMT0185u           DW N/A N/A 150702 171018 LME Cobalt COT Fut Net Pos Chg Not Def Netpsition
+ML LMT018600000u LMT0186u           DW N/A N/A 150409 180227 LME Cobalt COT Fut Net Pos Chg Producer/Merch Netpsition
+ML LMT018700000u LMT0187u           DW N/A N/A 150409 180227 LME Copper COT Fut Net Pos Chg Broker Dealer Indx Trder Netpsition
+ML LMT018800000u LMT0188u           DW N/A N/A 150409 180227 LME Copper COT Fut Net Pos Chg Mngd Money Netpsition
+ML LMT018900000u LMT0189u           DW N/A N/A 150409 180227 LME Copper COT Fut Net Pos Chg Not Def Netpsition
+ML LMT019000000u LMT0190u           DW N/A N/A 150409 180227 LME Copper COT Fut Net Pos Chg Other Reportables Netpsition
+ML LMT019100000u LMT0191u           DW N/A N/A 150409 180227 LME Copper COT Fut Net Pos Chg Producer/Merch Netpsition
+ML LMT019200000u LMT0192u           DW N/A N/A 150409 180227 LME Lead COT Fut Net Pos Chg Broker Dealer Indx Trder Netpsition
+ML LMT019300000u LMT0193u           DW N/A N/A 150409 180227 LME Lead COT Fut Net Pos Chg Mngd Money Netpsition
+ML LMT019400000u LMT0194u           DW N/A N/A 150409 180227 LME Lead COT Fut Net Pos Chg Not Def Netpsition
+ML LMT019500000u LMT0195u           DW N/A N/A 150409 180227 LME Lead COT Fut Net Pos Chg Other Reportables Netpsition
+ML LMT019600000u LMT0196u           DW N/A N/A 150409 180227 LME Lead COT Fut Net Pos Chg Producer/Merch Netpsition
+ML LMT019700000u LMT0197u           DW N/A N/A 150409 180227 LME LMEswap Aluminum COT Fut Net Pos Chg Broker Dealer Indx Trder Netpsition
+ML LMT019800000u LMT0198u           DW N/A N/A 150409 171130 LME LMEswap Aluminum COT Fut Net Pos Chg Mngd Money Netpsition
+ML LMT019900000u LMT0199u           DW N/A N/A 150409 180227 LME LMEswap Aluminum COT Fut Net Pos Chg Producer/Merch Netpsition
+ML LMT020000000u LMT0200u           DW N/A N/A 150409 180227 LME LMEswap Copper COT Fut Net Pos Chg Broker Dealer Indx Trder Netpsition
+ML LMT020100000u LMT0201u           DW N/A N/A 150409 180227 LME LMEswap Copper COT Fut Net Pos Chg Producer/Merch Netpsition
+ML LMT020200000u LMT0202u           DW N/A N/A 150409 180227 LME LMEswap Lead COT Fut Net Pos Chg Broker Dealer Indx Trder Netpsition
+ML LMT020300000u LMT0203u           DW N/A N/A 150409 180227 LME LMEswap Lead COT Fut Net Pos Chg Producer/Merch Netpsition
+ML LMT020400000u LMT0204u           DW N/A N/A 150409 180227 LME LMEswap Nickel COT Fut Net Pos Chg Broker Dealer Indx Trder Netpsition
+ML LMT020500000u LMT0205u           DW N/A N/A               LME LMEswap Nickel COT Fut Net Pos Chg Mngd Money Netpsition
+ML LMT020600000u LMT0206u           DW N/A N/A 150409 180227 LME LMEswap Nickel COT Fut Net Pos Chg Producer/Merch Netpsition
+ML LMT020700000u LMT0207u           DW N/A N/A 150409 180227 LME LMEswap Zinc COT Fut Net Pos Chg Broker Dealer Indx Trder Netpsition
+ML LMT020800000u LMT0208u           DW N/A N/A 150409 180227 LME LMEswap Zinc COT Fut Net Pos Chg Producer/Merch Netpsition
+ML LMT020900000u LMT0209u           DW N/A N/A 150409 160720 LME Molybdenum COT Fut Net Pos Chg Broker Dealer Indx Trder Netpsition
+ML LMT021000000u LMT0210u           DW N/A N/A 160111 160118 LME Molybdenum COT Fut Net Pos Chg Not Def Netpsition
+ML LMT021100000u LMT0211u           DW N/A N/A 150409 150428 LME Molybdenum COT Fut Net Pos Chg Other Reportables Netpsition
+ML LMT021200000u LMT0212u           DW N/A N/A 150409 160817 LME Molybdenum COT Fut Net Pos Chg Producer/Merch Netpsition
+ML LMT021300000u LMT0213u           DW N/A N/A 150409 180227 LME NASSAC COT Fut Net Pos Chg Broker Dealer Indx Trder Netpsition
+ML LMT021400000u LMT0214u           DW N/A N/A 150409 180227 LME NASSAC COT Fut Net Pos Chg Mngd Money Netpsition
+ML LMT021500000u LMT0215u           DW N/A N/A 150603 170801 LME NASSAC COT Fut Net Pos Chg Not Def Netpsition
+ML LMT021600000u LMT0216u           DW N/A N/A 150409 180227 LME NASSAC COT Fut Net Pos Chg Producer/Merch Netpsition
+ML LMT021700000u LMT0217u           DW N/A N/A 150409 180227 LME Nickel COT Fut Net Pos Chg Broker Dealer Indx Trder Netpsition
+ML LMT021800000u LMT0218u           DW N/A N/A 150409 180227 LME Nickel COT Fut Net Pos Chg Mngd Money Netpsition
+ML LMT021900000u LMT0219u           DW N/A N/A 150409 180227 LME Nickel COT Fut Net Pos Chg Not Def Netpsition
+ML LMT022000000u LMT0220u           DW N/A N/A 150409 180227 LME Nickel COT Fut Net Pos Chg Other Reportables Netpsition
+ML LMT022100000u LMT0221u           DW N/A N/A 150409 180227 LME Nickel COT Fut Net Pos Chg Producer/Merch Netpsition
+ML LMT022200000u LMT0222u           DW N/A N/A 150409 171031 LME LMEswap Tin COT Fut Net Pos Chg Broker Dealer Indx Trder Netpsition
+ML LMT022300000u LMT0223u           DW N/A N/A 150409 180227 LME Tin COT Fut Net Pos Chg Broker Dealer Indx Trder Netpsition
+ML LMT022400000u LMT0224u           DW N/A N/A 150409 180227 LME Tin COT Fut Net Pos Chg Mngd Money Netpsition
+ML LMT022500000u LMT0225u           DW N/A N/A 150409 180227 LME Tin COT Fut Net Pos Chg Not Def Netpsition
+ML LMT022600000u LMT0226u           DW N/A N/A 150409 180227 LME Tin COT Fut Net Pos Chg Other Reportables Netpsition
+ML LMT022700000u LMT0227u           DW N/A N/A 150409 180227 LME Tin COT Fut Net Pos Chg Producer/Merch Netpsition
+ML LMT022800000u LMT0228u           DW N/A N/A 150409 180227 LME Zinc COT Fut Net Pos Chg Broker Dealer Indx Trder Netpsition
+ML LMT022900000u LMT0229u           DW N/A N/A 150409 180227 LME Zinc COT Fut Net Pos Chg Mngd Money Netpsition
+ML LMT023000000u LMT0230u           DW N/A N/A 150409 180227 LME Zinc COT Fut Net Pos Chg Not Def Netpsition
+ML LMT023100000u LMT0231u           DW N/A N/A 150409 180227 LME Zinc COT Fut Net Pos Chg Other Reportables Netpsition
+ML LMT023200000u LMT0232u           DW N/A N/A 150409 180227 LME Zinc COT Fut Net Pos Chg Producer/Merch Netpsition
+ML LMT023300000u LMT0233u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Short Pos Chg Broker Dealer Indx Trder Short
+ML LMT023400000u LMT0234u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Short Pos Chg Mngd Money Short
+ML LMT023500000u LMT0235u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Short Pos Chg Not Def Short
+ML LMT023600000u LMT0236u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Short Pos Chg Other Reportables Short
+ML LMT023700000u LMT0237u           DW N/A N/A 150409 180227 LME Aluminum COT Fut Short Pos Chg Producer/Merch Short
+ML LMT023800000u LMT0238u           DW N/A N/A 150409 180227 LME Aluminum Alloy COT Fut Short Pos Chg Broker Dealer Indx Trder Short
+ML LMT023900000u LMT0239u           DW N/A N/A 150409 180227 LME Aluminum Alloy COT Fut Short Pos Chg Mngd Money Short
+ML LMT024000000u LMT0240u           DW N/A N/A 150610 171207 LME Aluminum Alloy COT Fut Short Pos Chg Not Def Short
+ML LMT024100000u LMT0241u           DW N/A N/A 150409 180227 LME Aluminum Alloy COT Fut Short Pos Chg Producer/Merch Short

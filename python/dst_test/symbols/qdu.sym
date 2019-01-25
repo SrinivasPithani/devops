@@ -1,0 +1,1738 @@
+QDU                                                           © 2019 by S&P Global Inc.,190119
+QDU QB3HP0100000c QB3HP01c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo01
+QDU QB3HP0200000c QB3HP02c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo02
+QDU QB3HP0300000c QB3HP03c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo03
+QDU QB3HP0400000c QB3HP04c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo04
+QDU QB3HP0500000c QB3HP05c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo05
+QDU QB3HP0600000c QB3HP06c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo06
+QDU QB3HP0700000c QB3HP07c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo07
+QDU QB3HP0800000c QB3HP08c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo08
+QDU QB3HP0900000c QB3HP09c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo09
+QDU QB3HP1000000c QB3HP10c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo10
+QDU QB3HP1100000c QB3HP11c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo11
+QDU QB3HP1200000c QB3HP12c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo12
+QDU QB3HP1300000c QB3HP13c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo13
+QDU QB3HP1400000c QB3HP14c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo14
+QDU QB3HP1500000c QB3HP15c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo15
+QDU QB3HP1600000c QB3HP16c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo16
+QDU QB3HP1700000c QB3HP17c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo17
+QDU QB3HP1800000c QB3HP18c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo18
+QDU QB3HP1900000c QB3HP19c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo19
+QDU QB3HP2000000c QB3HP20c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo20
+QDU QB3HP2100000c QB3HP21c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo21
+QDU QB3HP2200000c QB3HP22c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo22
+QDU QB3HP2300000c QB3HP23c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo23
+QDU QB3HP2400000c QB3HP24c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo24
+QDU QB3HP2500000c QB3HP25c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo25
+QDU QB3HP2600000c QB3HP26c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo26
+QDU QB3HP2700000c QB3HP27c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo27
+QDU QB3HP2800000c QB3HP28c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo28
+QDU QB3HP2900000c QB3HP29c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo29
+QDU QB3HP3000000c QB3HP30c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo30
+QDU QB3HP3100000c QB3HP31c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo31
+QDU QB3HP3200000c QB3HP32c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo32
+QDU QB3HP3300000c QB3HP33c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo33
+QDU QB3HP3400000c QB3HP34c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo34
+QDU QB3HP3500000c QB3HP35c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo35
+QDU QB3HP3600000c QB3HP36c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Mo36
+QDU QB3HQ0100000c QB3HQ01c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Qr01
+QDU QB3HQ0200000c QB3HQ02c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Qr02
+QDU QB3HQ0300000c QB3HQ03c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Qr03
+QDU QB3HQ0400000c QB3HQ04c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Qr04
+QDU QB3HQ0500000c QB3HQ05c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Qr05
+QDU QB3HQ0600000c QB3HQ06c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Qr06
+QDU QB3HQ0700000c QB3HQ07c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Qr07
+QDU QB3HQ0800000c QB3HQ08c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Qr08
+QDU QB3HY0100000c QB3HY01c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Yr01
+QDU QB3HY0200000c QB3HY02c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Houston M2M Financial Yr02
+QDU QB3LP0100000c QB3LP01c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo01
+QDU QB3LP0200000c QB3LP02c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo02
+QDU QB3LP0300000c QB3LP03c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo03
+QDU QB3LP0400000c QB3LP04c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo04
+QDU QB3LP0500000c QB3LP05c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo05
+QDU QB3LP0600000c QB3LP06c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo06
+QDU QB3LP0700000c QB3LP07c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo07
+QDU QB3LP0800000c QB3LP08c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo08
+QDU QB3LP0900000c QB3LP09c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo09
+QDU QB3LP1000000c QB3LP10c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo10
+QDU QB3LP1100000c QB3LP11c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo11
+QDU QB3LP1200000c QB3LP12c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo12
+QDU QB3LP1300000c QB3LP13c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo13
+QDU QB3LP1400000c QB3LP14c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo14
+QDU QB3LP1500000c QB3LP15c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo15
+QDU QB3LP1600000c QB3LP16c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo16
+QDU QB3LP1700000c QB3LP17c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo17
+QDU QB3LP1800000c QB3LP18c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo18
+QDU QB3LP1900000c QB3LP19c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo19
+QDU QB3LP2000000c QB3LP20c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo20
+QDU QB3LP2100000c QB3LP21c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo21
+QDU QB3LP2200000c QB3LP22c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo22
+QDU QB3LP2300000c QB3LP23c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo23
+QDU QB3LP2400000c QB3LP24c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo24
+QDU QB3LP2500000c QB3LP25c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo25
+QDU QB3LP2600000c QB3LP26c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo26
+QDU QB3LP2700000c QB3LP27c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo27
+QDU QB3LP2800000c QB3LP28c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo28
+QDU QB3LP2900000c QB3LP29c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo29
+QDU QB3LP3000000c QB3LP30c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo30
+QDU QB3LP3100000c QB3LP31c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo31
+QDU QB3LP3200000c QB3LP32c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo32
+QDU QB3LP3300000c QB3LP33c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo33
+QDU QB3LP3400000c QB3LP34c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo34
+QDU QB3LP3500000c QB3LP35c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo35
+QDU QB3LP3600000c QB3LP36c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Mo36
+QDU QB3LQ0100000c QB3LQ01c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Qr01
+QDU QB3LQ0200000c QB3LQ02c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Qr02
+QDU QB3LQ0300000c QB3LQ03c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Qr03
+QDU QB3LQ0400000c QB3LQ04c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Qr04
+QDU QB3LQ0500000c QB3LQ05c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Qr05
+QDU QB3LQ0600000c QB3LQ06c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Qr06
+QDU QB3LQ0700000c QB3LQ07c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Qr07
+QDU QB3LQ0800000c QB3LQ08c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Qr08
+QDU QB3LY0100000c QB3LY01c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Yr01
+QDU QB3LY0200000c QB3LY02c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dlvd Los Angeles M2M Financial Yr02
+QDU QB3PP0100000c QB3PP01c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo01
+QDU QB3PP0200000c QB3PP02c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo02
+QDU QB3PP0300000c QB3PP03c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo03
+QDU QB3PP0400000c QB3PP04c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo04
+QDU QB3PP0500000c QB3PP05c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo05
+QDU QB3PP0600000c QB3PP06c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo06
+QDU QB3PP0700000c QB3PP07c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo07
+QDU QB3PP0800000c QB3PP08c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo08
+QDU QB3PP0900000c QB3PP09c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo09
+QDU QB3PP1000000c QB3PP10c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo10
+QDU QB3PP1100000c QB3PP11c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo11
+QDU QB3PP1200000c QB3PP12c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo12
+QDU QB3PP1300000c QB3PP13c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo13
+QDU QB3PP1400000c QB3PP14c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo14
+QDU QB3PP1500000c QB3PP15c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo15
+QDU QB3PP1600000c QB3PP16c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo16
+QDU QB3PP1700000c QB3PP17c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo17
+QDU QB3PP1800000c QB3PP18c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo18
+QDU QB3PP1900000c QB3PP19c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo19
+QDU QB3PP2000000c QB3PP20c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo20
+QDU QB3PP2100000c QB3PP21c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo21
+QDU QB3PP2200000c QB3PP22c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo22
+QDU QB3PP2300000c QB3PP23c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo23
+QDU QB3PP2400000c QB3PP24c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo24
+QDU QB3PP2500000c QB3PP25c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo25
+QDU QB3PP2600000c QB3PP26c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo26
+QDU QB3PP2700000c QB3PP27c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo27
+QDU QB3PP2800000c QB3PP28c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo28
+QDU QB3PP2900000c QB3PP29c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo29
+QDU QB3PP3000000c QB3PP30c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo30
+QDU QB3PP3100000c QB3PP31c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo31
+QDU QB3PP3200000c QB3PP32c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo32
+QDU QB3PP3300000c QB3PP33c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo33
+QDU QB3PP3400000c QB3PP34c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo34
+QDU QB3PP3500000c QB3PP35c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo35
+QDU QCBBP2300000c QCBBP23c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo23
+QDU QCBBP2400000c QCBBP24c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo24
+QDU QCBBP2500000c QCBBP25c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo25
+QDU QCBBP2600000c QCBBP26c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo26
+QDU QCBBP2700000c QCBBP27c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo27
+QDU QCBBP2800000c QCBBP28c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo28
+QDU QCBBP2900000c QCBBP29c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo29
+QDU QCBBP3000000c QCBBP30c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo30
+QDU QCBBP3100000c QCBBP31c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo31
+QDU QCBBP3200000c QCBBP32c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo32
+QDU QCBBP3300000c QCBBP33c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo33
+QDU QCBBP3400000c QCBBP34c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo34
+QDU QCBBP3500000c QCBBP35c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo35
+QDU QCBBP3600000c QCBBP36c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo36
+QDU QCBBQ0100000c QCBBQ01c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Qr01
+QDU QCBBQ0200000c QCBBQ02c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Qr02
+QDU QCBBQ0300000c QCBBQ03c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Qr03
+QDU QCBBQ0400000c QCBBQ04c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Qr04
+QDU QCBBQ0500000c QCBBQ05c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Qr05
+QDU QCBBQ0600000c QCBBQ06c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Qr06
+QDU QCBBQ0700000c QCBBQ07c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Qr07
+QDU QCBBQ0800000c QCBBQ08c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Qr08
+QDU QCBBY0100000c QCBBY01c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Yr01
+QDU QCBBY0200000c QCBBY02c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Yr02
+QDU QCBSP0100000c QCBSP01c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo01
+QDU QCBSP0200000c QCBSP02c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo02
+QDU QCBSP0300000c QCBSP03c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo03
+QDU QCBSP0400000c QCBSP04c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo04
+QDU QCBSP0500000c QCBSP05c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo05
+QDU QCBSP0600000c QCBSP06c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo06
+QDU QCBSP0700000c QCBSP07c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo07
+QDU QCBSP0800000c QCBSP08c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo08
+QDU QCBSP0900000c QCBSP09c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo09
+QDU QCBSP1000000c QCBSP10c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo10
+QDU QCBSP1100000c QCBSP11c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo11
+QDU QCBSP1200000c QCBSP12c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo12
+QDU QCBSP1300000c QCBSP13c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo13
+QDU QCBSP1400000c QCBSP14c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo14
+QDU QCBSP1500000c QCBSP15c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo15
+QDU QCBSP1600000c QCBSP16c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo16
+QDU QCBSP1700000c QCBSP17c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo17
+QDU QCBSP1800000c QCBSP18c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo18
+QDU QCBSP1900000c QCBSP19c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo19
+QDU QCBSP2000000c QCBSP20c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo20
+QDU QCBSP2100000c QCBSP21c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo21
+QDU QCBSP2200000c QCBSP22c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo22
+QDU QCBSP2300000c QCBSP23c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo23
+QDU QCBSP2400000c QCBSP24c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo24
+QDU QCBSP2500000c QCBSP25c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo25
+QDU QGBUP3300000c QGBUP33c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo33
+QDU QGBUP3400000c QGBUP34c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo34
+QDU QGBUP3500000c QGBUP35c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo35
+QDU QGBUP3600000c QGBUP36c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo36
+QDU QGBUQ0100000c QGBUQ01c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Qr01
+QDU QGBUQ0200000c QGBUQ02c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Qr02
+QDU QGBUQ0300000c QGBUQ03c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Qr03
+QDU QGBUQ0400000c QGBUQ04c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Qr04
+QDU QGBUQ0500000c QGBUQ05c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Qr05
+QDU QGBUQ0600000c QGBUQ06c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Qr06
+QDU QGBUQ0700000c QGBUQ07c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Qr07
+QDU QGBUQ0800000c QGBUQ08c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Qr08
+QDU QGBUY0100000c QGBUY01c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Yr01
+QDU QGBUY0200000c QGBUY02c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Yr02
+QDU QGCHP0100000c QGCHP01c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo01
+QDU QGCHP0200000c QGCHP02c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo02
+QDU QGCHP0300000c QGCHP03c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo03
+QDU QGCHP0400000c QGCHP04c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo04
+QDU QGCHP0500000c QGCHP05c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo05
+QDU QGCHP0600000c QGCHP06c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo06
+QDU QGCHP0700000c QGCHP07c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo07
+QDU QGCHP0800000c QGCHP08c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo08
+QDU QGCHP0900000c QGCHP09c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo09
+QDU QGCHP1000000c QGCHP10c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo10
+QDU QGCHP1100000c QGCHP11c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo11
+QDU QGCHP1200000c QGCHP12c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo12
+QDU QGCHP1300000c QGCHP13c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo13
+QDU QGCHP1400000c QGCHP14c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo14
+QDU QGCHP1500000c QGCHP15c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo15
+QDU QGCHP1600000c QGCHP16c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo16
+QDU QGCHP1700000c QGCHP17c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo17
+QDU QGCHP1800000c QGCHP18c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo18
+QDU QGCHP1900000c QGCHP19c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo19
+QDU QGCHP2000000c QGCHP20c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo20
+QDU QGCHP2100000c QGCHP21c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo21
+QDU QGCHP2200000c QGCHP22c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo22
+QDU QGCHP2300000c QGCHP23c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo23
+QDU QGCHP2400000c QGCHP24c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo24
+QDU QGCHP2500000c QGCHP25c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo25
+QDU QGCHP2600000c QGCHP26c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo26
+QDU QGCHP2700000c QGCHP27c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo27
+QDU QGCHP2800000c QGCHP28c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo28
+QDU QGCHP2900000c QGCHP29c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo29
+QDU QGCHP3000000c QGCHP30c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo30
+QDU QGCHP3100000c QGCHP31c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo31
+QDU QGCHP3200000c QGCHP32c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo32
+QDU QGCHP3300000c QGCHP33c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo33
+QDU QGCHP3400000c QGCHP34c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo34
+QDU QNAGP0100000c QNAGP01c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo01
+QDU QNAGP0200000c QNAGP02c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo02
+QDU QNAGP0300000c QNAGP03c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo03
+QDU QNAGP0400000c QNAGP04c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo04
+QDU QNAGP0500000c QNAGP05c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo05
+QDU QNAGP0600000c QNAGP06c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo06
+QDU QNAGP0700000c QNAGP07c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo07
+QDU QNAGP0800000c QNAGP08c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo08
+QDU QNAGP0900000c QNAGP09c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo09
+QDU QNAGP1000000c QNAGP10c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo10
+QDU QNAGP1100000c QNAGP11c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo11
+QDU QNAGP1200000c QNAGP12c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo12
+QDU QNAGP1300000c QNAGP13c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo13
+QDU QNAGP1400000c QNAGP14c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo14
+QDU QNAGP1500000c QNAGP15c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo15
+QDU QNAGP1600000c QNAGP16c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo16
+QDU QNAGP1700000c QNAGP17c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo17
+QDU QNAGP1800000c QNAGP18c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo18
+QDU QSTAM2100000c QSTAM21c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo21
+QDU QSTAM2200000c QSTAM22c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo22
+QDU QSTAM2300000c QSTAM23c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo23
+QDU QSTAM2400000c QSTAM24c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo24
+QDU QSTAM2500000c QSTAM25c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo25
+QDU QSTAM2600000c QSTAM26c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo26
+QDU QSTAM2700000c QSTAM27c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo27
+QDU QSTAM2800000c QSTAM28c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo28
+QDU QSTAM2900000c QSTAM29c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo29
+QDU QSTAM3000000c QSTAM30c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo30
+QDU QSTAM3100000c QSTAM31c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo31
+QDU QSTAM3200000c QSTAM32c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo32
+QDU QSTAM3300000c QSTAM33c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo33
+QDU QSTAM3400000c QSTAM34c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo34
+QDU QSTAM3500000c QSTAM35c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo35
+QDU QSTAM3600000c QSTAM36c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo36
+QDU QUBUP2100000c QUBUP21c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo21
+QDU QUBUP2200000c QUBUP22c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo22
+QDU QUBUP2300000c QUBUP23c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo23
+QDU QUBUP2400000c QUBUP24c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo24
+QDU QUBUP2500000c QUBUP25c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo25
+QDU QUBUP2600000c QUBUP26c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo26
+QDU QUBUP2700000c QUBUP27c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo27
+QDU QUBUP2800000c QUBUP28c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo28
+QDU QUBUP2900000c QUBUP29c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo29
+QDU QUBUP3000000c QUBUP30c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo30
+QDU QUBUP3100000c QUBUP31c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo31
+QDU QUBUP3200000c QUBUP32c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo32
+QDU QUBUP3300000c QUBUP33c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo33
+QDU QUBUP3400000c QUBUP34c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo34
+QDU QUBUP3500000c QUBUP35c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo35
+QDU QUBUP3600000c QUBUP36c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo36
+QDU QUBUQ0100000c QUBUQ01c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Qr01
+QDU QUBUQ0200000c QUBUQ02c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Qr02
+QDU QUBUQ0300000c QUBUQ03c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Qr03
+QDU QUBUQ0400000c QUBUQ04c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Qr04
+QDU QUBUQ0500000c QUBUQ05c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Qr05
+QDU QUBUQ0600000c QUBUQ06c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Qr06
+QDU QUBUQ0700000c QUBUQ07c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Qr07
+QDU QUBUQ0800000c QUBUQ08c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Qr08
+QDU QUBUY0100000c QUBUY01c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Yr01
+QDU QUBUY0200000c QUBUY02c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Yr02
+QDU QUHYP0100000c QUHYP01c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo01
+QDU QUHYP0200000c QUHYP02c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo02
+QDU QUHYP0300000c QUHYP03c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo03
+QDU QUHYP0400000c QUHYP04c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo04
+QDU QUHYP0500000c QUHYP05c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo05
+QDU QUHYP0600000c QUHYP06c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo06
+QDU QUHYP0700000c QUHYP07c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo07
+QDU QUHYP0800000c QUHYP08c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo08
+QDU QUHYP0900000c QUHYP09c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo09
+QDU QUHYP1000000c QUHYP10c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo10
+QDU QUHYP1100000c QUHYP11c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo11
+QDU QWMDM0100000c QWMDM01c           DW USD BBL               WTI Midland M2M Financial Mo01
+QDU QWMDM0200000c QWMDM02c           DW USD BBL               WTI Midland M2M Financial Mo02
+QDU QWMDM0300000c QWMDM03c           DW USD BBL               WTI Midland M2M Financial Mo03
+QDU QWMDM0400000c QWMDM04c           DW USD BBL               WTI Midland M2M Financial Mo04
+QDU QWMDM0500000c QWMDM05c           DW USD BBL               WTI Midland M2M Financial Mo05
+QDU QWMDM0600000c QWMDM06c           DW USD BBL               WTI Midland M2M Financial Mo06
+QDU QWMDM0700000c QWMDM07c           DW USD BBL               WTI Midland M2M Financial Mo07
+QDU QWMDM0800000c QWMDM08c           DW USD BBL               WTI Midland M2M Financial Mo08
+QDU QWMDM0900000c QWMDM09c           DW USD BBL               WTI Midland M2M Financial Mo09
+QDU QWMDM1000000c QWMDM10c           DW USD BBL               WTI Midland M2M Financial Mo10
+QDU QWMDM1100000c QWMDM11c           DW USD BBL               WTI Midland M2M Financial Mo11
+QDU QWMDM1200000c QWMDM12c           DW USD BBL               WTI Midland M2M Financial Mo12
+QDU QWMDM1300000c QWMDM13c           DW USD BBL               WTI Midland M2M Financial Mo13
+QDU QWMDM1400000c QWMDM14c           DW USD BBL               WTI Midland M2M Financial Mo14
+QDU QWMDM1500000c QWMDM15c           DW USD BBL               WTI Midland M2M Financial Mo15
+QDU QWMDM1600000c QWMDM16c           DW USD BBL               WTI Midland M2M Financial Mo16
+QDU QWMDM1700000c QWMDM17c           DW USD BBL               WTI Midland M2M Financial Mo17
+QDU QWMDM1800000c QWMDM18c           DW USD BBL               WTI Midland M2M Financial Mo18
+QDU QWMDM1900000c QWMDM19c           DW USD BBL               WTI Midland M2M Financial Mo19
+QDU QWMDM2000000c QWMDM20c           DW USD BBL               WTI Midland M2M Financial Mo20
+QDU QWMDM2100000c QWMDM21c           DW USD BBL               WTI Midland M2M Financial Mo21
+QDU QWMDM2200000c QWMDM22c           DW USD BBL               WTI Midland M2M Financial Mo22
+QDU QWMDM2300000c QWMDM23c           DW USD BBL               WTI Midland M2M Financial Mo23
+QDU QWMDM2400000c QWMDM24c           DW USD BBL               WTI Midland M2M Financial Mo24
+QDU QWMDM2500000c QWMDM25c           DW USD BBL               WTI Midland M2M Financial Mo25
+QDU QWMDM2600000c QWMDM26c           DW USD BBL               WTI Midland M2M Financial Mo26
+QDU QWMDM2700000c QWMDM27c           DW USD BBL               WTI Midland M2M Financial Mo27
+QDU QWMDM2800000c QWMDM28c           DW USD BBL               WTI Midland M2M Financial Mo28
+QDU QWMDM2900000c QWMDM29c           DW USD BBL               WTI Midland M2M Financial Mo29
+QDU QWMDM3000000c QWMDM30c           DW USD BBL               WTI Midland M2M Financial Mo30
+QDU QWMDM3100000c QWMDM31c           DW USD BBL               WTI Midland M2M Financial Mo31
+QDU QWMDM3200000c QWMDM32c           DW USD BBL               WTI Midland M2M Financial Mo32
+QDU QWMDM3300000c QWMDM33c           DW USD BBL               WTI Midland M2M Financial Mo33
+QDU QWMDM3400000c QWMDM34c           DW USD BBL               WTI Midland M2M Financial Mo34
+QDU QWMDM3500000c QWMDM35c           DW USD BBL               WTI Midland M2M Financial Mo35
+QDU QWMDM3600000c QWMDM36c           DW USD BBL               WTI Midland M2M Financial Mo36
+QDU QWMWM0100000c QWMWM01c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo01
+QDU QWMWM0200000c QWMWM02c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo02
+QDU QWMWM0300000c QWMWM03c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo03
+QDU QCBSP2600000c QCBSP26c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo26
+QDU QCBSP2700000c QCBSP27c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo27
+QDU QCBSP2800000c QCBSP28c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo28
+QDU QCBSP2900000c QCBSP29c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo29
+QDU QCBSP3000000c QCBSP30c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo30
+QDU QCBSP3100000c QCBSP31c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo31
+QDU QCBSP3200000c QCBSP32c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo32
+QDU QCBSP3300000c QCBSP33c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo33
+QDU QCBSP3400000c QCBSP34c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo34
+QDU QCBSP3500000c QCBSP35c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo35
+QDU QCBSP3600000c QCBSP36c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Mo36
+QDU QCBSQ0100000c QCBSQ01c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Qr01
+QDU QCBSQ0200000c QCBSQ02c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Qr02
+QDU QCBSQ0300000c QCBSQ03c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Qr03
+QDU QCBSQ0400000c QCBSQ04c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Qr04
+QDU QCBSQ0500000c QCBSQ05c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Qr05
+QDU QCBSQ0600000c QCBSQ06c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Qr06
+QDU QCBSQ0700000c QCBSQ07c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Qr07
+QDU QCBSQ0800000c QCBSQ08c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Qr08
+QDU QCBSY0100000c QCBSY01c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Yr01
+QDU QCBSY0200000c QCBSY02c           DW USC GAL 160808 190118 Gasoline CBOB PA Buckeye Supplemental M2M Financial Yr02
+QDU QGCHP3500000c QGCHP35c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo35
+QDU QGCHP3600000c QGCHP36c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Mo36
+QDU QGCHQ0100000c QGCHQ01c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Qr01
+QDU QGCHQ0200000c QGCHQ02c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Qr02
+QDU QGCHQ0300000c QGCHQ03c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Qr03
+QDU QGCHQ0400000c QGCHQ04c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Qr04
+QDU QGCHQ0500000c QGCHQ05c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Qr05
+QDU QGCHQ0600000c QGCHQ06c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Qr06
+QDU QGCHQ0700000c QGCHQ07c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Qr07
+QDU QGCHQ0800000c QGCHQ08c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Qr08
+QDU QGCHY0100000c QGCHY01c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Yr01
+QDU QGCHY0200000c QGCHY02c           DW USC GAL 160808 190118 Gasoline UNLD 87 Chicago Pipeline M2M Financial Yr02
+QDU QJACP1300000c QJACP13c           DW USC GAL 160808 190118 Jet Kero USAC Barge M2M Financial Mo13
+QDU QJACP1400000c QJACP14c           DW USC GAL 160808 190118 Jet Kero USAC Barge M2M Financial Mo14
+QDU QJACP1500000c QJACP15c           DW USC GAL 160808 190118 Jet Kero USAC Barge M2M Financial Mo15
+QDU QJACP1600000c QJACP16c           DW USC GAL 160808 190118 Jet Kero USAC Barge M2M Financial Mo16
+QDU QJACP1700000c QJACP17c           DW USC GAL 160808 190118 Jet Kero USAC Barge M2M Financial Mo17
+QDU QJACP1800000c QJACP18c           DW USC GAL 160808 190118 Jet Kero USAC Barge M2M Financial Mo18
+QDU QJACP1900000c QJACP19c           DW USC GAL 160808 190118 Jet Kero USAC Barge M2M Financial Mo19
+QDU QJACP2000000c QJACP20c           DW USC GAL 160808 190118 Jet Kero USAC Barge M2M Financial Mo20
+QDU QJACP2100000c QJACP21c           DW USC GAL 160808 190118 Jet Kero USAC Barge M2M Financial Mo21
+QDU QJACP2200000c QJACP22c           DW USC GAL 160808 190118 Jet Kero USAC Barge M2M Financial Mo22
+QDU QJACP2300000c QJACP23c           DW USC GAL 160808 190118 Jet Kero USAC Barge M2M Financial Mo23
+QDU QJACP2400000c QJACP24c           DW USC GAL 160808 190118 Jet Kero USAC Barge M2M Financial Mo24
+QDU QJACP2500000c QJACP25c           DW USC GAL 160808 190118 Jet Kero USAC Barge M2M Financial Mo25
+QDU QJACP2600000c QJACP26c           DW USC GAL 160808 190118 Jet Kero USAC Barge M2M Financial Mo26
+QDU QJACP2700000c QJACP27c           DW USC GAL 160808 190118 Jet Kero USAC Barge M2M Financial Mo27
+QDU QJACP2800000c QJACP28c           DW USC GAL 160808 190118 Jet Kero USAC Barge M2M Financial Mo28
+QDU QJACP2900000c QJACP29c           DW USC GAL 160808 190118 Jet Kero USAC Barge M2M Financial Mo29
+QDU QJACP3000000c QJACP30c           DW USC GAL 160808 190118 Jet Kero USAC Barge M2M Financial Mo30
+QDU QJACP3100000c QJACP31c           DW USC GAL 160808 190118 Jet Kero USAC Barge M2M Financial Mo31
+QDU QJACP3200000c QJACP32c           DW USC GAL 160808 190118 Jet Kero USAC Barge M2M Financial Mo32
+QDU QJWCP1300000c QJWCP13c           DW USC GAL 160808 190118 Jet Kero Los Angeles CA Pipeline M2M Financial Mo13
+QDU QJWCP1400000c QJWCP14c           DW USC GAL 160808 190118 Jet Kero Los Angeles CA Pipeline M2M Financial Mo14
+QDU QJWCP1500000c QJWCP15c           DW USC GAL 160808 190118 Jet Kero Los Angeles CA Pipeline M2M Financial Mo15
+QDU QJWCP1600000c QJWCP16c           DW USC GAL 160808 190118 Jet Kero Los Angeles CA Pipeline M2M Financial Mo16
+QDU QJWCP1700000c QJWCP17c           DW USC GAL 160808 190118 Jet Kero Los Angeles CA Pipeline M2M Financial Mo17
+QDU QJWCP1800000c QJWCP18c           DW USC GAL 160808 190118 Jet Kero Los Angeles CA Pipeline M2M Financial Mo18
+QDU QJWCP1900000c QJWCP19c           DW USC GAL 160808 190118 Jet Kero Los Angeles CA Pipeline M2M Financial Mo19
+QDU QJWCP2000000c QJWCP20c           DW USC GAL 160808 190118 Jet Kero Los Angeles CA Pipeline M2M Financial Mo20
+QDU QJWCP2100000c QJWCP21c           DW USC GAL 160808 190118 Jet Kero Los Angeles CA Pipeline M2M Financial Mo21
+QDU QJWCP2200000c QJWCP22c           DW USC GAL 160808 190118 Jet Kero Los Angeles CA Pipeline M2M Financial Mo22
+QDU QJWCP2300000c QJWCP23c           DW USC GAL 160808 190118 Jet Kero Los Angeles CA Pipeline M2M Financial Mo23
+QDU QJWCP2400000c QJWCP24c           DW USC GAL 160808 190118 Jet Kero Los Angeles CA Pipeline M2M Financial Mo24
+QDU QJWCP2500000c QJWCP25c           DW USC GAL 160808 190118 Jet Kero Los Angeles CA Pipeline M2M Financial Mo25
+QDU QJWCP2600000c QJWCP26c           DW USC GAL 160808 190118 Jet Kero Los Angeles CA Pipeline M2M Financial Mo26
+QDU QJWCP2700000c QJWCP27c           DW USC GAL 160808 190118 Jet Kero Los Angeles CA Pipeline M2M Financial Mo27
+QDU QJWCP2800000c QJWCP28c           DW USC GAL 160808 190118 Jet Kero Los Angeles CA Pipeline M2M Financial Mo28
+QDU QJWCP2900000c QJWCP29c           DW USC GAL 160808 190118 Jet Kero Los Angeles CA Pipeline M2M Financial Mo29
+QDU QJWCP3000000c QJWCP30c           DW USC GAL 160808 190118 Jet Kero Los Angeles CA Pipeline M2M Financial Mo30
+QDU QJWCP3100000c QJWCP31c           DW USC GAL 160808 190118 Jet Kero Los Angeles CA Pipeline M2M Financial Mo31
+QDU QJWCP3200000c QJWCP32c           DW USC GAL 160808 190118 Jet Kero Los Angeles CA Pipeline M2M Financial Mo32
+QDU QNAGP1900000c QNAGP19c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo19
+QDU QNAGP2000000c QNAGP20c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo20
+QDU QNAGP2100000c QNAGP21c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo21
+QDU QNAGP2200000c QNAGP22c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo22
+QDU QNAGP2300000c QNAGP23c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo23
+QDU QNAGP2400000c QNAGP24c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo24
+QDU QNAGP2500000c QNAGP25c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo25
+QDU QNAGP2600000c QNAGP26c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo26
+QDU QNAGP2700000c QNAGP27c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo27
+QDU QNAGP2800000c QNAGP28c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo28
+QDU QNAGP2900000c QNAGP29c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo29
+QDU QNAGP3000000c QNAGP30c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo30
+QDU QNAGP3100000c QNAGP31c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo31
+QDU QNAGP3200000c QNAGP32c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo32
+QDU QNAGP3300000c QNAGP33c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo33
+QDU QNAGP3400000c QNAGP34c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo34
+QDU QNAGP3500000c QNAGP35c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo35
+QDU QNAGP3600000c QNAGP36c           DW USC GAL 160314 190118 Naphtha FOB USGC Cargo M2M Financial Mo36
+QDU QUHYP1200000c QUHYP12c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo12
+QDU QUHYP1300000c QUHYP13c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo13
+QDU QUHYP1400000c QUHYP14c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo14
+QDU QUHYP1500000c QUHYP15c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo15
+QDU QUHYP1600000c QUHYP16c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo16
+QDU QUHYP1700000c QUHYP17c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo17
+QDU QUHYP1800000c QUHYP18c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo18
+QDU QUHYP1900000c QUHYP19c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo19
+QDU QUHYP2000000c QUHYP20c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo20
+QDU QUHYP2100000c QUHYP21c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo21
+QDU QUHYP2200000c QUHYP22c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo22
+QDU QUHYP2300000c QUHYP23c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo23
+QDU QUHYP2400000c QUHYP24c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo24
+QDU QUHYP2500000c QUHYP25c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo25
+QDU QUHYP2600000c QUHYP26c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo26
+QDU QUHYP2700000c QUHYP27c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo27
+QDU QUHYP2800000c QUHYP28c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo28
+QDU QUHYP2900000c QUHYP29c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo29
+QDU QUHYP3000000c QUHYP30c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo30
+QDU QUHYP3100000c QUHYP31c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo31
+QDU QUHYP3200000c QUHYP32c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo32
+QDU QUHYP3300000c QUHYP33c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo33
+QDU QUHYP3400000c QUHYP34c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo34
+QDU QUHYP3500000c QUHYP35c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo35
+QDU QUHYP3600000c QUHYP36c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Mo36
+QDU QUHYQ0100000c QUHYQ01c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Qr01
+QDU QUHYQ0200000c QUHYQ02c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Qr02
+QDU QUHYQ0300000c QUHYQ03c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Qr03
+QDU QUHYQ0400000c QUHYQ04c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Qr04
+QDU QUHYQ0500000c QUHYQ05c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Qr05
+QDU QUHYQ0600000c QUHYQ06c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Qr06
+QDU QUHYQ0700000c QUHYQ07c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Qr07
+QDU QUHYQ0800000c QUHYQ08c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Qr08
+QDU QUHYY0100000c QUHYY01c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Yr01
+QDU QUHYY0200000c QUHYY02c           DW USC GAL 160808 190118 ULS Heating Oil USGC Prompt Pipeline M2M Financial Yr02
+QDU QUL3P0100000c QUL3P01c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo01
+QDU QUL3P0200000c QUL3P02c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo02
+QDU QUL3P0300000c QUL3P03c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo03
+QDU QUL3P0400000c QUL3P04c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo04
+QDU QUL3P0500000c QUL3P05c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo05
+QDU QUL3P0600000c QUL3P06c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo06
+QDU QUL3P0700000c QUL3P07c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo07
+QDU QUL3P0800000c QUL3P08c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo08
+QDU QUL3P0900000c QUL3P09c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo09
+QDU QUL3P1000000c QUL3P10c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo10
+QDU QUL3P1100000c QUL3P11c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo11
+QDU QUL3P1200000c QUL3P12c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo12
+QDU QUL3P1300000c QUL3P13c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo13
+QDU QUL3P1400000c QUL3P14c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo14
+QDU QWMWM0400000c QWMWM04c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo04
+QDU QWMWM0500000c QWMWM05c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo05
+QDU QWMWM0600000c QWMWM06c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo06
+QDU QWMWM0700000c QWMWM07c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo07
+QDU QWMWM0800000c QWMWM08c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo08
+QDU QWMWM0900000c QWMWM09c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo09
+QDU QWMWM1000000c QWMWM10c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo10
+QDU QWMWM1100000c QWMWM11c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo11
+QDU QWMWM1200000c QWMWM12c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo12
+QDU QWMWM1300000c QWMWM13c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo13
+QDU QWMWM1400000c QWMWM14c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo14
+QDU QWMWM1500000c QWMWM15c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo15
+QDU QWMWM1600000c QWMWM16c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo16
+QDU QWMWM1700000c QWMWM17c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo17
+QDU QWMWM1800000c QWMWM18c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo18
+QDU QWMWM1900000c QWMWM19c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo19
+QDU QWMWM2000000c QWMWM20c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo20
+QDU QWMWM2100000c QWMWM21c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo21
+QDU QWMWM2200000c QWMWM22c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo22
+QDU QWMWM2300000c QWMWM23c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo23
+QDU QWMWM2400000c QWMWM24c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo24
+QDU QWMWM2500000c QWMWM25c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo25
+QDU QWMWM2600000c QWMWM26c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo26
+QDU QWMWM2700000c QWMWM27c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo27
+QDU QWMWM2800000c QWMWM28c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo28
+QDU QWMWM2900000c QWMWM29c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo29
+QDU QWMWM3000000c QWMWM30c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo30
+QDU QWMWM3100000c QWMWM31c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo31
+QDU QWMWM3200000c QWMWM32c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo32
+QDU QWMWM3300000c QWMWM33c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo33
+QDU QWMWM3400000c QWMWM34c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo34
+QDU QWMWM3500000c QWMWM35c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo35
+QDU QWMWM3600000c QWMWM36c           DW USD BBL               WTI Midland vs WTI Cushing M2M Financial Mo36
+QDU QWTSP0100000c QWTSP01c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo01
+QDU QWTSP0200000c QWTSP02c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo02
+QDU QWTSP0300000c QWTSP03c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo03
+QDU QWTSP0400000c QWTSP04c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo04
+QDU QWTSP0500000c QWTSP05c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo05
+QDU QWTSP0600000c QWTSP06c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo06
+QDU QWTSP0700000c QWTSP07c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo07
+QDU QWTSP0800000c QWTSP08c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo08
+QDU QWTSP0900000c QWTSP09c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo09
+QDU QWTSP1000000c QWTSP10c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo10
+QDU QWTSP1100000c QWTSP11c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo11
+QDU QWTSP1200000c QWTSP12c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo12
+QDU QWTSP1300000c QWTSP13c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo13
+QDU QWTSP1400000c QWTSP14c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo14
+QDU QWTSP1500000c QWTSP15c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo15
+QDU QWTSP1600000c QWTSP16c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo16
+QDU QWTSP1700000c QWTSP17c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo17
+QDU QWTSP1800000c QWTSP18c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo18
+QDU QWTSP1900000c QWTSP19c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo19
+QDU QWTSP2000000c QWTSP20c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo20
+QDU QWTSP2100000c QWTSP21c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo21
+QDU QWTSP2200000c QWTSP22c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo22
+QDU QF1AP0100000c QF1AP01c           DW USD BBL               FO 1% Resid USAC Mo01
+QDU QF1AP0200000c QF1AP02c           DW USD BBL               FO 1% Resid USAC Mo02
+QDU QF1AP0300000c QF1AP03c           DW USD BBL               FO 1% Resid USAC Mo03
+QDU QF1AP0400000c QF1AP04c           DW USD BBL               FO 1% Resid USAC Mo04
+QDU QF1AP0500000c QF1AP05c           DW USD BBL               FO 1% Resid USAC Mo05
+QDU QF1AP0600000c QF1AP06c           DW USD BBL               FO 1% Resid USAC Mo06
+QDU QF1AP0700000c QF1AP07c           DW USD BBL               FO 1% Resid USAC Mo07
+QDU QF1AP0800000c QF1AP08c           DW USD BBL               FO 1% Resid USAC Mo08
+QDU QF1AP0900000c QF1AP09c           DW USD BBL               FO 1% Resid USAC Mo09
+QDU QF1AP1000000c QF1AP10c           DW USD BBL               FO 1% Resid USAC Mo10
+QDU QF1AP1100000c QF1AP11c           DW USD BBL               FO 1% Resid USAC Mo11
+QDU QF1AP1200000c QF1AP12c           DW USD BBL               FO 1% Resid USAC Mo12
+QDU QF1AP1300000c QF1AP13c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo13
+QDU QF1AP1400000c QF1AP14c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo14
+QDU QF1AP1500000c QF1AP15c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo15
+QDU QF1AP1600000c QF1AP16c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo16
+QDU QF1AP1700000c QF1AP17c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo17
+QDU QF1AP1800000c QF1AP18c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo18
+QDU QF1AP1900000c QF1AP19c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo19
+QDU QF1AP2000000c QF1AP20c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo20
+QDU QF1AP2100000c QF1AP21c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo21
+QDU QF1AP2200000c QF1AP22c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo22
+QDU QF1AP2300000c QF1AP23c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo23
+QDU QF1AP2400000c QF1AP24c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo24
+QDU QF1AP2500000c QF1AP25c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo25
+QDU QF1AP2600000c QF1AP26c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo26
+QDU QF1AP2700000c QF1AP27c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo27
+QDU QF1AP2800000c QF1AP28c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo28
+QDU QF1AP2900000c QF1AP29c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo29
+QDU QF1AP3000000c QF1AP30c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo30
+QDU QF1AP3100000c QF1AP31c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo31
+QDU QF1AP3200000c QF1AP32c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo32
+QDU QF1AP3300000c QF1AP33c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo33
+QDU QF1AP3400000c QF1AP34c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo34
+QDU QF1AP3500000c QF1AP35c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo35
+QDU QF1AP3600000c QF1AP36c           DW USD BBL 160314 190118 FO 1.0% USAC Cargo M2M Financial Mo36
+QDU QJACP3300000c QJACP33c           DW USC GAL 160808 190118 Jet Kero USAC Barge M2M Financial Mo33
+QDU QJACP3400000c QJACP34c           DW USC GAL 160808 190118 Jet Kero USAC Barge M2M Financial Mo34
+QDU QJACP3500000c QJACP35c           DW USC GAL 160808 190118 Jet Kero USAC Barge M2M Financial Mo35
+QDU QJACP3600000c QJACP36c           DW USC GAL 160808 190118 Jet Kero USAC Barge M2M Financial Mo36
+QDU QJACQ0500000c QJACQ05c           DW USC GAL 160808 190118 Jet Kero USAC Barge M2M Financial Qr05
+QDU QJACQ0600000c QJACQ06c           DW USC GAL 160808 190118 Jet Kero USAC Barge M2M Financial Qr06
+QDU QJACQ0700000c QJACQ07c           DW USC GAL 160808 190118 Jet Kero USAC Barge M2M Financial Qr07
+QDU QJACQ0800000c QJACQ08c           DW USC GAL 160808 190118 Jet Kero USAC Barge M2M Financial Qr08
+QDU QJACY0200000c QJACY02c           DW USC GAL 160808 190118 Jet Kero USAC Barge M2M Financial Yr02
+QDU QJCHP0100000c QJCHP01c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo01
+QDU QJCHP0200000c QJCHP02c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo02
+QDU QJCHP0300000c QJCHP03c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo03
+QDU QJCHP0400000c QJCHP04c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo04
+QDU QJCHP0500000c QJCHP05c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo05
+QDU QJCHP0600000c QJCHP06c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo06
+QDU QJCHP0700000c QJCHP07c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo07
+QDU QJCHP0800000c QJCHP08c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo08
+QDU QJCHP0900000c QJCHP09c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo09
+QDU QJCHP1000000c QJCHP10c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo10
+QDU QJCHP1100000c QJCHP11c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo11
+QDU QJCHP1200000c QJCHP12c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo12
+QDU QJCHP1300000c QJCHP13c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo13
+QDU QJCHP1400000c QJCHP14c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo14
+QDU QJCHP1500000c QJCHP15c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo15
+QDU QJCHP1600000c QJCHP16c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo16
+QDU QJCHP1700000c QJCHP17c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo17
+QDU QJCHP1800000c QJCHP18c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo18
+QDU QJCHP1900000c QJCHP19c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo19
+QDU QJCHP2000000c QJCHP20c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo20
+QDU QJCHP2100000c QJCHP21c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo21
+QDU QJCHP2200000c QJCHP22c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo22
+QDU QJCHP2300000c QJCHP23c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo23
+QDU QJCHP2400000c QJCHP24c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo24
+QDU QJCHP2500000c QJCHP25c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo25
+QDU QJCHP2600000c QJCHP26c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo26
+QDU QJCHP2700000c QJCHP27c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo27
+QDU QJCHP2800000c QJCHP28c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo28
+QDU QJCHP2900000c QJCHP29c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo29
+QDU QJCHP3000000c QJCHP30c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo30
+QDU QJCHP3100000c QJCHP31c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo31
+QDU QJCHP3200000c QJCHP32c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo32
+QDU QJCHP3300000c QJCHP33c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo33
+QDU QJCHP3400000c QJCHP34c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo34
+QDU QJCHP3500000c QJCHP35c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo35
+QDU QJCHP3600000c QJCHP36c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Mo36
+QDU QJCHQ0100000c QJCHQ01c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Qr01
+QDU QJCHQ0200000c QJCHQ02c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Qr02
+QDU QJCHQ0300000c QJCHQ03c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Qr03
+QDU QJCHQ0400000c QJCHQ04c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Qr04
+QDU QJCHQ0500000c QJCHQ05c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Qr05
+QDU QJCHQ0600000c QJCHQ06c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Qr06
+QDU QJWCP3300000c QJWCP33c           DW USC GAL 160808 190118 Jet Kero Los Angeles CA Pipeline M2M Financial Mo33
+QDU QJWCP3400000c QJWCP34c           DW USC GAL 160808 190118 Jet Kero Los Angeles CA Pipeline M2M Financial Mo34
+QDU QJWCP3500000c QJWCP35c           DW USC GAL 160808 190118 Jet Kero Los Angeles CA Pipeline M2M Financial Mo35
+QDU QJWCP3600000c QJWCP36c           DW USC GAL 160808 190118 Jet Kero Los Angeles CA Pipeline M2M Financial Mo36
+QDU QJWCQ0500000c QJWCQ05c           DW USC GAL 160808 190118 Jet Kero Los Angeles CA Pipeline M2M Financial Qr05
+QDU QJWCQ0600000c QJWCQ06c           DW USC GAL 160808 190118 Jet Kero Los Angeles CA Pipeline M2M Financial Qr06
+QDU QJWCQ0700000c QJWCQ07c           DW USC GAL 160808 190118 Jet Kero Los Angeles CA Pipeline M2M Financial Qr07
+QDU QJWCQ0800000c QJWCQ08c           DW USC GAL 160808 190118 Jet Kero Los Angeles CA Pipeline M2M Financial Qr08
+QDU QJWCY0200000c QJWCY02c           DW USC GAL 160808 190118 Jet Kero Los Angeles CA Pipeline M2M Financial Yr02
+QDU QNAGQ0100000c QNAGQ01c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Qr01
+QDU QNAGQ0200000c QNAGQ02c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Qr02
+QDU QNAGQ0300000c QNAGQ03c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Qr03
+QDU QNAGQ0400000c QNAGQ04c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Qr04
+QDU QNAGQ0500000c QNAGQ05c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Qr05
+QDU QNAGQ0600000c QNAGQ06c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Qr06
+QDU QNAGQ0700000c QNAGQ07c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Qr07
+QDU QNAGQ0800000c QNAGQ08c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Qr08
+QDU QNAGQ0900000c QNAGQ09c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Qr09
+QDU QNAGQ1000000c QNAGQ10c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Qr10
+QDU QNAGQ1100000c QNAGQ11c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Qr11
+QDU QNAGQ1200000c QNAGQ12c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Qr12
+QDU QNAGY0100000c QNAGY01c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Yr01
+QDU QNAGY0200000c QNAGY02c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Yr02
+QDU QNAGY0300000c QNAGY03c           DW USC GAL 160808 190118 Naphtha FOB USGC Cargo M2M Financial Yr03
+QDU QUL3P1500000c QUL3P15c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo15
+QDU QUL3P1600000c QUL3P16c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo16
+QDU QUL3P1700000c QUL3P17c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo17
+QDU QUL3P1800000c QUL3P18c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo18
+QDU QUL3P1900000c QUL3P19c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo19
+QDU QUL3P2000000c QUL3P20c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo20
+QDU QUL3P2100000c QUL3P21c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo21
+QDU QUL3P2200000c QUL3P22c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo22
+QDU QUL3P2300000c QUL3P23c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo23
+QDU QUL3P2400000c QUL3P24c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo24
+QDU QUL3P2500000c QUL3P25c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo25
+QDU QUL3P2600000c QUL3P26c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo26
+QDU QUL3P2700000c QUL3P27c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo27
+QDU QUL3P2800000c QUL3P28c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo28
+QDU QUL3P2900000c QUL3P29c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo29
+QDU QUL3P3000000c QUL3P30c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo30
+QDU QUL3P3100000c QUL3P31c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo31
+QDU QUL3P3200000c QUL3P32c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo32
+QDU QUL3P3300000c QUL3P33c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo33
+QDU QUL3P3400000c QUL3P34c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo34
+QDU QUL3P3500000c QUL3P35c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo35
+QDU QUL3P3600000c QUL3P36c           DW USC GAL 160314 190118 ULSD Group 3 Pipeline M2M Financial Mo36
+QDU QWTSP2300000c QWTSP23c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo23
+QDU QWTSP2400000c QWTSP24c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo24
+QDU QWTSP2500000c QWTSP25c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo25
+QDU QWTSP2600000c QWTSP26c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo26
+QDU QWTSP2700000c QWTSP27c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo27
+QDU QWTSP2800000c QWTSP28c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo28
+QDU QWTSP2900000c QWTSP29c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo29
+QDU QWTSP3000000c QWTSP30c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo30
+QDU QWTSP3100000c QWTSP31c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo31
+QDU QWTSP3200000c QWTSP32c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo32
+QDU QWTSP3300000c QWTSP33c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo33
+QDU QWTSP3400000c QWTSP34c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo34
+QDU QWTSP3500000c QWTSP35c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo35
+QDU QWTSP3600000c QWTSP36c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Mo36
+QDU QWTSQ0100000c QWTSQ01c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Qr01
+QDU QWTSQ0200000c QWTSQ02c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Qr02
+QDU QWTSQ0300000c QWTSQ03c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Qr03
+QDU QWTSQ0400000c QWTSQ04c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Qr04
+QDU QWTSQ0500000c QWTSQ05c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Qr05
+QDU QWTSQ0600000c QWTSQ06c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Qr06
+QDU QWTSQ0700000c QWTSQ07c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Qr07
+QDU QWTSQ0800000c QWTSQ08c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Qr08
+QDU QWTSY0100000c QWTSY01c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Yr01
+QDU QWTSY0200000c QWTSY02c           DW USD BBL 160808 190118 West Texas Sour Crude M2M Financial Yr02
+QDU QF1AQ0500000c QF1AQ05c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo M2M Financial Qr05
+QDU QF1AQ0600000c QF1AQ06c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo M2M Financial Qr06
+QDU QF1AQ0700000c QF1AQ07c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo M2M Financial Qr07
+QDU QF1AQ0800000c QF1AQ08c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo M2M Financial Qr08
+QDU QF1AQ0900000c QF1AQ09c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo M2M Financial Qr09
+QDU QF1AQ1000000c QF1AQ10c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo M2M Financial Qr10
+QDU QF1AQ1100000c QF1AQ11c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo M2M Financial Qr11
+QDU QF1AQ1200000c QF1AQ12c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo M2M Financial Qr12
+QDU QJCHQ0700000c QJCHQ07c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Qr07
+QDU QJCHQ0800000c QJCHQ08c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Qr08
+QDU QJCHY0100000c QJCHY01c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Yr01
+QDU QJCHY0200000c QJCHY02c           DW USC GAL 160808 190118 Jet Kero FOB Chicago Pipeline M2M Financial Yr02
+QDU QJCLP0100000c QJCLP01c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo01
+QDU QJCLP0200000c QJCLP02c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo02
+QDU QJCLP0300000c QJCLP03c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo03
+QDU QJCLP0400000c QJCLP04c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo04
+QDU QJCLP0500000c QJCLP05c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo05
+QDU QJCLP0600000c QJCLP06c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo06
+QDU QJCLP0700000c QJCLP07c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo07
+QDU QJCLP0800000c QJCLP08c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo08
+QDU QJCLP0900000c QJCLP09c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo09
+QDU QJCLP1000000c QJCLP10c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo10
+QDU QJCLP1100000c QJCLP11c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo11
+QDU QJCLP1200000c QJCLP12c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo12
+QDU QJCLP1300000c QJCLP13c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo13
+QDU QJCLP1400000c QJCLP14c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo14
+QDU QJCLP1500000c QJCLP15c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo15
+QDU QJCLP1600000c QJCLP16c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo16
+QDU QJCLP1700000c QJCLP17c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo17
+QDU QJCLP1800000c QJCLP18c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo18
+QDU QJCLP1900000c QJCLP19c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo19
+QDU QJCLP2000000c QJCLP20c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo20
+QDU QJCLP2100000c QJCLP21c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo21
+QDU QJCLP2200000c QJCLP22c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo22
+QDU QJCLP2300000c QJCLP23c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo23
+QDU QJCLP2400000c QJCLP24c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo24
+QDU QJCLP2500000c QJCLP25c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo25
+QDU QJCLP2600000c QJCLP26c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo26
+QDU QJCLP2700000c QJCLP27c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo27
+QDU QJCLP2800000c QJCLP28c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo28
+QDU QJCLP2900000c QJCLP29c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo29
+QDU QJCLP3000000c QJCLP30c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo30
+QDU QJCLP3100000c QJCLP31c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo31
+QDU QJCLP3200000c QJCLP32c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo32
+QDU QJCLP3300000c QJCLP33c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo33
+QDU QJCLP3400000c QJCLP34c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo34
+QDU QJCLP3500000c QJCLP35c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo35
+QDU QJCLP3600000c QJCLP36c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Mo36
+QDU QJCLQ0100000c QJCLQ01c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Qr01
+QDU QJCLQ0200000c QJCLQ02c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Qr02
+QDU QJCLQ0300000c QJCLQ03c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Qr03
+QDU QJCLQ0400000c QJCLQ04c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Qr04
+QDU QJCLQ0500000c QJCLQ05c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Qr05
+QDU QJCLQ0600000c QJCLQ06c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Qr06
+QDU QJCLQ0700000c QJCLQ07c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Qr07
+QDU QJCLQ0800000c QJCLQ08c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Qr08
+QDU QJCLY0100000c QJCLY01c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Yr01
+QDU QUL3Q0100000c QUL3Q01c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Qr01
+QDU QUL3Q0200000c QUL3Q02c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Qr02
+QDU QUL3Q0300000c QUL3Q03c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Qr03
+QDU QUL3Q0400000c QUL3Q04c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Qr04
+QDU QUL3Q0500000c QUL3Q05c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Qr05
+QDU QUL3Q0600000c QUL3Q06c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Qr06
+QDU QUL3Q0700000c QUL3Q07c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Qr07
+QDU QUL3Q0800000c QUL3Q08c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Qr08
+QDU QUL3Q0900000c QUL3Q09c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Qr09
+QDU QUL3Q1000000c QUL3Q10c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Qr10
+QDU QUL3Q1100000c QUL3Q11c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Qr11
+QDU QUL3Q1200000c QUL3Q12c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Qr12
+QDU QUL3Y0100000c QUL3Y01c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Yr01
+QDU QUL3Y0200000c QUL3Y02c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Yr02
+QDU QUL3Y0300000c QUL3Y03c           DW USC GAL 160808 190118 ULSD Group 3 Pipeline M2M Financial Yr03
+QDU QDBHP0100000c QDBHP01c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo01
+QDU QDBHP0200000c QDBHP02c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo02
+QDU QDBHP0300000c QDBHP03c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo03
+QDU QDBHP0400000c QDBHP04c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo04
+QDU QDBHP0500000c QDBHP05c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo05
+QDU QDBHP0600000c QDBHP06c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo06
+QDU QDBHP0700000c QDBHP07c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo07
+QDU QDBHP0800000c QDBHP08c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo08
+QDU QDBHP0900000c QDBHP09c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo09
+QDU QDBHP1000000c QDBHP10c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo10
+QDU QDBHP1100000c QDBHP11c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo11
+QDU QDBHP1200000c QDBHP12c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo12
+QDU QDBHP1300000c QDBHP13c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo13
+QDU QDBHP1400000c QDBHP14c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo14
+QDU QDBHP1500000c QDBHP15c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo15
+QDU QDBHP1600000c QDBHP16c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo16
+QDU QDBHP1700000c QDBHP17c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo17
+QDU QDBHP1800000c QDBHP18c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo18
+QDU QDBHP1900000c QDBHP19c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo19
+QDU QDBHP2000000c QDBHP20c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo20
+QDU QDBHP2100000c QDBHP21c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo21
+QDU QDBHP2200000c QDBHP22c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo22
+QDU QDBHP2300000c QDBHP23c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo23
+QDU QDBHP2400000c QDBHP24c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo24
+QDU QDBHP2500000c QDBHP25c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo25
+QDU QDBHP2600000c QDBHP26c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo26
+QDU QDBHP2700000c QDBHP27c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo27
+QDU QDBHP2800000c QDBHP28c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo28
+QDU QDBHP2900000c QDBHP29c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo29
+QDU QDBHP3000000c QDBHP30c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo30
+QDU QDBHP3100000c QDBHP31c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo31
+QDU QDBHP3200000c QDBHP32c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo32
+QDU QDBHP3300000c QDBHP33c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo33
+QDU QDBHP3400000c QDBHP34c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo34
+QDU QDBHP3500000c QDBHP35c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo35
+QDU QDBHP3600000c QDBHP36c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Mo36
+QDU QF1AR0100000c QF1AR01c           DW USD BBL               FO 1% Resid USAC Qr01
+QDU QF1AR0200000c QF1AR02c           DW USD BBL               FO 1% Resid USAC Qr02
+QDU QF1AR0300000c QF1AR03c           DW USD BBL               FO 1% Resid USAC Qr03
+QDU QF1AR0400000c QF1AR04c           DW USD BBL               FO 1% Resid USAC Qr04
+QDU QF1AR0500000c QF1AR05c           DW USD BBL               FO 1% Resid USAC Qr05
+QDU QF1AR0600000c QF1AR06c           DW USD BBL               FO 1% Resid USAC Qr06
+QDU QF1AR0700000c QF1AR07c           DW USD BBL               FO 1% Resid USAC Qr07
+QDU QF1AR0800000c QF1AR08c           DW USD BBL               FO 1% Resid USAC Qr08
+QDU QF1AR0900000c QF1AR09c           DW USD BBL               FO 1% Resid USAC Qr09
+QDU QF1AR1000000c QF1AR10c           DW USD BBL               FO 1% Resid USAC Qr10
+QDU QJCLY0200000c QJCLY02c           DW USC GAL 160808 190118 Jet Colonial Linden 54 Pipeline M2M Financial Yr02
+QDU QLFGP0100000c QLFGP01c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo01
+QDU QLFGP0200000c QLFGP02c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo02
+QDU QLFGP0300000c QLFGP03c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo03
+QDU QLFGP0400000c QLFGP04c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo04
+QDU QLFGP0500000c QLFGP05c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo05
+QDU QLFGP0600000c QLFGP06c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo06
+QDU QLFGP0700000c QLFGP07c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo07
+QDU QLFGP0800000c QLFGP08c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo08
+QDU QLFGP0900000c QLFGP09c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo09
+QDU QLFGP1000000c QLFGP10c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo10
+QDU QLFGP1100000c QLFGP11c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo11
+QDU QLFGP1200000c QLFGP12c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo12
+QDU QB3PP3600000c QB3PP36c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Mo36
+QDU QB3PQ0100000c QB3PQ01c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Qr01
+QDU QB3PQ0200000c QB3PQ02c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Qr02
+QDU QB3PQ0300000c QB3PQ03c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Qr03
+QDU QB3PQ0400000c QB3PQ04c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Qr04
+QDU QB3PQ0500000c QB3PQ05c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Qr05
+QDU QB3PQ0600000c QB3PQ06c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Qr06
+QDU QB3PQ0700000c QB3PQ07c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Qr07
+QDU QB3PQ0800000c QB3PQ08c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Qr08
+QDU QB3PY0100000c QB3PY01c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Yr01
+QDU QB3PY0200000c QB3PY02c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Ex-Wharf Panama Canal M2M Financial Yr02
+QDU QDBHQ0100000c QDBHQ01c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Qr01
+QDU QDBHQ0200000c QDBHQ02c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Qr02
+QDU QDBHQ0300000c QDBHQ03c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Qr03
+QDU QDBHQ0400000c QDBHQ04c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Qr04
+QDU QDBHQ0500000c QDBHQ05c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Qr05
+QDU QDBHQ0600000c QDBHQ06c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Qr06
+QDU QDBHQ0700000c QDBHQ07c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Qr07
+QDU QDBHQ0800000c QDBHQ08c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Qr08
+QDU QDBHQ0900000c QDBHQ09c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Qr09
+QDU QF1AR1200000c QF1AR12c           DW USD BBL               FO 1% Resid USAC Qr12
+QDU QF1AR1300000c QF1AR13c           DW USD BBL               FO 1% Resid USAC Qr13
+QDU QF1AR1400000c QF1AR14c           DW USD BBL               FO 1% Resid USAC Qr14
+QDU QF1AR1500000c QF1AR15c           DW USD BBL               FO 1% Resid USAC Qr15
+QDU QF1AR1600000c QF1AR16c           DW USD BBL               FO 1% Resid USAC Qr16
+QDU QF1AR1700000c QF1AR17c           DW USD BBL               FO 1% Resid USAC Qr17
+QDU QF1AR1800000c QF1AR18c           DW USD BBL               FO 1% Resid USAC Qr18
+QDU QF1AR1900000c QF1AR19c           DW USD BBL               FO 1% Resid USAC Qr19
+QDU QF1AR2000000c QF1AR20c           DW USD BBL               FO 1% Resid USAC Qr20
+QDU QF1AR2100000c QF1AR21c           DW USD BBL               FO 1% Resid USAC Qr21
+QDU QF1AR2200000c QF1AR22c           DW USD BBL               FO 1% Resid USAC Qr22
+QDU QF1AR2300000c QF1AR23c           DW USD BBL               FO 1% Resid USAC Qr23
+QDU QF1AR2400000c QF1AR24c           DW USD BBL               FO 1% Resid USAC Qr24
+QDU QF1AR2500000c QF1AR25c           DW USD BBL               FO 1% Resid USAC Qr25
+QDU QF1AR2600000c QF1AR26c           DW USD BBL               FO 1% Resid USAC Qr26
+QDU QF1AR2700000c QF1AR27c           DW USD BBL               FO 1% Resid USAC Qr27
+QDU QF1AR2800000c QF1AR28c           DW USD BBL               FO 1% Resid USAC Qr28
+QDU QF1AR2900000c QF1AR29c           DW USD BBL               FO 1% Resid USAC Qr29
+QDU QF1AR3000000c QF1AR30c           DW USD BBL               FO 1% Resid USAC Qr30
+QDU QF1AR3100000c QF1AR31c           DW USD BBL               FO 1% Resid USAC Qr31
+QDU QF1AR3200000c QF1AR32c           DW USD BBL               FO 1% Resid USAC Qr32
+QDU QF1AR3300000c QF1AR33c           DW USD BBL               FO 1% Resid USAC Qr33
+QDU QF1AR3400000c QF1AR34c           DW USD BBL               FO 1% Resid USAC Qr34
+QDU QF1AR3500000c QF1AR35c           DW USD BBL               FO 1% Resid USAC Qr35
+QDU QF1AR3600000c QF1AR36c           DW USD BBL               FO 1% Resid USAC Qr36
+QDU QF1AR3700000c QF1AR37c           DW USD BBL               FO 1% Resid USAC Qr37
+QDU QF1AR3800000c QF1AR38c           DW USD BBL               FO 1% Resid USAC Qr38
+QDU QF1AR3900000c QF1AR39c           DW USD BBL               FO 1% Resid USAC Qr39
+QDU QF1AR4000000c QF1AR40c           DW USD BBL               FO 1% Resid USAC Qr40
+QDU QF1AY0300000c QF1AY03c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo M2M Financial Yr03
+QDU QF1AR1100000c QF1AR11c           DW USD BBL               FO 1% Resid USAC Qr11
+QDU QGGCP0100000c QGGCP01c           DW USC GAL               Gasoline USGC Mo01
+QDU QGGCP0200000c QGGCP02c           DW USC GAL               Gasoline USGC Mo02
+QDU QGGCP0300000c QGGCP03c           DW USC GAL               Gasoline USGC Mo03
+QDU QGGCP0400000c QGGCP04c           DW USC GAL               Gasoline USGC Mo04
+QDU QGGCP0500000c QGGCP05c           DW USC GAL               Gasoline USGC Mo05
+QDU QGGCP0600000c QGGCP06c           DW USC GAL               Gasoline USGC Mo06
+QDU QGGCP0700000c QGGCP07c           DW USC GAL               Gasoline USGC Mo07
+QDU QGGCP0800000c QGGCP08c           DW USC GAL               Gasoline USGC Mo08
+QDU QGGCP0900000c QGGCP09c           DW USC GAL               Gasoline USGC Mo09
+QDU QGGCP1000000c QGGCP10c           DW USC GAL               Gasoline USGC Mo10
+QDU QGGCP1100000c QGGCP11c           DW USC GAL               Gasoline USGC Mo11
+QDU QGGCP1200000c QGGCP12c           DW USC GAL               Gasoline USGC Mo12
+QDU QGGCP1300000c QGGCP13c           DW USC GAL 160314 190118 Gasoline Unl 87 USGC Prompt Pipeline M2M Financial Mo13
+QDU QGGCP1400000c QGGCP14c           DW USC GAL 160314 190118 Gasoline Unl 87 USGC Prompt Pipeline M2M Financial Mo14
+QDU QGGCP1500000c QGGCP15c           DW USC GAL 160314 190118 Gasoline Unl 87 USGC Prompt Pipeline M2M Financial Mo15
+QDU QGGCP1600000c QGGCP16c           DW USC GAL 160314 190118 Gasoline Unl 87 USGC Prompt Pipeline M2M Financial Mo16
+QDU QGGCP1700000c QGGCP17c           DW USC GAL 160314 190118 Gasoline Unl 87 USGC Prompt Pipeline M2M Financial Mo17
+QDU QGGCP1800000c QGGCP18c           DW USC GAL 160314 190118 Gasoline Unl 87 USGC Prompt Pipeline M2M Financial Mo18
+QDU QGGCP1900000c QGGCP19c           DW USC GAL 160314 190118 Gasoline Unl 87 USGC Prompt Pipeline M2M Financial Mo19
+QDU QJG3P0100000c QJG3P01c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo01
+QDU QJG3P0200000c QJG3P02c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo02
+QDU QJG3P0300000c QJG3P03c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo03
+QDU QJG3P0400000c QJG3P04c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo04
+QDU QJG3P0500000c QJG3P05c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo05
+QDU QJG3P0600000c QJG3P06c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo06
+QDU QJG3P0700000c QJG3P07c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo07
+QDU QJG3P0800000c QJG3P08c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo08
+QDU QJG3P0900000c QJG3P09c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo09
+QDU QJG3P1000000c QJG3P10c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo10
+QDU QJG3P1100000c QJG3P11c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo11
+QDU QJG3P1200000c QJG3P12c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo12
+QDU QJG3P1300000c QJG3P13c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo13
+QDU QJG3P1400000c QJG3P14c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo14
+QDU QJG3P1500000c QJG3P15c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo15
+QDU QJG3P1600000c QJG3P16c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo16
+QDU QJG3P1700000c QJG3P17c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo17
+QDU QJG3P1800000c QJG3P18c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo18
+QDU QJG3P1900000c QJG3P19c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo19
+QDU QJG3P2000000c QJG3P20c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo20
+QDU QJG3P2100000c QJG3P21c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo21
+QDU QJG3P2200000c QJG3P22c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo22
+QDU QJG3P2300000c QJG3P23c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo23
+QDU QJG3P2400000c QJG3P24c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo24
+QDU QJG3P2500000c QJG3P25c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo25
+QDU QJG3P2600000c QJG3P26c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo26
+QDU QJG3P2700000c QJG3P27c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo27
+QDU QJG3P2800000c QJG3P28c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo28
+QDU QJG3P2900000c QJG3P29c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo29
+QDU QJG3P3000000c QJG3P30c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo30
+QDU QJG3P3100000c QJG3P31c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo31
+QDU QJG3P3200000c QJG3P32c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo32
+QDU QJG3P3300000c QJG3P33c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo33
+QDU QJG3P3400000c QJG3P34c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo34
+QDU QJG3P3500000c QJG3P35c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo35
+QDU QJG3P3600000c QJG3P36c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Mo36
+QDU QJG3Q0100000c QJG3Q01c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Qr01
+QDU QJG3Q0200000c QJG3Q02c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Qr02
+QDU QJG3Q0300000c QJG3Q03c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Qr03
+QDU QJG3Q0400000c QJG3Q04c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Qr04
+QDU QJG3Q0500000c QJG3Q05c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Qr05
+QDU QJG3Q0600000c QJG3Q06c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Qr06
+QDU QJG3Q0700000c QJG3Q07c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Qr07
+QDU QJG3Q0800000c QJG3Q08c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Qr08
+QDU QJG3Y0100000c QJG3Y01c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Yr01
+QDU QLFGP1400000c QLFGP14c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo14
+QDU QLFGP1500000c QLFGP15c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo15
+QDU QLFGP1600000c QLFGP16c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo16
+QDU QLFGP1700000c QLFGP17c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo17
+QDU QLFGP1800000c QLFGP18c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo18
+QDU QLFGP1900000c QLFGP19c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo19
+QDU QLFGP2000000c QLFGP20c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo20
+QDU QLFGP2100000c QLFGP21c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo21
+QDU QLFGP2200000c QLFGP22c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo22
+QDU QLFGP2300000c QLFGP23c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo23
+QDU QLFGP2400000c QLFGP24c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo24
+QDU QLFGP2500000c QLFGP25c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo25
+QDU QLFGP2600000c QLFGP26c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo26
+QDU QLFGP2700000c QLFGP27c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo27
+QDU QLFGP2800000c QLFGP28c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo28
+QDU QLFGP2900000c QLFGP29c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo29
+QDU QLFGP3000000c QLFGP30c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo30
+QDU QLFGP3100000c QLFGP31c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo31
+QDU QLFGP3200000c QLFGP32c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo32
+QDU QLFGP3300000c QLFGP33c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo33
+QDU QLFGP3400000c QLFGP34c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo34
+QDU QLFGP3500000c QLFGP35c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo35
+QDU QLFGP3600000c QLFGP36c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo36
+QDU QLFGP1300000c QLFGP13c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Mo13
+QDU QDBHQ1100000c QDBHQ11c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Qr11
+QDU QDBHQ1200000c QDBHQ12c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Qr12
+QDU QDBHQ1000000c QDBHQ10c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Qr10
+QDU QF3GP0100000c QF3GP01c           DW USD BBL               Fuel Oil 3.5% USGC Mo01
+QDU QF3GP0200000c QF3GP02c           DW USD BBL               Fuel Oil 3.5% USGC Mo02
+QDU QF3GP0300000c QF3GP03c           DW USD BBL               Fuel Oil 3.5% USGC Mo03
+QDU QF3GP0400000c QF3GP04c           DW USD BBL               Fuel Oil 3.5% USGC Mo04
+QDU QF3GP0500000c QF3GP05c           DW USD BBL               Fuel Oil 3.5% USGC Mo05
+QDU QF3GP0600000c QF3GP06c           DW USD BBL               Fuel Oil 3.5% USGC Mo06
+QDU QF3GP0700000c QF3GP07c           DW USD BBL               Fuel Oil 3.5% USGC Mo07
+QDU QF3GP0800000c QF3GP08c           DW USD BBL               Fuel Oil 3.5% USGC Mo08
+QDU QF3GP0900000c QF3GP09c           DW USD BBL               Fuel Oil 3.5% USGC Mo09
+QDU QF3GP1000000c QF3GP10c           DW USD BBL               Fuel Oil 3.5% USGC Mo10
+QDU QF3GP1100000c QF3GP11c           DW USD BBL               Fuel Oil 3.5% USGC Mo11
+QDU QF3GP1200000c QF3GP12c           DW USD BBL               Fuel Oil 3.5% USGC Mo12
+QDU QF3GP1300000c QF3GP13c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo13
+QDU QF3GP1400000c QF3GP14c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo14
+QDU QF3GP1500000c QF3GP15c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo15
+QDU QF3GP1600000c QF3GP16c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo16
+QDU QF3GP1700000c QF3GP17c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo17
+QDU QF3GP1800000c QF3GP18c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo18
+QDU QF3GP1900000c QF3GP19c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo19
+QDU QF3GP2000000c QF3GP20c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo20
+QDU QF3GP2100000c QF3GP21c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo21
+QDU QF3GP2200000c QF3GP22c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo22
+QDU QF3GP2300000c QF3GP23c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo23
+QDU QGGCP2000000c QGGCP20c           DW USC GAL 160314 190118 Gasoline Unl 87 USGC Prompt Pipeline M2M Financial Mo20
+QDU QGGCP2100000c QGGCP21c           DW USC GAL 160314 190118 Gasoline Unl 87 USGC Prompt Pipeline M2M Financial Mo21
+QDU QGGCP2200000c QGGCP22c           DW USC GAL 160314 190118 Gasoline Unl 87 USGC Prompt Pipeline M2M Financial Mo22
+QDU QGGCP2300000c QGGCP23c           DW USC GAL 160314 190118 Gasoline Unl 87 USGC Prompt Pipeline M2M Financial Mo23
+QDU QGGCP2400000c QGGCP24c           DW USC GAL 160314 190118 Gasoline Unl 87 USGC Prompt Pipeline M2M Financial Mo24
+QDU QGGCP2500000c QGGCP25c           DW USC GAL 160314 190118 Gasoline Unl 87 USGC Prompt Pipeline M2M Financial Mo25
+QDU QGGCP2600000c QGGCP26c           DW USC GAL 160314 190118 Gasoline Unl 87 USGC Prompt Pipeline M2M Financial Mo26
+QDU QGGCP2700000c QGGCP27c           DW USC GAL 160314 190118 Gasoline Unl 87 USGC Prompt Pipeline M2M Financial Mo27
+QDU QGGCP2800000c QGGCP28c           DW USC GAL 160314 190118 Gasoline Unl 87 USGC Prompt Pipeline M2M Financial Mo28
+QDU QGGCP2900000c QGGCP29c           DW USC GAL 160314 190118 Gasoline Unl 87 USGC Prompt Pipeline M2M Financial Mo29
+QDU QGGCP3000000c QGGCP30c           DW USC GAL 160314 190118 Gasoline Unl 87 USGC Prompt Pipeline M2M Financial Mo30
+QDU QGGCP3100000c QGGCP31c           DW USC GAL 160314 190118 Gasoline Unl 87 USGC Prompt Pipeline M2M Financial Mo31
+QDU QGGCP3200000c QGGCP32c           DW USC GAL 160314 190118 Gasoline Unl 87 USGC Prompt Pipeline M2M Financial Mo32
+QDU QGGCP3300000c QGGCP33c           DW USC GAL 160314 190118 Gasoline Unl 87 USGC Prompt Pipeline M2M Financial Mo33
+QDU QGGCP3400000c QGGCP34c           DW USC GAL 160314 190118 Gasoline Unl 87 USGC Prompt Pipeline M2M Financial Mo34
+QDU QGGCP3500000c QGGCP35c           DW USC GAL 160314 190118 Gasoline Unl 87 USGC Prompt Pipeline M2M Financial Mo35
+QDU QGGCP3600000c QGGCP36c           DW USC GAL 160314 190118 Gasoline Unl 87 USGC Prompt Pipeline M2M Financial Mo36
+QDU QGGCQ0500000c QGGCQ05c           DW USC GAL 160808 190118 Gasoline Unl 87 USGC Prompt Pipeline M2M Financial Qr05
+QDU QGGCQ0600000c QGGCQ06c           DW USC GAL 160808 190118 Gasoline Unl 87 USGC Prompt Pipeline M2M Financial Qr06
+QDU QGGCQ0700000c QGGCQ07c           DW USC GAL 160808 190118 Gasoline Unl 87 USGC Prompt Pipeline M2M Financial Qr07
+QDU QGGCQ0800000c QGGCQ08c           DW USC GAL 160808 190118 Gasoline Unl 87 USGC Prompt Pipeline M2M Financial Qr08
+QDU QGGCY0200000c QGGCY02c           DW USC GAL 160808 190118 Gasoline Unl 87 USGC Prompt Pipeline M2M Financial Yr02
+QDU QJG3Y0200000c QJG3Y02c           DW USC GAL 160808 190118 Jet Kero Group 3 Pipeline M2M Financial Yr02
+QDU QJGCP1300000c QJGCP13c           DW USC GAL 160808 190118 Jet Kero 54 USGC Prompt Pipeline M2M Financial Mo13
+QDU QJGCP1400000c QJGCP14c           DW USC GAL 160808 190118 Jet Kero 54 USGC Prompt Pipeline M2M Financial Mo14
+QDU QJGCP1500000c QJGCP15c           DW USC GAL 160808 190118 Jet Kero 54 USGC Prompt Pipeline M2M Financial Mo15
+QDU QJGCP1600000c QJGCP16c           DW USC GAL 160808 190118 Jet Kero 54 USGC Prompt Pipeline M2M Financial Mo16
+QDU QJGCP1700000c QJGCP17c           DW USC GAL 160808 190118 Jet Kero 54 USGC Prompt Pipeline M2M Financial Mo17
+QDU QJGCP1800000c QJGCP18c           DW USC GAL 160808 190118 Jet Kero 54 USGC Prompt Pipeline M2M Financial Mo18
+QDU QJGCP1900000c QJGCP19c           DW USC GAL 160808 190118 Jet Kero 54 USGC Prompt Pipeline M2M Financial Mo19
+QDU QJGCP2000000c QJGCP20c           DW USC GAL 160808 190118 Jet Kero 54 USGC Prompt Pipeline M2M Financial Mo20
+QDU QJGCP2100000c QJGCP21c           DW USC GAL 160808 190118 Jet Kero 54 USGC Prompt Pipeline M2M Financial Mo21
+QDU QJGCP2200000c QJGCP22c           DW USC GAL 160808 190118 Jet Kero 54 USGC Prompt Pipeline M2M Financial Mo22
+QDU QJGCP2300000c QJGCP23c           DW USC GAL 160808 190118 Jet Kero 54 USGC Prompt Pipeline M2M Financial Mo23
+QDU QJGCP2400000c QJGCP24c           DW USC GAL 160808 190118 Jet Kero 54 USGC Prompt Pipeline M2M Financial Mo24
+QDU QJGCP2500000c QJGCP25c           DW USC GAL 160808 190118 Jet Kero 54 USGC Prompt Pipeline M2M Financial Mo25
+QDU QJGCP2600000c QJGCP26c           DW USC GAL 160808 190118 Jet Kero 54 USGC Prompt Pipeline M2M Financial Mo26
+QDU QJGCP2700000c QJGCP27c           DW USC GAL 160808 190118 Jet Kero 54 USGC Prompt Pipeline M2M Financial Mo27
+QDU QJGCP2800000c QJGCP28c           DW USC GAL 160808 190118 Jet Kero 54 USGC Prompt Pipeline M2M Financial Mo28
+QDU QJGCP2900000c QJGCP29c           DW USC GAL 160808 190118 Jet Kero 54 USGC Prompt Pipeline M2M Financial Mo29
+QDU QJGCP3000000c QJGCP30c           DW USC GAL 160808 190118 Jet Kero 54 USGC Prompt Pipeline M2M Financial Mo30
+QDU QJGCP3100000c QJGCP31c           DW USC GAL 160808 190118 Jet Kero 54 USGC Prompt Pipeline M2M Financial Mo31
+QDU QJGCP3200000c QJGCP32c           DW USC GAL 160808 190118 Jet Kero 54 USGC Prompt Pipeline M2M Financial Mo32
+QDU QJGCP3300000c QJGCP33c           DW USC GAL 160808 190118 Jet Kero 54 USGC Prompt Pipeline M2M Financial Mo33
+QDU QJGCP3400000c QJGCP34c           DW USC GAL 160808 190118 Jet Kero 54 USGC Prompt Pipeline M2M Financial Mo34
+QDU QJGCP3500000c QJGCP35c           DW USC GAL 160808 190118 Jet Kero 54 USGC Prompt Pipeline M2M Financial Mo35
+QDU QJGCP3600000c QJGCP36c           DW USC GAL 160808 190118 Jet Kero 54 USGC Prompt Pipeline M2M Financial Mo36
+QDU QJGCQ0500000c QJGCQ05c           DW USC GAL 160808 190118 Jet Kero 54 USGC Prompt Pipeline M2M Financial Qr05
+QDU QJGCQ0600000c QJGCQ06c           DW USC GAL 160808 190118 Jet Kero 54 USGC Prompt Pipeline M2M Financial Qr06
+QDU QJGCQ0700000c QJGCQ07c           DW USC GAL 160808 190118 Jet Kero 54 USGC Prompt Pipeline M2M Financial Qr07
+QDU QJGCQ0800000c QJGCQ08c           DW USC GAL 160808 190118 Jet Kero 54 USGC Prompt Pipeline M2M Financial Qr08
+QDU QJGCY0200000c QJGCY02c           DW USC GAL 160808 190118 Jet Kero 54 USGC Prompt Pipeline M2M Financial Yr02
+QDU QLFGQ0100000c QLFGQ01c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Qr01
+QDU QLFGQ0200000c QLFGQ02c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Qr02
+QDU QLFGQ0300000c QLFGQ03c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Qr03
+QDU QLFGQ0400000c QLFGQ04c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Qr04
+QDU QLFGQ0500000c QLFGQ05c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Qr05
+QDU QLFGQ0600000c QLFGQ06c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Qr06
+QDU QLFGQ0700000c QLFGQ07c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Qr07
+QDU QLFGQ0800000c QLFGQ08c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Qr08
+QDU QLFGQ0900000c QLFGQ09c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Qr09
+QDU QLFGQ1000000c QLFGQ10c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Qr10
+QDU QLFGQ1100000c QLFGQ11c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Qr11
+QDU QLFGQ1200000c QLFGQ12c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Qr12
+QDU QLFGY0100000c QLFGY01c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Yr01
+QDU QLFGY0200000c QLFGY02c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Yr02
+QDU QLFGY0300000c QLFGY03c           DW USD BBL 160808 190118 FO 1.0% USGC Cargo M2M Financial Yr03
+QDU QLLSP0100000c QLLSP01c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo01
+QDU QULCM0100000c QULCM01c           DW USC GAL               ULSD Chicago M2M Financial Mo01
+QDU QULCM0200000c QULCM02c           DW USC GAL               ULSD Chicago M2M Financial Mo02
+QDU QULCM0300000c QULCM03c           DW USC GAL               ULSD Chicago M2M Financial Mo03
+QDU QULCM0400000c QULCM04c           DW USC GAL               ULSD Chicago M2M Financial Mo04
+QDU QULCM0500000c QULCM05c           DW USC GAL               ULSD Chicago M2M Financial Mo05
+QDU QULCM0600000c QULCM06c           DW USC GAL               ULSD Chicago M2M Financial Mo06
+QDU QULCM0700000c QULCM07c           DW USC GAL               ULSD Chicago M2M Financial Mo07
+QDU QULCM0800000c QULCM08c           DW USC GAL               ULSD Chicago M2M Financial Mo08
+QDU QULCM0900000c QULCM09c           DW USC GAL               ULSD Chicago M2M Financial Mo09
+QDU QULCM1000000c QULCM10c           DW USC GAL               ULSD Chicago M2M Financial Mo10
+QDU QULCM1100000c QULCM11c           DW USC GAL               ULSD Chicago M2M Financial Mo11
+QDU QULCM1200000c QULCM12c           DW USC GAL               ULSD Chicago M2M Financial Mo12
+QDU QULCM1300000c QULCM13c           DW USC GAL               ULSD Chicago M2M Financial Mo13
+QDU QULCM1400000c QULCM14c           DW USC GAL               ULSD Chicago M2M Financial Mo14
+QDU QULCM1500000c QULCM15c           DW USC GAL               ULSD Chicago M2M Financial Mo15
+QDU QULCM1600000c QULCM16c           DW USC GAL               ULSD Chicago M2M Financial Mo16
+QDU QULCM1700000c QULCM17c           DW USC GAL               ULSD Chicago M2M Financial Mo17
+QDU QULCM1800000c QULCM18c           DW USC GAL               ULSD Chicago M2M Financial Mo18
+QDU QULCM1900000c QULCM19c           DW USC GAL               ULSD Chicago M2M Financial Mo19
+QDU QULCM2000000c QULCM20c           DW USC GAL               ULSD Chicago M2M Financial Mo20
+QDU QULCM2100000c QULCM21c           DW USC GAL               ULSD Chicago M2M Financial Mo21
+QDU QULCM2200000c QULCM22c           DW USC GAL               ULSD Chicago M2M Financial Mo22
+QDU QULCM2300000c QULCM23c           DW USC GAL               ULSD Chicago M2M Financial Mo23
+QDU QULCM2400000c QULCM24c           DW USC GAL               ULSD Chicago M2M Financial Mo24
+QDU QULCM2500000c QULCM25c           DW USC GAL               ULSD Chicago M2M Financial Mo25
+QDU QULCM2600000c QULCM26c           DW USC GAL               ULSD Chicago M2M Financial Mo26
+QDU QULCM2700000c QULCM27c           DW USC GAL               ULSD Chicago M2M Financial Mo27
+QDU QULCM2800000c QULCM28c           DW USC GAL               ULSD Chicago M2M Financial Mo28
+QDU QULCM2900000c QULCM29c           DW USC GAL               ULSD Chicago M2M Financial Mo29
+QDU QULCM3000000c QULCM30c           DW USC GAL               ULSD Chicago M2M Financial Mo30
+QDU QULCM3100000c QULCM31c           DW USC GAL               ULSD Chicago M2M Financial Mo31
+QDU QULCM3200000c QULCM32c           DW USC GAL               ULSD Chicago M2M Financial Mo32
+QDU QULCM3300000c QULCM33c           DW USC GAL               ULSD Chicago M2M Financial Mo33
+QDU QULCM3400000c QULCM34c           DW USC GAL               ULSD Chicago M2M Financial Mo34
+QDU QULCM3500000c QULCM35c           DW USC GAL               ULSD Chicago M2M Financial Mo35
+QDU QULCM3600000c QULCM36c           DW USC GAL               ULSD Chicago M2M Financial Mo36
+QDU QDBHY0100000c QDBHY01c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Yr01
+QDU QDBHY0200000c QDBHY02c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Yr02
+QDU QDBHY0300000c QDBHY03c           DW USD BBL 160808 190118 Dated Brent at Houston MOC M2M Financial Yr03
+QDU QF3GP2400000c QF3GP24c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo24
+QDU QF3GP2500000c QF3GP25c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo25
+QDU QF3GP2600000c QF3GP26c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo26
+QDU QF3GP2700000c QF3GP27c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo27
+QDU QF3GP2800000c QF3GP28c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo28
+QDU QF3GP2900000c QF3GP29c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo29
+QDU QF3GP3000000c QF3GP30c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo30
+QDU QF3GP3100000c QF3GP31c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo31
+QDU QF3GP3200000c QF3GP32c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo32
+QDU QF3GP3300000c QF3GP33c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo33
+QDU QF3GP3400000c QF3GP34c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo34
+QDU QF3GP3500000c QF3GP35c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo35
+QDU QF3GP3600000c QF3GP36c           DW USD BBL 160314 190118 USGC HSFO Waterborne M2M Financial Mo36
+QDU QLLSP0200000c QLLSP02c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo02
+QDU QLLSP0300000c QLLSP03c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo03
+QDU QLLSP0400000c QLLSP04c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo04
+QDU QLLSP0500000c QLLSP05c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo05
+QDU QLLSP0600000c QLLSP06c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo06
+QDU QLLSP0700000c QLLSP07c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo07
+QDU QLLSP0800000c QLLSP08c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo08
+QDU QLLSP0900000c QLLSP09c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo09
+QDU QLLSP1000000c QLLSP10c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo10
+QDU QLLSP1100000c QLLSP11c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo11
+QDU QLLSP1200000c QLLSP12c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo12
+QDU QLLSP1300000c QLLSP13c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo13
+QDU QLLSP1400000c QLLSP14c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo14
+QDU QLLSP1500000c QLLSP15c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo15
+QDU QLLSP1600000c QLLSP16c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo16
+QDU QLLSP1700000c QLLSP17c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo17
+QDU QLLSP1800000c QLLSP18c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo18
+QDU QLLSP1900000c QLLSP19c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo19
+QDU QLLSP2000000c QLLSP20c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo20
+QDU QLLSP2100000c QLLSP21c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo21
+QDU QLLSP2200000c QLLSP22c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo22
+QDU QLLSP2300000c QLLSP23c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo23
+QDU QLLSP2400000c QLLSP24c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo24
+QDU QLLSP2500000c QLLSP25c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo25
+QDU QLLSP2600000c QLLSP26c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo26
+QDU QLLSP2700000c QLLSP27c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo27
+QDU QLLSP2800000c QLLSP28c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo28
+QDU QLLSP2900000c QLLSP29c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo29
+QDU QLLSP3000000c QLLSP30c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo30
+QDU QLLSP3100000c QLLSP31c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo31
+QDU QLLSP3200000c QLLSP32c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo32
+QDU QLLSP3300000c QLLSP33c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo33
+QDU QLLSP3400000c QLLSP34c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo34
+QDU QLLSP3500000c QLLSP35c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo35
+QDU QLLSP3600000c QLLSP36c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Mo36
+QDU QLLSQ0100000c QLLSQ01c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Qr01
+QDU QLLSQ0200000c QLLSQ02c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Qr02
+QDU QLLSQ0300000c QLLSQ03c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Qr03
+QDU QLLSQ0400000c QLLSQ04c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Qr04
+QDU QLLSQ0500000c QLLSQ05c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Qr05
+QDU QLLSQ0600000c QLLSQ06c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Qr06
+QDU QLLSQ0700000c QLLSQ07c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Qr07
+QDU QLLSQ0800000c QLLSQ08c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Qr08
+QDU QLLSY0100000c QLLSY01c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Yr01
+QDU QLLSY0200000c QLLSY02c           DW USD BBL 160808 190118 Louisiana Light Sweet Crude M2M Financial Yr02
+QDU QLWTM0100000c QLWTM01c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo01
+QDU QLWTM0200000c QLWTM02c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo02
+QDU QLWTM0300000c QLWTM03c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo03
+QDU QLWTM0400000c QLWTM04c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo04
+QDU QLWTM0500000c QLWTM05c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo05
+QDU QLWTM0600000c QLWTM06c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo06
+QDU QLWTM0700000c QLWTM07c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo07
+QDU QF3GQ0500000c QF3GQ05c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Qr05
+QDU QF3GQ0600000c QF3GQ06c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Qr06
+QDU QF3GQ0700000c QF3GQ07c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Qr07
+QDU QF3GQ0800000c QF3GQ08c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Qr08
+QDU QF3GQ0900000c QF3GQ09c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Qr09
+QDU QF3GQ1000000c QF3GQ10c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Qr10
+QDU QF3GQ1100000c QF3GQ11c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Qr11
+QDU QF3GQ1200000c QF3GQ12c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Qr12
+QDU QF3GY0300000c QF3GY03c           DW USD BBL 160808 190118 USGC HSFO Waterborne M2M Financial Yr03
+QDU QLWTM0800000c QLWTM08c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo08
+QDU QLWTM0900000c QLWTM09c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo09
+QDU QLWTM1000000c QLWTM10c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo10
+QDU QLWTM1100000c QLWTM11c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo11
+QDU QLWTM1200000c QLWTM12c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo12
+QDU QLWTM1300000c QLWTM13c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo13
+QDU QLWTM1400000c QLWTM14c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo14
+QDU QLWTM1500000c QLWTM15c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo15
+QDU QLWTM1600000c QLWTM16c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo16
+QDU QLWTM1700000c QLWTM17c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo17
+QDU QLWTM1800000c QLWTM18c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo18
+QDU QLWTM1900000c QLWTM19c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo19
+QDU QLWTM2000000c QLWTM20c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo20
+QDU QLWTM2100000c QLWTM21c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo21
+QDU QLWTM2200000c QLWTM22c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo22
+QDU QLWTM2300000c QLWTM23c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo23
+QDU QLWTM2400000c QLWTM24c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo24
+QDU QLWTM2500000c QLWTM25c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo25
+QDU QLWTM2600000c QLWTM26c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo26
+QDU QLWTM2700000c QLWTM27c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo27
+QDU QLWTM2800000c QLWTM28c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo28
+QDU QLWTM2900000c QLWTM29c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo29
+QDU QLWTM3000000c QLWTM30c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo30
+QDU QLWTM3100000c QLWTM31c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo31
+QDU QLWTM3200000c QLWTM32c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo32
+QDU QLWTM3300000c QLWTM33c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo33
+QDU QLWTM3400000c QLWTM34c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo34
+QDU QLWTM3500000c QLWTM35c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo35
+QDU QLWTM3600000c QLWTM36c           DW USD BBL               LLS vs WTI Cushing M2M Financial Mo36
+QDU QGUGP0100000c QGUGP01c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo01
+QDU QGUGP0200000c QGUGP02c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo02
+QDU QGUGP0300000c QGUGP03c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo03
+QDU QGUGP0400000c QGUGP04c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo04
+QDU QGUGP0500000c QGUGP05c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo05
+QDU QGUGP0600000c QGUGP06c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo06
+QDU QGUGP0700000c QGUGP07c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo07
+QDU QGUGP0800000c QGUGP08c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo08
+QDU QGUGP0900000c QGUGP09c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo09
+QDU QGUGP1000000c QGUGP10c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo10
+QDU QGUGP1100000c QGUGP11c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo11
+QDU QGUGP1200000c QGUGP12c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo12
+QDU QGUGP1300000c QGUGP13c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo13
+QDU QGUGP1400000c QGUGP14c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo14
+QDU QGUGP1500000c QGUGP15c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo15
+QDU QGUGP1600000c QGUGP16c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo16
+QDU QGUGP1700000c QGUGP17c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo17
+QDU QEFDP0100000c QEFDP01c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Mo01
+QDU QEFDP0200000c QEFDP02c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo02
+QDU QEFDP0300000c QEFDP03c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo03
+QDU QEFDP0400000c QEFDP04c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo04
+QDU QEFDP0500000c QEFDP05c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo05
+QDU QEFDP0600000c QEFDP06c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo06
+QDU QEFDP0700000c QEFDP07c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo07
+QDU QEFDP0800000c QEFDP08c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo08
+QDU QEFDP0900000c QEFDP09c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo09
+QDU QEFDP1000000c QEFDP10c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo10
+QDU QEFDP1100000c QEFDP11c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo11
+QDU QEFDP1200000c QEFDP12c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo12
+QDU QEFDP1300000c QEFDP13c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo13
+QDU QFGAP1300000c QFGAP13c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Mo13
+QDU QFGAP1400000c QFGAP14c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Mo14
+QDU QFGAP1500000c QFGAP15c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Mo15
+QDU QFGAP1600000c QFGAP16c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Mo16
+QDU QFGAP1700000c QFGAP17c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Mo17
+QDU QFGAP1800000c QFGAP18c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Mo18
+QDU QFGAP1900000c QFGAP19c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Mo19
+QDU QFGAP2000000c QFGAP20c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Mo20
+QDU QFGAP2100000c QFGAP21c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Mo21
+QDU QFGAP2200000c QFGAP22c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Mo22
+QDU QFGAP2300000c QFGAP23c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Mo23
+QDU QFGAP2400000c QFGAP24c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Mo24
+QDU QFGAP2500000c QFGAP25c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Mo25
+QDU QFGAP2600000c QFGAP26c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Mo26
+QDU QFGAP2700000c QFGAP27c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Mo27
+QDU QFGAP2800000c QFGAP28c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Mo28
+QDU QFGAP2900000c QFGAP29c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Mo29
+QDU QFGAP3000000c QFGAP30c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Mo30
+QDU QFGAP3100000c QFGAP31c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Mo31
+QDU QFGAP3200000c QFGAP32c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Mo32
+QDU QFGAP3300000c QFGAP33c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Mo33
+QDU QFGAP3400000c QFGAP34c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Mo34
+QDU QFGAP3500000c QFGAP35c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Mo35
+QDU QFGAP3600000c QFGAP36c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Mo36
+QDU QFGAQ0100000c QFGAQ01c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Qr01
+QDU QFGAQ0200000c QFGAQ02c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Qr02
+QDU QFGAQ0300000c QFGAQ03c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Qr03
+QDU QFGAQ0400000c QFGAQ04c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Qr04
+QDU QFGAQ0500000c QFGAQ05c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Qr05
+QDU QGUGP1800000c QGUGP18c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo18
+QDU QGUGP1900000c QGUGP19c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo19
+QDU QGUGP2000000c QGUGP20c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo20
+QDU QGUGP2100000c QGUGP21c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo21
+QDU QGUGP2200000c QGUGP22c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo22
+QDU QGUGP2300000c QGUGP23c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo23
+QDU QGUGP2400000c QGUGP24c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo24
+QDU QGUGP2500000c QGUGP25c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo25
+QDU QGUGP2600000c QGUGP26c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo26
+QDU QGUGP2700000c QGUGP27c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo27
+QDU QGUGP2800000c QGUGP28c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo28
+QDU QGUGP2900000c QGUGP29c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo29
+QDU QGUGP3000000c QGUGP30c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo30
+QDU QGUGP3100000c QGUGP31c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo31
+QDU QGUGP3200000c QGUGP32c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo32
+QDU QGUGP3300000c QGUGP33c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo33
+QDU QGUGP3400000c QGUGP34c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo34
+QDU QGUGP3500000c QGUGP35c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo35
+QDU QGUGP3600000c QGUGP36c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Mo36
+QDU QGUGQ0100000c QGUGQ01c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Qr01
+QDU QGUGQ0200000c QGUGQ02c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Qr02
+QDU QGUGQ0300000c QGUGQ03c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Qr03
+QDU QGUGQ0400000c QGUGQ04c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Qr04
+QDU QGUGQ0500000c QGUGQ05c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Qr05
+QDU QGUGQ0600000c QGUGQ06c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Qr06
+QDU QGUGQ0700000c QGUGQ07c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Qr07
+QDU QGUGQ0800000c QGUGQ08c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Qr08
+QDU QGUGY0100000c QGUGY01c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Yr01
+QDU QGUGY0200000c QGUGY02c           DW USC GAL 160808 190118 Gasoil No.2 USGC Prompt Pipeline M2M Financial Yr02
+QDU QMAYP0100000c QMAYP01c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo01
+QDU QMAYP0200000c QMAYP02c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo02
+QDU QMAYP0300000c QMAYP03c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo03
+QDU QMAYP0400000c QMAYP04c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo04
+QDU QMAYP0500000c QMAYP05c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo05
+QDU QMAYP0600000c QMAYP06c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo06
+QDU QMAYP0700000c QMAYP07c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo07
+QDU QULGP1300000c QULGP13c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo13
+QDU QULGP1400000c QULGP14c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo14
+QDU QULGP1500000c QULGP15c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo15
+QDU QULGP1600000c QULGP16c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo16
+QDU QULGP1700000c QULGP17c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo17
+QDU QULGP1800000c QULGP18c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo18
+QDU QULGP1900000c QULGP19c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo19
+QDU QULGP2000000c QULGP20c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo20
+QDU QULGP2100000c QULGP21c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo21
+QDU QULGP2200000c QULGP22c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo22
+QDU QULGP2300000c QULGP23c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo23
+QDU QULGP2400000c QULGP24c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo24
+QDU QULGP2500000c QULGP25c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo25
+QDU QULGP2600000c QULGP26c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo26
+QDU QULGP2700000c QULGP27c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo27
+QDU QULGP2800000c QULGP28c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo28
+QDU QULGP2900000c QULGP29c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo29
+QDU QULGP3000000c QULGP30c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo30
+QDU QULGP3100000c QULGP31c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo31
+QDU QULGP3200000c QULGP32c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo32
+QDU QULGP3300000c QULGP33c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo33
+QDU QULGP3400000c QULGP34c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo34
+QDU QULGP3500000c QULGP35c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo35
+QDU QULGP3600000c QULGP36c           DW USC GAL 160314 190118 ULSD USGC Prompt Pipeline M2M Financial Mo36
+QDU QEFDP1400000c QEFDP14c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo14
+QDU QEFDP1500000c QEFDP15c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo15
+QDU QEFDP1600000c QEFDP16c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo16
+QDU QEFDP1700000c QEFDP17c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo17
+QDU QEFDP1800000c QEFDP18c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo18
+QDU QEFDP1900000c QEFDP19c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo19
+QDU QEFDP2000000c QEFDP20c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo20
+QDU QEFDP2100000c QEFDP21c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo21
+QDU QEFDP2200000c QEFDP22c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo22
+QDU QEFDP2300000c QEFDP23c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo23
+QDU QEFDP2400000c QEFDP24c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo24
+QDU QEFDP2500000c QEFDP25c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo25
+QDU QEFDP2600000c QEFDP26c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo26
+QDU QEFDP2700000c QEFDP27c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo27
+QDU QEFDP2800000c QEFDP28c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo28
+QDU QEFDP2900000c QEFDP29c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo29
+QDU QEFDP3000000c QEFDP30c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo30
+QDU QEFDP3100000c QEFDP31c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo31
+QDU QEFDP3200000c QEFDP32c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo32
+QDU QEFDP3300000c QEFDP33c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo33
+QDU QEFDP3400000c QEFDP34c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo34
+QDU QEFDP3500000c QEFDP35c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo35
+QDU QEFDP3600000c QEFDP36c           DW USD BBL 160314 190118 Eagle Ford Crude FOB M2M Financial Mo36
+QDU QFGAQ0600000c QFGAQ06c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Qr06
+QDU QFGAQ0700000c QFGAQ07c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Qr07
+QDU QFGAQ0800000c QFGAQ08c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Qr08
+QDU QFGAY0100000c QFGAY01c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Yr01
+QDU QFGAY0200000c QFGAY02c           DW USD BBL 160808 190118 FO 1.0% USAC Cargo vs USGC HSFO Waterborne (HiLo Diff) M2M Financial Yr02
+QDU QFSWP0100000c QFSWP01c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo01
+QDU QFSWP0200000c QFSWP02c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo02
+QDU QFSWP0300000c QFSWP03c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo03
+QDU QFSWP0400000c QFSWP04c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo04
+QDU QFSWP0500000c QFSWP05c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo05
+QDU QFSWP0600000c QFSWP06c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo06
+QDU QFSWP0700000c QFSWP07c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo07
+QDU QFSWP0800000c QFSWP08c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo08
+QDU QFSWP0900000c QFSWP09c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo09
+QDU QFSWP1000000c QFSWP10c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo10
+QDU QFSWP1100000c QFSWP11c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo11
+QDU QFSWP1200000c QFSWP12c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo12
+QDU QFSWP1300000c QFSWP13c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo13
+QDU QFSWP1400000c QFSWP14c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo14
+QDU QFSWP1500000c QFSWP15c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo15
+QDU QFSWP1600000c QFSWP16c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo16
+QDU QFSWP1700000c QFSWP17c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo17
+QDU QFSWP1800000c QFSWP18c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo18
+QDU QFSWP1900000c QFSWP19c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo19
+QDU QFSWP2000000c QFSWP20c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo20
+QDU QFSWP2100000c QFSWP21c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo21
+QDU QFSWP2200000c QFSWP22c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo22
+QDU QFSWP2300000c QFSWP23c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo23
+QDU QFSWP2400000c QFSWP24c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo24
+QDU QFSWP2500000c QFSWP25c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo25
+QDU QFSWP2600000c QFSWP26c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo26
+QDU QFSWP2700000c QFSWP27c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo27
+QDU QFSWP2800000c QFSWP28c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo28
+QDU QFSWP2900000c QFSWP29c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo29
+QDU QFSWP3000000c QFSWP30c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo30
+QDU QFSWP3100000c QFSWP31c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo31
+QDU QFSWP3200000c QFSWP32c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo32
+QDU QFSWP3300000c QFSWP33c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo33
+QDU QFSWP3400000c QFSWP34c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo34
+QDU QFSWP3500000c QFSWP35c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo35
+QDU QFSWP3600000c QFSWP36c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Mo36
+QDU QFSWQ0100000c QFSWQ01c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Qr01
+QDU QFSWQ0200000c QFSWQ02c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Qr02
+QDU QFSWQ0300000c QFSWQ03c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Qr03
+QDU QFSWQ0400000c QFSWQ04c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Qr04
+QDU QFSWQ0500000c QFSWQ05c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Qr05
+QDU QFSWQ0600000c QFSWQ06c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Qr06
+QDU QFSWQ0700000c QFSWQ07c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Qr07
+QDU QFSWQ0800000c QFSWQ08c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Qr08
+QDU QMAYP0800000c QMAYP08c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo08
+QDU QMAYP0900000c QMAYP09c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo09
+QDU QMAYP1000000c QMAYP10c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo10
+QDU QMAYP1100000c QMAYP11c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo11
+QDU QMAYP1200000c QMAYP12c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo12
+QDU QMAYP1300000c QMAYP13c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo13
+QDU QMAYP1400000c QMAYP14c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo14
+QDU QMAYP1500000c QMAYP15c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo15
+QDU QMAYP1600000c QMAYP16c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo16
+QDU QMAYP1700000c QMAYP17c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo17
+QDU QMAYP1800000c QMAYP18c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo18
+QDU QMAYP1900000c QMAYP19c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo19
+QDU QMAYP2000000c QMAYP20c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo20
+QDU QMAYP2100000c QMAYP21c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo21
+QDU QMAYP2200000c QMAYP22c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo22
+QDU QMAYP2300000c QMAYP23c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo23
+QDU QMAYP2400000c QMAYP24c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo24
+QDU QMAYP2500000c QMAYP25c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo25
+QDU QMAYP2600000c QMAYP26c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo26
+QDU QMAYP2700000c QMAYP27c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo27
+QDU QMAYP2800000c QMAYP28c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo28
+QDU QMAYP2900000c QMAYP29c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo29
+QDU QMAYP3000000c QMAYP30c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo30
+QDU QMAYP3100000c QMAYP31c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo31
+QDU QMAYP3200000c QMAYP32c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo32
+QDU QMAYP3300000c QMAYP33c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo33
+QDU QMAYP3400000c QMAYP34c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo34
+QDU QMAYP3500000c QMAYP35c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo35
+QDU QMAYP3600000c QMAYP36c           DW USD BBL 160808 190118 Maya Crude M2M Financial Mo36
+QDU QULGQ0100000c QULGQ01c           DW USC GAL 160808 190118 ULSD USGC Prompt Pipeline M2M Financial Qr01
+QDU QULGQ0200000c QULGQ02c           DW USC GAL 160808 190118 ULSD USGC Prompt Pipeline M2M Financial Qr02
+QDU QULGQ0300000c QULGQ03c           DW USC GAL 160808 190118 ULSD USGC Prompt Pipeline M2M Financial Qr03
+QDU QULGQ0400000c QULGQ04c           DW USC GAL 160808 190118 ULSD USGC Prompt Pipeline M2M Financial Qr04
+QDU QULGQ0500000c QULGQ05c           DW USC GAL 160808 190118 ULSD USGC Prompt Pipeline M2M Financial Qr05
+QDU QULGQ0600000c QULGQ06c           DW USC GAL 160808 190118 ULSD USGC Prompt Pipeline M2M Financial Qr06
+QDU QULGQ0700000c QULGQ07c           DW USC GAL 160808 190118 ULSD USGC Prompt Pipeline M2M Financial Qr07
+QDU QULGQ0800000c QULGQ08c           DW USC GAL 160808 190118 ULSD USGC Prompt Pipeline M2M Financial Qr08
+QDU QULGQ0900000c QULGQ09c           DW USC GAL 160808 190118 ULSD USGC Prompt Pipeline M2M Financial Qr09
+QDU QULGQ1000000c QULGQ10c           DW USC GAL 160808 190118 ULSD USGC Prompt Pipeline M2M Financial Qr10
+QDU QULGQ1100000c QULGQ11c           DW USC GAL 160808 190118 ULSD USGC Prompt Pipeline M2M Financial Qr11
+QDU QULGQ1200000c QULGQ12c           DW USC GAL 160808 190118 ULSD USGC Prompt Pipeline M2M Financial Qr12
+QDU QEFDQ0100000c QEFDQ01c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Qr01
+QDU QEFDQ0200000c QEFDQ02c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Qr02
+QDU QEFDQ0300000c QEFDQ03c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Qr03
+QDU QEFDQ0400000c QEFDQ04c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Qr04
+QDU QEFDQ0500000c QEFDQ05c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Qr05
+QDU QEFDQ0600000c QEFDQ06c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Qr06
+QDU QEFDQ0700000c QEFDQ07c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Qr07
+QDU QEFDQ0800000c QEFDQ08c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Qr08
+QDU QEFDQ0900000c QEFDQ09c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Qr09
+QDU QEFDQ1000000c QEFDQ10c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Qr10
+QDU QEFDQ1100000c QEFDQ11c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Qr11
+QDU QEFDQ1200000c QEFDQ12c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Qr12
+QDU QEFDY0100000c QEFDY01c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Yr01
+QDU QEFDY0200000c QEFDY02c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Yr02
+QDU QEFDY0300000c QEFDY03c           DW USD BBL 160808 190118 Eagle Ford Crude FOB M2M Financial Yr03
+QDU QFSWY0100000c QFSWY01c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Yr01
+QDU QFSWY0200000c QFSWY02c           DW USD MT  160808 190118 Fuel Oil 380 Seattle WA Pipeline M2M Financial Yr02
+QDU QMAYQ0100000c QMAYQ01c           DW USD BBL 160808 190118 Maya Crude M2M Financial Qr01
+QDU QMAYQ0200000c QMAYQ02c           DW USD BBL 160808 190118 Maya Crude M2M Financial Qr02
+QDU QMAYQ0300000c QMAYQ03c           DW USD BBL 160808 190118 Maya Crude M2M Financial Qr03
+QDU QMAYQ0400000c QMAYQ04c           DW USD BBL 160808 190118 Maya Crude M2M Financial Qr04
+QDU QMAYQ0500000c QMAYQ05c           DW USD BBL 160808 190118 Maya Crude M2M Financial Qr05
+QDU QMAYQ0600000c QMAYQ06c           DW USD BBL 160808 190118 Maya Crude M2M Financial Qr06
+QDU QMAYQ0700000c QMAYQ07c           DW USD BBL 160808 190118 Maya Crude M2M Financial Qr07
+QDU QMAYQ0800000c QMAYQ08c           DW USD BBL 160808 190118 Maya Crude M2M Financial Qr08
+QDU QMAYQ0900000c QMAYQ09c           DW USD BBL 160808 190118 Maya Crude M2M Financial Qr09
+QDU QMAYQ1000000c QMAYQ10c           DW USD BBL 160808 190118 Maya Crude M2M Financial Qr10
+QDU QMAYQ1100000c QMAYQ11c           DW USD BBL 160808 190118 Maya Crude M2M Financial Qr11
+QDU QMAYQ1200000c QMAYQ12c           DW USD BBL 160808 190118 Maya Crude M2M Financial Qr12
+QDU QULGY0100000c QULGY01c           DW USC GAL 160808 190118 ULSD USGC Prompt Pipeline M2M Financial Yr01
+QDU QULGY0200000c QULGY02c           DW USC GAL 160808 190118 ULSD USGC Prompt Pipeline M2M Financial Yr02
+QDU QULGY0300000c QULGY03c           DW USC GAL 160808 190118 ULSD USGC Prompt Pipeline M2M Financial Yr03
+QDU QMAYY0100000c QMAYY01c           DW USD BBL 160808 190118 Maya Crude M2M Financial Yr01
+QDU QMAYY0200000c QMAYY02c           DW USD BBL 160808 190118 Maya Crude M2M Financial Yr02
+QDU QMAYY0300000c QMAYY03c           DW USD BBL 160808 190118 Maya Crude M2M Financial Yr03
+QDU QUSWP0100000c QUSWP01c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo01
+QDU QUSWP0200000c QUSWP02c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo02
+QDU QUSWP0300000c QUSWP03c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo03
+QDU QUSWP0400000c QUSWP04c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo04
+QDU QUSWP0500000c QUSWP05c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo05
+QDU QUSWP0600000c QUSWP06c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo06
+QDU QUSWP0700000c QUSWP07c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo07
+QDU QUSWP0800000c QUSWP08c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo08
+QDU QUSWP0900000c QUSWP09c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo09
+QDU QUSWP1000000c QUSWP10c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo10
+QDU QUSWP1100000c QUSWP11c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo11
+QDU QUSWP1200000c QUSWP12c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo12
+QDU QUSWP1300000c QUSWP13c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo13
+QDU QUSWP1400000c QUSWP14c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo14
+QDU QUSWP1500000c QUSWP15c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo15
+QDU QUSWP1600000c QUSWP16c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo16
+QDU QUSWP1700000c QUSWP17c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo17
+QDU QUSWP1800000c QUSWP18c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo18
+QDU QUSWP1900000c QUSWP19c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo19
+QDU QUSWP2000000c QUSWP20c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo20
+QDU QUSWP2100000c QUSWP21c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo21
+QDU QUSWP2200000c QUSWP22c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo22
+QDU QUSWP2300000c QUSWP23c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo23
+QDU QUSWP2400000c QUSWP24c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo24
+QDU QUSWP2500000c QUSWP25c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo25
+QDU QUSWP2600000c QUSWP26c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo26
+QDU QUSWP2700000c QUSWP27c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo27
+QDU QUSWP2800000c QUSWP28c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo28
+QDU QUSWP2900000c QUSWP29c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo29
+QDU QUSWP3000000c QUSWP30c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo30
+QDU QUSWP3100000c QUSWP31c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo31
+QDU QUSWP3200000c QUSWP32c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo32
+QDU QUSWP3300000c QUSWP33c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo33
+QDU QUSWP3400000c QUSWP34c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo34
+QDU QUSWP3500000c QUSWP35c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo35
+QDU QUSWP3600000c QUSWP36c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Mo36
+QDU QUSWQ0100000c QUSWQ01c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Qr01
+QDU QUSWQ0200000c QUSWQ02c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Qr02
+QDU QUSWQ0300000c QUSWQ03c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Qr03
+QDU QUSWQ0400000c QUSWQ04c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Qr04
+QDU QUSWQ0500000c QUSWQ05c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Qr05
+QDU QGACP0100000c QGACP01c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo01
+QDU QGACP0200000c QGACP02c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo02
+QDU QGACP0300000c QGACP03c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo03
+QDU QGACP0400000c QGACP04c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo04
+QDU QGACP0500000c QGACP05c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo05
+QDU QGACP0600000c QGACP06c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo06
+QDU QGACP0700000c QGACP07c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo07
+QDU QGACP0800000c QGACP08c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo08
+QDU QGACP0900000c QGACP09c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo09
+QDU QGACP1000000c QGACP10c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo10
+QDU QGACP1100000c QGACP11c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo11
+QDU QGACP1200000c QGACP12c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo12
+QDU QGACP1300000c QGACP13c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo13
+QDU QGACP1400000c QGACP14c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo14
+QDU QGACP1500000c QGACP15c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo15
+QDU QGACP1600000c QGACP16c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo16
+QDU QGACP1700000c QGACP17c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo17
+QDU QGACP1800000c QGACP18c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo18
+QDU QGACP1900000c QGACP19c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo19
+QDU QGACP2000000c QGACP20c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo20
+QDU QGACP2100000c QGACP21c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo21
+QDU QGACP2200000c QGACP22c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo22
+QDU QGACP2300000c QGACP23c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo23
+QDU QGACP2400000c QGACP24c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo24
+QDU QGACP2500000c QGACP25c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo25
+QDU QGACP2600000c QGACP26c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo26
+QDU QGACP2700000c QGACP27c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo27
+QDU QGACP2800000c QGACP28c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo28
+QDU QGACP2900000c QGACP29c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo29
+QDU QGACP3000000c QGACP30c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo30
+QDU QGACP3100000c QGACP31c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo31
+QDU QRBBP0100000c QRBBP01c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo01
+QDU QRBBP0200000c QRBBP02c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo02
+QDU QRBBP0300000c QRBBP03c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo03
+QDU QRBBP0400000c QRBBP04c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo04
+QDU QRBBP0500000c QRBBP05c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo05
+QDU QRBBP0600000c QRBBP06c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo06
+QDU QRBBP0700000c QRBBP07c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo07
+QDU QRBBP0800000c QRBBP08c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo08
+QDU QRBBP0900000c QRBBP09c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo09
+QDU QRBBP1000000c QRBBP10c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo10
+QDU QRBBP1100000c QRBBP11c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo11
+QDU QRBBP1200000c QRBBP12c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo12
+QDU QRBBP1300000c QRBBP13c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo13
+QDU QRBBP1400000c QRBBP14c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo14
+QDU QRBBP1500000c QRBBP15c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo15
+QDU QUSWQ0600000c QUSWQ06c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Qr06
+QDU QUSWQ0700000c QUSWQ07c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Qr07
+QDU QUSWQ0800000c QUSWQ08c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Qr08
+QDU QUSWY0100000c QUSWY01c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Yr01
+QDU QUSWY0200000c QUSWY02c           DW USC GAL 160808 190118 ULSD Seattle WA Pipeline M2M Financial Yr02
+QDU QUWCP0100000c QUWCP01c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo01
+QDU QUWCP0200000c QUWCP02c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo02
+QDU QUWCP0300000c QUWCP03c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo03
+QDU QUWCP0400000c QUWCP04c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo04
+QDU QUWCP0500000c QUWCP05c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo05
+QDU QUWCP0600000c QUWCP06c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo06
+QDU QUWCP0700000c QUWCP07c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo07
+QDU QUWCP0800000c QUWCP08c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo08
+QDU QUWCP0900000c QUWCP09c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo09
+QDU QUWCP1000000c QUWCP10c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo10
+QDU QUWCP1100000c QUWCP11c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo11
+QDU QUWCP1200000c QUWCP12c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo12
+QDU QUWCP1300000c QUWCP13c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo13
+QDU QUWCP1400000c QUWCP14c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo14
+QDU QUWCP1500000c QUWCP15c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo15
+QDU QUWCP1600000c QUWCP16c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo16
+QDU QUWCP1700000c QUWCP17c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo17
+QDU QUWCP1800000c QUWCP18c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo18
+QDU QUWCP1900000c QUWCP19c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo19
+QDU QUWCP2000000c QUWCP20c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo20
+QDU QUWCP2100000c QUWCP21c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo21
+QDU QUWCP2200000c QUWCP22c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo22
+QDU QUWCP2300000c QUWCP23c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo23
+QDU QUWCP2400000c QUWCP24c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo24
+QDU QUWCP2500000c QUWCP25c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo25
+QDU QUWCP2600000c QUWCP26c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo26
+QDU QUWCP2700000c QUWCP27c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo27
+QDU QUWCP2800000c QUWCP28c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo28
+QDU QUWCP2900000c QUWCP29c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo29
+QDU QUWCP3000000c QUWCP30c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo30
+QDU QUWCP3100000c QUWCP31c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo31
+QDU QUWCP3200000c QUWCP32c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo32
+QDU QUWCP3300000c QUWCP33c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo33
+QDU QUWCP3400000c QUWCP34c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo34
+QDU QUWCP3500000c QUWCP35c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo35
+QDU QUWCP3600000c QUWCP36c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Mo36
+QDU QUWCQ0100000c QUWCQ01c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Qr01
+QDU QUWCQ0200000c QUWCQ02c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Qr02
+QDU QUWCQ0300000c QUWCQ03c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Qr03
+QDU QUWCQ0400000c QUWCQ04c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Qr04
+QDU QUWCQ0500000c QUWCQ05c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Qr05
+QDU QUWCQ0600000c QUWCQ06c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Qr06
+QDU QUWCQ0700000c QUWCQ07c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Qr07
+QDU QUWCQ0800000c QUWCQ08c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Qr08
+QDU QCBBP0100000c QCBBP01c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo01
+QDU QCBBP0200000c QCBBP02c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo02
+QDU QCBBP0300000c QCBBP03c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo03
+QDU QCBBP0400000c QCBBP04c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo04
+QDU QCBBP0500000c QCBBP05c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo05
+QDU QCBBP0600000c QCBBP06c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo06
+QDU QCBBP0700000c QCBBP07c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo07
+QDU QCBBP0800000c QCBBP08c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo08
+QDU QCBBP0900000c QCBBP09c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo09
+QDU QCBBP1000000c QCBBP10c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo10
+QDU QCBBP1100000c QCBBP11c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo11
+QDU QCBBP1200000c QCBBP12c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo12
+QDU QCBBP1300000c QCBBP13c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo13
+QDU QCBBP1400000c QCBBP14c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo14
+QDU QCBBP1500000c QCBBP15c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo15
+QDU QCBBP1600000c QCBBP16c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo16
+QDU QCBBP1700000c QCBBP17c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo17
+QDU QCBBP1800000c QCBBP18c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo18
+QDU QCBBP1900000c QCBBP19c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo19
+QDU QCBBP2000000c QCBBP20c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo20
+QDU QCBBP2100000c QCBBP21c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo21
+QDU QCBBP2200000c QCBBP22c           DW USC GAL 160808 190118 Gasoline CBOB Buckeye Pipeline M2M Financial Mo22
+QDU QGACP3200000c QGACP32c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo32
+QDU QGACP3300000c QGACP33c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo33
+QDU QGACP3400000c QGACP34c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo34
+QDU QGACP3500000c QGACP35c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo35
+QDU QGACP3600000c QGACP36c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Mo36
+QDU QGACQ0100000c QGACQ01c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Qr01
+QDU QGACQ0200000c QGACQ02c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Qr02
+QDU QGACQ0300000c QGACQ03c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Qr03
+QDU QGACQ0400000c QGACQ04c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Qr04
+QDU QGACQ0500000c QGACQ05c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Qr05
+QDU QGACQ0600000c QGACQ06c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Qr06
+QDU QGACQ0700000c QGACQ07c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Qr07
+QDU QGACQ0800000c QGACQ08c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Qr08
+QDU QGACY0100000c QGACY01c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Yr01
+QDU QGACY0200000c QGACY02c           DW USC GAL 160808 190118 Gasoline Prem UNLD Seattle WA Pipeline M2M Financial Yr02
+QDU QGBUP0100000c QGBUP01c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo01
+QDU QGBUP0200000c QGBUP02c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo02
+QDU QGBUP0300000c QGBUP03c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo03
+QDU QGBUP0400000c QGBUP04c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo04
+QDU QGBUP0500000c QGBUP05c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo05
+QDU QGBUP0600000c QGBUP06c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo06
+QDU QGBUP0700000c QGBUP07c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo07
+QDU QGBUP0800000c QGBUP08c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo08
+QDU QGBUP0900000c QGBUP09c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo09
+QDU QGBUP1000000c QGBUP10c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo10
+QDU QGBUP1100000c QGBUP11c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo11
+QDU QGBUP1200000c QGBUP12c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo12
+QDU QGBUP1300000c QGBUP13c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo13
+QDU QGBUP1400000c QGBUP14c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo14
+QDU QGBUP1500000c QGBUP15c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo15
+QDU QGBUP1600000c QGBUP16c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo16
+QDU QGBUP1700000c QGBUP17c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo17
+QDU QGBUP1800000c QGBUP18c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo18
+QDU QGBUP1900000c QGBUP19c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo19
+QDU QGBUP2000000c QGBUP20c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo20
+QDU QGBUP2100000c QGBUP21c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo21
+QDU QGBUP2200000c QGBUP22c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo22
+QDU QGBUP2300000c QGBUP23c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo23
+QDU QGBUP2400000c QGBUP24c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo24
+QDU QGBUP2500000c QGBUP25c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo25
+QDU QGBUP2600000c QGBUP26c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo26
+QDU QGBUP2700000c QGBUP27c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo27
+QDU QGBUP2800000c QGBUP28c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo28
+QDU QGBUP2900000c QGBUP29c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo29
+QDU QGBUP3000000c QGBUP30c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo30
+QDU QGBUP3100000c QGBUP31c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo31
+QDU QGBUP3200000c QGBUP32c           DW USC GAL 160808 190118 Gasoil No.2 New Jersey Buckeye Pipeline M2M Financial Mo32
+QDU QRBBP1600000c QRBBP16c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo16
+QDU QRBBP1700000c QRBBP17c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo17
+QDU QRBBP1800000c QRBBP18c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo18
+QDU QRBBP1900000c QRBBP19c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo19
+QDU QRBBP2000000c QRBBP20c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo20
+QDU QRBBP2100000c QRBBP21c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo21
+QDU QRBBP2200000c QRBBP22c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo22
+QDU QRBBP2300000c QRBBP23c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo23
+QDU QRBBP2400000c QRBBP24c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo24
+QDU QRBBP2500000c QRBBP25c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo25
+QDU QRBBP2600000c QRBBP26c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo26
+QDU QRBBP2700000c QRBBP27c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo27
+QDU QRBBP2800000c QRBBP28c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo28
+QDU QRBBP2900000c QRBBP29c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo29
+QDU QRBBP3000000c QRBBP30c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo30
+QDU QRBBP3100000c QRBBP31c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo31
+QDU QRBBP3200000c QRBBP32c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo32
+QDU QRBBP3300000c QRBBP33c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo33
+QDU QRBBP3400000c QRBBP34c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo34
+QDU QRBBP3500000c QRBBP35c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo35
+QDU QRBBP3600000c QRBBP36c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Mo36
+QDU QRBBQ0100000c QRBBQ01c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Qr01
+QDU QRBBQ0200000c QRBBQ02c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Qr02
+QDU QRBBQ0300000c QRBBQ03c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Qr03
+QDU QRBBQ0400000c QRBBQ04c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Qr04
+QDU QRBBQ0500000c QRBBQ05c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Qr05
+QDU QRBBQ0600000c QRBBQ06c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Qr06
+QDU QRBBQ0700000c QRBBQ07c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Qr07
+QDU QRBBQ0800000c QRBBQ08c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Qr08
+QDU QRBBY0100000c QRBBY01c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Yr01
+QDU QRBBY0200000c QRBBY02c           DW USC GAL 160808 190118 Gasoline RBOB Buckeye Pipeline M2M Financial Yr02
+QDU QSTAM0100000c QSTAM01c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo01
+QDU QSTAM0200000c QSTAM02c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo02
+QDU QSTAM0300000c QSTAM03c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo03
+QDU QSTAM0400000c QSTAM04c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo04
+QDU QSTAM0500000c QSTAM05c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo05
+QDU QSTAM0600000c QSTAM06c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo06
+QDU QSTAM0700000c QSTAM07c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo07
+QDU QSTAM0800000c QSTAM08c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo08
+QDU QSTAM0900000c QSTAM09c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo09
+QDU QSTAM1000000c QSTAM10c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo10
+QDU QSTAM1100000c QSTAM11c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo11
+QDU QSTAM1200000c QSTAM12c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo12
+QDU QSTAM1300000c QSTAM13c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo13
+QDU QSTAM1400000c QSTAM14c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo14
+QDU QSTAM1500000c QSTAM15c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo15
+QDU QSTAM1600000c QSTAM16c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo16
+QDU QSTAM1700000c QSTAM17c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo17
+QDU QSTAM1800000c QSTAM18c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo18
+QDU QSTAM1900000c QSTAM19c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo19
+QDU QSTAM2000000c QSTAM20c           DW USC GAL               Jet Kero into Seattle-Tacoma Airport M2M Financial Mo20
+QDU QUBUP0100000c QUBUP01c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo01
+QDU QUBUP0200000c QUBUP02c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo02
+QDU QUBUP0300000c QUBUP03c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo03
+QDU QUBUP0400000c QUBUP04c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo04
+QDU QUBUP0500000c QUBUP05c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo05
+QDU QUBUP0600000c QUBUP06c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo06
+QDU QUBUP0700000c QUBUP07c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo07
+QDU QUBUP0800000c QUBUP08c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo08
+QDU QUBUP0900000c QUBUP09c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo09
+QDU QUBUP1000000c QUBUP10c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo10
+QDU QUBUP1100000c QUBUP11c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo11
+QDU QUBUP1200000c QUBUP12c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo12
+QDU QUBUP1300000c QUBUP13c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo13
+QDU QUBUP1400000c QUBUP14c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo14
+QDU QUBUP1500000c QUBUP15c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo15
+QDU QUBUP1600000c QUBUP16c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo16
+QDU QUBUP1700000c QUBUP17c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo17
+QDU QUBUP1800000c QUBUP18c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo18
+QDU QUBUP1900000c QUBUP19c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo19
+QDU QUBUP2000000c QUBUP20c           DW USC GAL 160808 190118 ULSD New Jersey Buckeye Pipeline M2M Financial Mo20
+QDU QUWCY0100000c QUWCY01c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Yr01
+QDU QUWCY0200000c QUWCY02c           DW USC GAL 160808 190118 ULSD No.2 Los Angeles Ca Pipeline M2M Financial Yr02

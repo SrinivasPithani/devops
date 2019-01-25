@@ -1,0 +1,278 @@
+MC                                                           © 2019 by S&P Global Inc.,190119
+MC AAWVJ0000000c AAWVJ00c           WA CNY MT  120712 190117 Coke 12.5% Ash DDP North China Yuan/MT
+MC AAWVJ0300000c AAWVJ03c           MA CNY MT  120701 181201 Coke 12.5% Ash DDP North China Yuan/MT MAvg
+MC AAWVJ0400000c AAWVJ04c           WA CNY MT                Coke 12.5% Ash DDP North China Yuan/MT Wkly
+MC AAWVK0000000c AAWVK00c           WA USD MT  120712 190117 Coke 12.5% Ash DDP North China $/MT
+MC AAWVK0300000c AAWVK03c           MA USD MT  120701 181201 Coke 12.5% Ash DDP North China $/MT MAvg
+MC AAWVK0400000c AAWVK04c           WA USD MT                Coke 12.5% Ash DDP North China $/MT Wkly
+MC AAWVL0000000c AAWVL00c           DW USD MT  120712 190118 Coke 12.5% Ash FOB Tianjin China $/MT
+MC AAWVL0300000c AAWVL03c           MA USD MT  120701 181201 Coke 12.5% Ash FOB Tianjin China $/MT MAvg
+MC AAWVL0400000c AAWVL04c           WA USD MT                Coke 12.5% Ash DDP Tianjin China $/MT Wkly
+MC AAWWR0000000c AAWWR00c           DW USD MT  120801 190118 Low Vol Hard Coking Coal FOB USEC $/mt
+MC AAWWR0300000c AAWWR03c           MA USD MT  120801 181201 Low Vol Hard Coking Coal FOB USEC $/mt MAvg
+MC AAWWS0000000c AAWWS00c           DW USD MT  120801 190118 High Vol A Coking Coal FOB USEC $/mt
+MC AAWWS0300000c AAWWS03c           MA USD MT  120801 181201 High Vol A Coking Coal FOB USEC $/mt MAvg
+MC AAWWT0000000c AAWWT00c           DW USD MT  120801 190118 High Vol B Coking Coal FOB USEC $/mt
+MC AAWWT0300000c AAWWT03c           MA USD MT  120801 181201 High Vol B Coking Coal FOB USEC $/mt MAvg
+MC AAWZN0000000c AAWZN00c           WA CNY MT  121207 190118 Prem Low Vol Ex-Stock Jingtang Yuan/MT Wkly
+MC AAWZN0300000c AAWZN03c           MA CNY MT  121201 181201 Prem Low Vol Ex-Stock Jingtang Yuan/MT MAvg
+MC AAWZN0400000c AAWZN04c           WA CNY MT  120712 190117 Coke FOB Tianjin China Yuan/MT WAvg
+MC AAWZO0000000c AAWZO00c           WA USD MT  121207 190118 Prem Low Vol CFR Jingtang Equivalent $/MT Wkly
+MC AAWZO0300000c AAWZO03c           MA USD MT  121201 181201 Prem Low Vol CFR Jingtang Equivalent $/MT MAvg
+MC AAWZP0000000c AAWZP00c           WA CNY MT  121207 190118 HCC 64 Mid Vol Ex-Stock Jingtang Yuan/MT Wkly
+MC AAWZP0300000c AAWZP03c           MA CNY MT  121201 181201 HCC 64 Mid Vol Ex-Stock Jingtang Yuan/MT MAvg
+MC AAWZQ0000000c AAWZQ00c           WA USD MT  121207 190118 HCC 64 Mid Vol CFR Jingtang Equivalent $/MT Wkly
+MC AAWZQ0300000c AAWZQ03c           MA USD MT  121201 181201 HCC 64 Mid Vol CFR Jingtang Equivalent $/MT MAvg
+MC CCADB0000000h CCADB00h           MA USD MT  021004 140829 US Hampton Rds Cok 34-36V 1S 7A
+MC CCADB0000000l CCADB00l           MA USD MT  021004 140829 US Hampton Rds Cok 34-36V 1S 7A
+MC CCADC0000000h CCADC00h           MA USD MT  020412 140829 US Hampton Rds Cok 23-25V .7S 7A
+MC CCADC0000000l CCADC00l           MA USD MT  020412 140829 US Hampton Rds Cok 23-25V .7S 7A
+MC CPAPA0000000u CPAPA00u           DW UNS PCT 111003 190118 Penalties & Premia Ash per 1% as % PLV FOB Australia
+MC CPCSA0000000u CPCSA00u           DW UNS PCT 111003 190118 Penalties & Premia CSR per 1% as % PLV FOB Australia
+MC CPCSP0000000u CPCSP00u           DW USD MT  111003 190118 Penalties & Premia CSR per 1% PLV $/Mt
+MC CPCSR0000000u CPCSR00u           DW USD MT                Penalties & Premia CSR per 1% HCC $/Mt
+MC CPPAC0000000u CPPAC00u           DW USD MT  100315 110930 Penalties & Premia Ash per 1% HCC $/Mt
+MC CPPAP0000000u CPPAP00u           DW USD MT  111003 190118 Penalties & Premia Ash per 1% PLV $/Mt
+MC CPPBA0000000u CPPBA00u           DW UNS PCT 140512 190118 Penalties & Premia Higher Banding CSR per 1% as % US LV FOB USEC
+MC CPPBB0000000u CPPBB00u           DW USD MT  140512 190118 Penalties & Premia Higher Banding CSR per 1% US LV FOB USEC $/Mt
+MC CPPBB0300000u CPPBB03u           MA USD MT                Penalties & Premia Higher Banding CSR per 1% US LV FOB USEC $/Mt Mavg
+MC CPPBC0000000u CPPBC00u           DW UNS PCT 140512 190118 Penalties & Premia Lower Banding CSR per 1% as % US LV FOB USEC
+MC CPPBD0000000u CPPBD00u           DW USD MT  140512 190118 Penalties & Premia Lower Banding CSR per 1% US LV FOB USEC $/Mt
+MC CPPBD0300000u CPPBD03u           MA USD MT                Penalties & Premia Lower Banding CSR per 1% US LV FOB USEC $/Mt Mavg
+MC CPPBE0000000u CPPBE00u           DW UNS PCT 140512 190118 Penalties & Premia Lower Banding Sulfur per 0.1% as % US LV FOB USEC
+MC CPPBF0000000u CPPBF00u           DW USD MT  140512 190118 Penalties & Premia Lower Banding Sulfur per 0.1% US LV FOB USEC $/Mt
+MC CPPBF0300000u CPPBF03u           MA USD MT                Penalties & Premia Lower Banding Sulfur per 0.1% US LV FOB USEC $/Mt Mavg
+MC CPPBG0000000u CPPBG00u           DW UNS PCT 140512 190118 Penalties & Premia Higher Banding Sulfur per 0.1% as % US LV FOB USEC
+MC CPPBH0000000u CPPBH00u           DW USD MT  140512 190118 Penalties & Premia Higher Banding Sulfur per 0.1% US LV FOB USEC $/Mt
+MC CPPBH0300000u CPPBH03u           MA USD MT                Penalties & Premia Higher Banding Sulfur per 0.1% US LV FOB USEC $/Mt Mavg
+MC CPPBI0000000u CPPBI00u           DW UNS PCT 140512 190118 Penalties & Premia Ash per 1% as % US LV FOB USEC
+MC CPPBJ0000000u CPPBJ00u           DW USD MT  140512 190118 Penalties & Premia Ash per 1% US LV FOB USEC $/mt
+MC CPPBJ0300000u CPPBJ03u           MA USD MT                Penalties & Premia Ash per 1% US LV FOB USEC $/mt MAvg
+MC CPPBK0000000u CPPBK00u           DW UNS PCT 140512 190118 Penalties & Premia Total Moisture per 1% as % US LV FOB USEC
+MC CPPBL0000000u CPPBL00u           DW USD MT  140512 190118 Penalties & Premia Total Moisture per 1% US FOB USEC LV $/mt
+MC CPPBL0300000u CPPBL03u           MA USD MT                Penalties & Premia Total Moisture per 1% US FOB USEC LV $/mt MAvg
+MC CPPBM0000000u CPPBM00u           DW UNS PCT               Penalty applied on Volatile Matter <18 VM per 1% as % US LV FOB USEC
+MC CPPBN0000000u CPPBN00u           DW USD MT                Penalty applied on Volatile Matter <18 VM per 1% US LV FOB USEC $/mt
+MC CPPFL0000000u CPPFL00u           DW USD MT                Penalties &Premia Fl per 100ddpm
+MC CPPPH0000000u CPPPH00u           DW USD MT                Penalties & Premia P per 1% HCC $/Mt
+MC CPPSC0000000u CPPSC00u           DW USD MT  100315 110930 Penalties & Premia per 0.1%S
+MC CPPSP0000000u CPPSP00u           DW USD MT                Penalties & Premia S per 1% PLV $/Mt
+MC CPPTM0000000u CPPTM00u           DW USD MT  100315 110930 Penalties & Premia TM per 1% HCC $/Mt
+MC CPPVM0000000u CPPVM00u           DW USD MT                Penalties & Premia VM per 1% HCC $/Mt
+MC CPSPA0000000u CPSPA00u           DW USD MT  111003 190118 Penalties & Premia S per 0.1% PLV $/Mt FOB Australia
+MC CPSPV0000000u CPSPV00u           DW USD MT  111003 190118 Penalties & Premia S per 0.1% PLV $/Mt
+MC CPTMP0000000u CPTMP00u           DW USD MT  111003 190118 Penalties & Premia TM per 1% PLV $/Mt
+MC CPTPA0000000u CPTPA00u           DW UNS PCT 111003 190118 Penalties & Premia TM per 1% as % PLV FOB Australia
+MC CPVMP0000000u CPVMP00u           DW USD MT  111003 190118 Penalties & Premia VM per 1% PLV $/Mt
+MC CPVPA0000000u CPVPA00u           DW UNS PCT 111003 190118 Penalties & Premia VM per 1% as % PLV FOB Australia
+MC HMICC0000000u HMICC00u           DW USD MT                Platts HMI CFR China $/Mt
+MC HMICC0300000u HMICC03u           MA USD MT                Platts HMI CFR China $/Mt MAvg
+MC HMICC0400000u HMICC04u           WA USD MT                Platts HMI CFR China $/Mt WAvg
+MC HCCAU0000000c HCCAU00c           DW USD MT  100315 190118 Hard CokingCoal FOB Australia
+MC HCCAU0000000h HCCAU00h           DW USD MT  100315 190118 Hard CokingCoal FOB Australia
+MC HCCAU0000000l HCCAU00l           DW USD MT  100315 190118 Hard CokingCoal FOB Australia
+MC HCCAU0300000c HCCAU03c           MA USD MT  100301 181201 Hard CokingCoal FOB Australia MAvg
+MC HCCAU0300000h HCCAU03h           MA USD MT  100301 181201 Hard CokingCoal FOB Australia MAvg
+MC HCCAU0300000l HCCAU03l           MA USD MT  100301 181201 Hard CokingCoal FOB Australia MAvg
+MC HCCAU0400000c HCCAU04c           WA USD MT  100319 190118 Hard CokingCoal FOB Australia WA
+MC HCCAU0400000h HCCAU04h           WA USD MT  100319 190118 Hard CokingCoal FOB Australia WA
+MC HCCAU0400000l HCCAU04l           WA USD MT  100319 190118 Hard CokingCoal FOB Australia WA
+MC HCCCH0000000c HCCCH00c           DW USD MT  100315 190118 Hard Coking Coal CFR China
+MC HCCCH0000000h HCCCH00h           DW USD MT  100315 190118 Hard Coking Coal CFR China
+MC HCCCH0000000l HCCCH00l           DW USD MT  100315 190118 Hard Coking Coal CFR China
+MC HCCCH0300000c HCCCH03c           MA USD MT  100301 181201 Hard Coking Coal CFR China MAvg
+MC HCCCH0300000h HCCCH03h           MA USD MT  100301 181201 Hard Coking Coal CFR China MAvg
+MC HCCCH0300000l HCCCH03l           MA USD MT  100301 181201 Hard Coking Coal CFR China MAvg
+MC HCCCH0400000c HCCCH04c           WA USD MT  100319 190118 Hard Coking Coal CFR China WAvg
+MC HCCCH0400000h HCCCH04h           WA USD MT  100319 190118 Hard Coking Coal CFR China WAvg
+MC HCCCH0400000l HCCCH04l           WA USD MT  100319 190118 Hard Coking Coal CFR China WAvg
+MC HCCGA0000000u HCCGA00u           DW USD MT  100823 190118 HCC Peak Downs FOB Australia
+MC HCCGA0300000c HCCGA03c           MA USD MT  100801 181201 HCC Peak Downs FOB Australia MAv
+MC HCCGC0000000u HCCGC00u           DW USD MT  100823 190118 Hard Coking Coal Peak Downs CFR China
+MC HCCGC0300000c HCCGC03c           MA USD MT  100801 181201 HCC Peak Downs CFR China MAvg
+MC HCCGD0000000c HCCGD00c           DW USD MT  160401 190118 HCC Peak Downs FOB China Netback
+MC HCCGI0000000u HCCGI00u           DW USD MT  100823 190118 HCC Peak Downs CFR India
+MC HCCGI0300000c HCCGI03c           MA USD MT  100801 181201 HCC Peak Downs CFR India MAvg
+MC HCCIN0000000c HCCIN00c           DW USD MT  100705 190118 Hard Coking Coal CFR India
+MC HCCIN0000000h HCCIN00h           DW USD MT  100705 190118 Hard Coking Coal CFR India
+MC HCCIN0000000l HCCIN00l           DW USD MT  100705 190118 Hard Coking Coal CFR India
+MC HCCIN0300000c HCCIN03c           MA USD MT  100701 181201 Hard Coking Coal CFR India MAvg
+MC HCCIN0300000h HCCIN03h           MA USD MT  100701 181201 Hard Coking Coal CFR India MAvg
+MC HCCIN0300000l HCCIN03l           MA USD MT  100701 181201 Hard Coking Coal CFR India MAvg
+MC HCCIN0400000c HCCIN04c           WA USD MT  100709 190118 Hard Coking Coal CFR India WAvg
+MC HCCIN0400000h HCCIN04h           WA USD MT  100709 190118 Hard Coking Coal CFR India WAvg
+MC HCCIN0400000l HCCIN04l           WA USD MT  100709 190118 Hard Coking Coal CFR India WAvg
+MC HCCJKT000000c HCCJKT0c           DW USD MT                Hard Coking Coal CFR J/K/T
+MC HCCJKT000000h HCCJKT0h           DW USD MT                Hard Coking Coal CFR J/K/T
+MC HCCJKT000000l HCCJKT0l           DW USD MT                Hard Coking Coal CFR J/K/T
+MC HCCJKT300000c HCCJKT3c           MA USD MT                Hard Coking Coal CFR J/K/T MAvg
+MC HCCJKT300000h HCCJKT3h           MA USD MT                Hard Coking Coal CFR J/K/T MAvg
+MC HCCJKT300000l HCCJKT3l           MA USD MT                Hard Coking Coal CFR J/K/T MAvg
+MC HCCJKT400000c HCCJKT4c           WA USD MT                Hard Coking Coal CFR J/K/T WAvg
+MC HCCJKT400000h HCCJKT4h           WA USD MT                Hard Coking Coal CFR J/K/T WAvg
+MC HCCJKT400000l HCCJKT4l           WA USD MT                Hard Coking Coal CFR J/K/T WAvg
+MC MCAPA0300000c MCAPA03c           MA USD MT  160101 181201 Met Coal Oak Grove FOB USEC $/mt MAvg
+MC MCAPA0400000c MCAPA04c           WA USD MT  150227 190118 Met Coal Oak Grove FOB USEC $/mt Wkly
+MC MCAPB0300000c MCAPB03c           MA USD MT  160101 181201 Met Coal Blue Creek No. 7 FOB USEC $/mt MAvg
+MC MCAPB0400000c MCAPB04c           WA USD MT  150227 190118 Met Coal Blue Creek No. 7 FOB USEC $/mt Wkly
+MC MCAPC0300000c MCAPC03c           MA USD MT  160101 181201 Met Coal Blue Creek No. 4 FOB USEC $/mt MAvg
+MC MCAPC0400000c MCAPC04c           WA USD MT  150227 190118 Met Coal Blue Creek No. 4 FOB USEC $/mt Wkly
+MC MCAPD0300000c MCAPD03c           MA USD MT  160101 181201 Met Coal Beckley FOB USEC $/mt MAvg
+MC MCAPD0400000c MCAPD04c           WA USD MT  150227 190118 Met Coal Beckley FOB USEC $/mt Wkly
+MC MCAPE0300000c MCAPE03c           MA USD MT  160101 181201 Met Coal Windber FOB USEC $/mt MAvg
+MC MCAPE0400000c MCAPE04c           WA USD MT  150227 190118 Met Coal Windber FOB USEC $/mt Wkly
+MC MCAPF0300000c MCAPF03c           MA USD MT  160101 181201 Met Coal Buchanan FOB USEC $/mt MAvg
+MC MCAPF0400000c MCAPF04c           WA USD MT  150227 190118 Met Coal Buchanan FOB USEC $/mt Wkly
+MC MCAPG0300000c MCAPG03c           MA USD MT  160101 181201 Met Coal Pinnacle FOB USEC $/mt MAvg
+MC MCAPG0400000c MCAPG04c           WA USD MT  150227 190118 Met Coal Pinnacle FOB USEC $/mt Wkly
+MC MCBAA0000000c MCBAA00c           DW USD MT  151214 190118 Met Coal Peak Downs CFR China $/mt
+MC MCBAA0300000c MCBAA03c           MA USD MT  140131 181201 Met Coal Peak Downs CFR China $/mt MAvg
+MC MCBAB0000000c MCBAB00c           DW USD MT  151214 190118 Met Coal Saraji CFR China $/mt
+MC MCBAB0300000c MCBAB03c           MA USD MT  140131 181201 Met Coal Saraji CFR China $/mt MAvg
+MC MCBAC0000000c MCBAC00c           DW USD MT  151214 190118 Met Coal German Creek CFR China $/mt
+MC MCBAC0300000c MCBAC03c           MA USD MT  140131 181201 Met Coal German Creek CFR China $/mt MAvg
+MC MCBAE0000000c MCBAE00c           DW USD MT  151214 190118 Met Coal Goonyella CFR China $/mt
+MC MCBAE0300000c MCBAE03c           MA USD MT  140131 181201 Met Coal Goonyella CFR China $/mt MAvg
+MC MCBAF0000000c MCBAF00c           DW USD MT  151214 190118 Met Coal Hail Creek CFR China $/mt
+MC MCBAF0300000c MCBAF03c           MA USD MT  140131 181201 Met Coal Hail Creek CFR China $/mt MAvg
+MC MCBAG0000000c MCBAG00c           DW USD MT  151214 190118 Met Coal Moranbah North CFR China $/mt
+MC MCBAG0300000c MCBAG03c           MA USD MT  140131 181201 Met Coal Moranbah North CFR China $/mt MAvg
+MC MCBAH0000000c MCBAH00c           DW USD MT  151214 190118 Met Coal Illawarra CFR China $/mt
+MC MCBAH0300000c MCBAH03c           MA USD MT  140131 181201 Met Coal Illawarra CFR China $/mt MAvg
+MC MCBAI0000000c MCBAI00c           DW USD MT  151214 190118 Met Coal Goonyella C CFR China $/mt
+MC MCBAI0300000c MCBAI03c           MA USD MT  140829 181201 Met Coal Goonyella C CFR China $/mt MAvg
+MC MCBAJ0000000c MCBAJ00c           DW USD MT  151214 190118 Met Coal Peak Downs North CFR China $/mt
+MC MCBAJ0300000c MCBAJ03c           MA USD MT  140530 181201 Met Coal Peak Downs North CFR China $/mt MAvg
+MC MCBAK0000000c MCBAK00c           DW USD MT  151214 190118 Met Coal Standard CFR China $/mt
+MC MCBAK0300000c MCBAK03c           MA USD MT  140131 181201 Met Coal Standard CFR China $/mt MAvg
+MC MCBAL0000000c MCBAL00c           DW USD MT  151214 190118 Met Coal Premium CFR China $/mt
+MC MCBAL0300000c MCBAL03c           MA USD MT  140131 181201 Met Coal Premium CFR China $/mt MAvg
+MC MCBAN0000000c MCBAN00c           DW USD MT  151214 190118 Met Coal Lake Vermont CFR China $/mt
+MC MCBAN0300000c MCBAN03c           MA USD MT  140131 181201 Met Coal Lake Vermont CFR China $/mt MAvg
+MC MCBAO0000000c MCBAO00c           DW USD MT  151214 190118 Met Coal Carborough Downs CFR China $/mt
+MC MCBAO0300000c MCBAO03c           MA USD MT  140131 181201 Met Coal Carborough Downs CFR China $/mt MAvg
+MC MCBAP0000000c MCBAP00c           DW USD MT  151214 190118 Met Coal Middlemount Coking CFR China $/mt
+MC MCBAP0300000c MCBAP03c           MA USD MT  140331 181201 Met Coal Middlemount Coking CFR China $/mt MAvg
+MC MCBAQ0000000c MCBAQ00c           DW USD MT  151214 190118 Met Coal Poitrel Semi Hard CFR China $/mt
+MC MCBAQ0300000c MCBAQ03c           MA USD MT  151201 181201 Met Coal Poitrel Semi Hard CFR China $/mt MAvg
+MC MCBAR0000000c MCBAR00c           DW USD MT  180702 190118 Met Coal Oaky North CFR China $/mt
+MC MCBAR0300000c MCBAR03c           MA USD MT  180701 181201 Met Coal Oaky North CFR China $/mt MAvg
+MC MCCEI0000000u MCCEI00u           DW USD MT  111003 190118 Met Coke CFR East India $/Mt
+MC MCCEI0300000c MCCEI03c           MA USD MT  111001 181201 Met Coke CFR East India $/MT MAvg
+MC MCCHA0000000c MCCHA00c           DW USD MT  190102 190118 Met Coke 62/60 CSR FOB China $/MT
+MC MCCHA0300000c MCCHA03c           MA USD MT                Met Coke 62/60 CSR FOB China $/MT MAvg
+MC MCCHB0000000c MCCHB00c           DW USD MT  190102 190118 Met Coke 65/63 CSR FOB China $/MT
+MC MCCHB0300000c MCCHB03c           MA USD MT                Met Coke 65/63 CSR FOB China $/MT MAvg
+MC MCCNC0000000c MCCNC00c           DW USD MT  150427 190118 Met Coke 66/65 CSR FOB North China USD/MT
+MC MCCNC0300000c MCCNC03c           MA USD MT  150401 181201 Met Coke 66/65 CSR FOB North China USD/MT MAvg
+MC MCCNI0000000c MCCNI00c           DW USD MT  180301 190118 Met Coke 66/65 CSR CFR India USD/MT
+MC MCCNI0300000c MCCNI03c           MA USD MT  180301 181201 Met Coke 66/65 CSR CFR India USD/MT MAvg
+MC MCINA0000000c MCINA00c           DW USD MT  190102 190118 Met Coke 62/60 CSR CFR India $/MT
+MC MCINA0300000c MCINA03c           MA USD MT                Met Coke 62/60 CSR CFR India $/MT MAvg
+MC MCINB0000000c MCINB00c           DW USD MT  190102 190118 Met Coke 65/63 CSR CFR India $/MT
+MC MCINB0300000c MCINB03c           MA USD MT                Met Coke 65/63 CSR CFR India $/MT MAvg
+MC MCLAA0000000u MCLAA00u           DW USD MT  111003 190118 Mid Tier PCI FOB Australia $/Mt
+MC MCLAA0300000c MCLAA03c           MA USD MT  111001 181201 Mid Tier PCI FOB Aus $/MT MAvg
+MC MCLAC0000000u MCLAC00u           DW USD MT  111003 190118 Mid Tier PCI CFR China $/Mt
+MC MCLAC0300000c MCLAC03c           MA USD MT  111001 181201 Mid Tier PCI CFR China $/MT MAvg
+MC MCLAI0000000u MCLAI00u           DW USD MT                Coke low ash dom India $/Mt
+MC MCLAR0000000u MCLAR00u           DW INR MT                Coke low ash dom India Rs/Mt
+MC MCLVA0000000u MCLVA00u           DW USD MT  111003 190118 Low Vol PCI FOB Australia $/Mt
+MC MCLVA0300000c MCLVA03c           MA USD MT  111001 181201 Low Vol PCI FOB Aus $/MT MAvg
+MC MCLVC0000000u MCLVC00u           DW USD MT  111003 190118 Low Vol PCI CFR China $/Mt
+MC MCLVC0300000c MCLVC03c           MA USD MT  111001 181201 Low Vol PCI CFR China $/MT MAvg
+MC MCLVI0000000u MCLVI00u           DW USD MT  111003 190118 Low Vol PCI CFR India $/Mt
+MC MCLVI0300000c MCLVI03c           MA USD MT  111001 181201 Low Vol PCI CFR India $/MT MAvg
+MC MCPLM0100000c MCPLM01c           DW USD MT  140512 190118 TSI Premium Hard Coking Coal FOB Australia swap $/Mt Mo01
+MC MCPLM0200000c MCPLM02c           DW USD MT  140512 190118 TSI Premium Hard Coking Coal FOB Australia swap $/Mt Mo02
+MC MCPLM0300000c MCPLM03c           DW USD MT  140512 190118 TSI Premium Hard Coking Coal FOB Australia swap $/Mt Mo03
+MC MCPLM1300000c MCPLM13c           MA USD MT  140501 181201 TSI Premium Hard Coking Coal FOB Australia swap $/Mt Mo01 MAvg
+MC MCPLM2300000c MCPLM23c           MA USD MT  140501 181201 TSI Premium Hard Coking Coal FOB Australia swap $/Mt Mo02 MAvg
+MC MCPLM3300000c MCPLM33c           MA USD MT  140501 181201 TSI Premium Hard Coking Coal FOB Australia swap $/Mt Mo03 MAvg
+MC MCPLQ0100000c MCPLQ01c           DW USD MT  140512 190118 TSI Premium Hard Coking Coal FOB Australia swap $/Mt Qr01
+MC MCPLQ0200000c MCPLQ02c           DW USD MT  140512 190118 TSI Premium Hard Coking Coal FOB Australia swap $/Mt Qr02
+MC MCPLQ0300000c MCPLQ03c           DW USD MT  140512 190118 TSI Premium Hard Coking Coal FOB Australia swap $/Mt Qr03
+MC MCPLQ1300000c MCPLQ13c           MA USD MT  140501 181201 TSI Premium Hard Coking Coal FOB Australia swap $/Mt Qr01 MAvg
+MC MCPLQ2300000c MCPLQ23c           MA USD MT  140501 181201 TSI Premium Hard Coking Coal FOB Australia swap $/Mt Qr02 MAvg
+MC MCPLQ3300000c MCPLQ33c           MA USD MT  140501 181201 TSI Premium Hard Coking Coal FOB Australia swap $/Mt Qr03 MAvg
+MC MCPLY0100000c MCPLY01c           DW USD MT  140512 190118 TSI Premium Hard Coking Coal FOB Australia swaps $/mt Yr01
+MC MCPLY0200000c MCPLY02c           DW USD MT                TSI Premium Hard Coking Coal FOB Australia swaps $/mt Yr02
+MC MCPLY1300000c MCPLY13c           MA USD MT  140501 181201 TSI Premium Hard Coking Coal FOB Australia swaps $/mt Yr01 MAvg
+MC MCSSA0000000u MCSSA00u           DW USD MT  111003 190118 Semi Soft FOB Australia $/Mt
+MC MCSSA0300000c MCSSA03c           MA USD MT  111001 181201 Semi Soft FOB Aus $/MT MAvg
+MC MCSSC0000000u MCSSC00u           DW USD MT  111003 190118 Semi Soft CFR China $/Mt
+MC MCSSC0300000c MCSSC03c           MA USD MT  111001 181201 Semi Soft CFR China $/MT MAvg
+MC MCSSI0000000u MCSSI00u           DW USD MT  111003 190118 Semi Soft CFR India $/Mt
+MC MCSSI0300000c MCSSI03c           MA USD MT  111001 181201 Semi Soft CFR India $/MT MAvg
+MC MCVAI0000000u MCVAI00u           DW USD MT  111003 190118 Mid Tier PCI CFR India $/Mt
+MC MCVAI0300000c MCVAI03c           MA USD MT  111001 181201 Mid Tier PCI CFR India $/MT MAvg
+MC PCCMH0300000c PCCMH03c           MA CNY MT  150801 181201 PCC Met Shanxi PCI Ex-washing plant Yuan/mt MAvg
+MC PCCMH0400000c PCCMH04c           WA CNY MT  150805 190116 PCC Met Shanxi PCI Ex-washing plant Yuan/mt Wkly
+MC PCCMI0300000c PCCMI03c           MA CNY MT  150801 181201 PCC Met Shanxi PCI Free-on-Rail Yuan/mt MAvg
+MC PCCMI0400000c PCCMI04c           WA CNY MT  150805 190116 PCC Met Shanxi PCI Free-on-Rail Yuan/mt Wkly
+MC PCCMJ0300000c PCCMJ03c           MA CNY MT  150801 181201 PCC Met Shanxi PCI DDP Tangshan Yuan/mt MAvg
+MC PCCMJ0400000c PCCMJ04c           WA CNY MT  150805 190116 PCC Met Shanxi PCI DDP Tangshan Yuan/mt Wkly
+MC PCCMK0300000c PCCMK03c           MA CNY MT  150801 181201 PCC Met Shandong Semi Soft Ex-washing plant Yuan/mt MAvg
+MC PCCMK0400000c PCCMK04c           WA CNY MT  150805 190116 PCC Met Shandong Semi Soft Ex-washing plant Yuan/mt Wkly
+MC PCCML0300000c PCCML03c           MA CNY MT  150801 181201 PCC Met Shandong Semi Soft Free-on-Rail Yuan/mt MAvg
+MC PCCML0400000c PCCML04c           WA CNY MT  150805 190116 PCC Met Shandong Semi Soft Free-on-Rail Yuan/mt Wkly
+MC PCCMM0300000c PCCMM03c           MA CNY MT  150801 181201 PCC Met Rail Freight Shanxi - Tangshan Yuan/mt MAvg
+MC PCCMM0400000c PCCMM04c           WA CNY MT  150805 190116 PCC Met Rail Freight Shanxi - Tangshan Yuan/mt Wkly
+MC PCCMO0300000c PCCMO03c           MA CNY MT  150801 181201 PCC Met Truck Freight Shanxi - Tangshan Yuan/mt MAvg
+MC PCCMO0400000c PCCMO04c           WA CNY MT  150805 190116 PCC Met Truck Freight Shanxi - Tangshan Yuan/mt Wkly
+MC PCCMA0300000c PCCMA03c           MA CNY MT  150801 181201 PCC Met Shanxi Premium Low Vol Ex-washing plant Yuan/mt MAvg
+MC PCCMA0400000c PCCMA04c           WA CNY MT  150805 190116 PCC Met Shanxi Premium Low Vol Ex-washing plant Yuan/mt Wkly
+MC PCCMB0300000c PCCMB03c           MA CNY MT  150801 181201 PCC Met Shanxi Premium Low Vol Free-on-Rail Yuan/mt MAvg
+MC PCCMB0400000c PCCMB04c           WA CNY MT  150805 190116 PCC Met Shanxi Premium Low Vol Free-on-Rail Yuan/mt Wkly
+MC PCCMC0300000c PCCMC03c           MA CNY MT  150801 181201 PCC Met Shanxi Premium Low Vol DDP Tangshan Yuan/mt MAvg
+MC PCCMC0400000c PCCMC04c           WA CNY MT  150805 190116 PCC Met Shanxi Premium Low Vol DDP Tangshan Yuan/mt Wkly
+MC PCCMD0300000c PCCMD03c           MA CNY MT  150801 181201 PCC Met Shanxi High Sulfur Premium Low Vol Ex-washing plant Yuan/mt MAvg
+MC PCCMD0400000c PCCMD04c           WA CNY MT  150805 190116 PCC Met Shanxi High Sulfur Premium Low Vol Ex-washing plant Yuan/mt Wkly
+MC PCCME0300000c PCCME03c           MA CNY MT  150801 181201 PCC Met Shanxi High Sulfur Premium Low Vol Free-on-Rail Yuan/mt MAvg
+MC PCCME0400000c PCCME04c           WA CNY MT  150805 190116 PCC Met Shanxi High Sulfur Premium Low Vol Free-on-Rail Yuan/mt Wkly
+MC PCCMF0300000c PCCMF03c           MA CNY MT  150801 181201 PCC Met Shanxi High Sulfur Premium Low Vol DDP Tangshan Yuan/mt MAvg
+MC PCCMF0400000c PCCMF04c           WA CNY MT  150805 190116 PCC Met Shanxi High Sulfur Premium Low Vol DDP Tangshan Yuan/mt Wkly
+MC PCCMG0300000c PCCMG03c           MA CNY MT  150801 181201 PCC Met North China Fat Coal DDP Tangshan Yuan/mt MAvg
+MC PCCMG0400000c PCCMG04c           WA CNY MT  150805 190116 PCC Met North China Fat Coal DDP Tangshan Yuan/mt Wkly
+MC PLVHA0000000u PLVHA00u           DW USD MT  101001 190118 Prem Low Vol HCC FOB Aus
+MC PLVHA0300000u PLVHA03u           MA USD MT  101001 181201 Prem Low Vol HCC FOB Aus MAvg
+MC PLVHC0000000u PLVHC00u           DW USD MT  101001 190118 Prem Low Vol HCC CFR China
+MC PLVHC0300000u PLVHC03u           MA USD MT  101001 181201 Prem Low Vol HCC CFR China MAvg
+MC PLVHD0000000c PLVHD00c           DW USD MT  160401 190118 Prem Low Vol HCC FOB China Netback
+MC PLVHE0000000c PLVHE00c           DW USD MT  160401 190118 Prem Low Vol HCC CFR NWE
+MC PLVHE0300000c PLVHE03c           MA USD MT  160401 181201 Prem Low Vol HCC CFR NWE MAvg
+MC PLVHI0000000u PLVHI00u           DW USD MT  101001 190118 Prem Low Vol HCC CFR India
+MC PLVHI0300000u PLVHI03u           MA USD MT  101001 181201 Prem Low Vol HCC CFR India MAvg
+MC PLVHJ0300000c PLVHJ03c           MA USD MT  160901 181201 Met Coal Prem Low Vol Shanxi CFR China Equivalent MAvg
+MC PLVHJ0400000c PLVHJ04c           WA USD MT  160921 190116 Met Coal Prem Low Vol Shanxi CFR China Equivalent Wkly
+MC PLVHK0300000c PLVHK03c           MA USD MT  160901 181201 Met Coal Prem Low Vol Import-Shanxi CFR China Differential MAvg
+MC PLVHK0400000c PLVHK04c           WA USD MT  160921 190116 Met Coal Prem Low Vol Import-Shanxi CFR China Differential Wkly
+MC PLVHL0300000c PLVHL03c           MA USD MT  160901 181201 Met Coal Prem Low Vol Import-Port Stock CFR China Differential MAvg
+MC PLVHL0400000c PLVHL04c           WA USD MT  160923 190118 Met Coal Prem Low Vol Import-Port Stock CFR China Differential Wkly
+MC PLVHM0300000c PLVHM03c           MA USD MT  160901 181201 Met Coke 62% CSR FOB North China Equivalent MAvg
+MC PLVHM0400000c PLVHM04c           WA USD MT  160922 190117 Met Coke 62% CSR FOB North China Equivalent Wkly
+MC PLVHN0300000c PLVHN03c           MA USD MT  160901 181201 Met Coke 62% CSR Export-Domestic FOB North China Differential MAvg
+MC PLVHN0400000c PLVHN04c           WA USD MT  160922 190117 Met Coke 62% CSR Export-Domestic FOB North China Differential Wkly
+MC SBMAC0300000c SBMAC03c           MA BRL TON 121201 181201 Charcoal Brazil Dom Prod Dlvd to Buyer Incl Tax MAvg
+MC SBMAC0300000h SBMAC03h           MA BRL TON 121201 181201 Charcoal Brazil Dom Prod Dlvd to Buyer Incl Tax MAvg
+MC SBMAC0300000l SBMAC03l           MA BRL TON 121201 181201 Charcoal Brazil Dom Prod Dlvd to Buyer Incl Tax MAvg
+MC SB0104400000c SB01044c           FN BRL TON 090907 190114 Charcoal Brazil Dom Prod Dlvd to Buyer Incl Tax Ftnitely
+MC SB0104400000h SB01044h           FN BRL TON 090907 190114 Charcoal Brazil Dom Prod Dlvd to Buyer Incl Tax Ftnitely
+MC SB0104400000l SB01044l           FN BRL TON 090907 190114 Charcoal Brazil Dom Prod Dlvd to Buyer Incl Tax Ftnitely
+MC VIUAC0000000u VIUAC00u           DW USD MT                VIU Ash 1% HCC PDR FOB Aus
+MC VIUCS0000000u VIUCS00u           DW USD MT                VIU CSR 1% HCC PDR FOB Aus
+MC VIUFL0000000u VIUFL00u           DW USD MT                VIU Fl 1% HCC PDR FOB Aus
+MC VIUPH0000000u VIUPH00u           DW USD MT                VIU P 1% HCC PDR FOB Aus
+MC VIUSC0000000u VIUSC00u           DW USD MT                VIU S 1% HCC PDR FOB Aus
+MC VIUTM0000000u VIUTM00u           DW USD MT                VIU TM 1% HCC PDR FOB Aus
+MC VIUVM0000000u VIUVM00u           DW USD MT                VIU VM 1% HCC PDR FOB Aus
+MC TS0103400000c TS01034c           DW USD MT  130114 190118 TSI Premium Hard Coking Coal Australia Export FOB East Coast Port
+MC TS0103500000c TS01035c           DW USD MT  130114 190118 TSI Hard Coking Coal Australia Export FOB East Coast Port
+MC TS0104400000c TS01044c           DW USD MT  140401 190118 TSI Prem JM25 Coking Coal China Imports CFR Jingtang Port
+MC TS0104500000c TS01045c           DW USD MT  140401 190118 TSI Hard JM25 Coking Coal China Imports CFR Jingtang Port
+MC TSMBH0300000c TSMBH03c           MA USD MT  140101 181201 TSI Premium Hard Coking Coal Australia Export FOB East Coast Port MAvg
+MC TSMBI0300000c TSMBI03c           MA USD MT  140101 181201 TSI Hard Coking Coal Australia Export FOB East Coast Port MAvg
+MC TSMBR0300000c TSMBR03c           MA USD MT  140401 181201 TSI Prem JM25 Coking Coal China Imports CFR Jingtang Port MAvg
+MC TSMBS0300000c TSMBS03c           MA USD MT  140401 181201 TSI Hard JM25 Coking Coal China Imports CFR Jingtang Port MAvg
+MC TSMBV0300000c TSMBV03c           DW USD MT  171101 190118 TSI Premium Hard Coking Coal Australia Export FOB East Coast Port Rolling MAvg
+MC TSMBW0300000c TSMBW03c           DW USD MT  171101 190118 TSI Prem JM25 Coking Coal China Imports CFR Jingtang Port Rolling MAvg

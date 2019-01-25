@@ -1,0 +1,13 @@
+SV                                                           © 2019 by S&P Global Inc.,190119
+SV SCAAE0000000c SCAAE00c           DW USD MMB 110103 190118 Composite National Fractionation Spread $/MMBtu
+SV SCAAF0000000c SCAAF00c           DW USD MMB 110103 190118 Raw NGL National Basket Price $/MMBtu
+SV SCAAG0000000c SCAAG00c           DW USC GAL 110103 190118 E/P Mix Gulf Coast Fractionation Spread Cents/Gal
+SV SCAAH0000000c SCAAH00c           DW USC GAL 110103 190118 E/P Mix Midcontinent To Rockies Fractionation Spread Cents/Gal
+SV SCAAI0000000c SCAAI00c           DW USC GAL 110103 190118 E/P Mix Midcontinent Fractionation Spread Cents/Gal
+SV SCAAJ0000000c SCAAJ00c           DW USC GAL 110103 190118 Ethane Gulf Coast Fractionation Spread Cents/Gal
+SV SCAAK0000000c SCAAK00c           DW USC GAL 110103 190118 Composite National Fractionation Spread Cents/Gal
+SV SCAAL0000000c SCAAL00c           DW USC GAL 110103 190118 Raw NGL National Basket Price Cents/Gal
+SV SCAAA0000000c SCAAA00c           DW USD MMB 110103 190118 E/P Mix Gulf Coast Fractionation Spread $/MMBtu
+SV SCAAB0000000c SCAAB00c           DW USD MMB 110103 190118 E/P Mix Midcontinent To Rockies Fractionation Spread $/MMBtu
+SV SCAAC0000000c SCAAC00c           DW USD MMB 110103 190118 E/P Mix Midcontinent Fractionation Spread $/MMBtu
+SV SCAAD0000000c SCAAD00c           DW USD MMB 110103 190118 Ethane Gulf Coast Fractionation Spread $/MMBtu

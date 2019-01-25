@@ -1,0 +1,113 @@
+PZ                                                           © 2019 by S&P Global Inc.,190119
+PZ AASTV0000000u AASTV00u           DW USD BBL 100601 190118 FO Barge Rate NYH - Boston
+PZ AASTV0300000u AASTV03u           MA USD BBL 120401 181201 FO Barge Rate NYH - Boston MAvg
+PZ AASTW0000000u AASTW00u           DW USD BBL 100601 190118 FO Barge Rate NYH - Baltimore
+PZ AASTW0300000u AASTW03u           MA USD BBL 120401 181201 FO Barge Rate NYH - Baltimore MAvg
+PZ AASTX0000000u AASTX00u           DW USD BBL 100601 190118 FO Barge Rate NYH - Philadelphia
+PZ AASTX0300000u AASTX03u           MA USD BBL 120401 181201 FO Barge Rate NYH - Philadelphia MAvg
+PZ AAUGA0000000c AAUGA00c           DW USD BBL 101001 190118 FO No.6 0.3% HP New York Harbor Delivered Cargo vs FO 1% NYH Strip
+PZ AAUGA0000000h AAUGA00h           DW USD BBL 101001 190118 FO No.6 0.3% HP New York Harbor Delivered Cargo vs FO 1% NYH Strip
+PZ AAUGA0000000l AAUGA00l           DW USD BBL 101001 190118 FO No.6 0.3% HP New York Harbor Delivered Cargo vs FO 1% NYH Strip
+PZ AAUGA0300000c AAUGA03c           MA USD BBL 101001 181201 FO No.6 0.3% HP New York Harbor Delivered Cargo vs FO 1% NYH Strip MAvg
+PZ AAUGA0300000h AAUGA03h           MA USD BBL 101001 181201 FO No.6 0.3% HP New York Harbor Delivered Cargo vs FO 1% NYH Strip MAvg
+PZ AAUGA0300000l AAUGA03l           MA USD BBL 101001 181201 FO No.6 0.3% HP New York Harbor Delivered Cargo vs FO 1% NYH Strip MAvg
+PZ AAUGB0000000c AAUGB00c           DW USD BBL 101001 190118 FO No.6 0.3% LP New York Harbor Delivered Cargo vs FO 1% NYH Strip
+PZ AAUGB0000000h AAUGB00h           DW USD BBL 101001 190118 FO No.6 0.3% LP New York Harbor Delivered Cargo vs FO 1% NYH Strip
+PZ AAUGB0000000l AAUGB00l           DW USD BBL 101001 190118 FO No.6 0.3% LP New York Harbor Delivered Cargo vs FO 1% NYH Strip
+PZ AAUGB0300000c AAUGB03c           MA USD BBL 101001 181201 FO No.6 0.3% LP New York Harbor Delivered Cargo vs FO 1% NYH Strip MAvg
+PZ AAUGB0300000h AAUGB03h           MA USD BBL 101001 181201 FO No.6 0.3% LP New York Harbor Delivered Cargo vs FO 1% NYH Strip MAvg
+PZ AAUGB0300000l AAUGB03l           MA USD BBL 101001 181201 FO No.6 0.3% LP New York Harbor Delivered Cargo vs FO 1% NYH Strip MAvg
+PZ AAUGC0000000c AAUGC00c           DW USD BBL 101001 190118 FO No.6 0.7% New York Harbor Delivered Cargo vs FO 1% NYH Strip
+PZ AAUGC0000000h AAUGC00h           DW USD BBL 101001 190118 FO No.6 0.7% New York Harbor Delivered Cargo vs FO 1% NYH Strip
+PZ AAUGC0000000l AAUGC00l           DW USD BBL 101001 190118 FO No.6 0.7% New York Harbor Delivered Cargo vs FO 1% NYH Strip
+PZ AAUGC0300000c AAUGC03c           MA USD BBL 101001 181201 FO No.6 0.7% New York Harbor Delivered Cargo vs FO 1% NYH Strip MAvg
+PZ AAUGC0300000h AAUGC03h           MA USD BBL 101001 181201 FO No.6 0.7% New York Harbor Delivered Cargo vs FO 1% NYH Strip MAvg
+PZ AAUGC0300000l AAUGC03l           MA USD BBL 101001 181201 FO No.6 0.7% New York Harbor Delivered Cargo vs FO 1% NYH Strip MAvg
+PZ AAUGD0000000c AAUGD00c           DW USD BBL 101001 190118 FO No.6 1.0% New York Harbor Delivered Cargo vs FO 1% NYH Strip
+PZ AAUGD0000000h AAUGD00h           DW USD BBL 101001 190118 FO No.6 1.0% New York Harbor Delivered Cargo vs FO 1% NYH Strip
+PZ AAUGD0000000l AAUGD00l           DW USD BBL 101001 190118 FO No.6 1.0% New York Harbor Delivered Cargo vs FO 1% NYH Strip
+PZ AAUGD0300000c AAUGD03c           MA USD BBL 101001 181201 FO No.6 1.0% New York Harbor Delivered Cargo vs FO 1% NYH Strip MAvg
+PZ AAUGD0300000h AAUGD03h           MA USD BBL 101001 181201 FO No.6 1.0% New York Harbor Delivered Cargo vs FO 1% NYH Strip MAvg
+PZ AAUGD0300000l AAUGD03l           MA USD BBL 101001 181201 FO No.6 1.0% New York Harbor Delivered Cargo vs FO 1% NYH Strip MAvg
+PZ AAUGE0000000c AAUGE00c           DW USD BBL 101001 190118 FO No.6 2.2% New York Harbor Delivered Cargo vs FO 1% NYH Strip
+PZ AAUGE0000000h AAUGE00h           DW USD BBL 101001 190118 FO No.6 2.2% New York Harbor Delivered Cargo vs FO 1% NYH Strip
+PZ AAUGE0000000l AAUGE00l           DW USD BBL 101001 190118 FO No.6 2.2% New York Harbor Delivered Cargo vs FO 1% NYH Strip
+PZ AAUGE0300000c AAUGE03c           MA USD BBL 101001 181201 FO No.6 2.2% New York Harbor Delivered Cargo vs FO 1% NYH Strip MAvg
+PZ AAUGE0300000h AAUGE03h           MA USD BBL 101001 181201 FO No.6 2.2% New York Harbor Delivered Cargo vs FO 1% NYH Strip MAvg
+PZ AAUGE0300000l AAUGE03l           MA USD BBL 101001 181201 FO No.6 2.2% New York Harbor Delivered Cargo vs FO 1% NYH Strip MAvg
+PZ AAUGF0000000c AAUGF00c           DW USD BBL 101001 190118 FO No.6 3.0% New York Harbor Delivered Cargo vs FO 1% NYH Strip
+PZ AAUGF0000000h AAUGF00h           DW USD BBL 101001 190118 FO No.6 3.0% New York Harbor Delivered Cargo vs FO 1% NYH Strip
+PZ AAUGF0000000l AAUGF00l           DW USD BBL 101001 190118 FO No.6 3.0% New York Harbor Delivered Cargo vs FO 1% NYH Strip
+PZ AAUGF0300000c AAUGF03c           MA USD BBL 101001 181201 FO No.6 3.0% New York Harbor Delivered Cargo vs FO 1% NYH Strip MAvg
+PZ AAUGF0300000h AAUGF03h           MA USD BBL 101001 181201 FO No.6 3.0% New York Harbor Delivered Cargo vs FO 1% NYH Strip MAvg
+PZ AAUGF0300000l AAUGF03l           MA USD BBL 101001 181201 FO No.6 3.0% New York Harbor Delivered Cargo vs FO 1% NYH Strip MAvg
+PZ AAUGG0000000c AAUGG00c           DW USD BBL 101001 190118 FO No.6 1.0% New York Harbor Strip
+PZ AAUGG0000000h AAUGG00h           DW USD BBL 101001 190118 FO No.6 1.0% New York Harbor Strip
+PZ AAUGG0000000l AAUGG00l           DW USD BBL 101001 190118 FO No.6 1.0% New York Harbor Strip
+PZ AAUGG0300000c AAUGG03c           MA USD BBL 101001 181201 FO No.6 1.0% New York Harbor Strip MAvg
+PZ AAUGG0300000h AAUGG03h           MA USD BBL 101001 181201 FO No.6 1.0% New York Harbor Strip MAvg
+PZ AAUGG0300000l AAUGG03l           MA USD BBL 101001 181201 FO No.6 1.0% New York Harbor Strip MAvg
+PZ AAWLF0000000c AAWLF00c           DW USD BBL 120702 190118 FO RMG 380 New York Harbor FOB Cargo
+PZ AAWLF0000000h AAWLF00h           DW USD BBL 120702 190118 FO RMG 380 New York Harbor FOB Cargo
+PZ AAWLF0000000l AAWLF00l           DW USD BBL 120702 190118 FO RMG 380 New York Harbor FOB Cargo
+PZ AAWLF0300000c AAWLF03c           MA USD BBL 120701 181201 FO RMG 380 New York Harbor FOB Cargo MAvg
+PZ AAWLF0300000h AAWLF03h           MA USD BBL 120701 181201 FO RMG 380 New York Harbor FOB Cargo MAvg
+PZ AAWLF0300000l AAWLF03l           MA USD BBL 120701 181201 FO RMG 380 New York Harbor FOB Cargo MAvg
+PZ AAWLF2000000c AAWLF20c           DW USD BBL 120702 190118 FO RMG 380 New York Harbor FOB Cargo vs FO 1% NYH Strip
+PZ AAWLF2000000h AAWLF20h           DW USD BBL 120702 190118 FO RMG 380 New York Harbor FOB Cargo vs FO 1% NYH Strip
+PZ AAWLF2000000l AAWLF20l           DW USD BBL 120702 190118 FO RMG 380 New York Harbor FOB Cargo vs FO 1% NYH Strip
+PZ AAWLF2300000c AAWLF23c           MA USD BBL 120701 181201 FO RMG 380 New York Harbor FOB Cargo vs FO 1% NYH Strip MAvg
+PZ AAWLF2300000h AAWLF23h           MA USD BBL 120701 181201 FO RMG 380 New York Harbor FOB Cargo vs FO 1% NYH Strip MAvg
+PZ AAWLF2300000l AAWLF23l           MA USD BBL 120701 181201 FO RMG 380 New York Harbor FOB Cargo vs FO 1% NYH Strip MAvg
+PZ AAWLG0000000c AAWLG00c           DW USD BBL 120702 190118 FO No.6 1.0% New York Harbor FOB Cargo
+PZ AAWLG0000000h AAWLG00h           DW USD BBL 120702 190118 FO No.6 1.0% New York Harbor FOB Cargo
+PZ AAWLG0000000l AAWLG00l           DW USD BBL 120702 190118 FO No.6 1.0% New York Harbor FOB Cargo
+PZ AAWLG0300000c AAWLG03c           MA USD BBL 120701 181201 FO No.6 1.0% New York Harbor FOB Cargo MAvg
+PZ AAWLG0300000h AAWLG03h           MA USD BBL 120701 181201 FO No.6 1.0% New York Harbor FOB Cargo MAvg
+PZ AAWLG0300000l AAWLG03l           MA USD BBL 120701 181201 FO No.6 1.0% New York Harbor FOB Cargo MAvg
+PZ AAWLG2000000c AAWLG20c           DW USD BBL 120702 190118 FO No.6 1.0% New York Harbor FOB Cargo vs FO 1% NYH Strip
+PZ AAWLG2000000h AAWLG20h           DW USD BBL 120702 190118 FO No.6 1.0% New York Harbor FOB Cargo vs FO 1% NYH Strip
+PZ AAWLG2000000l AAWLG20l           DW USD BBL 120702 190118 FO No.6 1.0% New York Harbor FOB Cargo vs FO 1% NYH Strip
+PZ AAWLG2300000c AAWLG23c           MA USD BBL 120701 181201 FO No.6 1.0% New York Harbor FOB Cargo vs FO 1% NYH Strip MAvg
+PZ AAWLG2300000h AAWLG23h           MA USD BBL 120701 181201 FO No.6 1.0% New York Harbor FOB Cargo vs FO 1% NYH Strip MAvg
+PZ AAWLG2300000l AAWLG23l           MA USD BBL 120701 181201 FO No.6 1.0% New York Harbor FOB Cargo vs FO 1% NYH Strip MAvg
+PZ AUAMA0000000c AUAMA00c           DW USD BBL 190102 190118 Marine Fuel 0.5% Dlvd USAC Barge $/bbl
+PZ AUAMA0300000c AUAMA03c           MA USD BBL               Marine Fuel 0.5% Dlvd USAC Barge $/bbl MAvg
+PZ AUAMB0000000c AUAMB00c           DW USD MT  190102 190118 Marine Fuel 0.5% Dlvd USAC Barge $/mt
+PZ AUAMB0300000c AUAMB03c           MA USD MT                Marine Fuel 0.5% Dlvd USAC Barge $/mt MAvg
+PZ GDCBY0000000c GDCBY00c           DW USD MMB 121001 190118 FO No.6 1.0% New York Harbor Delivered Cargo $/MMBtu
+PZ GDCBY0000000h GDCBY00h           DW USD MMB 121001 190118 FO No.6 1.0% New York Harbor Delivered Cargo $/MMBtu
+PZ GDCBY0000000l GDCBY00l           DW USD MMB 121001 190118 FO No.6 1.0% New York Harbor Delivered Cargo $/MMBtu
+PZ PRP622BSNBSAc PUAWN00c           DW USD BBL 940103 190118 FO No.6 2.2% Boston Delivered Cargo
+PZ PRP622BSNBSAh PUAWN00h PPF9BNSCH DW USD BBL 940103 190118 FO No.6 2.2% Boston Delivered Cargo
+PZ PRP622BSNBSAl PUAWN00l PPF9BNSCL DW USD BBL 940103 190118 FO No.6 2.2% Boston Delivered Cargo
+PZ PVAAB0000000c PVAAB00c           DW USD MT                FO No.6 0.3% LP New York Harbor Delivered Cargo $/mt
+PZ PVAAB0300000c PVAAB03c           MA USD MT                FO No.6 0.3% LP New York Harbor Delivered Cargo $/mt MAvg
+PZ PVAAE0000000c PVAAE00c           DW USD MT                FO No.6 0.3% HP New York Harbor Delivered Cargo $/mt
+PZ PVAAE0300000c PVAAE03c           MA USD MT                FO No.6 0.3% HP New York Harbor Delivered Cargo $/mt MAvg
+PZ PVAAH0000000c PVAAH00c           DW USD MT                FO No.6 0.7% New York Harbor Delivered Cargo $/mt
+PZ PVAAH0300000c PVAAH03c           MA USD MT                FO No.6 0.7% New York Harbor Delivered Cargo $/mt MAvg
+PZ PVAAO0000000c PVAAO00c           DW USD MT                FO No.6 1.0% New York Harbor Delivered Cargo $/mt
+PZ PVAAO0300000c PVAAO03c           MA USD MT                FO No.6 1.0% New York Harbor Delivered Cargo $/mt MAvg
+PZ PVAAU0000000c PVAAU00c           DW USD MT                FO No.6 2.2% New York Harbor Delivered Cargo $/mt
+PZ PVAAU0300000c PVAAU03c           MA USD MT                FO No.6 2.2% New York Harbor Delivered Cargo $/mt MAvg
+PZ PVAAX0000000c PVAAX00c           DW USD MT                FO No.6 3.0% New York Harbor Delivered Cargo $/mt
+PZ PVAAX0300000c PVAAX03c           MA USD MT                FO No.6 3.0% New York Harbor Delivered Cargo $/mt MAvg
+PZ PRP603NY$BQIc PUAAB00c           DW USD BBL 840103 190118 FO No.6 0.3% LP New York Harbor Delivered Cargo
+PZ PRP603NY$BQIh PUAAB00h           DW USD BBL 840103 190118 FO No.6 0.3% LP New York Harbor Delivered Cargo
+PZ PRP603NY$BQIl PUAAB00l           DW USD BBL 840103 190118 FO No.6 0.3% LP New York Harbor Delivered Cargo
+PZ PRP63HNY$BQOc PUAAE00c           DW USD BBL 840103 190118 FO No.6 0.3% HP New York Harbor Delivered Cargo
+PZ PRP63HNY$BQOh PUAAE00h           DW USD BBL 840103 190118 FO No.6 0.3% HP New York Harbor Delivered Cargo
+PZ PRP63HNY$BQOl PUAAE00l           DW USD BBL 840103 190118 FO No.6 0.3% HP New York Harbor Delivered Cargo
+PZ PRP607NY$BQWc PUAAH00c           DW USD BBL 860102 190118 FO No.6 0.7% New York Harbor Delivered Cargo
+PZ PRP607NY$BQWh PUAAH00h           DW USD BBL 860102 190118 FO No.6 0.7% New York Harbor Delivered Cargo
+PZ PRP607NY$BQWl PUAAH00l           DW USD BBL 860102 190118 FO No.6 0.7% New York Harbor Delivered Cargo
+PZ PRP610NY$BRQc PUAAO00c           DW USD BBL 860102 190118 FO No.6 1.0% New York Harbor Delivered Cargo
+PZ PRP610NY$BRQh PUAAO00h           DW USD BBL 860102 190118 FO No.6 1.0% New York Harbor Delivered Cargo
+PZ PRP610NY$BRQl PUAAO00l           DW USD BBL 860102 190118 FO No.6 1.0% New York Harbor Delivered Cargo
+PZ PRP622NY$BSEc PUAAU00c           DW USD BBL 840103 190118 FO No.6 2.2% New York Harbor Delivered Cargo
+PZ PRP622NY$BSEh PUAAU00h           DW USD BBL 840103 190118 FO No.6 2.2% New York Harbor Delivered Cargo
+PZ PRP622NY$BSEl PUAAU00l           DW USD BBL 840103 190118 FO No.6 2.2% New York Harbor Delivered Cargo
+PZ PRP628NY$BSKc PUAAX00c           DW USD BBL 880104 190118 FO No.6 3.0% New York Harbor Delivered Cargo
+PZ PRP628NY$BSKh PUAAX00h           DW USD BBL 880104 190118 FO No.6 3.0% New York Harbor Delivered Cargo
+PZ PRP628NY$BSKl PUAAX00l           DW USD BBL 880104 190118 FO No.6 3.0% New York Harbor Delivered Cargo

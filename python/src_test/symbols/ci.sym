@@ -1,0 +1,296 @@
+CI                                                           © 2019 by S&P Global Inc.,190119
+CI AAVUW0000000u AAVUW00u           DW USD MT  120103 190118 Thermal coal FOB Newcastle 5500 kcal/kg NAR 7-45 Day $/mt
+CI AAVUW0200000c AAVUW02c           QR USD MT  120401 181001 Thermal Coal FOB Newcastle 5500 kcal/kg NAR 7-45 Day $/mt QAvg
+CI AAVUW0300000c AAVUW03c           MA USD MT  120101 181201 Thermal Coal FOB Newcastle 5500 kcal/kg NAR 7-45 Day $/mt MAvg
+CI AAVUX0000000u AAVUX00u           DW EUR MT  120103 190118 Thermal coal FOB Newcastle 5500 kcal/kg NAR 7-45 Day Euro/mt
+CI AAVVA0000000u AAVVA00u           DW USD MT  120815 190118 Thermal Coal FOB Newcastle 5500 kcal/kg NAR Penalty / Premium - Ash $/mt
+CI AAVVA0300000c AAVVA03c           MA USD MT  120801 181201 Thermal Coal FOB Newcastle 5500 kcal/kg NAR Penalty / Premium - Ash $/mt Mavg
+CI AAVVB0000000c AAVVB00c           DW USD MT  170801 190118 Thermal Coal FOB Newcastle High Ash 5500 kcal/kg NAR 7-45 Day $/mt
+CI AAVVB0300000c AAVVB03c           MA USD MT  170801 181201 Thermal Coal FOB Newcastle High Ash 5500 kcal/kg NAR 7-45 Day $/mt MAvg
+CI AAVVB0500000c AAVVB05c           QR USD MT  170701 181001 Thermal Coal FOB Newcastle High Ash 5500 kcal/kg NAR 7-45 Day $/mt QAvg
+CI AAWQD0000000u AAWQD00u           WA USD MT  060106 140912 Freight Rate Dry Bulk Bolivar Colombia-Rotterdam Capesize $/mt Wkly
+CI AAWQE0000000u AAWQE00u           WA USD MT  060106 140912 Freight Rate Dry Bulk Bolivar Colombia-Rotterdam via Panamax $/mt Wkly
+CI AAWQG0000000u AAWQG00u           WA USD MT  070928 140912 Freight Rate Dry Bulk Mobile Alabama-Rotterdam via Panamax $/mt Wkly
+CI AAVXB0000000c AAVXB00c           DW EUR MT  170801 190118 Thermal Coal FOB Newcastle High Ash 5500 kcal/kg NAR 7-45 Day Eur/mt
+CI AAVXB0300000c AAVXB03c           MA EUR MT  170801 181201 Thermal Coal FOB Newcastle High Ash 5500 kcal/kg NAR 7-45 Day Eur/mt MAvg
+CI AAVXB0500000c AAVXB05c           QR EUR MT  170701 181001 Thermal Coal FOB Newcastle High Ash 5500 kcal/kg NAR 7-45 Day Eur/mt QAvg
+CI AAWDC0000000u AAWDC00u           DW USD MT                Thermal Coal FOB Queensland 5500 kcal/kg NAR 7-45 Day $/mt
+CI AAWDC0300000c AAWDC03c           MA USD MT                Thermal Coal FOB Queensland 5500 kcal/kg NAR 7-45 Day $/mt MAvg
+CI AAWEU0000000u AAWEU00u           DW EUR MT                Thermal Coal FOB Queensland 5500 kcal/kg NAR 7-45 Day Euro/mt
+CI AAXEX0000000u AAXEX00u           DW USD MT  130603 190118 Thermal Coal FOB Richards Bay 5500 kcal/kg NAR 7-45 Day $/mt
+CI AAXEX0200000c AAXEX02c           QR USD MT  130401 181001 Thermal Coal FOB Richards Bay 5500 kcal/kg NAR 7-45 Day $/mt QAvg
+CI AAXEX0300000c AAXEX03c           MA USD MT  130601 181201 Thermal Coal FOB Richards Bay 5500 kcal/kg NAR 7-45 Day $/mt MAvg
+CI AAXEY0000000u AAXEY00u           DW EUR MT  130603 190118 Thermal Coal FOB Richards Bay 5500 kcal/kg NAR 7-45 Day Euro/mt
+CI AAVSZ0000000u AAVSZ00u           DW USD MT  110815 161209 Thermal Coal CFR China 5500 kcal/kg NAR 15-60 Day $/mt
+CI AAVSZ0300000c AAVSZ03c           MA USD MT  130301 161101 Thermal Coal CFR China 5500 kcal/kg NAR 15-60 Day $/mt MAvg
+CI AAVTA0000000u AAVTA00u           DW CNY MT  110825 161209 Thermal Coal CFR China 5500 kcal/kg NAR 15-60 Day Yuan/mt
+CI AAVTA0300000c AAVTA03c           MA CNY MT  130301 161101 Thermal Coal CFR China 5500 kcal/kg NAR 15-60 Day Yuan/mt MAvg
+CI AAVTM0000000u AAVTM00u           DW USD MT  110815 161209 Thermal Coal FOB Qinhuangdao 5500 kcal/kg NAR 7-45 Day $/mt
+CI AAVTM0300000c AAVTM03c           MA USD MT  130301 161101 Thermal Coal FOB Qinhuangdao 5500 kcal/kg NAR 7-45 Day $/mt MAvg
+CI AAVTN0000000u AAVTN00u           DW CNY MT  110825 161209 Thermal Coal FOB Qinhuangdao 5500 kcal/kg NAR 7-45 Day Yuan/mt
+CI AAVTN0300000c AAVTN03c           MA CNY MT  130301 161101 Thermal Coal FOB Qinhuangdao 5500 kcal/kg NAR 7-45 Day Yuan/mt MAvg
+CI CIECI0000000c CIECI00c           DW USD MT  140801 190118 Thermal coal CFR East Coast India 5500 kcal/kg NAR 30-60 day $/mt
+CI CIECI0300000c CIECI03c           MA USD MT  140801 181201 Thermal coal CFR East Coast India 5500 kcal/kg NAR 30-60 day $/mt MAvg
+CI CIECI0500000c CIECI05c           QR USD MT  140701 181001 Thermal Coal CFR East Coast India 5500 kcal/kg NAR 30-60 day $/mt Qavg
+CI CIIED1400000c CIIED14c           QR EUR MT                Thermal Coal CFR India East Coast 6000 kcal/kg NAR 30-60 day EUR/mt QAvg
+CI CIIWD1400000c CIIWD14c           QR EUR MT                Thermal Coal CFR India West Coast 6000 kcal/kg NAR 30-60 day EUR/mt QAvg
+CI CCGTM0000000u CCGTM00u           DW EUR MGW 100301 190118 Clean Dark Spread German Power (MA) - Thermal Coal ARA - carbon @ 35% Euro/MWh
+CI CCGTM2700000u CCGTM27u           DW EUR MGW 100301 190118 Clean Dark Spread German Power (MA+1) - Thermal Coal ARA - carbon @ 35% Euro/MWh
+CI CCGTQ0000000u CCGTQ00u           DW EUR MGW 100301 190118 Clean Dark Spread German Power (QA) - Thermal Coal ARA - carbon @ 35% Euro/MWh
+CI CCGTQ2700000u CCGTQ27u           DW EUR MGW 100301 190118 Clean Dark Spread German Power (QA+1) - Thermal Coal ARA - carbon @ 35% Euro/MWh
+CI CCGTX2800000u CCGTX28u           DW USD MGW 130107 190118 Clean Dark Spread German Power (YA+2) - Thermal Coal ARA - carbon @ 35% $/MWh
+CI CCGTY0000000u CCGTY00u           DW EUR MGW 100301 190118 Clean Dark Spread German Power (YA) - Thermal Coal ARA - carbon @ 35% Euro/MWh
+CI CCGTY2700000u CCGTY27u           DW EUR MGW 100301 190118 Clean Dark Spread German Power (YA+1) - Thermal Coal ARA - carbon @ 35% Euro/MWh
+CI CCGTY2800000u CCGTY28u           DW EUR MGW 130107 190118 Clean Dark Spread German Power (YA+2) - Thermal Coal ARA - carbon @ 35% Euro/MWh
+CI CCGUM0000000c CCGUM00c           DW EUR MGW 151102 190118 Clean Dark Spread German Power (MA) - Thermal Coal ARA @ 45% Euro/MWh
+CI CCGUM2700000c CCGUM27c           DW EUR MGW 151102 190118 Clean Dark Spread German Power (MA+1) - Thermal Coal ARA @ 45% Euro/MWh
+CI CCGUQ0000000c CCGUQ00c           DW EUR MGW 151102 190118 Clean Dark Spread German Power (QA) - Thermal Coal ARA @ 45% Euro/MWh
+CI CCGUQ2700000c CCGUQ27c           DW EUR MGW 151102 190118 Clean Dark Spread German Power (QA+1) - Thermal Coal ARA @ 45% Euro/MWh
+CI CCGUX2800000c CCGUX28c           DW USD MGW 151102 190118 Clean Dark Spread German Power (YA+2) - Thermal Coal ARA @ 45% $/MWh
+CI CCGUY0000000c CCGUY00c           DW EUR MGW 151102 190118 Clean Dark Spread German Power (YA) - Thermal Coal ARA @ 45% Euro/MWh
+CI CCGUY2700000c CCGUY27c           DW EUR MGW 151102 190118 Clean Dark Spread German Power (YA+1) - Thermal Coal ARA @ 45% Euro/MWh
+CI CCGUY2800000c CCGUY28c           DW EUR MGW 151102 190118 Clean Dark Spread German Power (YA+2) - Thermal Coal ARA @ 45% Euro/MWh
+CI CCGXM0000000u CCGXM00u           DW USD MGW 100301 190118 Clean Dark Spread German Power (MA) - Thermal Coal ARA - carbon @ 35% $/MWh
+CI CCGXM2700000u CCGXM27u           DW USD MGW 100301 190118 Clean Dark Spread German Power (MA+1) - Thermal Coal ARA - carbon @ 35% $/MWh
+CI CCGXQ0000000u CCGXQ00u           DW USD MGW 100301 190118 Clean Dark Spread German Power (QA) - Thermal Coal ARA - carbon @ 35% $/MWh
+CI CCGXQ2700000u CCGXQ27u           DW USD MGW 100301 190118 Clean Dark Spread German Power (QA+1) - Thermal Coal ARA - carbon @ 35% $/MWh
+CI CCGXY0000000u CCGXY00u           DW USD MGW 100301 190118 Clean Dark Spread German Power (YA) - Thermal Coal ARA - carbon @ 35% $/MWh
+CI CCGXY2700000u CCGXY27u           DW USD MGW 100301 190118 Clean Dark Spread German Power (YA+1) - Thermal Coal ARA - carbon @ 35% $/MWh
+CI CCGYM0000000c CCGYM00c           DW USD MGW 151102 190118 Clean Dark Spread German Power (MA) - Thermal Coal ARA @ 45% $/MWh
+CI CCGYM2700000c CCGYM27c           DW USD MGW 151102 190118 Clean Dark Spread German Power (MA+1) - Thermal Coal ARA @ 45% $/MWh
+CI CCGYQ0000000c CCGYQ00c           DW USD MGW 151102 190118 Clean Dark Spread German Power (QA) - Thermal Coal ARA @ 45% $/MWh
+CI CCGYQ2700000c CCGYQ27c           DW USD MGW 151102 190118 Clean Dark Spread German Power (QA+1) - Thermal Coal ARA @ 45% $/MWh
+CI CCGYY0000000c CCGYY00c           DW USD MGW 151102 190118 Clean Dark Spread German Power (YA) - Thermal Coal ARA @ 45% $/MWh
+CI CCGYY2700000c CCGYY27c           DW USD MGW 151102 190118 Clean Dark Spread German Power (YA+1) - Thermal Coal ARA @ 45% $/MWh
+CI CCHTM0000000c CCHTM00c           DW EUR MGW 140401 190118 Clean Dark Spread UK Power MA-Thermal Coal ARA-Carbon Price Support @ 35% Eur/MWh
+CI CCHTM2700000c CCHTM27c           DW EUR MGW 140401 190118 Clean Dark Spread UK Power MA+1-Thermal Coal ARA-Carbon Price Support @ 35% Eur/MWh
+CI CCHTQ0000000c CCHTQ00c           DW EUR MGW 140401 190118 Clean Dark Spread UK Power QA-Thermal Coal ARA-Carbon Price Support @ 35% Eur/MWh
+CI CCHTQ2700000c CCHTQ27c           DW EUR MGW 140401 190118 Clean Dark Spread UK Power QA+1-Thermal Coal ARA-Carbon Price Support @ 35% Eur/MWh
+CI CCHTS0000000c CCHTS00c           DW EUR MGW 140401 190118 Clean Dark Spread UK Power SN-Thermal Coal ARA-Carbon Price Support @ 35% Eur/MWh
+CI CCHXM0000000c CCHXM00c           DW USD MGW 140401 190118 Clean Dark Spread UK Power MA-Thermal Coal ARA-Carbon Price Support @ 35% $/MWh
+CI CCHXM2700000c CCHXM27c           DW USD MGW 140401 190118 Clean Dark Spread UK Power MA+1-Thermal Coal ARA-Carbon Price Support @ 35% $/MWh
+CI CCHXQ0000000c CCHXQ00c           DW USD MGW 140401 190118 Clean Dark Spread UK Power QA-Thermal Coal ARA-Carbon Price Support @ 35% $/MWh
+CI CCHXQ2700000c CCHXQ27c           DW USD MGW 140401 190118 Clean Dark Spread UK Power QA+1-Thermal Coal ARA-Carbon Price Support @ 35% $/MWh
+CI CCHXS0000000c CCHXS00c           DW USD MGW 140401 190118 Clean Dark Spread UK Power SN-Thermal Coal ARA-Carbon Price Support @ 35% $/MWh
+CI CCHZM0000000c CCHZM00c           DW GBP MGW 140401 190118 Clean Dark Spread UK Power MA-Thermal Coal ARA-Carbon Price Support @ 35% GBP/MWh
+CI CCHZM2700000c CCHZM27c           DW GBP MGW 140401 190118 Clean Dark Spread UK Power MA+1-Thermal Coal ARA-Carbon Price Support @ 35% GBP/MWh
+CI CCHZQ0000000c CCHZQ00c           DW GBP MGW 140401 190118 Clean Dark Spread UK Power QA-Thermal Coal ARA-Carbon Price Support @ 35% GBP/MWh
+CI CCHZQ2700000c CCHZQ27c           DW GBP MGW 140401 190118 Clean Dark Spread UK Power QA+1-Thermal Coal ARA-Carbon Price Support @ 35% GBP/MWh
+CI CCHZS0000000c CCHZS00c           DW GBP MGW 140401 190118 Clean Dark Spread UK Power SN-Thermal Coal ARA-Carbon Price Support @ 35% GBP/MWh
+CI CCUTM0000000c CCUTM00c           DW EUR MGW 130402 190118 Clean Dark Spread UK Power MA - Thermal Coal ARA - carbon @ 35% Euro/MWh
+CI CCUTM2700000c CCUTM27c           DW EUR MGW 130402 190118 Clean Dark Spread UK Power (MA+1) - Thermal Coal ARA - carbon @ 35% Euro/MWh
+CI CCUTQ0000000c CCUTQ00c           DW EUR MGW 130402 190118 Clean Dark Spread UK Power QA - Thermal Coal ARA - carbon @ 35% Euro/MWh
+CI CCUTQ2700000c CCUTQ27c           DW EUR MGW 130402 190118 Clean Dark Spread UK Power (QA+1) - Thermal Coal ARA - carbon @ 35% Euro/MWh
+CI CCUTS0000000c CCUTS00c           DW EUR MGW 130402 190118 Clean Dark Spread UK Power SN - Thermal Coal ARA - carbon @ 35% Euro/MWh
+CI CCUXM0000000c CCUXM00c           DW USD MGW 130402 190118 Clean Dark Spread UK Power MA - Thermal Coal ARA - carbon @ 35% $/MWh
+CI CCUXM2700000c CCUXM27c           DW USD MGW 130402 190118 Clean Dark Spread UK Power (MA+1) - Thermal Coal ARA - carbon @ 35% $/MWh
+CI CCUXQ0000000c CCUXQ00c           DW USD MGW 130402 190118 Clean Dark Spread UK Power QA - Thermal Coal ARA - carbon @ 35% $/MWh
+CI CCUXQ2700000c CCUXQ27c           DW USD MGW 130402 190118 Clean Dark Spread UK Power (QA+1) - Thermal Coal ARA - carbon @ 35% $/MWh
+CI CCUXS0000000c CCUXS00c           DW USD MGW 130402 190118 Clean Dark Spread UK Power SN - Thermal Coal ARA - carbon @ 35% $/MWh
+CI CCUZM0000000c CCUZM00c           DW GBP MGW 130402 190118 Clean Dark Spread UK Power MA - Thermal Coal ARA - carbon @ 35% GBP/MWh
+CI CCUZM2700000c CCUZM27c           DW GBP MGW 130402 190118 Clean Dark Spread UK Power (MA+1) - Thermal Coal ARA - carbon @ 35% GBP/MWh
+CI CCUZQ0000000c CCUZQ00c           DW GBP MGW 130402 190118 Clean Dark Spread UK Power QA - Thermal Coal ARA - carbon @ 35% GBP/MWh
+CI CCUZQ2700000c CCUZQ27c           DW GBP MGW 130402 190118 Clean Dark Spread UK Power (QA+1) - Thermal Coal ARA - carbon @ 35% GBP/MWh
+CI CCUZS0000000c CCUZS00c           DW GBP MGW 130402 190118 Clean Dark Spread UK Power SN - Thermal Coal ARA - carbon @ 35% GBP/MWh
+CI CDGTM0000000u CDGTM00u           DW EUR MGW 100301 190118 Dark Spread German Power (MA) - Thermal Coal ARA @ 35% Euro/MWh
+CI CDGTM2700000u CDGTM27u           DW EUR MGW 100301 190118 Dark Spread German Power (MA+1) - Thermal Coal ARA @ 35% Euro/MWh
+CI CDGTQ0000000u CDGTQ00u           DW EUR MGW 100301 190118 Dark Spread German Power (QA) - Thermal Coal ARA @ 35% Euro/MWh
+CI CDGTQ2700000u CDGTQ27u           DW EUR MGW 100301 190118 Dark Spread German Power (QA+1) - Thermal Coal ARA @ 35% Euro/MWh
+CI CDGTX2800000u CDGTX28u           DW USD MGW 130107 190118 Dark Spread German Power (YA+2) - Thermal Coal ARA @ 35% $/MWh
+CI CDGTY0000000u CDGTY00u           DW EUR MGW 100301 190118 Dark Spread German Power (YA) - Thermal Coal ARA @ 35% Euro/MWh
+CI CDGTY2700000u CDGTY27u           DW EUR MGW 100301 190118 Dark Spread German Power (YA+1) - Thermal Coal ARA @ 35% Euro/MWh
+CI CDGTY2800000u CDGTY28u           DW EUR MGW 130107 190118 Dark Spread German Power (YA+2) - Thermal Coal ARA @ 35% Euro/MWh
+CI CDGUM0000000c CDGUM00c           DW EUR MGW 151102 190118 Dark Spread German Power (MA) - Thermal Coal ARA @ 45% Euro/MWh
+CI CDGUM2700000c CDGUM27c           DW EUR MGW 151102 190118 Dark Spread German Power (MA+1) - Thermal Coal ARA @ 45% Euro/MWh
+CI CDGUQ0000000c CDGUQ00c           DW EUR MGW 151102 190118 Dark Spread German Power (QA) - Thermal Coal ARA @ 45% Euro/MWh
+CI CDGUQ2700000c CDGUQ27c           DW EUR MGW 151102 190118 Dark Spread German Power (QA+1) - Thermal Coal ARA @ 45% Euro/MWh
+CI CDGUX2800000c CDGUX28c           DW USD MGW 151102 190118 Dark Spread German Power (YA+2) - Thermal Coal ARA @ 45% $/MWh
+CI CDGUY0000000c CDGUY00c           DW EUR MGW 151102 190118 Dark Spread German Power (YA) - Thermal Coal ARA @ 45% Euro/MWh
+CI CDGUY2700000c CDGUY27c           DW EUR MGW 151102 190118 Dark Spread German Power (YA+1) - Thermal Coal ARA @ 45% Euro/MWh
+CI CDGUY2800000c CDGUY28c           DW EUR MGW 151102 190118 Dark Spread German Power (YA+2) - Thermal Coal ARA @ 45% Euro/MWh
+CI CDGXM0000000u CDGXM00u           DW USD MGW 100301 190118 Dark Spread German Power (MA) - Thermal Coal ARA @ 35% $/MWh
+CI CDGXM2700000u CDGXM27u           DW USD MGW 100301 190118 Dark Spread German Power (MA+1) - Thermal Coal ARA @ 35% $/MWh
+CI CDGXQ0000000u CDGXQ00u           DW USD MGW 100301 190118 Dark Spread German Power (QA) - Thermal Coal ARA @ 35% $/MWh
+CI CDGXQ2700000u CDGXQ27u           DW USD MGW 100301 190118 Dark Spread German Power (QA+1) - Thermal Coal ARA @ 35% $/MWh
+CI CDGXY0000000u CDGXY00u           DW USD MGW 100301 190118 Dark Spread German Power (YA) - Thermal Coal ARA @ 35% $/MWh
+CI CDGXY2700000u CDGXY27u           DW USD MGW 100301 190118 Dark Spread German Power (YA+1) - Thermal Coal ARA @ 35% $/MWh
+CI CDGYM0000000c CDGYM00c           DW USD MGW 151102 190118 Dark Spread German Power (MA) - Thermal Coal ARA @ 45% $/MWh
+CI CDGYM2700000c CDGYM27c           DW USD MGW 151102 190118 Dark Spread German Power (MA+1) - Thermal Coal ARA @ 45% $/MWh
+CI CDGYQ0000000c CDGYQ00c           DW USD MGW 151102 190118 Dark Spread German Power (QA) - Thermal Coal ARA @ 45% $/MWh
+CI CDGYQ2700000c CDGYQ27c           DW USD MGW 151102 190118 Dark Spread German Power (QA+1) - Thermal Coal ARA @ 45% $/MWh
+CI CDGYY0000000c CDGYY00c           DW USD MGW 151102 190118 Dark Spread German Power (YA) - Thermal Coal ARA @ 45% $/MWh
+CI CDGYY2700000c CDGYY27c           DW USD MGW 151102 190118 Dark Spread German Power (YA+1) - Thermal Coal ARA @ 45% $/MWh
+CI CDUTM0000000c CDUTM00c           DW EUR MGW 130402 190118 Dark Spread UK Power MA - Thermal Coal ARA @ 35% Euro/MWh
+CI CDUTM2700000c CDUTM27c           DW EUR MGW 130402 190118 Dark Spread UK Power (MA+1) - Thermal Coal ARA @ 35% Euro/MWh
+CI CDUTQ0000000c CDUTQ00c           DW EUR MGW 130402 190118 Dark Spread UK Power QA - Thermal Coal ARA @ 35% Euro/MWh
+CI CDUTQ2700000c CDUTQ27c           DW EUR MGW 130402 190118 Dark Spread UK Power (QA+1) - Thermal Coal ARA @ 35% Euro/MWh
+CI CDUTS0000000c CDUTS00c           DW EUR MGW 130402 190118 Dark Spread UK Power SN - Thermal Coal ARA @ 35% Euro/MWh
+CI CDUXM0000000c CDUXM00c           DW USD MGW 130402 190118 Dark Spread UK Power MA - Thermal Coal ARA @ 35% $/MWh
+CI CDUXM2700000c CDUXM27c           DW USD MGW 130402 190118 Dark Spread UK Power (MA+1) - Thermal Coal ARA @ 35% $/MWh
+CI CDUXQ0000000c CDUXQ00c           DW USD MGW 130402 190118 Dark Spread UK Power QA - Thermal Coal ARA @ 35% $/MWh
+CI CDUXQ2700000c CDUXQ27c           DW USD MGW 130402 190118 Dark Spread UK Power (QA+1) - Thermal Coal ARA @ 35% $/MWh
+CI CDUXS0000000c CDUXS00c           DW USD MGW 130402 190118 Dark Spread UK Power SN - Thermal Coal ARA @ 35% $/MWh
+CI CDUZM0000000c CDUZM00c           DW GBP MGW 130402 190118 Dark Spread UK Power MA - Thermal Coal ARA @ 35% GBP/MWh
+CI CDUZM2700000c CDUZM27c           DW GBP MGW 130402 190118 Dark Spread UK Power (MA+1) - Thermal Coal ARA @ 35% GBP/MWh
+CI CDUZQ0000000c CDUZQ00c           DW GBP MGW 130402 190118 Dark Spread UK Power QA - Thermal Coal ARA @ 35% GBP/MWh
+CI CDUZQ2700000c CDUZQ27c           DW GBP MGW 130402 190118 Dark Spread UK Power (QA+1) - Thermal Coal ARA @ 35% GBP/MWh
+CI CDUZS0000000c CDUZS00c           DW GBP MGW 130402 190118 Dark Spread UK Power SN - Thermal Coal ARA @ 35% GBP/MWh
+CI CSARN0500000c CSARN05c           QR USD MT  180701 181001 Thermal Coal CIF ARA 6000 kcal/kg NAR 15-60 Day $/mt QAvg
+CI CSBKI0000000c CSBKI00c           DW USD MT  120711 190118 Thermal Coal FOB Kalimantan 4200 kcal/kg GAR 7-45 Day $/mt
+CI CSBKI0300000c CSBKI03c           MA USD MT  120701 181201 Thermal Coal FOB Kalimantan 4200 kcal/kg GAR 7-45 Day $/mt MAvg
+CI CSBKI0400000c CSBKI04c           QR USD MT  120701 181001 Thermal Coal FOB Kalimantan 4200 kcal/kg GAR 7-45 Day $/mt QAvg
+CI CSCKI0000000c CSCKI00c           DW EUR MT  120711 190118 Thermal Coal FOB Kalimantan 4200 kcal/kg GAR 7-45 Day Euro/mt
+CI CSCKI0300000c CSCKI03c           MA EUR MT  120701 181201 Thermal Coal FOB Kalimantan 4200 kcal/kg GAR 7-45 Day Euro/mt MAvg
+CI CSCKI0400000c CSCKI04c           QR EUR MT  120701 181001 Thermal Coal FOB Kalimantan 4200 kcal/kg GAR 7-45 Day Euro/mt QAvg
+CI CSCKJ0000000c CSCKJ00c           DW USD MT  130401 190118 Thermal Coal FOB Kalimantan 3800 kcal/kg GAR 7-45 Day $/mt
+CI CSCKJ0300000c CSCKJ03c           MA USD MT  130401 181201 Thermal Coal FOB Kalimantan 3800 kcal/kg GAR 7-45 Day $/mt MAvg
+CI CSCKJ0400000c CSCKJ04c           QR USD MT  130401 181001 Thermal Coal FOB Kalimantan 3800 kcal/kg GAR 7-45 Day $/mt QAvg
+CI CSCKK0000000c CSCKK00c           DW EUR MT  130402 190118 Thermal Coal FOB Kalimantan 3800 kcal/kg GAR 7-45 Day Euro/mt
+CI CSCKK0300000c CSCKK03c           MA EUR MT  130401 181201 Thermal Coal FOB Kalimantan 3800 kcal/kg GAR 7-45 Day Euro/mt MAvg
+CI CSCKK0400000c CSCKK04c           QR EUR MT  130401 181001 Thermal Coal FOB Kalimantan 3800 kcal/kg GAR 7-45 Day Euro/mt QAvg
+CI CSDAA0300000c CSDAA03c           MA USD MT  121001 160401 Thermal Coal FOB US East Coast Export 6500 kcal/kg NAR 14-45 Day $/mt MAvg
+CI CSDAA0500000c CSDAA05c           QR USD MT  130101 160401 Thermal Coal FOB US East Coast Export 6500 kcal/kg NAR 14-45 Day $/mt QAvg
+CI CSDAB0300000c CSDAB03c           MA USD MT  121001 160401 Thermal Coal FOB US Gulf Coast Eastern Export 6000 kcal/kg NAR 14-45 Day $/mt MAvg
+CI CSDAB0500000c CSDAB05c           QR USD MT  130101 160401 Thermal Coal FOB US Gulf Coast Eastern Export 6000 kcal/kg NAR 14-45 Day $/mt QAvg
+CI CSDAC0300000c CSDAC03c           MA USD MT  121001 160401 Thermal Coal FOB US Gulf Coast Western Export 5000 kcal/kg GAR 14-45 Day $/mt MAvg
+CI CSDAC0500000c CSDAC05c           QR USD MT  130101 160401 Thermal Coal FOB US Gulf Coast Western Export 5000 kcal/kg GAR 14-45 Day $/mt QAvg
+CI CSDDC0300000c CSDDC03c           MA USD MT  121001 160401 Thermal Coal FOB US West Coast-Canada Export 5000 kcal/kg GAR $/mt MAvg
+CI CSDDC0500000c CSDDC05c           QR USD MT  130101 160401 Thermal Coal FOB US West Coast-Canada Export 5000 kcal/kg GAR $/mt QAvg
+CI CSEUC0000000u CSEUC00u           WA EUR MT  091016 190118 Thermal Coal FOB Colombia 6000 kcal/kg NAR 90 Day Euro/mt Wkly
+CI CSEUL0000000u CSEUL00u           WA EUR MT  091016 190118 Thermal Coal FOB Russian Baltic 6400 kcal/kg NAR 90 Day Euro/mt Wkly
+CI CSEUO0000000u CSEUO00u           WA EUR MT  091016 190118 Thermal Coal FOB Russian Pacific 6300 kcal/kg GAR 90 Day Euro/mt Wkly
+CI CSEUP0000000u CSEUP00u           DW EUR MT  091016 190118 Thermal Coal FOB Kalimantan 5900 kcal/kg GAR 90 Day Euro/mt
+CI CSEUQ0000000u CSEUQ00u           DW EUR MT  091016 190118 Thermal Coal FOB Kalimantan 5000 kcal/kg GAR 90 Day Euro/mt
+CI CSEUR0000000u CSEUR00u           DW EUR MT  070301 190118 Thermal Coal CIF ARA 6000 kcal/kg NAR 15-60 Day Euro/mt
+CI CSEUT0000000u CSEUT00u           DW EUR MT  070308 161209 Thermal Coal CIF ARA 6000 kcal/kg NAR 15-60 Day Carbon Adjusted Euro/mt
+CI CSEUW0000000c CSEUW00c           DW USD MT  170213 190118 Thermal Coal FOB Richards Bay 6000 kcal/kg NAR netback $/mt
+CI CSNCB0000000u CSNCB00u           DW USD MT  080811 190118 Thermal Coal FOB Newcastle 6300 kcal/kg GAR 7-45 Day $/mt
+CI CSNCB0300000c CSNCB03c           MA USD MT  180701 181201 Thermal Coal FOB Newcastle 6300 kcal/kg GAR 7-45 Day $/mt MAvg
+CI CSNCB0500000c CSNCB05c           QR USD MT  180701 181001 Thermal Coal FOB Newcastle 6300 kcal/kg GAR 7-45 Day $/mt QAvg
+CI CSNCC0000000u CSNCC00u           DW EUR MT  080811 190118 Thermal Coal FOB Newcastle 6300 kcal/kg NAR 7-45 Day Euro/mt
+CI CTCME0400000c CTCME04c           WA EUR MT  140307 190118 Thermal Coal CIF Turkey 6000 kcal/kg NAR 90 Day Euro/mt Wkly
+CI CTCMT0300000c CTCMT03c           MA USD MT  140301 181201 Thermal Coal CIF Turkey 6000 kcal/kg NAR 90 Day $/mt MAvg
+CI CTCMT0400000c CTCMT04c           WA USD MT  140307 190118 Thermal Coal CIF Turkey 6000 kcal/kg NAR 90 Day $/mt
+CI CTCMT0500000c CTCMT05c           QR USD MT  140101 181001 Thermal Coal CIF Turkey 6000 kcal/kg NAR 90 Day $/mt QAvg
+CI COUSD0000000c COUSD00c           DW USD ST  160531 190118 Thermal Coal FOB USEC 6500 kcal/kg NAR $/st
+CI CPAAA0000000c CPAAA00c           WA USD MT  010716 190116 Petroleum Coke FOB US Gulf Coast 6.5% High Sulfur $/mt Wk
+CI CPAAA0000000h CPAAA00h           WA USD MT  010716 190116 Petroleum Coke FOB US Gulf Coast 6.5% High Sulfur $/mt Wk
+CI CPAAA0000000l CPAAA00l           WA USD MT  010716 190116 Petroleum Coke FOB US Gulf Coast 6.5% High Sulfur $/mt Wk
+CI CPAAA0300000c CPAAA03c           MA USD MT  150401 181201 Petroleum Coke FOB US Gulf Coast 6.5% High Sulfur $/mt MAvg
+CI CPAAA0500000c CPAAA05c           QR USD MT  150101 181001 Petroleum Coke FOB US Gulf Coast 6.5% High Sulfur $/mt QAvg
+CI CPAAC0000000c CPAAC00c           WA USD MT  010716 190116 Petroleum Coke FOB US West Coast 3% Mid Sulfur $/mt Wk
+CI CPAAC0000000h CPAAC00h           WA USD MT  010716 190116 Petroleum Coke FOB US West Coast 3% Mid Sulfur $/mt Wk
+CI CPAAC0000000l CPAAC00l           WA USD MT  010716 190116 Petroleum Coke FOB US West Coast 3% Mid Sulfur $/mt Wk
+CI CPAAC0300000c CPAAC03c           MA USD MT  150401 181201 Petroleum Coke FOB US West Coast 3% Mid Sulfur $/mt MAvg
+CI CPAAC0500000c CPAAC05c           QR USD MT  150101 181001 Petroleum Coke FOB US West Coast 3% Mid Sulfur $/mt QAvg
+CI CPAAF0000000c CPAAF00c           WA USD MT  030314 190116 Petroleum Coke FOB US Gulf Coast 4.5% Mid Sulfur $/mt Wk
+CI CPAAF0000000h CPAAF00h           WA USD MT  030314 190116 Petroleum Coke FOB US Gulf Coast 4.5% Mid Sulfur $/mt Wk
+CI CIWCI0000000c CIWCI00c           DW USD MT  140801 190118 Thermal coal CFR West Coast India 5500 kcal/kg NAR 30-60 day $/mt
+CI CIWCI0300000c CIWCI03c           MA USD MT  140801 181201 Thermal coal CFR West Coast India 5500 kcal/kg NAR 30-60 day $/mt MAvg
+CI CIWCI0500000c CIWCI05c           QR USD MT  140701 181001 Thermal Coal CFR West Coast India 5500 kcal/kg NAR 30-60 day $/mt QAvg
+CI CPAAF0000000l CPAAF00l           WA USD MT  030314 190116 Petroleum Coke FOB US Gulf Coast 4.5% Mid Sulfur $/mt Wk
+CI CPAAF0300000c CPAAF03c           MA USD MT  150401 181201 Petroleum Coke FOB US Gulf Coast 4.5% Mid Sulfur $/mt MAvg
+CI CPAAF0500000c CPAAF05c           QR USD MT  150101 181001 Petroleum Coke FOB US Gulf Coast 4.5% Mid Sulfur $/mt QAvg
+CI CPAGG0000000c CPAGG00c           WA USD MT  150311 190116 Petroleum Coke FOB US West Coast <2% Low Sulfur $/mt Wk
+CI CPAGG0000000h CPAGG00h           WA USD MT  150311 190116 Petroleum Coke FOB US West Coast <2% Low Sulfur $/mt Wk
+CI CPAGG0000000l CPAGG00l           WA USD MT  150311 190116 Petroleum Coke FOB US West Coast <2% Low Sulfur $/mt Wk
+CI CPAGG0300000c CPAGG03c           MA USD MT  150401 181201 Petroleum Coke FOB US West Coast <2% Low Sulfur $/mt MAvg
+CI CPAGG0500000c CPAGG05c           QR USD MT  150401 181001 Petroleum Coke FOB US West Coast <2% Low Sulfur $/mt QAvg
+CI CPAGH0000000c CPAGH00c           WA USD MT  150311 190116 Petroleum Coke CIF Turkey 5% Sulfur 30-60 day $/mt Wk
+CI CPAGH0300000c CPAGH03c           MA USD MT  150401 181201 Petroleum Coke CIF Turkey 5% Sulfur 30-60 day $/mt MAvg
+CI CPAGH0500000c CPAGH05c           QR USD MT  150401 181001 Petroleum Coke CIF Turkey 5% Sulfur 30-60 day $/mt QAvg
+CI CPAGI0000000c CPAGI00c           WA EUR MT  150311 190116 Petroleum Coke CIF Turkey 5% Sulfur 30-60 day Eur/mt Wk
+CI CPAGI0300000c CPAGI03c           MA EUR MT  150401 181201 Petroleum Coke CIF Turkey 5% Sulfur 30-60 day Eur/mt MAvg
+CI CPAGI0300000h CPAGI03h           MA EUR MT  150401 181201 Petroleum Coke CIF Turkey 5% Sulfur 30-60 day Eur/mt MAvg
+CI CPAGI0300000l CPAGI03l           MA EUR MT  150401 181201 Petroleum Coke CIF Turkey 5% Sulfur 30-60 day Eur/mt MAvg
+CI CPAGI0500000c CPAGI05c           QR EUR MT  150401 181001 Petroleum Coke CIF Turkey 5% Sulfur 30-60 day Eur/mt QAvg
+CI CPAGI0500000h CPAGI05h           QR EUR MT  150401 181001 Petroleum Coke CIF Turkey 5% Sulfur 30-60 day Eur/mt QAvg
+CI CPAGI0500000l CPAGI05l           QR EUR MT  150401 181001 Petroleum Coke CIF Turkey 5% Sulfur 30-60 day Eur/mt QAvg
+CI CPAGJ0000000c CPAGJ00c           WA USD MT  150311 190116 Petroleum Coke CFR India West 6.5% Sulfur 30-60 day $/mt Wk
+CI CPAGJ0300000c CPAGJ03c           MA USD MT  150301 181201 Petroleum Coke CFR India West 6.5% Sulfur 30-60 day $/mt MAvg
+CI CPAGJ0500000c CPAGJ05c           QR USD MT  150401 181001 Petroleum Coke CFR India West 6.5% Sulfur 30-60 day $/mt QAvg
+CI CPAGK0000000c CPAGK00c           WA USD MT  150311 190116 Petroleum Coke CFR India East 6.5% Sulfur 30-60 day $/mt Wk
+CI CPAGK0300000c CPAGK03c           MA USD MT  150301 181201 Petroleum Coke CFR India East 6.5% Sulfur 30-60 day $/mt MAvg
+CI CPAGK0500000c CPAGK05c           QR USD MT  150401 181001 Petroleum Coke CFR India East 6.5% Sulfur 30-60 day $/mt QAvg
+CI CPAGL0000000c CPAGL00c           WA USD MT  150311 190116 Petroleum Coke CIF Turkey 6000 NAR-adjusted 30-60 day $/mt Wk
+CI CPAGM0000000h CPAGM00h           WA EUR MT                Petroleum Coke CIF Turkey 6000 NAR-adjusted 30-60 day Eur/mt Wk
+CI CPAGM0000000l CPAGM00l           WA EUR MT                Petroleum Coke CIF Turkey 6000 NAR-adjusted 30-60 day Eur/mt Wk
+CI CSABZ0000000u CSABZ00u           WA USD MT  010824 190118 Thermal Coal FOB Colombia 6000 kcal/kg NAR 90 Day $/mt Wkly
+CI CSABZ0300000c CSABZ03c           MA USD MT  010801 181201 Thermal Coal FOB Colombia 6000 kcal/kg NAR 90 Day $/mt MAvg
+CI CSABZ0400000c CSABZ04c           QR USD MT  011001 181001 Thermal Coal FOB Colombia 6000 kcal/kg NAR 90 Day $/mt QAvg
+CI CSAKC0000000u CSAKC00u           WA USD MT  050826 190118 Thermal Coal FOB Russian Baltic 6400 kcal/kg NAR 90 Day $/mt Wkly
+CI CSAKC0300000c CSAKC03c           MA USD MT  050801 181201 Thermal Coal FOB Russian Baltic 6400 kcal/kg NAR 90 Day $/mt MAvg
+CI CSAKC0400000c CSAKC04c           QR USD MT  051001 181001 Thermal Coal FOB Russian Baltic 6400 kcal/kg NAR 90 Day $/mt QAvg
+CI CSAKG0000000u CSAKG00u           WA USD MT  050826 190118 Thermal Coal FOB Russian Pacific 6300 kcal/kg GAR 90 Day $/mt Wkly
+CI CSAKG0300000c CSAKG03c           MA USD MT  050801 181201 Thermal Coal FOB Russian Pacific 6300 kcal/kg GAR 90 Day $/mt MAvg
+CI CSAKG0400000c CSAKG04c           QR USD MT  051001 181001 Thermal Coal FOB Russian Pacific 6300 kcal/kg GAR 90 Day $/mt QAvg
+CI CSAKH0000000u CSAKH00u           DW USD MT  060623 190118 Thermal Coal FOB Kalimantan 5900 kcal/kg GAR 90 Day $/mt
+CI CSAKH0300000c CSAKH03c           MA USD MT  060601 181201 Thermal Coal FOB Kalimantan 5900 kcal/kg GAR 90 Day $/mt MAvg
+CI CSAKH0400000c CSAKH04c           QR USD MT  060701 181001 Thermal Coal FOB Kalimantan 5900 kcal/kg GAR 90 Day $/mt QAvg
+CI CSAKI0000000u CSAKI00u           DW USD MT  060623 190118 Thermal Coal FOB Kalimantan 5000 kcal/kg GAR 90 Day $/mt
+CI CSAKI0300000c CSAKI03c           MA USD MT  060601 181201 Thermal Coal FOB Kalimantan 5000 kcal/kg GAR 90 Day $/mt MAvg
+CI CSAKI0400000c CSAKI04c           QR USD MT  060701 181001 Thermal Coal FOB Kalimantan 5000 kcal/kg GAR 90 Day $/mt QAvg
+CI CSARM0100000u CSARM01u           DW USD MT  070301 190118 Thermal Coal CIF ARA 6000 kcal/kg NAR 15-60 Day $/mt
+CI CSARN0300000c CSARN03c           MA USD MT  180701 181201 Thermal Coal CIF ARA 6000 kcal/kg NAR 15-60 Day $/mt MAvg
+CI JKTCA0000000c JKTCA00c           DW USD MT  170103 190118 NEAT Coal Index 15-60 day CFR Kinuura 5750 kcal/kg NAR $/mt
+CI JKTCA0300000c JKTCA03c           MA USD MT  170101 181201 NEAT Coal Index 15-60 day CFR Kinuura 5750 kcal/kg NAR $/mt MAvg
+CI JKTCA0500000c JKTCA05c           QR USD MT  170101 181001 NEAT Coal Index 15-60 day CFR Kinuura 5750 kcal/kg NAR $/mt QAvg
+CI PCCPM0000000c PCCPM00c           DW CNY MT  150803 190118 Thermal Coal Platts PCC 2 FOB Qinhuangdao 5000 kcal/kg NAR 7-45 day (VAT) Yuan/mt
+CI PCCPM0300000c PCCPM03c           MA CNY MT  150801 181201 Thermal Coal Platts PCC 2 FOB Qinhuangdao 5000 kcal/kg NAR 7-45 day (VAT) Yuan/mt MAvg
+CI PCCPM0500000c PCCPM05c           QR CNY MT  150701 181001 Thermal Coal Platts PCC 2 FOB Qinhuangdao 5000 kcal/kg NAR 7-45 day (VAT) Yuan/mt QAvg
+CI PCCPN0000000c PCCPN00c           DW USD MT  150803 190118 Thermal Coal Platts PCC 2 FOB Qinhuangdao 5000 kcal/kg NAR 7-45 day (VAT) $/mt
+CI PCCPN0300000c PCCPN03c           MA USD MT  150801 181201 Thermal Coal Platts PCC 2 FOB Qinhuangdao 5000 kcal/kg NAR 7-45 day (VAT) $/mt MAvg
+CI PCCPN0500000c PCCPN05c           QR USD MT  150701 181001 Thermal Coal Platts PCC 2 FOB Qinhuangdao 5000 kcal/kg NAR 7-45 day (VAT) $/mt QAvg
+CI PCCPO0000000c PCCPO00c           DW CNY MT  150803 190118 Thermal Coal Platts PCC 7 CFR S China 4700 kcal/kg NAR 30-60 day Yuan/mt
+CI PCCPO0300000c PCCPO03c           MA CNY MT  150801 181201 Thermal Coal Platts PCC 7 CFR S China 4700 kcal/kg NAR 30-60 day Yuan/mt MAvg
+CI PCCPO0500000c PCCPO05c           QR CNY MT  150701 181001 Thermal Coal Platts PCC 7 CFR S China 4700 kcal/kg NAR 30-60 day Yuan/mt QAvg
+CI PCCPP0000000c PCCPP00c           DW USD MT  150803 190118 Thermal Coal Platts PCC 7 CFR S China 4700 kcal/kg NAR 30-60 day $/mt
+CI PCCPP0300000c PCCPP03c           MA USD MT  150801 181201 Thermal Coal Platts PCC 7 CFR S China 4700 kcal/kg NAR 30-60 day $/mt MAvg
+CI PCCPP0500000c PCCPP05c           QR USD MT  150701 181001 Thermal Coal Platts PCC 7 CFR S China 4700 kcal/kg NAR 30-60 day $/mt QAvg
+CI PCCPQ0000000c PCCPQ00c           DW USD MT  150803 190118 Thermal Coal Platts PCC 6 CFR S China 3800 kcal/kg NAR 30-60 day $/mt
+CI PCCPQ0300000c PCCPQ03c           MA USD MT  150801 181201 Thermal Coal Platts PCC 6 CFR S China 3800 kcal/kg NAR 30-60 day $/mt MAvg
+CI PCCPQ0500000c PCCPQ05c           QR USD MT  150701 181001 Thermal Coal Platts PCC 6 CFR S China 3800 kcal/kg NAR 30-60 day $/mt QAvg
+CI PCCPR0000000c PCCPR00c           DW CNY MT  150803 190118 Thermal Coal Platts PCC 6 CFR S China 3800 kcal/kg NAR 30-60 day Yuan/mt
+CI PCCPR0300000c PCCPR03c           MA CNY MT  150801 181201 Thermal Coal Platts PCC 6 CFR S China 3800 kcal/kg NAR 30-60 day Yuan/mt Mavg
+CI PCCPR0500000c PCCPR05c           QR CNY MT  150701 181001 Thermal Coal Platts PCC 6 CFR S China 3800 kcal/kg NAR 30-60 day Yuan/mt QAvg
+CI PCCPS0000000c PCCPS00c           DW CNY MT  150803 190118 Thermal Coal Platts PCC 6 CFR S China 3800 kcal/kg NAR 30-60 day (VAT) Yuan/mt
+CI PCCPS0300000c PCCPS03c           MA CNY MT  150801 181201 Thermal Coal Platts PCC 6 CFR S China 3800 kcal/kg NAR 30-60 day (VAT) Yuan/mt MAvg
+CI PCCPS0500000c PCCPS05c           QR CNY MT  150701 181001 Thermal Coal Platts PCC 6 CFR S China 3800 kcal/kg NAR 30-60 day (VAT) Yuan/mt QAvg
+CI PCCQG0000000c PCCQG00c           DW CNY MT  150803 190118 Thermal Coal Platts PCC 1 FOB Qinhuangdao 5500 kcal/kg NAR 7-45 day (VAT) Yuan/mt
+CI PCCQG0300000c PCCQG03c           MA CNY MT  150801 181201 Thermal Coal Platts PCC 1 FOB Qinhuangdao 5500 kcal/kg NAR 7-45 day (VAT) Yuan/mt MAvg
+CI PCCQG0500000c PCCQG05c           QR CNY MT  150701 181001 Thermal Coal Platts PCC 1 FOB Qinhuangdao 5500 kcal/kg NAR 7-45 day (VAT) Yuan/mt QAvg
+CI PCCQH0000000c PCCQH00c           DW USD MT  150803 190118 Thermal Coal Platts PCC 1 FOB Qinhuangdao 5500 kcal/kg NAR 7-45 day (VAT) $/mt
+CI PCCQH0300000c PCCQH03c           MA USD MT  150801 181201 Thermal Coal Platts PCC 1 FOB Qinhuangdao 5500 kcal/kg NAR 7-45 day (VAT) $/mt MAvg
+CI PCCQH0500000c PCCQH05c           QR USD MT  150701 181001 Thermal Coal Platts PCC 1 FOB Qinhuangdao 5500 kcal/kg NAR 7-45 day (VAT) $/mt QAvg
+CI PCCSC0000000c PCCSC00c           DW USD MT  150803 190118 Thermal Coal Platts PCC 8 CFR S China 5500 kcal/kg NAR 15-60 day $/mt
+CI PCCSC0300000c PCCSC03c           MA USD MT  150801 181201 Thermal Coal Platts PCC 8 CFR S China 5500 kcal/kg NAR 15-60 day $/mt MAvg
+CI PCCSC0500000c PCCSC05c           QR USD MT  150701 181001 Thermal Coal Platts PCC 8 CFR S China 5500 kcal/kg NAR 15-60 day $/mt QAvg
+CI PCCSD0000000c PCCSD00c           DW CNY MT  150803 190118 Thermal Coal Platts PCC 8 CFR S China 5500 kcal/kg NAR 15-60 day Yuan/mt
+CI PCCSD0300000c PCCSD03c           MA CNY MT  150801 181201 Thermal Coal Platts PCC 8 CFR S China 5500 kcal/kg NAR 15-60 day Yuan/mt Mavg
+CI PCCSD0500000c PCCSD05c           QR CNY MT  150701 181001 Thermal Coal Platts PCC 8 CFR S China 5500 kcal/kg NAR 15-60 day Yuan/mt QAvg
+CI PCCFA0000000c PCCFA00c           DW CNY MT  150803 190118 Thermal Coal Platts PCC 8 CFR S China 5500 kcal/kg NAR 15-60 day (Duty&VAT) Yuan/mt
+CI PCCFA0300000c PCCFA03c           MA CNY MT  150801 181201 Thermal Coal Platts PCC 8 CFR S China 5500 kcal/kg NAR 15-60 day (Duty&VAT) Yuan/mt MAvg
+CI PCCFA0500000c PCCFA05c           QR CNY MT  150701 181001 Thermal Coal Platts PCC 8 CFR S China 5500 kcal/kg NAR 15-60 day (Duty&VAT) Yuan/mt QAvg
+CI PCCFB0000000c PCCFB00c           DW CNY MT  150803 190118 Thermal Coal Platts PCC 7 CFR S China 4700 kcal/kg NAR 30-60 day (VAT) Yuan/mt
+CI PCCFB0300000c PCCFB03c           MA CNY MT  150801 181201 Thermal Coal Platts PCC 7 CFR S China 4700 kcal/kg NAR 30-60 day (VAT) Yuan/mt MAvg
+CI PCCFB0500000c PCCFB05c           QR CNY MT  150701 181001 Thermal Coal Platts PCC 7 CFR S China 4700 kcal/kg NAR 30-60 day (VAT) Yuan/mt QAvg
+CI TCAKJ0000000u TCAKJ00u           DW USD MT  101001 190118 Thermal Coal CFR East Coast India 5000 kcal/kg GAR 30-60 day $/mt
+CI TCAKJ0300000c TCAKJ03c           MA USD MT  101001 181201 Thermal Coal CFR East Coast India 5000 kcal/kg GAR 30-60 day $/mt MAvg
+CI TCAKJ0500000c TCAKJ05c           QR USD MT  101001 181001 Thermal Coal CFR East Coast India 5000 kcal/kg GAR 30-60 day $/mt QAvg
+CI TCAKK0000000u TCAKK00u           DW EUR MT  101001 190118 Thermal Coal CFR East Coast India 5000 kcal/kg GAR 90 Day Euro/mt
+CI TCAKP0000000u TCAKP00u           DW USD MT  101001 190118 Thermal Coal CFR West Coast India 5000 kcal/kg GAR 30-60 day $/mt
+CI TCAKP0300000c TCAKP03c           MA USD MT  101001 181201 Thermal Coal CFR West Coast India 5000 kcal/kg GAR 30-60 day $/mt Mavg
+CI TCAKP0500000c TCAKP05c           QR USD MT  101001 181001 Thermal Coal CFR West Coast India 5000 kcal/kg GAR 30-60 day $/mt QAvg
+CI TCAKQ0000000u TCAKQ00u           DW EUR MT  101001 190118 Thermal Coal CFR West Coast India 5000 kcal/kg GAR 90 Day Euro/mt
+CI TCAKR0000000c TCAKR00c           DW USD MT  131001 190118 Thermal Coal CFR India West 3800 kcal/kg GAR 30-60 day $/mt
+CI TCAKR0200000c TCAKR02c           QR USD MT  130901 181001 Thermal Coal CFR India West 3800 kcal/kg GAR 30-60 Day $/mt QAvg
+CI TCAKR0300000c TCAKR03c           MA USD MT  131001 181201 Thermal Coal CFR India West 3800 kcal/kg GAR 30-60 Day $/mt MAvg
+CI TCAKS0000000c TCAKS00c           DW USD MT  131001 190118 Thermal Coal CFR India East 3800 kcal/kg GAR 30-60 Day $/mt
+CI TCAKS0200000c TCAKS02c           QR USD MT  130901 181001 Thermal Coal CFR India East 3800 kcal/kg GAR 30-60 Day $/mt QAvg
+CI TCAKS0300000c TCAKS03c           MA USD MT  131001 181201 Thermal Coal CFR India East 3800 kcal/kg GAR 30-60 Day $/mt MAvg
+CI TCAKT0000000c TCAKT00c           DW USD MT  131001 190118 Thermal Coal CFR India West 4200 kcal/kg GAR 30-60 Day $/mt
+CI TCAKT0200000c TCAKT02c           QR USD MT  130901 181001 Thermal Coal CFR India West 4200 kcal/kg GAR 30-60 Day $/mt QAvg
+CI TCAKT0300000c TCAKT03c           MA USD MT  131001 181201 Thermal Coal CFR India West 4200 kcal/kg GAR 30-60 Day $/mt MAvg
+CI TCAKU0000000c TCAKU00c           DW USD MT  131001 190118 Thermal Coal CFR India East 4200 kcal/kg GAR 30-60 Day $/mt
+CI TCAKU0200000c TCAKU02c           QR USD MT  130901 181001 Thermal Coal CFR India East 4200 kcal/kg GAR 30-60 Day $/mt QAvg
+CI TCAKU0300000c TCAKU03c           MA USD MT  131001 181201 Thermal Coal CFR India East 4200 kcal/kg GAR 30-60 Day $/mt MAvg

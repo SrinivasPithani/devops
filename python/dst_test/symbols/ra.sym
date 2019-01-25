@@ -1,0 +1,150 @@
+RA                                                           © 2019 by S&P Global Inc.,190119
+RA AAVVD0000000c AAVVD00c           DW USD MT  111003 190118 Crude Russia Export Duty $/Mt
+RA AAVVE0000000c AAVVE00c           DW USD BBL 111003 190118 Crude Russia Export Duty $/Bbl
+RA AAVVF0000000c AAVVF00c           DW USD MT  111003 190118 Reduced Crude Russia Export Duty $/Mt
+RA AAVVG0000000c AAVVG00c           DW USD BBL 111003 190118 Reduced Crude Russia Export Duty $/Bbl
+RA AAVVW0000000c AAVVW00c           DW USD MT  141001 190118 Jet Fuel Russia Export Duty $/MT
+RA AAZHA0000000c AAZHA00c           DW RUB MT  160104 190118 Urals FIP Novorossiysk Rb/Mt Calendar Month Index
+RA AAZHA0000000h AAZHA00h           DW RUB MT  160104 190118 Urals FIP Novorossiysk Rb/Mt Calendar Month Index
+RA AAZHA0000000l AAZHA00l           DW RUB MT  160104 190118 Urals FIP Novorossiysk Rb/Mt Calendar Month Index
+RA AAZHA0300000c AAZHA03c           MA RUB MT  160101 181201 Urals FIP Novorossiysk Rb/Mt Calendar Month Netback MAvg
+RA AAZHA0300000h AAZHA03h           MA RUB MT  160101 181201 Urals FIP Novorossiysk Rb/Mt Calendar Month Netback MAvg
+RA AAZHA0300000l AAZHA03l           MA RUB MT  160101 181201 Urals FIP Novorossiysk Rb/Mt Calendar Month Netback MAvg
+RA AAZHB0000000c AAZHB00c           DW RUB MT  160104 190118 Urals FIP Primorsk Rb/Mt Calendar Month Index
+RA AAZHB0000000h AAZHB00h           DW RUB MT  160104 190118 Urals FIP Primorsk Rb/Mt Calendar Month Index
+RA AAZHB0000000l AAZHB00l           DW RUB MT  160104 190118 Urals FIP Primorsk Rb/Mt Calendar Month Index
+RA AAZHB0300000c AAZHB03c           MA RUB MT  160101 181201 Urals FIP Primorsk Rb/Mt Calendar Month Netback MAvg
+RA AAZHB0300000h AAZHB03h           MA RUB MT  160101 181201 Urals FIP Primorsk Rb/Mt Calendar Month Netback MAvg
+RA AAZHB0300000l AAZHB03l           MA RUB MT  160101 181201 Urals FIP Primorsk Rb/Mt Calendar Month Netback MAvg
+RA AAZHV0000000c AAZHV00c           DW RUB MT  160104 190118 Urals FIP Moscow Rb/Mt Calendar Month Index
+RA AAZHV0000000h AAZHV00h           DW RUB MT  160104 190118 Urals FIP Moscow Rb/Mt Calendar Month Index
+RA AAZHV0000000l AAZHV00l           DW RUB MT  160104 190118 Urals FIP Moscow Rb/Mt Calendar Month Index
+RA AAZHV0300000c AAZHV03c           MA RUB MT  160101 181201 Urals FIP Moscow Rb/Mt Calendar Month Netback MAvg
+RA AAZHV0300000h AAZHV03h           MA RUB MT  160101 181201 Urals FIP Moscow Rb/Mt Calendar Month Netback MAvg
+RA AAZHV0300000l AAZHV03l           MA RUB MT  160101 181201 Urals FIP Moscow Rb/Mt Calendar Month Netback MAvg
+RA AAZHW0000000c AAZHW00c           DW RUB MT  160104 190118 Urals FIP Nizhnevartovsk Rb/Mt Calendar Month Index
+RA AAZHW0000000h AAZHW00h           DW RUB MT  160104 190118 Urals FIP Nizhnevartovsk Rb/Mt Calendar Month Index
+RA AAZHW0000000l AAZHW00l           DW RUB MT  160104 190118 Urals FIP Nizhnevartovsk Rb/Mt Calendar Month Index
+RA AAZHW0300000c AAZHW03c           MA RUB MT  160101 181201 Urals FIP Nizhnevartovsk Rb/Mt Calendar Month Netback MAvg
+RA AAZHW0300000h AAZHW03h           MA RUB MT  160101 181201 Urals FIP Nizhnevartovsk Rb/Mt Calendar Month Netback MAvg
+RA AAZHW0300000l AAZHW03l           MA RUB MT  160101 181201 Urals FIP Nizhnevartovsk Rb/Mt Calendar Month Netback MAvg
+RA AAZHZ0000000c AAZHZ00c           DW RUB MT  160104 190118 Urals FIP Nizhniy Novgorod Rb/Mt Calendar Month Index
+RA AAZHZ0000000h AAZHZ00h           DW RUB MT  160104 190118 Urals FIP Nizhniy Novgorod Rb/Mt Calendar Month Index
+RA AAZHZ0000000l AAZHZ00l           DW RUB MT  160104 190118 Urals FIP Nizhniy Novgorod Rb/Mt Calendar Month Index
+RA AAZHZ0300000c AAZHZ03c           MA RUB MT  160101 181201 Urals FIP Nizhniy Novgorod Rb/Mt Calendar Month Netback MAvg
+RA AAZHZ0300000h AAZHZ03h           MA RUB MT  160101 181201 Urals FIP Nizhniy Novgorod Rb/Mt Calendar Month Netback MAvg
+RA AAZHZ0300000l AAZHZ03l           MA RUB MT  160101 181201 Urals FIP Nizhniy Novgorod Rb/Mt Calendar Month Netback MAvg
+RA AAZIA0000000c AAZIA00c           DW RUB MT  160104 190118 Urals FIP Ryazan Rb/Mt Calendar Month Index
+RA AAZIA0000000h AAZIA00h           DW RUB MT  160104 190118 Urals FIP Ryazan Rb/Mt Calendar Month Index
+RA AAZIA0000000l AAZIA00l           DW RUB MT  160104 190118 Urals FIP Ryazan Rb/Mt Calendar Month Index
+RA AAZIA0300000c AAZIA03c           MA RUB MT  160101 181201 Urals FIP Ryazan Rb/Mt Calendar Month Netback MAvg
+RA AAZIA0300000h AAZIA03h           MA RUB MT  160101 181201 Urals FIP Ryazan Rb/Mt Calendar Month Netback MAvg
+RA AAZIA0300000l AAZIA03l           MA RUB MT  160101 181201 Urals FIP Ryazan Rb/Mt Calendar Month Netback MAvg
+RA AAZIB0000000c AAZIB00c           DW RUB MT  160104 190118 Urals FIP Samara Rb/Mt Calendar Month Index
+RA AAZIB0000000h AAZIB00h           DW RUB MT  160104 190118 Urals FIP Samara Rb/Mt Calendar Month Index
+RA AAZIB0000000l AAZIB00l           DW RUB MT  160104 190118 Urals FIP Samara Rb/Mt Calendar Month Index
+RA AAZIB0300000c AAZIB03c           MA RUB MT  160101 181201 Urals FIP Samara Rb/Mt Calendar Month Netback MAvg
+RA AAZIB0300000h AAZIB03h           MA RUB MT  160101 181201 Urals FIP Samara Rb/Mt Calendar Month Netback MAvg
+RA AAZIB0300000l AAZIB03l           MA RUB MT  160101 181201 Urals FIP Samara Rb/Mt Calendar Month Netback MAvg
+RA AAZIE0000000c AAZIE00c           DW RUB MT  160104 190118 Urals FIP Surgut Rb/Mt Calendar Month Index
+RA AAZIE0000000h AAZIE00h           DW RUB MT  160104 190118 Urals FIP Surgut Rb/Mt Calendar Month Index
+RA AAZIE0000000l AAZIE00l           DW RUB MT  160104 190118 Urals FIP Surgut Rb/Mt Calendar Month Index
+RA AAZIE0300000c AAZIE03c           MA RUB MT  160101 181201 Urals FIP Surgut Rb/Mt Calendar Month Netback MAvg
+RA AAZIE0300000h AAZIE03h           MA RUB MT  160101 181201 Urals FIP Surgut Rb/Mt Calendar Month Netback MAvg
+RA AAZIE0300000l AAZIE03l           MA RUB MT  160101 181201 Urals FIP Surgut Rb/Mt Calendar Month Netback MAvg
+RA AAZIF0000000c AAZIF00c           DW RUB MT  160104 190118 Urals FIP Ufa Rb/Mt Calendar Month Index
+RA AAZIF0000000h AAZIF00h           DW RUB MT  160104 190118 Urals FIP Ufa Rb/Mt Calendar Month Index
+RA AAZIF0000000l AAZIF00l           DW RUB MT  160104 190118 Urals FIP Ufa Rb/Mt Calendar Month Index
+RA AAZIF0300000c AAZIF03c           MA RUB MT  160101 181201 Urals FIP Ufa Rb/Mt Calendar Month Netback MAvg
+RA AAZIF0300000h AAZIF03h           MA RUB MT  160101 181201 Urals FIP Ufa Rb/Mt Calendar Month Netback MAvg
+RA AAZIF0300000l AAZIF03l           MA RUB MT  160101 181201 Urals FIP Ufa Rb/Mt Calendar Month Netback MAvg
+RA AAZIG0000000c AAZIG00c           DW RUB MT  160104 190118 Urals FIP Volgograd Rb/Mt Calendar Month Index
+RA AAZIG0000000h AAZIG00h           DW RUB MT  160104 190118 Urals FIP Volgograd Rb/Mt Calendar Month Index
+RA AAZIG0000000l AAZIG00l           DW RUB MT  160104 190118 Urals FIP Volgograd Rb/Mt Calendar Month Index
+RA AAZIG0300000c AAZIG03c           MA RUB MT  160101 181201 Urals FIP Volgograd Rb/Mt Calendar Month Netback MAvg
+RA AAZIG0300000h AAZIG03h           MA RUB MT  160101 181201 Urals FIP Volgograd Rb/Mt Calendar Month Netback MAvg
+RA AAZIG0300000l AAZIG03l           MA RUB MT  160101 181201 Urals FIP Volgograd Rb/Mt Calendar Month Netback MAvg
+RA AAZIH0000000c AAZIH00c           DW RUB MT  160104 190118 Urals FIP Yaroslavl Rb/Mt Calendar Month Index
+RA AAZIH0000000h AAZIH00h           DW RUB MT  160104 190118 Urals FIP Yaroslavl Rb/Mt Calendar Month Index
+RA AAZIH0000000l AAZIH00l           DW RUB MT  160104 190118 Urals FIP Yaroslavl Rb/Mt Calendar Month Index
+RA AAZIH0300000c AAZIH03c           MA RUB MT  160101 181201 Urals FIP Yaroslavl Rb/Mt Calendar Month Netback MAvg
+RA AAZIH0300000h AAZIH03h           MA RUB MT  160101 181201 Urals FIP Yaroslavl Rb/Mt Calendar Month Netback MAvg
+RA AAZIH0300000l AAZIH03l           MA RUB MT  160101 181201 Urals FIP Yaroslavl Rb/Mt Calendar Month Netback MAvg
+RA AAWGM0000000c AAWGM00c           DW RUB MT  120220 190118 Crude Pipeline Fee Nijnevartovsk to Ufa Rb/Mt
+RA AAWGN0000000c AAWGN00c           DW USD MT  120220 190118 Crude Transhipment Novorossiysk $/MT
+RA AAWGO0000000c AAWGO00c           DW USD MT  120220 190118 Crude Transhipment Primorsk $/MT
+RA AAWGP0000000c AAWGP00c           DW RUB MT  120220 190118 Crude Pipeline Fee Surgut to Moscow Rb/Mt
+RA AAWGQ0000000c AAWGQ00c           DW RUB MT  120220 190118 Crude Pipeline Fee Surgut to Nizhniy Novgorod Rb/Mt
+RA AAWGR0000000c AAWGR00c           DW RUB MT  120220 190118 Crude Pipeline Fee Surgut to Novorossiysk Rb/Mt
+RA AAWGZ0000000c AAWGZ00c           DW RUB MT  120220 190118 Crude Pipeline Fee Surgut to Primorsk Rb/Mt
+RA AAWHP0000000c AAWHP00c           DW RUB MT  120220 190118 Crude Pipeline Fee Surgut to Ryazan Rb/Mt
+RA AAWHQ0000000c AAWHQ00c           DW RUB MT  120220 190118 Crude Pipeline Fee Surgut to Samara Rb/Mt
+RA AAWHR0000000c AAWHR00c           DW RUB MT  120220 190118 Crude Pipeline Fee Surgut to Ufa Rb/Mt
+RA AAWHS0000000c AAWHS00c           DW RUB MT  120220 190118 Crude Pipeline Fee Surgut to Volgograd Rb/Mt
+RA AAWHT0000000c AAWHT00c           DW RUB MT  120220 190118 Crude Pipeline Fee Surgut to Yaroslavl Rb/Mt
+RA AAWHV0000000c AAWHV00c           DW RUB MT  120220 190118 Urals FIP Moscow Rb/Mt Mid-Month Index
+RA AAWHV0000000h AAWHV00h           DW RUB MT  120220 190118 Urals FIP Moscow Rb/Mt Mid-Month Index
+RA AAWHV0000000l AAWHV00l           DW RUB MT  120220 190118 Urals FIP Moscow Rb/Mt Mid-Month Index
+RA AAWHV0300000c AAWHV03c           MA RUB MT  120301 181201 Urals FIP Moscow Rb/Mt Mid-Month Index MAvg
+RA AAWHV0300000h AAWHV03h           MA RUB MT  120301 181201 Urals FIP Moscow Rb/Mt Mid-Month Index MAvg
+RA AAWHV0300000l AAWHV03l           MA RUB MT  120301 181201 Urals FIP Moscow Rb/Mt Mid-Month Index MAvg
+RA AAWHW0000000c AAWHW00c           DW RUB MT  120220 190118 Urals FIP Nizhnevartovsk Rb/Mt Mid-Month Index
+RA AAWHW0000000h AAWHW00h           DW RUB MT  120220 190118 Urals FIP Nizhnevartovsk Rb/Mt Mid-Month Index
+RA AAWHW0000000l AAWHW00l           DW RUB MT  120220 190118 Urals FIP Nizhnevartovsk Rb/Mt Mid-Month Index
+RA AAWHW0300000c AAWHW03c           MA RUB MT  120301 181201 Urals FIP Nizhnevartovsk Rb/Mt Mid-Month Index MAvg
+RA AAWHW0300000h AAWHW03h           MA RUB MT  120301 181201 Urals FIP Nizhnevartovsk Rb/Mt Mid-Month Index MAvg
+RA AAWHW0300000l AAWHW03l           MA RUB MT  120301 181201 Urals FIP Nizhnevartovsk Rb/Mt Mid-Month Index MAvg
+RA AAWHX0000000c AAWHX00c           DW RUB MT  120220 190118 Urals FIP Novorossiysk Rb/Mt Mid-Month Index
+RA AAWHX0000000h AAWHX00h           DW RUB MT  120220 190118 Urals FIP Novorossiysk Rb/Mt Mid-Month Index
+RA AAWHX0000000l AAWHX00l           DW RUB MT  120220 190118 Urals FIP Novorossiysk Rb/Mt Mid-Month Index
+RA AAWHX0300000c AAWHX03c           MA RUB MT  120301 181201 Urals FIP Novorossiysk Rb/Mt Mid-Month Index MAvg
+RA AAWHX0300000h AAWHX03h           MA RUB MT  120301 181201 Urals FIP Novorossiysk Rb/Mt Mid-Month Index MAvg
+RA AAWHX0300000l AAWHX03l           MA RUB MT  120301 181201 Urals FIP Novorossiysk Rb/Mt Mid-Month Index MAvg
+RA AAWHY0000000c AAWHY00c           DW RUB MT  120220 190118 Urals FIP Nizhniy Novgorod Rb/Mt Mid-Month Index
+RA AAWHY0000000h AAWHY00h           DW RUB MT  120220 190118 Urals FIP Nizhniy Novgorod Rb/Mt Mid-Month Index
+RA AAWHY0000000l AAWHY00l           DW RUB MT  120220 190118 Urals FIP Nizhniy Novgorod Rb/Mt Mid-Month Index
+RA AAWHY0300000c AAWHY03c           MA RUB MT  120301 181201 Urals FIP Nizhniy Novgorod Rb/Mt Mid-Month Index MAvg
+RA AAWHY0300000h AAWHY03h           MA RUB MT  120301 181201 Urals FIP Nizhniy Novgorod Rb/Mt Mid-Month Index MAvg
+RA AAWHY0300000l AAWHY03l           MA RUB MT  120301 181201 Urals FIP Nizhniy Novgorod Rb/Mt Mid-Month Index MAvg
+RA AAWHZ0000000c AAWHZ00c           DW RUB MT  120220 190118 Urals FIP Primorsk Rb/Mt Mid-Month Index
+RA AAWHZ0000000h AAWHZ00h           DW RUB MT  120220 190118 Urals FIP Primorsk Rb/Mt Mid-Month Index
+RA AAWHZ0000000l AAWHZ00l           DW RUB MT  120220 190118 Urals FIP Primorsk Rb/Mt Mid-Month Index
+RA AAWHZ0300000c AAWHZ03c           MA RUB MT  120301 181201 Urals FIP Primorsk Rb/Mt Mid-Month Index MAvg
+RA AAWHZ0300000h AAWHZ03h           MA RUB MT  120301 181201 Urals FIP Primorsk Rb/Mt Mid-Month Index MAvg
+RA AAWHZ0300000l AAWHZ03l           MA RUB MT  120301 181201 Urals FIP Primorsk Rb/Mt Mid-Month Index MAvg
+RA AAWIA0000000c AAWIA00c           DW RUB MT  120220 190118 Urals FIP Ryazan Rb/Mt Mid-Month Index
+RA AAWIA0000000h AAWIA00h           DW RUB MT  120220 190118 Urals FIP Ryazan Rb/Mt Mid-Month Index
+RA AAWIA0000000l AAWIA00l           DW RUB MT  120220 190118 Urals FIP Ryazan Rb/Mt Mid-Month Index
+RA AAWIA0300000c AAWIA03c           MA RUB MT  120301 181201 Urals FIP Ryazan Rb/Mt Mid-Month Index MAvg
+RA AAWIA0300000h AAWIA03h           MA RUB MT  120301 181201 Urals FIP Ryazan Rb/Mt Mid-Month Index MAvg
+RA AAWIA0300000l AAWIA03l           MA RUB MT  120301 181201 Urals FIP Ryazan Rb/Mt Mid-Month Index MAvg
+RA AAWIB0000000c AAWIB00c           DW RUB MT  120220 190118 Urals FIP Samara Rb/Mt Mid-Month Index
+RA AAWIB0000000h AAWIB00h           DW RUB MT  120220 190118 Urals FIP Samara Rb/Mt Mid-Month Index
+RA AAWIB0000000l AAWIB00l           DW RUB MT  120220 190118 Urals FIP Samara Rb/Mt Mid-Month Index
+RA AAWIB0300000c AAWIB03c           MA RUB MT  120301 181201 Urals FIP Samara Rb/Mt Mid-Month Index MAvg
+RA AAWIB0300000h AAWIB03h           MA RUB MT  120301 181201 Urals FIP Samara Rb/Mt Mid-Month Index MAvg
+RA AAWIB0300000l AAWIB03l           MA RUB MT  120301 181201 Urals FIP Samara Rb/Mt Mid-Month Index MAvg
+RA AAWIE0000000c AAWIE00c           DW RUB MT  120220 190118 Urals FIP Surgut Rb/Mt Mid-Month Index
+RA AAWIE0000000h AAWIE00h           DW RUB MT  120220 190118 Urals FIP Surgut Rb/Mt Mid-Month Index
+RA AAWIE0000000l AAWIE00l           DW RUB MT  120220 190118 Urals FIP Surgut Rb/Mt Mid-Month Index
+RA AAWIE0300000c AAWIE03c           MA RUB MT  120301 181201 Urals FIP Surgut Rb/Mt Mid-Month Index MAvg
+RA AAWIE0300000h AAWIE03h           MA RUB MT  120301 181201 Urals FIP Surgut Rb/Mt Mid-Month Index MAvg
+RA AAWIE0300000l AAWIE03l           MA RUB MT  120301 181201 Urals FIP Surgut Rb/Mt Mid-Month Index MAvg
+RA AAWIF0000000c AAWIF00c           DW RUB MT  120220 190118 Urals FIP Ufa Rb/Mt Mid-Month Index
+RA AAWIF0000000h AAWIF00h           DW RUB MT  120220 190118 Urals FIP Ufa Rb/Mt Mid-Month Index
+RA AAWIF0000000l AAWIF00l           DW RUB MT  120220 190118 Urals FIP Ufa Rb/Mt Mid-Month Index
+RA AAWIF0300000c AAWIF03c           MA RUB MT  120301 181201 Urals FIP Ufa Rb/Mt Mid-Month Index MAvg
+RA AAWIF0300000h AAWIF03h           MA RUB MT  120301 181201 Urals FIP Ufa Rb/Mt Mid-Month Index MAvg
+RA AAWIF0300000l AAWIF03l           MA RUB MT  120301 181201 Urals FIP Ufa Rb/Mt Mid-Month Index MAvg
+RA AAWIG0000000c AAWIG00c           DW RUB MT  120220 190118 Urals FIP Volgograd Rb/Mt Mid-Month Index
+RA AAWIG0000000h AAWIG00h           DW RUB MT  120220 190118 Urals FIP Volgograd Rb/Mt Mid-Month Index
+RA AAWIG0000000l AAWIG00l           DW RUB MT  120220 190118 Urals FIP Volgograd Rb/Mt Mid-Month Index
+RA AAWIG0300000c AAWIG03c           MA RUB MT  120301 181201 Urals FIP Volgograd Rb/Mt Mid-Month Index MAvg
+RA AAWIG0300000h AAWIG03h           MA RUB MT  120301 181201 Urals FIP Volgograd Rb/Mt Mid-Month Index MAvg
+RA AAWIG0300000l AAWIG03l           MA RUB MT  120301 181201 Urals FIP Volgograd Rb/Mt Mid-Month Index MAvg
+RA AAWIH0000000c AAWIH00c           DW RUB MT  120220 190118 Urals FIP Yaroslavl Rb/Mt Mid-Month Index
+RA AAWIH0000000h AAWIH00h           DW RUB MT  120220 190118 Urals FIP Yaroslavl Rb/Mt Mid-Month Index
+RA AAWIH0000000l AAWIH00l           DW RUB MT  120220 190118 Urals FIP Yaroslavl Rb/Mt Mid-Month Index
+RA AAWIH0300000c AAWIH03c           MA RUB MT  120301 181201 Urals FIP Yaroslavl Rb/Mt Mid-Month Index MAvg
+RA AAWIH0300000h AAWIH03h           MA RUB MT  120301 181201 Urals FIP Yaroslavl Rb/Mt Mid-Month Index MAvg
+RA AAWIH0300000l AAWIH03l           MA RUB MT  120301 181201 Urals FIP Yaroslavl Rb/Mt Mid-Month Index MAvg

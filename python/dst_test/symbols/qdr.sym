@@ -1,0 +1,1361 @@
+QDR                                                           © 2019 by S&P Global Inc.,190119
+QDR QB3BP2500000c QB3BP25c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo25
+QDR QB3BP2600000c QB3BP26c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo26
+QDR QB3BP2700000c QB3BP27c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo27
+QDR QB3BP2800000c QB3BP28c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo28
+QDR QB3BP2900000c QB3BP29c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo29
+QDR QB3BP3000000c QB3BP30c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo30
+QDR QB3BP3100000c QB3BP31c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo31
+QDR QB3BP3200000c QB3BP32c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo32
+QDR QB3BP3300000c QB3BP33c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo33
+QDR QB3BP3400000c QB3BP34c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo34
+QDR QB3BP3500000c QB3BP35c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo35
+QDR QB3BP3600000c QB3BP36c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo36
+QDR QB3BQ0100000c QB3BQ01c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Qr01
+QDR QB3BQ0200000c QB3BQ02c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Qr02
+QDR QB3BQ0300000c QB3BQ03c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Qr03
+QDR QB3BQ0400000c QB3BQ04c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Qr04
+QDR QB3BQ0500000c QB3BQ05c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Qr05
+QDR QB3BQ0600000c QB3BQ06c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Qr06
+QDR QB3BQ0700000c QB3BQ07c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Qr07
+QDR QB3BQ0800000c QB3BQ08c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Qr08
+QDR QB3BY0100000c QB3BY01c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Yr01
+QDR QB3BY0200000c QB3BY02c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Yr02
+QDR QALBM0100000c QALBM01c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo01
+QDR QALBM0200000c QALBM02c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo02
+QDR QALBM0300000c QALBM03c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo03
+QDR QALBM0400000c QALBM04c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo04
+QDR QALBM0500000c QALBM05c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo05
+QDR QALBM0600000c QALBM06c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo06
+QDR QALBM0700000c QALBM07c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo07
+QDR QALBM0800000c QALBM08c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo08
+QDR QALBM0900000c QALBM09c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo09
+QDR QALBM1000000c QALBM10c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo10
+QDR QALBM1100000c QALBM11c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo11
+QDR QALBM1200000c QALBM12c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo12
+QDR QALBM1300000c QALBM13c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo13
+QDR QALBM1400000c QALBM14c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo14
+QDR QALBM1500000c QALBM15c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo15
+QDR QALBM1600000c QALBM16c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo16
+QDR QALBM1700000c QALBM17c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo17
+QDR QALBM1800000c QALBM18c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo18
+QDR QALBM1900000c QALBM19c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo19
+QDR QALBM2000000c QALBM20c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo20
+QDR QALBM2100000c QALBM21c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo21
+QDR QALBM2200000c QALBM22c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo22
+QDR QALBM2300000c QALBM23c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo23
+QDR QALBM2400000c QALBM24c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo24
+QDR QALBM2500000c QALBM25c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo25
+QDR QALBM2600000c QALBM26c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo26
+QDR QALBM2700000c QALBM27c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo27
+QDR QALBM2800000c QALBM28c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo28
+QDR QALBM2900000c QALBM29c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo29
+QDR QALBM3000000c QALBM30c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo30
+QDR QALBM3100000c QALBM31c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo31
+QDR QALBM3200000c QALBM32c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo32
+QDR QALBM3300000c QALBM33c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo33
+QDR QALBM3400000c QALBM34c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo34
+QDR QALBM3500000c QALBM35c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo35
+QDR QALBM3600000c QALBM36c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo Brent crack at London MOC M2M Financial Mo36
+QDR QALDM0100000c QALDM01c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo01
+QDR QALDM0200000c QALDM02c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo02
+QDR QALDM0300000c QALDM03c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo03
+QDR QALDM0400000c QALDM04c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo04
+QDR QALDM0500000c QALDM05c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo05
+QDR QALDM0600000c QALDM06c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo06
+QDR QALDM0700000c QALDM07c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo07
+QDR QALDM0800000c QALDM08c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo08
+QDR QALDM0900000c QALDM09c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo09
+QDR QALDM1000000c QALDM10c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo10
+QDR QALDM1100000c QALDM11c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo11
+QDR QALDM1200000c QALDM12c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo12
+QDR QALDM1300000c QALDM13c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo13
+QDR QALDM1400000c QALDM14c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo14
+QDR QALDM1500000c QALDM15c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo15
+QDR QALDM1600000c QALDM16c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo16
+QDR QALDM1700000c QALDM17c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo17
+QDR QALDM1800000c QALDM18c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo18
+QDR QALDM1900000c QALDM19c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo19
+QDR QALDM2000000c QALDM20c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo20
+QDR QALDM2100000c QALDM21c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo21
+QDR QALDM2200000c QALDM22c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo22
+QDR QALDM2300000c QALDM23c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo23
+QDR QALDM2400000c QALDM24c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo24
+QDR QALDM2500000c QALDM25c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo25
+QDR QALDM2600000c QALDM26c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo26
+QDR QALDM2700000c QALDM27c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo27
+QDR QALDM2800000c QALDM28c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo28
+QDR QALDM2900000c QALDM29c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo29
+QDR QALDM3000000c QALDM30c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo30
+QDR QALDM3100000c QALDM31c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo31
+QDR QALDM3200000c QALDM32c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo32
+QDR QALDM3300000c QALDM33c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo33
+QDR QALDM3400000c QALDM34c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo34
+QDR QALDM3500000c QALDM35c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo35
+QDR QALDM3600000c QALDM36c           DW USD BBL 171031 190118 Gasoil FOB Spore Dubai crack at London MOC M2M Financial Mo36
+QDR QASLM0100000c QASLM01c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo01
+QDR QASLM0200000c QASLM02c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo02
+QDR QASLM0300000c QASLM03c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo03
+QDR QASLM0400000c QASLM04c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo04
+QDR QASLM0500000c QASLM05c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo05
+QDR QASLM0600000c QASLM06c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo06
+QDR QASLM0700000c QASLM07c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo07
+QDR QASLM0800000c QASLM08c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo08
+QDR QASLM0900000c QASLM09c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo09
+QDR QASLM1000000c QASLM10c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo10
+QDR QASLM1100000c QASLM11c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo11
+QDR QASLM1200000c QASLM12c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo12
+QDR QASLM1300000c QASLM13c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo13
+QDR QASLM1400000c QASLM14c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo14
+QDR QASLM1500000c QASLM15c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo15
+QDR QASLM1600000c QASLM16c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo16
+QDR QASLM1700000c QASLM17c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo17
+QDR QASLM1800000c QASLM18c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo18
+QDR QASLM1900000c QASLM19c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo19
+QDR QASLM2000000c QASLM20c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo20
+QDR QASLM2100000c QASLM21c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo21
+QDR QASLM2200000c QASLM22c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo22
+QDR QASLM2300000c QASLM23c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo23
+QDR QASLM2400000c QASLM24c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo24
+QDR QASLM2500000c QASLM25c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo25
+QDR QASLM2600000c QASLM26c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo26
+QDR QASLM2700000c QASLM27c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo27
+QDR QASLM2800000c QASLM28c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo28
+QDR QASLM2900000c QASLM29c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo29
+QDR QASLM3000000c QASLM30c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo30
+QDR QASLM3100000c QASLM31c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo31
+QDR QASLM3200000c QASLM32c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo32
+QDR QASLM3300000c QASLM33c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo33
+QDR QASLM3400000c QASLM34c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo34
+QDR QASLM3500000c QASLM35c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo35
+QDR QASLM3600000c QASLM36c           DW USD BBL 171031 190118 Gasoil FOB Spore Cargo at London MOC USD/BBL M2M Financial Mo36
+QDR QASTM0100000c QASTM01c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo01
+QDR QASTM0200000c QASTM02c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo02
+QDR QASTM0300000c QASTM03c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo03
+QDR QASTM0400000c QASTM04c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo04
+QDR QASTM0500000c QASTM05c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo05
+QDR QASTM0600000c QASTM06c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo06
+QDR QASTM0700000c QASTM07c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo07
+QDR QASTM0800000c QASTM08c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo08
+QDR QASTM0900000c QASTM09c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo09
+QDR QASTM1000000c QASTM10c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo10
+QDR QASTM1100000c QASTM11c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo11
+QDR QASTM1200000c QASTM12c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo12
+QDR QASTM1300000c QASTM13c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo13
+QDR QASTM1400000c QASTM14c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo14
+QDR QASTM1500000c QASTM15c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo15
+QDR QASTM1600000c QASTM16c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo16
+QDR QASTM1700000c QASTM17c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo17
+QDR QASTM1800000c QASTM18c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo18
+QDR QASTM1900000c QASTM19c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo19
+QDR QASTM2000000c QASTM20c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo20
+QDR QASTM2100000c QASTM21c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo21
+QDR QASTM2200000c QASTM22c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo22
+QDR QASTM2300000c QASTM23c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo23
+QDR QASTM2400000c QASTM24c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo24
+QDR QASTM2500000c QASTM25c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo25
+QDR QASTM2600000c QASTM26c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo26
+QDR QASTM2700000c QASTM27c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo27
+QDR QASTM2800000c QASTM28c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo28
+QDR QASTM2900000c QASTM29c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo29
+QDR QASTM3000000c QASTM30c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo30
+QDR QASTM3100000c QASTM31c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo31
+QDR QASTM3200000c QASTM32c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo32
+QDR QASTM3300000c QASTM33c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo33
+QDR QASTM3400000c QASTM34c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo34
+QDR QASTM3500000c QASTM35c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo35
+QDR QASTM3600000c QASTM36c           DW USD MT  171031 190118 Gasoil FOB Spore Cargo at London MOC USD/MT M2M Financial Mo36
+QDR QB3BP0100000c QB3BP01c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo01
+QDR QB3BP0200000c QB3BP02c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo02
+QDR QB3BP0300000c QB3BP03c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo03
+QDR QB3BP0400000c QB3BP04c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo04
+QDR QB3BP0500000c QB3BP05c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo05
+QDR QB3BP0600000c QB3BP06c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo06
+QDR QB3BP0700000c QB3BP07c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo07
+QDR QB3BP0800000c QB3BP08c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo08
+QDR QB3BP0900000c QB3BP09c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo09
+QDR QB3BP1000000c QB3BP10c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo10
+QDR QB3BP1100000c QB3BP11c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo11
+QDR QB3BP1200000c QB3BP12c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo12
+QDR QB3BP1300000c QB3BP13c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo13
+QDR QB3BP1400000c QB3BP14c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo14
+QDR QB3BP1500000c QB3BP15c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo15
+QDR QB3BP1600000c QB3BP16c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo16
+QDR QB3BP1700000c QB3BP17c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo17
+QDR QB3BP1800000c QB3BP18c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo18
+QDR QB3BP1900000c QB3BP19c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo19
+QDR QB3BP2000000c QB3BP20c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo20
+QDR QB3BP2100000c QB3BP21c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo21
+QDR QB3BP2200000c QB3BP22c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo22
+QDR QB3BP2300000c QB3BP23c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo23
+QDR QB3BP2400000c QB3BP24c           DW USD MT  160808 190118 Bunker FO 380 CTS 3.5% Dlvd Gibraltar M2M Financial Mo24
+QDR QJSLM2600000c QJSLM26c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo26
+QDR QJSLM2700000c QJSLM27c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo27
+QDR QJSLM2800000c QJSLM28c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo28
+QDR QJSLM2900000c QJSLM29c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo29
+QDR QJSLM3000000c QJSLM30c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo30
+QDR QJSLM3100000c QJSLM31c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo31
+QDR QJSLM3200000c QJSLM32c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo32
+QDR QJSLM3300000c QJSLM33c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo33
+QDR QJSLM3400000c QJSLM34c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo34
+QDR QJSLM3500000c QJSLM35c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo35
+QDR QJSLM3600000c QJSLM36c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo36
+QDR QJSTM0100000c QJSTM01c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo01
+QDR QJSTM0200000c QJSTM02c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo02
+QDR QJSTM0300000c QJSTM03c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo03
+QDR QJSTM0400000c QJSTM04c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo04
+QDR QJSTM0500000c QJSTM05c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo05
+QDR QJSTM0600000c QJSTM06c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo06
+QDR QJSTM0700000c QJSTM07c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo07
+QDR QJSTM0800000c QJSTM08c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo08
+QDR QJSTM0900000c QJSTM09c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo09
+QDR QSTFM0100000c QSTFM01c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo01
+QDR QSTFM0200000c QSTFM02c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo02
+QDR QSTFM0300000c QSTFM03c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo03
+QDR QSTFM0400000c QSTFM04c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo04
+QDR QSTFM0500000c QSTFM05c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo05
+QDR QSTFM0600000c QSTFM06c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo06
+QDR QSTFM0700000c QSTFM07c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo07
+QDR QSTFM0800000c QSTFM08c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo08
+QDR QSTFM0900000c QSTFM09c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo09
+QDR QSTFM1000000c QSTFM10c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo10
+QDR QSTFM1100000c QSTFM11c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo11
+QDR QSTFM1200000c QSTFM12c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo12
+QDR QSTFM1300000c QSTFM13c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo13
+QDR QSTFM1400000c QSTFM14c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo14
+QDR QSTFM1500000c QSTFM15c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo15
+QDR QSTFM1600000c QSTFM16c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo16
+QDR QSTFM1700000c QSTFM17c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo17
+QDR QSTFM1800000c QSTFM18c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo18
+QDR QSTFM1900000c QSTFM19c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo19
+QDR QSTFM2000000c QSTFM20c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo20
+QDR QSTFM2100000c QSTFM21c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo21
+QDR QSTFM2200000c QSTFM22c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo22
+QDR QSTFM2300000c QSTFM23c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo23
+QDR QSTFM2400000c QSTFM24c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo24
+QDR QSTFM2500000c QSTFM25c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo25
+QDR QSTFM2600000c QSTFM26c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo26
+QDR QSTFM2700000c QSTFM27c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo27
+QDR QSTFM2800000c QSTFM28c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo28
+QDR QSTFM2900000c QSTFM29c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo29
+QDR QSTFM3000000c QSTFM30c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo30
+QDR QSTFM3100000c QSTFM31c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo31
+QDR QSTFM3200000c QSTFM32c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo32
+QDR QSTFM3300000c QSTFM33c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo33
+QDR QUFAP2500000c QUFAP25c           DW USD MT  160808 190118 ULSD 10ppmS FOB ARA Barge M2M Financial Mo25
+QDR QUFAP2600000c QUFAP26c           DW USD MT  160808 190118 ULSD 10ppmS FOB ARA Barge M2M Financial Mo26
+QDR QUFAP2700000c QUFAP27c           DW USD MT  160808 190118 ULSD 10ppmS FOB ARA Barge M2M Financial Mo27
+QDR QUFAP2800000c QUFAP28c           DW USD MT  160808 190118 ULSD 10ppmS FOB ARA Barge M2M Financial Mo28
+QDR QUFAP2900000c QUFAP29c           DW USD MT  160808 190118 ULSD 10ppmS FOB ARA Barge M2M Financial Mo29
+QDR QUFAP3000000c QUFAP30c           DW USD MT  160808 190118 ULSD 10ppmS FOB ARA Barge M2M Financial Mo30
+QDR QUFAP3100000c QUFAP31c           DW USD MT  160808 190118 ULSD 10ppmS FOB ARA Barge M2M Financial Mo31
+QDR QUFAP3200000c QUFAP32c           DW USD MT  160808 190118 ULSD 10ppmS FOB ARA Barge M2M Financial Mo32
+QDR QUFAP3300000c QUFAP33c           DW USD MT  160808 190118 ULSD 10ppmS FOB ARA Barge M2M Financial Mo33
+QDR QUFAP3400000c QUFAP34c           DW USD MT  160808 190118 ULSD 10ppmS FOB ARA Barge M2M Financial Mo34
+QDR QUFAP3500000c QUFAP35c           DW USD MT  160808 190118 ULSD 10ppmS FOB ARA Barge M2M Financial Mo35
+QDR QUFAP3600000c QUFAP36c           DW USD MT  160808 190118 ULSD 10ppmS FOB ARA Barge M2M Financial Mo36
+QDR QVGFM1700000c QVGFM17c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo17
+QDR QVGFM1800000c QVGFM18c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo18
+QDR QVGFM1900000c QVGFM19c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo19
+QDR QVGFM2000000c QVGFM20c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo20
+QDR QVGFM2100000c QVGFM21c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo21
+QDR QVGFM2200000c QVGFM22c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo22
+QDR QVGFM2300000c QVGFM23c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo23
+QDR QVGFM2400000c QVGFM24c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo24
+QDR QVGFM2500000c QVGFM25c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo25
+QDR QVGFM2600000c QVGFM26c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo26
+QDR QVGFM2700000c QVGFM27c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo27
+QDR QVGFM2800000c QVGFM28c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo28
+QDR QVGFM2900000c QVGFM29c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo29
+QDR QVGFM3000000c QVGFM30c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo30
+QDR QVGFM3100000c QVGFM31c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo31
+QDR QVGFM3200000c QVGFM32c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo32
+QDR QVGFM3300000c QVGFM33c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo33
+QDR QVGFM3400000c QVGFM34c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo34
+QDR QVGFM3500000c QVGFM35c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo35
+QDR QVGFM3600000c QVGFM36c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo36
+QDR QJSTM1000000c QJSTM10c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo10
+QDR QJSTM1100000c QJSTM11c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo11
+QDR QJSTM1200000c QJSTM12c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo12
+QDR QJSTM1300000c QJSTM13c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo13
+QDR QJSTM1400000c QJSTM14c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo14
+QDR QJSTM1500000c QJSTM15c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo15
+QDR QJSTM1600000c QJSTM16c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo16
+QDR QJSTM1700000c QJSTM17c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo17
+QDR QJSTM1800000c QJSTM18c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo18
+QDR QJSTM1900000c QJSTM19c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo19
+QDR QJSTM2000000c QJSTM20c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo20
+QDR QJSTM2100000c QJSTM21c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo21
+QDR QJSTM2200000c QJSTM22c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo22
+QDR QJSTM2300000c QJSTM23c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo23
+QDR QJSTM2400000c QJSTM24c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo24
+QDR QJSTM2500000c QJSTM25c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo25
+QDR QJSTM2600000c QJSTM26c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo26
+QDR QJSTM2700000c QJSTM27c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo27
+QDR QJSTM2800000c QJSTM28c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo28
+QDR QJSTM2900000c QJSTM29c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo29
+QDR QJSTM3000000c QJSTM30c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo30
+QDR QJSTM3100000c QJSTM31c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo31
+QDR QJSTM3200000c QJSTM32c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo32
+QDR QJSTM3300000c QJSTM33c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo33
+QDR QJSTM3400000c QJSTM34c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo34
+QDR QJSTM3500000c QJSTM35c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo35
+QDR QJSTM3600000c QJSTM36c           DW USD MT  171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/MT Mo36
+QDR QSTFM3400000c QSTFM34c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo34
+QDR QSTFM3500000c QSTFM35c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo35
+QDR QSTFM3600000c QSTFM36c           DW USD MT  181210 190118 Straight Run 0.5-0.7%S FOB NWE cargo M2M Financial Mo36
+QDR QJCNP0100000c QJCNP01c           DW USD MT                Jet CIF NWE Cargo Mo01
+QDR QJCNP0200000c QJCNP02c           DW USD MT                Jet CIF NWE Cargo Mo02
+QDR QJCNP0300000c QJCNP03c           DW USD MT                Jet CIF NWE Cargo Mo03
+QDR QJCNP0400000c QJCNP04c           DW USD MT                Jet CIF NWE Cargo Mo04
+QDR QJCNP0500000c QJCNP05c           DW USD MT                Jet CIF NWE Cargo Mo05
+QDR QJCNP0600000c QJCNP06c           DW USD MT                Jet CIF NWE Cargo Mo06
+QDR QJCNP0700000c QJCNP07c           DW USD MT                Jet CIF NWE Cargo Mo07
+QDR QJCNP0800000c QJCNP08c           DW USD MT                Jet CIF NWE Cargo Mo08
+QDR QJCNP0900000c QJCNP09c           DW USD MT                Jet CIF NWE Cargo Mo09
+QDR QJCNP1000000c QJCNP10c           DW USD MT                Jet CIF NWE Cargo Mo10
+QDR QJCNP1100000c QJCNP11c           DW USD MT                Jet CIF NWE Cargo Mo11
+QDR QJCNP1200000c QJCNP12c           DW USD MT                Jet CIF NWE Cargo Mo12
+QDR QJCNP1300000c QJCNP13c           DW USD MT                Jet CIF NWE Cargo Mo13
+QDR QJCNP1400000c QJCNP14c           DW USD MT                Jet CIF NWE Cargo Mo14
+QDR QJCNP1500000c QJCNP15c           DW USD MT                Jet CIF NWE Cargo Mo15
+QDR QJCNP1600000c QJCNP16c           DW USD MT                Jet CIF NWE Cargo Mo16
+QDR QJCNP1700000c QJCNP17c           DW USD MT                Jet CIF NWE Cargo Mo17
+QDR QJCNP1800000c QJCNP18c           DW USD MT                Jet CIF NWE Cargo Mo18
+QDR QJCNP1900000c QJCNP19c           DW USD MT                Jet CIF NWE Cargo Mo19
+QDR QJCNP2000000c QJCNP20c           DW USD MT                Jet CIF NWE Cargo Mo20
+QDR QJCNP2100000c QJCNP21c           DW USD MT                Jet CIF NWE Cargo Mo21
+QDR QJCNP2200000c QJCNP22c           DW USD MT                Jet CIF NWE Cargo Mo22
+QDR QJCNP2300000c QJCNP23c           DW USD MT                Jet CIF NWE Cargo Mo23
+QDR QJCNP2400000c QJCNP24c           DW USD MT                Jet CIF NWE Cargo Mo24
+QDR QJCNP2500000c QJCNP25c           DW USD MT                Jet CIF NWE Cargo Mo25
+QDR QJCNP2600000c QJCNP26c           DW USD MT                Jet CIF NWE Cargo Mo26
+QDR QJCNP2700000c QJCNP27c           DW USD MT                Jet CIF NWE Cargo Mo27
+QDR QJCNP2800000c QJCNP28c           DW USD MT                Jet CIF NWE Cargo Mo28
+QDR QJCNP2900000c QJCNP29c           DW USD MT                Jet CIF NWE Cargo Mo29
+QDR QJCNP3000000c QJCNP30c           DW USD MT                Jet CIF NWE Cargo Mo30
+QDR QJCNP3100000c QJCNP31c           DW USD MT                Jet CIF NWE Cargo Mo31
+QDR QJCNP3200000c QJCNP32c           DW USD MT                Jet CIF NWE Cargo Mo32
+QDR QJCNP3300000c QJCNP33c           DW USD MT                Jet CIF NWE Cargo Mo33
+QDR QJCNP3400000c QJCNP34c           DW USD MT                Jet CIF NWE Cargo Mo34
+QDR QJCNP3500000c QJCNP35c           DW USD MT                Jet CIF NWE Cargo Mo35
+QDR QJCNP3600000c QJCNP36c           DW USD MT                Jet CIF NWE Cargo Mo36
+QDR QJDFP0100000c QJDFP01c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo01
+QDR QJDFP0200000c QJDFP02c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo02
+QDR QJDFP0300000c QJDFP03c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo03
+QDR QJDFP0400000c QJDFP04c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo04
+QDR QJDFP0500000c QJDFP05c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo05
+QDR QJDFP0600000c QJDFP06c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo06
+QDR QJDFP0700000c QJDFP07c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo07
+QDR QJDFP0800000c QJDFP08c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo08
+QDR QJDFP0900000c QJDFP09c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo09
+QDR QJDFP1000000c QJDFP10c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo10
+QDR QJDFP1100000c QJDFP11c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo11
+QDR QJDFP1200000c QJDFP12c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo12
+QDR QJDFP1300000c QJDFP13c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo13
+QDR QJDFP1400000c QJDFP14c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo14
+QDR QJDFP1500000c QJDFP15c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo15
+QDR QJDFP1600000c QJDFP16c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo16
+QDR QJDFP1700000c QJDFP17c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo17
+QDR QJDFP1800000c QJDFP18c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo18
+QDR QJDFP1900000c QJDFP19c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo19
+QDR QJDFP2000000c QJDFP20c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo20
+QDR QJDFP2100000c QJDFP21c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo21
+QDR QJDFP2200000c QJDFP22c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo22
+QDR QJDFP2300000c QJDFP23c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo23
+QDR QJDFP2400000c QJDFP24c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo24
+QDR QJDFP2500000c QJDFP25c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo25
+QDR QJDFP2600000c QJDFP26c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo26
+QDR QJDFP2700000c QJDFP27c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo27
+QDR QJDFP2800000c QJDFP28c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo28
+QDR QB3RP0100000c QB3RP01c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo01
+QDR QB3RP0200000c QB3RP02c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo02
+QDR QB3RP0300000c QB3RP03c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo03
+QDR QB3RP0400000c QB3RP04c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo04
+QDR QB3RP0500000c QB3RP05c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo05
+QDR QB3RP0600000c QB3RP06c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo06
+QDR QB3RP0700000c QB3RP07c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo07
+QDR QB3RP0800000c QB3RP08c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo08
+QDR QB3RP0900000c QB3RP09c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo09
+QDR QB3RP1000000c QB3RP10c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo10
+QDR QB3RP1100000c QB3RP11c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo11
+QDR QB3RP1200000c QB3RP12c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo12
+QDR QB3RP1300000c QB3RP13c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo13
+QDR QB3RP1400000c QB3RP14c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo14
+QDR QB3RP1500000c QB3RP15c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo15
+QDR QB3RP1600000c QB3RP16c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo16
+QDR QB3RP1700000c QB3RP17c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo17
+QDR QB3RP1800000c QB3RP18c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo18
+QDR QB3RP1900000c QB3RP19c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo19
+QDR QB3RP2000000c QB3RP20c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo20
+QDR QB3RP2100000c QB3RP21c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo21
+QDR QB3RP2200000c QB3RP22c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo22
+QDR QB3RP2300000c QB3RP23c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo23
+QDR QB3RP2400000c QB3RP24c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo24
+QDR QB3RP2500000c QB3RP25c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo25
+QDR QB3RP2600000c QB3RP26c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo26
+QDR QB3RP2700000c QB3RP27c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo27
+QDR QB3RP2800000c QB3RP28c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo28
+QDR QB3RP2900000c QB3RP29c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo29
+QDR QB3RP3000000c QB3RP30c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo30
+QDR QB3RP3100000c QB3RP31c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo31
+QDR QB3RP3200000c QB3RP32c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo32
+QDR QB3RP3300000c QB3RP33c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo33
+QDR QB3RP3400000c QB3RP34c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo34
+QDR QB3RP3500000c QB3RP35c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo35
+QDR QB3RP3600000c QB3RP36c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Mo36
+QDR QF1MB0000000c QF1MB00c           DW USD MT                FO 1%S CIF Med Cargo BalMo
+QDR QF1MP0100000c QF1MP01c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo01
+QDR QF1MP0200000c QF1MP02c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo02
+QDR QF1MP0300000c QF1MP03c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo03
+QDR QF1MP0400000c QF1MP04c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo04
+QDR QF1MP0500000c QF1MP05c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo05
+QDR QF1MP0600000c QF1MP06c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo06
+QDR QF1MP0700000c QF1MP07c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo07
+QDR QF1MP0800000c QF1MP08c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo08
+QDR QF1MP0900000c QF1MP09c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo09
+QDR QF1MP1000000c QF1MP10c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo10
+QDR QF1MP1100000c QF1MP11c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo11
+QDR QF1MP1200000c QF1MP12c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo12
+QDR QF1MP1300000c QF1MP13c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo13
+QDR QJDFP2900000c QJDFP29c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo29
+QDR QJDFP3000000c QJDFP30c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo30
+QDR QJDFP3100000c QJDFP31c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo31
+QDR QJDFP3200000c QJDFP32c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo32
+QDR QJDFP3300000c QJDFP33c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo33
+QDR QJDFP3400000c QJDFP34c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo34
+QDR QJDFP3500000c QJDFP35c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo35
+QDR QJDFP3600000c QJDFP36c           DW USD MT                Jet Kero CIF NWE vs Gasoil (Jet Diff) Mo36
+QDR QB3RQ0100000c QB3RQ01c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Qr01
+QDR QB3RQ0200000c QB3RQ02c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Qr02
+QDR QB3RQ0300000c QB3RQ03c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Qr03
+QDR QB3RQ0400000c QB3RQ04c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Qr04
+QDR QB3RQ0500000c QB3RQ05c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Qr05
+QDR QB3RQ0600000c QB3RQ06c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Qr06
+QDR QB3RQ0700000c QB3RQ07c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Qr07
+QDR QB3RQ0800000c QB3RQ08c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Qr08
+QDR QB3RY0100000c QB3RY01c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Yr01
+QDR QB3RY0200000c QB3RY02c           DW USD MT  160808 190118 Bunker FO 380 CST 3.5% Dvld Rotterdam M2M Financial Yr02
+QDR QF1MP1500000c QF1MP15c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo15
+QDR QF1MP1600000c QF1MP16c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo16
+QDR QF1MP1700000c QF1MP17c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo17
+QDR QF1MP1800000c QF1MP18c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo18
+QDR QF1MP1900000c QF1MP19c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo19
+QDR QF1MP2000000c QF1MP20c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo20
+QDR QF1MP2100000c QF1MP21c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo21
+QDR QF1MP2200000c QF1MP22c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo22
+QDR QF1MP2300000c QF1MP23c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo23
+QDR QF1MP2400000c QF1MP24c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo24
+QDR QF1MP2500000c QF1MP25c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo25
+QDR QF1MP2600000c QF1MP26c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo26
+QDR QF1MP2700000c QF1MP27c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo27
+QDR QF1MP2800000c QF1MP28c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo28
+QDR QF1MP2900000c QF1MP29c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo29
+QDR QF1MP3000000c QF1MP30c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo30
+QDR QF1MP3100000c QF1MP31c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo31
+QDR QF1MP3200000c QF1MP32c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo32
+QDR QF1MP3300000c QF1MP33c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo33
+QDR QF1MP3400000c QF1MP34c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo34
+QDR QF1MP3500000c QF1MP35c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo35
+QDR QF1MP3600000c QF1MP36c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo36
+QDR QF1MQ0100000c QF1MQ01c           DW USD MT  160808 190118 FO 1%S CIF MED Cargo M2M Financial Qr01
+QDR QF1MQ0200000c QF1MQ02c           DW USD MT  160808 190118 FO 1%S CIF MED Cargo M2M Financial Qr02
+QDR QF1MQ0300000c QF1MQ03c           DW USD MT  160808 190118 FO 1%S CIF MED Cargo M2M Financial Qr03
+QDR QF1MQ0400000c QF1MQ04c           DW USD MT  160808 190118 FO 1%S CIF MED Cargo M2M Financial Qr04
+QDR QF1MQ0500000c QF1MQ05c           DW USD MT  160808 190118 FO 1%S CIF MED Cargo M2M Financial Qr05
+QDR QF1MQ0600000c QF1MQ06c           DW USD MT  160808 190118 FO 1%S CIF MED Cargo M2M Financial Qr06
+QDR QF1MQ0700000c QF1MQ07c           DW USD MT  160808 190118 FO 1%S CIF MED Cargo M2M Financial Qr07
+QDR QF1MQ0800000c QF1MQ08c           DW USD MT  160808 190118 FO 1%S CIF MED Cargo M2M Financial Qr08
+QDR QF1MY0100000c QF1MY01c           DW USD MT  160808 190118 FO 1%S CIF MED Cargo M2M Financial Yr01
+QDR QF1MY0200000c QF1MY02c           DW USD MT  160808 190118 FO 1%S CIF MED Cargo M2M Financial Yr02
+QDR QF1MP1400000c QF1MP14c           DW USD MT  160311 190118 FO 1%S CIF MED Cargo M2M Financial Mo14
+QDR QGLBM0100000c QGLBM01c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo01
+QDR QGLBM0200000c QGLBM02c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo02
+QDR QGLBM0300000c QGLBM03c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo03
+QDR QGLBM0400000c QGLBM04c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo04
+QDR QGLBM0500000c QGLBM05c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo05
+QDR QGLBM0600000c QGLBM06c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo06
+QDR QGLBM0700000c QGLBM07c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo07
+QDR QGLBM0800000c QGLBM08c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo08
+QDR QGLBM0900000c QGLBM09c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo09
+QDR QGLBM1000000c QGLBM10c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo10
+QDR QGLBM1100000c QGLBM11c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo11
+QDR QGLBM1200000c QGLBM12c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo12
+QDR QGLBM1300000c QGLBM13c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo13
+QDR QGLBM1400000c QGLBM14c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo14
+QDR QGLBM1500000c QGLBM15c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo15
+QDR QGLBM1600000c QGLBM16c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo16
+QDR QGLBM1700000c QGLBM17c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo17
+QDR QGLBM1800000c QGLBM18c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo18
+QDR QGLBM1900000c QGLBM19c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo19
+QDR QGLBM2000000c QGLBM20c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo20
+QDR QGLBM2100000c QGLBM21c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo21
+QDR QGLBM2200000c QGLBM22c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo22
+QDR QGLBM2300000c QGLBM23c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo23
+QDR QGLBM2400000c QGLBM24c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo24
+QDR QGLBM2500000c QGLBM25c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo25
+QDR QGLBM2600000c QGLBM26c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo26
+QDR QGLBM2700000c QGLBM27c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo27
+QDR QGLBM2800000c QGLBM28c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo28
+QDR QGLBM2900000c QGLBM29c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo29
+QDR QGLBM3000000c QGLBM30c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo30
+QDR QGLBM3100000c QGLBM31c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo31
+QDR QGLBM3200000c QGLBM32c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo32
+QDR QGLBM3300000c QGLBM33c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo33
+QDR QGLBM3400000c QGLBM34c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo34
+QDR QGLBM3500000c QGLBM35c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo35
+QDR QGLBM3600000c QGLBM36c           DW USD BBL 171031 190118 Gasoline 92RON Spore Brent crack at London MOC M2M Financial Mo36
+QDR QGLDM0100000c QGLDM01c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo01
+QDR QGLDM0200000c QGLDM02c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo02
+QDR QGLDM0300000c QGLDM03c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo03
+QDR QGLDM0400000c QGLDM04c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo04
+QDR QGLDM0500000c QGLDM05c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo05
+QDR QGLDM0600000c QGLDM06c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo06
+QDR QGLDM0700000c QGLDM07c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo07
+QDR QGLDM0800000c QGLDM08c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo08
+QDR QGLDM0900000c QGLDM09c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo09
+QDR QGLDM1000000c QGLDM10c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo10
+QDR QGLDM1100000c QGLDM11c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo11
+QDR QGLDM1200000c QGLDM12c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo12
+QDR QGLDM1300000c QGLDM13c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo13
+QDR QGLDM1400000c QGLDM14c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo14
+QDR QGLDM1500000c QGLDM15c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo15
+QDR QGLDM1600000c QGLDM16c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo16
+QDR QGLDM1700000c QGLDM17c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo17
+QDR QGLDM1800000c QGLDM18c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo18
+QDR QGLDM1900000c QGLDM19c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo19
+QDR QGLDM2000000c QGLDM20c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo20
+QDR QGLDM2100000c QGLDM21c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo21
+QDR QGLDM2200000c QGLDM22c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo22
+QDR QGLDM2300000c QGLDM23c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo23
+QDR QGLDM2400000c QGLDM24c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo24
+QDR QGLDM2500000c QGLDM25c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo25
+QDR QGLDM2600000c QGLDM26c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo26
+QDR QGLDM2700000c QGLDM27c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo27
+QDR QGLDM2800000c QGLDM28c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo28
+QDR QGLDM2900000c QGLDM29c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo29
+QDR QGLDM3000000c QGLDM30c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo30
+QDR QGLDM3100000c QGLDM31c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo31
+QDR QGLDM3200000c QGLDM32c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo32
+QDR QGLDM3300000c QGLDM33c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo33
+QDR QF3MB0000000c QF3MB00c           DW USD MT                FO 3.5%S CIF Med Cargo BalMo
+QDR QF3MP0100000c QF3MP01c           DW USD MT  160311 190118 FO 3.5% CIF MED Cargo M2M Financial Mo01
+QDR QF3MP0200000c QF3MP02c           DW USD MT  160311 190118 FO 3.5% CIF MED Cargo M2M Financial Mo02
+QDR QF3MP0300000c QF3MP03c           DW USD MT  160311 190118 FO 3.5% CIF MED Cargo M2M Financial Mo03
+QDR QF3MP0400000c QF3MP04c           DW USD MT  160311 190118 FO 3.5% CIF MED Cargo M2M Financial Mo04
+QDR QF3MP0500000c QF3MP05c           DW USD MT  160311 190118 FO 3.5% CIF MED Cargo M2M Financial Mo05
+QDR QF3MP0600000c QF3MP06c           DW USD MT  160311 190118 FO 3.5% CIF MED Cargo M2M Financial Mo06
+QDR QF3MP0700000c QF3MP07c           DW USD MT  160311 190118 FO 3.5% CIF MED Cargo M2M Financial Mo07
+QDR QF3MP0800000c QF3MP08c           DW USD MT  160311 190118 FO 3.5% CIF MED Cargo M2M Financial Mo08
+QDR QF3MP0900000c QF3MP09c           DW USD MT  160311 190118 FO 3.5% CIF MED Cargo M2M Financial Mo09
+QDR QF3MP1000000c QF3MP10c           DW USD MT  160311 190118 FO 3.5% CIF MED Cargo M2M Financial Mo10
+QDR QF3MP1100000c QF3MP11c           DW USD MT  160311 190118 FO 3.5% CIF MED Cargo M2M Financial Mo11
+QDR QF3MP1200000c QF3MP12c           DW USD MT  160311 190118 FO 3.5% CIF MED Cargo M2M Financial Mo12
+QDR QF3MP1300000c QF3MP13c           DW USD MT  160311 190118 FO 3.5% CIF MED Cargo M2M Financial Mo13
+QDR QF3MP1400000c QF3MP14c           DW USD MT  160311 190118 FO 3.5% CIF MED Cargo M2M Financial Mo14
+QDR QF3MP1500000c QF3MP15c           DW USD MT  160311 190118 FO 3.5% CIF MED Cargo M2M Financial Mo15
+QDR QF3MP1600000c QF3MP16c           DW USD MT  160311 190118 FO 3.5% CIF MED Cargo M2M Financial Mo16
+QDR QF3MP1700000c QF3MP17c           DW USD MT  160311 190118 FO 3.5% CIF MED Cargo M2M Financial Mo17
+QDR QF3MP1800000c QF3MP18c           DW USD MT  160311 190118 FO 3.5% CIF MED Cargo M2M Financial Mo18
+QDR QF3MP1900000c QF3MP19c           DW USD MT  160311 190118 FO 3.5% CIF MED Cargo M2M Financial Mo19
+QDR QF3MP2000000c QF3MP20c           DW USD MT  160311 190118 FO 3.5% CIF MED Cargo M2M Financial Mo20
+QDR QF3MP2100000c QF3MP21c           DW USD MT  160311 190118 FO 3.5% CIF MED Cargo M2M Financial Mo21
+QDR QF3MP2200000c QF3MP22c           DW USD MT  160311 190118 FO 3.5% CIF MED Cargo M2M Financial Mo22
+QDR QGLDM3400000c QGLDM34c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo34
+QDR QGLDM3500000c QGLDM35c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo35
+QDR QGLDM3600000c QGLDM36c           DW USD BBL 171031 190118 Gasoline 92RON Spore vs Dubai at London MOC M2M Financial Mo36
+QDR QGSLM0100000c QGSLM01c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo01
+QDR QGSLM0200000c QGSLM02c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo02
+QDR QGSLM0300000c QGSLM03c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo03
+QDR QGSLM0400000c QGSLM04c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo04
+QDR QGSLM0500000c QGSLM05c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo05
+QDR QGSLM0600000c QGSLM06c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo06
+QDR QGSLM0700000c QGSLM07c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo07
+QDR QGSLM0800000c QGSLM08c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo08
+QDR QGSLM0900000c QGSLM09c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo09
+QDR QGSLM1000000c QGSLM10c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo10
+QDR QGSLM1100000c QGSLM11c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo11
+QDR QGSLM1200000c QGSLM12c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo12
+QDR QGSLM1300000c QGSLM13c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo13
+QDR QGSLM1400000c QGSLM14c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo14
+QDR QGSLM1500000c QGSLM15c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo15
+QDR QGSLM1600000c QGSLM16c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo16
+QDR QGSLM1700000c QGSLM17c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo17
+QDR QGSLM1800000c QGSLM18c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo18
+QDR QGSLM1900000c QGSLM19c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo19
+QDR QGSLM2000000c QGSLM20c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo20
+QDR QGSLM2100000c QGSLM21c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo21
+QDR QGSLM2200000c QGSLM22c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo22
+QDR QGSLM2300000c QGSLM23c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo23
+QDR QGSLM2400000c QGSLM24c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo24
+QDR QGSLM2500000c QGSLM25c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo25
+QDR QGSLM2600000c QGSLM26c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo26
+QDR QGSLM2700000c QGSLM27c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo27
+QDR QGSLM2800000c QGSLM28c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo28
+QDR QGSLM2900000c QGSLM29c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo29
+QDR QGSLM3000000c QGSLM30c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo30
+QDR QGSLM3100000c QGSLM31c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo31
+QDR QGSLM3200000c QGSLM32c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo32
+QDR QGSLM3300000c QGSLM33c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo33
+QDR QGSLM3400000c QGSLM34c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo34
+QDR QGSLM3500000c QGSLM35c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo35
+QDR QGSLM3600000c QGSLM36c           DW USD BBL 171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/Bbl Mo36
+QDR QGSTM0100000c QGSTM01c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo01
+QDR QGSTM0200000c QGSTM02c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo02
+QDR QGSTM0300000c QGSTM03c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo03
+QDR QGSTM0400000c QGSTM04c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo04
+QDR QGSTM0500000c QGSTM05c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo05
+QDR QGSTM0600000c QGSTM06c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo06
+QDR QPCAP0500000c QPCAP05c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo05
+QDR QPCAP0600000c QPCAP06c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo06
+QDR QPCAP0700000c QPCAP07c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo07
+QDR QPCAP0800000c QPCAP08c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo08
+QDR QPCAP0900000c QPCAP09c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo09
+QDR QPCAP1000000c QPCAP10c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo10
+QDR QPCAP1100000c QPCAP11c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo11
+QDR QPCAP1200000c QPCAP12c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo12
+QDR QPCAP1300000c QPCAP13c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo13
+QDR QPCAP1400000c QPCAP14c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo14
+QDR QPCAP1500000c QPCAP15c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo15
+QDR QPCAP1600000c QPCAP16c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo16
+QDR QPCAP1700000c QPCAP17c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo17
+QDR QPCAP1800000c QPCAP18c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo18
+QDR QPCAP1900000c QPCAP19c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo19
+QDR QPCAP2000000c QPCAP20c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo20
+QDR QPCAP2100000c QPCAP21c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo21
+QDR QPCAP2200000c QPCAP22c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo22
+QDR QPCAP2300000c QPCAP23c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo23
+QDR QPCAP2400000c QPCAP24c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo24
+QDR QPCAP2500000c QPCAP25c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo25
+QDR QPCAP2600000c QPCAP26c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo26
+QDR QF3MP2300000c QF3MP23c           DW USD MT  160311 190118 FO 3.5% CIF MED Cargo M2M Financial Mo23
+QDR QF3MP2400000c QF3MP24c           DW USD MT  160311 190118 FO 3.5% CIF MED Cargo M2M Financial Mo24
+QDR QF3MP2500000c QF3MP25c           DW USD MT  160808 190118 FO 3.5% CIF MED Cargo M2M Financial Mo25
+QDR QF3MP2600000c QF3MP26c           DW USD MT  160808 190118 FO 3.5% CIF MED Cargo M2M Financial Mo26
+QDR QF3MP2700000c QF3MP27c           DW USD MT  160808 190118 FO 3.5% CIF MED Cargo M2M Financial Mo27
+QDR QF3MP2800000c QF3MP28c           DW USD MT  160808 190118 FO 3.5% CIF MED Cargo M2M Financial Mo28
+QDR QF3MP2900000c QF3MP29c           DW USD MT  160808 190118 FO 3.5% CIF MED Cargo M2M Financial Mo29
+QDR QF3MP3000000c QF3MP30c           DW USD MT  160808 190118 FO 3.5% CIF MED Cargo M2M Financial Mo30
+QDR QF3MP3100000c QF3MP31c           DW USD MT  160808 190118 FO 3.5% CIF MED Cargo M2M Financial Mo31
+QDR QF3MP3200000c QF3MP32c           DW USD MT  160808 190118 FO 3.5% CIF MED Cargo M2M Financial Mo32
+QDR QF3MP3300000c QF3MP33c           DW USD MT  160808 190118 FO 3.5% CIF MED Cargo M2M Financial Mo33
+QDR QF3MP3400000c QF3MP34c           DW USD MT  160808 190118 FO 3.5% CIF MED Cargo M2M Financial Mo34
+QDR QF3MP3500000c QF3MP35c           DW USD MT  160808 190118 FO 3.5% CIF MED Cargo M2M Financial Mo35
+QDR QF3MP3600000c QF3MP36c           DW USD MT  160808 190118 FO 3.5% CIF MED Cargo M2M Financial Mo36
+QDR QF3MQ0100000c QF3MQ01c           DW USD MT  160808 190118 FO 3.5% CIF MED Cargo M2M Financial Qr01
+QDR QF3MQ0200000c QF3MQ02c           DW USD MT  160808 190118 FO 3.5% CIF MED Cargo M2M Financial Qr02
+QDR QF3MQ0300000c QF3MQ03c           DW USD MT  160808 190118 FO 3.5% CIF MED Cargo M2M Financial Qr03
+QDR QF3MQ0400000c QF3MQ04c           DW USD MT  160808 190118 FO 3.5% CIF MED Cargo M2M Financial Qr04
+QDR QF3MQ0500000c QF3MQ05c           DW USD MT  160808 190118 FO 3.5% CIF MED Cargo M2M Financial Qr05
+QDR QF3MQ0600000c QF3MQ06c           DW USD MT  160808 190118 FO 3.5% CIF MED Cargo M2M Financial Qr06
+QDR QF3MQ0700000c QF3MQ07c           DW USD MT  160808 190118 FO 3.5% CIF MED Cargo M2M Financial Qr07
+QDR QF3MQ0800000c QF3MQ08c           DW USD MT  160808 190118 FO 3.5% CIF MED Cargo M2M Financial Qr08
+QDR QF3MY0100000c QF3MY01c           DW USD MT  160808 190118 FO 3.5% CIF MED Cargo M2M Financial Yr01
+QDR QF3MY0200000c QF3MY02c           DW USD MT  160808 190118 FO 3.5% CIF MED Cargo M2M Financial Yr02
+QDR QFFMB0000000c QFFMB00c           DW USD MT                FO 1%S FOB Med Cargo M2M Financial BalMo
+QDR QFFMP0100000c QFFMP01c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo01
+QDR QFFMP0200000c QFFMP02c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo02
+QDR QFFMP0300000c QFFMP03c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo03
+QDR QFFMP0400000c QFFMP04c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo04
+QDR QFFMP0500000c QFFMP05c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo05
+QDR QFFMP0600000c QFFMP06c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo06
+QDR QFFMP0700000c QFFMP07c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo07
+QDR QFFMP0800000c QFFMP08c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo08
+QDR QFFMP0900000c QFFMP09c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo09
+QDR QFFMP1000000c QFFMP10c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo10
+QDR QFFMP1100000c QFFMP11c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo11
+QDR QFFMP1200000c QFFMP12c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo12
+QDR QFFMP1300000c QFFMP13c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo13
+QDR QFFMP1400000c QFFMP14c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo14
+QDR QFFMP1500000c QFFMP15c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo15
+QDR QFFMP1600000c QFFMP16c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo16
+QDR QFFMP1700000c QFFMP17c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo17
+QDR QFFMP1800000c QFFMP18c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo18
+QDR QFFMP1900000c QFFMP19c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo19
+QDR QFFMP2000000c QFFMP20c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo20
+QDR QFFMP2100000c QFFMP21c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo21
+QDR QFFMP2200000c QFFMP22c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo22
+QDR QFFMP2300000c QFFMP23c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo23
+QDR QFFMP2400000c QFFMP24c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo24
+QDR QFFMP2500000c QFFMP25c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo25
+QDR QFFMP2600000c QFFMP26c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo26
+QDR QFFMP2700000c QFFMP27c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo27
+QDR QFFMP2800000c QFFMP28c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo28
+QDR QFFMP2900000c QFFMP29c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo29
+QDR QGSTM0700000c QGSTM07c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo07
+QDR QGSTM0800000c QGSTM08c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo08
+QDR QGSTM0900000c QGSTM09c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo09
+QDR QGSTM1000000c QGSTM10c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo10
+QDR QGSTM1100000c QGSTM11c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo11
+QDR QGSTM1200000c QGSTM12c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo12
+QDR QGSTM1300000c QGSTM13c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo13
+QDR QGSTM1400000c QGSTM14c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo14
+QDR QGSTM1500000c QGSTM15c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo15
+QDR QGSTM1600000c QGSTM16c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo16
+QDR QGSTM1700000c QGSTM17c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo17
+QDR QGSTM1800000c QGSTM18c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo18
+QDR QGSTM1900000c QGSTM19c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo19
+QDR QGSTM2000000c QGSTM20c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo20
+QDR QGSTM2100000c QGSTM21c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo21
+QDR QGSTM2200000c QGSTM22c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo22
+QDR QGSTM2300000c QGSTM23c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo23
+QDR QGSTM2400000c QGSTM24c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo24
+QDR QGSTM2500000c QGSTM25c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo25
+QDR QGSTM2600000c QGSTM26c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo26
+QDR QGSTM2700000c QGSTM27c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo27
+QDR QGSTM2800000c QGSTM28c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo28
+QDR QGSTM2900000c QGSTM29c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo29
+QDR QGSTM3000000c QGSTM30c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo30
+QDR QGSTM3100000c QGSTM31c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo31
+QDR QGSTM3200000c QGSTM32c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo32
+QDR QGSTM3300000c QGSTM33c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo33
+QDR QGSTM3400000c QGSTM34c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo34
+QDR QGSTM3500000c QGSTM35c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo35
+QDR QGSTM3600000c QGSTM36c           DW USD MT  171031 190118 Gasoline 92 RON FOB Spore at London MOC M2M Financial $/MT Mo36
+QDR QPCAP2700000c QPCAP27c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo27
+QDR QPCAP2800000c QPCAP28c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo28
+QDR QPCAP2900000c QPCAP29c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo29
+QDR QPCAP3000000c QPCAP30c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo30
+QDR QPCAP3100000c QPCAP31c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo31
+QDR QPCAP3200000c QPCAP32c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo32
+QDR QPCAP3300000c QPCAP33c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo33
+QDR QPCAP3400000c QPCAP34c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo34
+QDR QPCAP3500000c QPCAP35c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo35
+QDR QPCAP3600000c QPCAP36c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Mo36
+QDR QPCAQ0500000c QPCAQ05c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Qr05
+QDR QPCAQ0600000c QPCAQ06c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Qr06
+QDR QPCAQ0700000c QPCAQ07c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Qr07
+QDR QPCAQ0800000c QPCAQ08c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Qr08
+QDR QPCAY0200000c QPCAY02c           DW USD MT  160808 190118 Propane CIF NWE Large Cargo M2M Financial Yr02
+QDR QPGCP0100000c QPGCP01c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo01
+QDR QPGCP0200000c QPGCP02c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo02
+QDR QPGCP0300000c QPGCP03c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo03
+QDR QPGCP0400000c QPGCP04c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo04
+QDR QPGCP0500000c QPGCP05c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo05
+QDR QPGCP0600000c QPGCP06c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo06
+QDR QPGCP0700000c QPGCP07c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo07
+QDR QPGCP0800000c QPGCP08c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo08
+QDR QPGCP0900000c QPGCP09c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo09
+QDR QPGCP1000000c QPGCP10c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo10
+QDR QPGCP1100000c QPGCP11c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo11
+QDR QPGCP1200000c QPGCP12c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo12
+QDR QPGCP1300000c QPGCP13c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo13
+QDR QPGCP1400000c QPGCP14c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo14
+QDR QPGCP1500000c QPGCP15c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo15
+QDR QPGCP1600000c QPGCP16c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo16
+QDR QPGCP1700000c QPGCP17c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo17
+QDR QPGCP1800000c QPGCP18c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo18
+QDR QPGCP1900000c QPGCP19c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo19
+QDR QPGCP2000000c QPGCP20c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo20
+QDR QPGCP2100000c QPGCP21c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo21
+QDR QPGCP2200000c QPGCP22c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo22
+QDR QPGCP2300000c QPGCP23c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo23
+QDR QPGCP2400000c QPGCP24c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo24
+QDR QPGCP2500000c QPGCP25c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo25
+QDR QPGCP2600000c QPGCP26c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo26
+QDR QPGCP2700000c QPGCP27c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo27
+QDR QPGCP2800000c QPGCP28c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo28
+QDR QPGCP2900000c QPGCP29c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo29
+QDR QPGCP3000000c QPGCP30c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo30
+QDR QPGCP3100000c QPGCP31c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo31
+QDR QPGCP3200000c QPGCP32c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo32
+QDR QPGCP3300000c QPGCP33c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo33
+QDR QFFMP3000000c QFFMP30c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo30
+QDR QFFMP3100000c QFFMP31c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo31
+QDR QFFMP3200000c QFFMP32c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo32
+QDR QFFMP3300000c QFFMP33c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo33
+QDR QFFMP3400000c QFFMP34c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo34
+QDR QFFMP3500000c QFFMP35c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo35
+QDR QFFMP3600000c QFFMP36c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Mo36
+QDR QFFMQ0100000c QFFMQ01c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Qr01
+QDR QFFMQ0200000c QFFMQ02c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Qr02
+QDR QFFMQ0300000c QFFMQ03c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Qr03
+QDR QFFMQ0400000c QFFMQ04c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Qr04
+QDR QFFMQ0500000c QFFMQ05c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Qr05
+QDR QFFMQ0600000c QFFMQ06c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Qr06
+QDR QFFMQ0700000c QFFMQ07c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Qr07
+QDR QFFMQ0800000c QFFMQ08c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Qr08
+QDR QFFMY0100000c QFFMY01c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Yr01
+QDR QFFMY0200000c QFFMY02c           DW USD MT  160808 190118 FO 1%S FOB MED Cargo M2M Financial Yr02
+QDR QGUMP0100000c QGUMP01c           DW USD MT                Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo01
+QDR QGUMP0200000c QGUMP02c           DW USD MT                Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo02
+QDR QGUMP0300000c QGUMP03c           DW USD MT  160311 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo03
+QDR QGUMP0400000c QGUMP04c           DW USD MT  160311 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo04
+QDR QGUMP0500000c QGUMP05c           DW USD MT  160311 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo05
+QDR QGUMP0600000c QGUMP06c           DW USD MT  160311 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo06
+QDR QGUMP0700000c QGUMP07c           DW USD MT  160311 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo07
+QDR QGUMP0800000c QGUMP08c           DW USD MT  160311 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo08
+QDR QGUMP0900000c QGUMP09c           DW USD MT  160311 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo09
+QDR QGUMP1000000c QGUMP10c           DW USD MT  160311 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo10
+QDR QGUMP1100000c QGUMP11c           DW USD MT  160311 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo11
+QDR QGUMP1200000c QGUMP12c           DW USD MT  160311 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo12
+QDR QGUMP1300000c QGUMP13c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo13
+QDR QGUMP1400000c QGUMP14c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo14
+QDR QGUMP1500000c QGUMP15c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo15
+QDR QGUMP1600000c QGUMP16c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo16
+QDR QGUMP1700000c QGUMP17c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo17
+QDR QGUMP1800000c QGUMP18c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo18
+QDR QGUMP1900000c QGUMP19c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo19
+QDR QPGCP3400000c QPGCP34c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo34
+QDR QPGCP3500000c QPGCP35c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo35
+QDR QPGCP3600000c QPGCP36c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Mo36
+QDR QPGCQ0100000c QPGCQ01c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Qr01
+QDR QPGCQ0200000c QPGCQ02c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Qr02
+QDR QPGCQ0300000c QPGCQ03c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Qr03
+QDR QPGCQ0400000c QPGCQ04c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Qr04
+QDR QPGCQ0500000c QPGCQ05c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Qr05
+QDR QPGCQ0600000c QPGCQ06c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Qr06
+QDR QPGCQ0700000c QPGCQ07c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Qr07
+QDR QPGCQ0800000c QPGCQ08c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Qr08
+QDR QPGCY0100000c QPGCY01c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Yr01
+QDR QPGCY0200000c QPGCY02c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm CIF MED Cargo M2M Financial Yr02
+QDR QGUMP2000000c QGUMP20c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo20
+QDR QGUMP2100000c QGUMP21c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo21
+QDR QGUMP2200000c QGUMP22c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo22
+QDR QGUMP2300000c QGUMP23c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo23
+QDR QGUMP2400000c QGUMP24c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo24
+QDR QGUMP2500000c QGUMP25c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo25
+QDR QGUMP2600000c QGUMP26c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo26
+QDR QGUMP2700000c QGUMP27c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo27
+QDR QGUMP2800000c QGUMP28c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo28
+QDR QGUMP2900000c QGUMP29c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo29
+QDR QGUMP3000000c QGUMP30c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo30
+QDR QGUMP3100000c QGUMP31c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo31
+QDR QGUMP3200000c QGUMP32c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo32
+QDR QGUMP3300000c QGUMP33c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo33
+QDR QGUMP3400000c QGUMP34c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo34
+QDR QGUMP3500000c QGUMP35c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo35
+QDR QGUMP3600000c QGUMP36c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Mo36
+QDR QGUMQ0100000c QGUMQ01c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Qr01
+QDR QGUMQ0200000c QGUMQ02c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Qr02
+QDR QGUMQ0300000c QGUMQ03c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Qr03
+QDR QGUMQ0400000c QGUMQ04c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Qr04
+QDR QGUMQ0500000c QGUMQ05c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Qr05
+QDR QGUMQ0600000c QGUMQ06c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Qr06
+QDR QGUMQ0700000c QGUMQ07c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Qr07
+QDR QGUMQ0800000c QGUMQ08c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Qr08
+QDR QGUMY0100000c QGUMY01c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Yr01
+QDR QGUMY0200000c QGUMY02c           DW USD MT  160808 190118 Gasoline Prem Unleaded 10ppm FOB MED Cargo M2M Financial Yr02
+QDR QJLBM0100000c QJLBM01c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo01
+QDR QJLBM0200000c QJLBM02c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo02
+QDR QJLBM0300000c QJLBM03c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo03
+QDR QJLBM0400000c QJLBM04c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo04
+QDR QJLBM0500000c QJLBM05c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo05
+QDR QJLBM0600000c QJLBM06c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo06
+QDR QJLBM0700000c QJLBM07c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo07
+QDR QJLBM0800000c QJLBM08c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo08
+QDR QJLBM0900000c QJLBM09c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo09
+QDR QJLBM1000000c QJLBM10c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo10
+QDR QJLBM1100000c QJLBM11c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo11
+QDR QJLBM1200000c QJLBM12c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo12
+QDR QJLBM1300000c QJLBM13c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo13
+QDR QJLBM1400000c QJLBM14c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo14
+QDR QJLBM1500000c QJLBM15c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo15
+QDR QJLBM1600000c QJLBM16c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo16
+QDR QJLBM1700000c QJLBM17c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo17
+QDR QJLBM1800000c QJLBM18c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo18
+QDR QJLBM1900000c QJLBM19c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo19
+QDR QJLBM2000000c QJLBM20c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo20
+QDR QJLBM2100000c QJLBM21c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo21
+QDR QJLBM2200000c QJLBM22c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo22
+QDR QJLBM2300000c QJLBM23c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo23
+QDR QJLBM2400000c QJLBM24c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo24
+QDR QJLBM2500000c QJLBM25c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo25
+QDR QJLBM2600000c QJLBM26c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo26
+QDR QJLBM2700000c QJLBM27c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo27
+QDR QJLBM2800000c QJLBM28c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo28
+QDR QJLBM2900000c QJLBM29c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo29
+QDR QJLBM3000000c QJLBM30c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo30
+QDR QG01P0100000c QG01P01c           DW USD MT                Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo01
+QDR QG01P0200000c QG01P02c           DW USD MT                Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo02
+QDR QG01P0300000c QG01P03c           DW USD MT                Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo03
+QDR QG01P0400000c QG01P04c           DW USD MT                Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo04
+QDR QG01P0500000c QG01P05c           DW USD MT                Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo05
+QDR QG01P0600000c QG01P06c           DW USD MT                Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo06
+QDR QG01P0700000c QG01P07c           DW USD MT                Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo07
+QDR QG01P0800000c QG01P08c           DW USD MT                Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo08
+QDR QG01P0900000c QG01P09c           DW USD MT                Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo09
+QDR QG01P1000000c QG01P10c           DW USD MT                Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo10
+QDR QG01P1100000c QG01P11c           DW USD MT                Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo11
+QDR QG01P1200000c QG01P12c           DW USD MT                Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo12
+QDR QG01P1300000c QG01P13c           DW USD MT                Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo13
+QDR QG01P1400000c QG01P14c           DW USD MT                Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo14
+QDR QG01P1500000c QG01P15c           DW USD MT                Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo15
+QDR QG01P1600000c QG01P16c           DW USD MT                Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo16
+QDR QG01P1700000c QG01P17c           DW USD MT                Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo17
+QDR QG01P1800000c QG01P18c           DW USD MT                Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo18
+QDR QG01P1900000c QG01P19c           DW USD MT                Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo19
+QDR QG01P2000000c QG01P20c           DW USD MT                Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo20
+QDR QG01P2100000c QG01P21c           DW USD MT                Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo21
+QDR QG01P2200000c QG01P22c           DW USD MT                Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo22
+QDR QG01P2300000c QG01P23c           DW USD MT                Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo23
+QDR QG01P2400000c QG01P24c           DW USD MT                Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo24
+QDR QG01P2500000c QG01P25c           DW USD MT  160808 190118 Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo25
+QDR QG01P2600000c QG01P26c           DW USD MT  160808 190118 Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo26
+QDR QG01P2700000c QG01P27c           DW USD MT  160808 190118 Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo27
+QDR QG01P2800000c QG01P28c           DW USD MT  160808 190118 Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo28
+QDR QG01P2900000c QG01P29c           DW USD MT  160808 190118 Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo29
+QDR QG01P3000000c QG01P30c           DW USD MT  160808 190118 Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo30
+QDR QG01P3100000c QG01P31c           DW USD MT  160808 190118 Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo31
+QDR QG01P3200000c QG01P32c           DW USD MT  160808 190118 Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo32
+QDR QG01P3300000c QG01P33c           DW USD MT  160808 190118 Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo33
+QDR QG01P3400000c QG01P34c           DW USD MT  160808 190118 Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo34
+QDR QG01P3500000c QG01P35c           DW USD MT  160808 190118 Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo35
+QDR QG01P3600000c QG01P36c           DW USD MT  160808 190118 Gasoil .1%S (1000ppm) CIF Med Cargo M2M Financial Mo36
+QDR QG5TM0100000c QG5TM01c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo01
+QDR QG5TM0200000c QG5TM02c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo02
+QDR QG5TM0300000c QG5TM03c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo03
+QDR QG5TM0400000c QG5TM04c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo04
+QDR QG5TM0500000c QG5TM05c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo05
+QDR QG5TM0600000c QG5TM06c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo06
+QDR QG5TM0700000c QG5TM07c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo07
+QDR QG5TM0800000c QG5TM08c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo08
+QDR QG5TM0900000c QG5TM09c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo09
+QDR QG5TM1000000c QG5TM10c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo10
+QDR QG5TM1100000c QG5TM11c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo11
+QDR QG5TM1200000c QG5TM12c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo12
+QDR QGVEM0100000c QGVEM01c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo01
+QDR QGVEM0200000c QGVEM02c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo02
+QDR QGVEM0300000c QGVEM03c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo03
+QDR QGVEM0400000c QGVEM04c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo04
+QDR QGVEM0500000c QGVEM05c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo05
+QDR QGVEM0600000c QGVEM06c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo06
+QDR QGVEM0700000c QGVEM07c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo07
+QDR QGVEM0800000c QGVEM08c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo08
+QDR QGVEM0900000c QGVEM09c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo09
+QDR QGVEM1000000c QGVEM10c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo10
+QDR QGVEM1100000c QGVEM11c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo11
+QDR QGVEM1200000c QGVEM12c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo12
+QDR QGVEM1300000c QGVEM13c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo13
+QDR QGVEM1400000c QGVEM14c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo14
+QDR QGVEM1500000c QGVEM15c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo15
+QDR QGVEM1600000c QGVEM16c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo16
+QDR QGVEM1700000c QGVEM17c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo17
+QDR QGVEM1800000c QGVEM18c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo18
+QDR QGVEM1900000c QGVEM19c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo19
+QDR QGVEM2000000c QGVEM20c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo20
+QDR QGVEM2100000c QGVEM21c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo21
+QDR QGVEM2200000c QGVEM22c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo22
+QDR QGVEM2300000c QGVEM23c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo23
+QDR QGVEM2400000c QGVEM24c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo24
+QDR QGVEM2500000c QGVEM25c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo25
+QDR QGVEM2600000c QGVEM26c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo26
+QDR QGVEM2700000c QGVEM27c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo27
+QDR QGVEM2800000c QGVEM28c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo28
+QDR QGVEM2900000c QGVEM29c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo29
+QDR QGVEM3000000c QGVEM30c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo30
+QDR QGVEM3100000c QGVEM31c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo31
+QDR QGVEM3200000c QGVEM32c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo32
+QDR QGVEM3300000c QGVEM33c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo33
+QDR QGVEM3400000c QGVEM34c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo34
+QDR QGVEM3500000c QGVEM35c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo35
+QDR QGVEM3600000c QGVEM36c           DW USD MT                Gasoline vs Eurobob FOB ARA M2M Financial Mo36
+QDR QJLBM3100000c QJLBM31c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo31
+QDR QJLBM3200000c QJLBM32c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo32
+QDR QJLBM3300000c QJLBM33c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo33
+QDR QJLBM3400000c QJLBM34c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo34
+QDR QJLBM3500000c QJLBM35c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo35
+QDR QJLBM3600000c QJLBM36c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Brent crack M2M Financial Mo36
+QDR QJLDM0100000c QJLDM01c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo01
+QDR QJLDM0200000c QJLDM02c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo02
+QDR QJLDM0300000c QJLDM03c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo03
+QDR QJLDM0400000c QJLDM04c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo04
+QDR QJLDM0500000c QJLDM05c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo05
+QDR QJLDM0600000c QJLDM06c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo06
+QDR QJLDM0700000c QJLDM07c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo07
+QDR QJLDM0800000c QJLDM08c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo08
+QDR QJLDM0900000c QJLDM09c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo09
+QDR QJLDM1000000c QJLDM10c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo10
+QDR QJLDM1100000c QJLDM11c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo11
+QDR QJLDM1200000c QJLDM12c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo12
+QDR QJLDM1300000c QJLDM13c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo13
+QDR QJLDM1400000c QJLDM14c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo14
+QDR QJLDM1500000c QJLDM15c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo15
+QDR QJLDM1600000c QJLDM16c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo16
+QDR QJLDM1700000c QJLDM17c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo17
+QDR QJLDM1800000c QJLDM18c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo18
+QDR QJLDM1900000c QJLDM19c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo19
+QDR QJLDM2000000c QJLDM20c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo20
+QDR QJLDM2100000c QJLDM21c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo21
+QDR QJLDM2200000c QJLDM22c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo22
+QDR QJLDM2300000c QJLDM23c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo23
+QDR QJLDM2400000c QJLDM24c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo24
+QDR QJLDM2500000c QJLDM25c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo25
+QDR QJLDM2600000c QJLDM26c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo26
+QDR QJLDM2700000c QJLDM27c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo27
+QDR QJLDM2800000c QJLDM28c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo28
+QDR QJLDM2900000c QJLDM29c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo29
+QDR QJLDM3000000c QJLDM30c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo30
+QDR QJLDM3100000c QJLDM31c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo31
+QDR QJLDM3200000c QJLDM32c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo32
+QDR QJLDM3300000c QJLDM33c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo33
+QDR QJLDM3400000c QJLDM34c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo34
+QDR QJLDM3500000c QJLDM35c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo35
+QDR QJLDM3600000c QJLDM36c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo Dubai crack at London MOC M2M Financial Mo36
+QDR QJMEP0100000c QJMEP01c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo01
+QDR QJMEP0200000c QJMEP02c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo02
+QDR QJMEP0300000c QJMEP03c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo03
+QDR QULMP0100000c QULMP01c           DW USD MT  160311 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo01
+QDR QULMP0200000c QULMP02c           DW USD MT  160311 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo02
+QDR QULMP0300000c QULMP03c           DW USD MT  160311 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo03
+QDR QULMP0400000c QULMP04c           DW USD MT  160311 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo04
+QDR QULMP0500000c QULMP05c           DW USD MT  160311 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo05
+QDR QULMP0600000c QULMP06c           DW USD MT  160311 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo06
+QDR QULMP0700000c QULMP07c           DW USD MT  160311 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo07
+QDR QULMP0800000c QULMP08c           DW USD MT  160311 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo08
+QDR QULMP0900000c QULMP09c           DW USD MT  160311 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo09
+QDR QULMP1000000c QULMP10c           DW USD MT  160311 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo10
+QDR QULMP1100000c QULMP11c           DW USD MT  160311 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo11
+QDR QULMP1200000c QULMP12c           DW USD MT  160311 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo12
+QDR QULMP1300000c QULMP13c           DW USD MT  160311 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo13
+QDR QULMP1400000c QULMP14c           DW USD MT  160311 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo14
+QDR QULMP1500000c QULMP15c           DW USD MT  160311 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo15
+QDR QULMP1600000c QULMP16c           DW USD MT  160311 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo16
+QDR QULMP1700000c QULMP17c           DW USD MT  160311 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo17
+QDR QULMP1800000c QULMP18c           DW USD MT  160311 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo18
+QDR QULMP1900000c QULMP19c           DW USD MT  160311 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo19
+QDR QULMP2000000c QULMP20c           DW USD MT  160311 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo20
+QDR QULMP2100000c QULMP21c           DW USD MT  160311 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo21
+QDR QULMP2200000c QULMP22c           DW USD MT  160311 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo22
+QDR QULMP2300000c QULMP23c           DW USD MT  160311 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo23
+QDR QULMP2400000c QULMP24c           DW USD MT  160311 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo24
+QDR QULMP2500000c QULMP25c           DW USD MT  160808 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo25
+QDR QULMP2600000c QULMP26c           DW USD MT  160808 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo26
+QDR QULMP2700000c QULMP27c           DW USD MT  160808 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo27
+QDR QULMP2800000c QULMP28c           DW USD MT  160808 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo28
+QDR QULMP2900000c QULMP29c           DW USD MT  160808 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo29
+QDR QULMP3000000c QULMP30c           DW USD MT  160808 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo30
+QDR QULMP3100000c QULMP31c           DW USD MT  160808 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo31
+QDR QULMP3200000c QULMP32c           DW USD MT  160808 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo32
+QDR QULMP3300000c QULMP33c           DW USD MT  160808 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo33
+QDR QULMP3400000c QULMP34c           DW USD MT  160808 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo34
+QDR QULMP3500000c QULMP35c           DW USD MT  160808 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo35
+QDR QG5TM1300000c QG5TM13c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo13
+QDR QG5TM1400000c QG5TM14c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo14
+QDR QG5TM1500000c QG5TM15c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo15
+QDR QG5TM1600000c QG5TM16c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo16
+QDR QG5TM1700000c QG5TM17c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo17
+QDR QG5TM1800000c QG5TM18c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo18
+QDR QG5TM1900000c QG5TM19c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo19
+QDR QG5TM2000000c QG5TM20c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo20
+QDR QG5TM2100000c QG5TM21c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo21
+QDR QG5TM2200000c QG5TM22c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo22
+QDR QG5TM2300000c QG5TM23c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo23
+QDR QG5TM2400000c QG5TM24c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo24
+QDR QG5TM2500000c QG5TM25c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo25
+QDR QG5TM2600000c QG5TM26c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo26
+QDR QG5TM2700000c QG5TM27c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo27
+QDR QG5TM2800000c QG5TM28c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo28
+QDR QG5TM2900000c QG5TM29c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo29
+QDR QG5TM3000000c QG5TM30c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo30
+QDR QG5TM3100000c QG5TM31c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo31
+QDR QG5TM3200000c QG5TM32c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo32
+QDR QG5TM3300000c QG5TM33c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo33
+QDR QG5TM3400000c QG5TM34c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo34
+QDR QG5TM3500000c QG5TM35c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo35
+QDR QG5TM3600000c QG5TM36c           DW USD MT  181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/MT Mo36
+QDR QG95M0100000c QG95M01c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo01
+QDR QG95M0200000c QG95M02c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo02
+QDR QG95M0300000c QG95M03c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo03
+QDR QG95M0400000c QG95M04c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo04
+QDR QG95M0500000c QG95M05c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo05
+QDR QG95M0600000c QG95M06c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo06
+QDR QG95M0700000c QG95M07c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo07
+QDR QG95M0800000c QG95M08c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo08
+QDR QG95M0900000c QG95M09c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo09
+QDR QG95M1000000c QG95M10c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo10
+QDR QG95M1100000c QG95M11c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo11
+QDR QG95M1200000c QG95M12c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo12
+QDR QG95M1300000c QG95M13c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo13
+QDR QG95M1400000c QG95M14c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo14
+QDR QG95M1500000c QG95M15c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo15
+QDR QG95M1600000c QG95M16c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo16
+QDR QG95M1700000c QG95M17c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo17
+QDR QG95M1800000c QG95M18c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo18
+QDR QG95M1900000c QG95M19c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo19
+QDR QG95M2000000c QG95M20c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo20
+QDR QG95M2100000c QG95M21c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo21
+QDR QJMEP0400000c QJMEP04c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo04
+QDR QJMEP0500000c QJMEP05c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo05
+QDR QJMEP0600000c QJMEP06c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo06
+QDR QJMEP0700000c QJMEP07c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo07
+QDR QJMEP0800000c QJMEP08c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo08
+QDR QJMEP0900000c QJMEP09c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo09
+QDR QJMEP1000000c QJMEP10c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo10
+QDR QJMEP1100000c QJMEP11c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo11
+QDR QJMEP1200000c QJMEP12c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo12
+QDR QJMEP1300000c QJMEP13c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo13
+QDR QJMEP1400000c QJMEP14c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo14
+QDR QJMEP1500000c QJMEP15c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo15
+QDR QJMEP1600000c QJMEP16c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo16
+QDR QJMEP1700000c QJMEP17c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo17
+QDR QJMEP1800000c QJMEP18c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo18
+QDR QJMEP1900000c QJMEP19c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo19
+QDR QJMEP2000000c QJMEP20c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo20
+QDR QJMEP2100000c QJMEP21c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo21
+QDR QJMEP2200000c QJMEP22c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo22
+QDR QJMEP2300000c QJMEP23c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo23
+QDR QJMEP2400000c QJMEP24c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo24
+QDR QJMEP2500000c QJMEP25c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo25
+QDR QJMEP2600000c QJMEP26c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo26
+QDR QJMEP2700000c QJMEP27c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo27
+QDR QJMEP2800000c QJMEP28c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo28
+QDR QJMEP2900000c QJMEP29c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo29
+QDR QJMEP3000000c QJMEP30c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo30
+QDR QJMEP3100000c QJMEP31c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo31
+QDR QJMEP3200000c QJMEP32c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo32
+QDR QJMEP3300000c QJMEP33c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo33
+QDR QJMEP3400000c QJMEP34c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo34
+QDR QJMEP3500000c QJMEP35c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo35
+QDR QJMEP3600000c QJMEP36c           DW USD MT  160311 190118 Jet FOB MED Cargo M2M Financial Mo36
+QDR QJMEQ0100000c QJMEQ01c           DW USD MT  160808 190118 Jet FOB MED Cargo M2M Financial Qr01
+QDR QJMEQ0200000c QJMEQ02c           DW USD MT  160808 190118 Jet FOB MED Cargo M2M Financial Qr02
+QDR QJMEQ0300000c QJMEQ03c           DW USD MT  160808 190118 Jet FOB MED Cargo M2M Financial Qr03
+QDR QJMEQ0400000c QJMEQ04c           DW USD MT  160808 190118 Jet FOB MED Cargo M2M Financial Qr04
+QDR QJMEQ0500000c QJMEQ05c           DW USD MT  160808 190118 Jet FOB MED Cargo M2M Financial Qr05
+QDR QJMEQ0600000c QJMEQ06c           DW USD MT  160808 190118 Jet FOB MED Cargo M2M Financial Qr06
+QDR QJMEQ0700000c QJMEQ07c           DW USD MT  160808 190118 Jet FOB MED Cargo M2M Financial Qr07
+QDR QJMEQ0800000c QJMEQ08c           DW USD MT  160808 190118 Jet FOB MED Cargo M2M Financial Qr08
+QDR QJMEY0100000c QJMEY01c           DW USD MT  160808 190118 Jet FOB MED Cargo M2M Financial Yr01
+QDR QJMEY0200000c QJMEY02c           DW USD MT  160808 190118 Jet FOB MED Cargo M2M Financial Yr02
+QDR QJNWP0100000c QJNWP01c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo01
+QDR QJNWP0200000c QJNWP02c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo02
+QDR QJNWP0300000c QJNWP03c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo03
+QDR QJNWP0400000c QJNWP04c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo04
+QDR QJNWP0500000c QJNWP05c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo05
+QDR QJNWP0600000c QJNWP06c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo06
+QDR QJNWP0700000c QJNWP07c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo07
+QDR QJNWP0800000c QJNWP08c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo08
+QDR QJNWP0900000c QJNWP09c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo09
+QDR QJNWP1000000c QJNWP10c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo10
+QDR QJNWP1100000c QJNWP11c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo11
+QDR QJNWP1200000c QJNWP12c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo12
+QDR QPUGP0100000c QPUGP01c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo01
+QDR QPUGP0200000c QPUGP02c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo02
+QDR QPUGP0300000c QPUGP03c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo03
+QDR QPUGP0400000c QPUGP04c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo04
+QDR QPUGP0500000c QPUGP05c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo05
+QDR QPUGP0600000c QPUGP06c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo06
+QDR QPUGP0700000c QPUGP07c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo07
+QDR QPUGP0800000c QPUGP08c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo08
+QDR QPUGP0900000c QPUGP09c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo09
+QDR QPUGP1000000c QPUGP10c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo10
+QDR QPUGP1100000c QPUGP11c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo11
+QDR QPUGP1200000c QPUGP12c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo12
+QDR QPUGP1300000c QPUGP13c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo13
+QDR QPUGP1400000c QPUGP14c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo14
+QDR QPUGP1500000c QPUGP15c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo15
+QDR QPUGP1600000c QPUGP16c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo16
+QDR QPUGP1700000c QPUGP17c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo17
+QDR QPUGP1800000c QPUGP18c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo18
+QDR QULMP3600000c QULMP36c           DW USD MT  160808 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Mo36
+QDR QULMQ0100000c QULMQ01c           DW USD MT  160808 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Qr01
+QDR QULMQ0200000c QULMQ02c           DW USD MT  160808 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Qr02
+QDR QULMQ0300000c QULMQ03c           DW USD MT  160808 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Qr03
+QDR QULMQ0400000c QULMQ04c           DW USD MT  160808 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Qr04
+QDR QULMQ0500000c QULMQ05c           DW USD MT  160808 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Qr05
+QDR QULMQ0600000c QULMQ06c           DW USD MT  160808 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Qr06
+QDR QULMQ0700000c QULMQ07c           DW USD MT  160808 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Qr07
+QDR QULMQ0800000c QULMQ08c           DW USD MT  160808 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Qr08
+QDR QULMY0100000c QULMY01c           DW USD MT  160808 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Yr01
+QDR QULMY0200000c QULMY02c           DW USD MT  160808 190118 ULSD 10ppmS FOB MED Cargo M2M Financial Yr02
+QDR QG95M2200000c QG95M22c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo22
+QDR QG95M2300000c QG95M23c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo23
+QDR QG95M2400000c QG95M24c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo24
+QDR QG95M2500000c QG95M25c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo25
+QDR QG95M2600000c QG95M26c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo26
+QDR QG95M2700000c QG95M27c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo27
+QDR QG95M2800000c QG95M28c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo28
+QDR QG95M2900000c QG95M29c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo29
+QDR QG95M3000000c QG95M30c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo30
+QDR QG95M3100000c QG95M31c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo31
+QDR QG95M3200000c QG95M32c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo32
+QDR QG95M3300000c QG95M33c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo33
+QDR QG95M3400000c QG95M34c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo34
+QDR QG95M3500000c QG95M35c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo35
+QDR QG95M3600000c QG95M36c           DW USD BBL 181114 190118 Gasoline 95 RON FOB Spore at London MOC M2M Financial $/Bbl Mo36
+QDR QJNWP1300000c QJNWP13c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo13
+QDR QJNWP1400000c QJNWP14c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo14
+QDR QJNWP1500000c QJNWP15c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo15
+QDR QJNWP1600000c QJNWP16c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo16
+QDR QJNWP1700000c QJNWP17c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo17
+QDR QJNWP1800000c QJNWP18c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo18
+QDR QJNWP1900000c QJNWP19c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo19
+QDR QJNWP2000000c QJNWP20c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo20
+QDR QJNWP2100000c QJNWP21c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo21
+QDR QJNWP2200000c QJNWP22c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo22
+QDR QJNWP2300000c QJNWP23c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo23
+QDR QJNWP2400000c QJNWP24c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo24
+QDR QJNWP2500000c QJNWP25c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo25
+QDR QJNWP2600000c QJNWP26c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo26
+QDR QJNWP2700000c QJNWP27c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo27
+QDR QJNWP2800000c QJNWP28c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo28
+QDR QJNWP2900000c QJNWP29c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo29
+QDR QJNWP3000000c QJNWP30c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo30
+QDR QJNWP3100000c QJNWP31c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo31
+QDR QJNWP3200000c QJNWP32c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo32
+QDR QJNWP3300000c QJNWP33c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo33
+QDR QJNWP3400000c QJNWP34c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo34
+QDR QJNWP3500000c QJNWP35c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo35
+QDR QJNWP3600000c QJNWP36c           DW USD MT  160311 190118 Jet FOB NWE Cargo M2M Financial Mo36
+QDR QJNWQ0100000c QJNWQ01c           DW USD MT  160808 190118 Jet FOB NWE Cargo M2M Financial Qr01
+QDR QJNWQ0200000c QJNWQ02c           DW USD MT  160808 190118 Jet FOB NWE Cargo M2M Financial Qr02
+QDR QJNWQ0300000c QJNWQ03c           DW USD MT  160808 190118 Jet FOB NWE Cargo M2M Financial Qr03
+QDR QJNWQ0400000c QJNWQ04c           DW USD MT  160808 190118 Jet FOB NWE Cargo M2M Financial Qr04
+QDR QJNWQ0500000c QJNWQ05c           DW USD MT  160808 190118 Jet FOB NWE Cargo M2M Financial Qr05
+QDR QJNWQ0600000c QJNWQ06c           DW USD MT  160808 190118 Jet FOB NWE Cargo M2M Financial Qr06
+QDR QJNWQ0700000c QJNWQ07c           DW USD MT  160808 190118 Jet FOB NWE Cargo M2M Financial Qr07
+QDR QJNWQ0800000c QJNWQ08c           DW USD MT  160808 190118 Jet FOB NWE Cargo M2M Financial Qr08
+QDR QJNWY0100000c QJNWY01c           DW USD MT  160808 190118 Jet FOB NWE Cargo M2M Financial Yr01
+QDR QJNWY0200000c QJNWY02c           DW USD MT  160808 190118 Jet FOB NWE Cargo M2M Financial Yr02
+QDR QJRDP0100000c QJRDP01c           DW USD MT                Jet FOB Rdam Barge M2M Financial Mo01
+QDR QJRDP0200000c QJRDP02c           DW USD MT                Jet FOB Rdam Barge M2M Financial Mo02
+QDR QJRDP0300000c QJRDP03c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo03
+QDR QJRDP0400000c QJRDP04c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo04
+QDR QJRDP0500000c QJRDP05c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo05
+QDR QJRDP0600000c QJRDP06c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo06
+QDR QJRDP0700000c QJRDP07c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo07
+QDR QJRDP0800000c QJRDP08c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo08
+QDR QJRDP0900000c QJRDP09c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo09
+QDR QJRDP1000000c QJRDP10c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo10
+QDR QJRDP1100000c QJRDP11c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo11
+QDR QJRDP1200000c QJRDP12c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo12
+QDR QJRDP1300000c QJRDP13c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo13
+QDR QJRDP1400000c QJRDP14c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo14
+QDR QJRDP1500000c QJRDP15c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo15
+QDR QJRDP1600000c QJRDP16c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo16
+QDR QJRDP1700000c QJRDP17c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo17
+QDR QJRDP1800000c QJRDP18c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo18
+QDR QJRDP1900000c QJRDP19c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo19
+QDR QJRDP2000000c QJRDP20c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo20
+QDR QJRDP2100000c QJRDP21c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo21
+QDR QPUGP1900000c QPUGP19c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo19
+QDR QPUGP2000000c QPUGP20c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo20
+QDR QPUGP2100000c QPUGP21c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo21
+QDR QPUGP2200000c QPUGP22c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo22
+QDR QPUGP2300000c QPUGP23c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo23
+QDR QPUGP2400000c QPUGP24c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo24
+QDR QPUGP2500000c QPUGP25c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo25
+QDR QPUGP2600000c QPUGP26c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo26
+QDR QPUGP2700000c QPUGP27c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo27
+QDR QPUGP2800000c QPUGP28c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo28
+QDR QPUGP2900000c QPUGP29c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo29
+QDR QPUGP3000000c QPUGP30c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo30
+QDR QPUGP3100000c QPUGP31c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo31
+QDR QPUGP3200000c QPUGP32c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo32
+QDR QPUGP3300000c QPUGP33c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo33
+QDR QPUGP3400000c QPUGP34c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo34
+QDR QPUGP3500000c QPUGP35c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo35
+QDR QPUGP3600000c QPUGP36c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Mo36
+QDR QPUGQ0100000c QPUGQ01c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Qr01
+QDR QPUGQ0200000c QPUGQ02c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Qr02
+QDR QPUGQ0300000c QPUGQ03c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Qr03
+QDR QPUGQ0400000c QPUGQ04c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Qr04
+QDR QPUGQ0500000c QPUGQ05c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Qr05
+QDR QPUGQ0600000c QPUGQ06c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Qr06
+QDR QPUGQ0700000c QPUGQ07c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Qr07
+QDR QPUGQ0800000c QPUGQ08c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Qr08
+QDR QPUGY0100000c QPUGY01c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Yr01
+QDR QPUGY0200000c QPUGY02c           DW USD MT  160808 190118 Prem Unl 10ppm FOB MED Cargo vs Gasoline Eurobob 10ppm FOB ARA Barge M2M Financial Yr02
+QDR QJRDP2200000c QJRDP22c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo22
+QDR QJRDP2300000c QJRDP23c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo23
+QDR QJRDP2400000c QJRDP24c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo24
+QDR QJRDP2500000c QJRDP25c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo25
+QDR QJRDP2600000c QJRDP26c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo26
+QDR QJRDP2700000c QJRDP27c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo27
+QDR QJRDP2800000c QJRDP28c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo28
+QDR QJRDP2900000c QJRDP29c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo29
+QDR QJRDP3000000c QJRDP30c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo30
+QDR QJRDP3100000c QJRDP31c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo31
+QDR QJRDP3200000c QJRDP32c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo32
+QDR QJRDP3300000c QJRDP33c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo33
+QDR QJRDP3400000c QJRDP34c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo34
+QDR QJRDP3500000c QJRDP35c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo35
+QDR QJRDP3600000c QJRDP36c           DW USD MT  160311 190118 Jet FOB Rdam Barge M2M Financial Mo36
+QDR QJRDQ0100000c QJRDQ01c           DW USD MT  160808 190118 Jet FOB Rdam Barge M2M Financial Qr01
+QDR QJRDQ0200000c QJRDQ02c           DW USD MT  160808 190118 Jet FOB Rdam Barge M2M Financial Qr02
+QDR QJRDQ0300000c QJRDQ03c           DW USD MT  160808 190118 Jet FOB Rdam Barge M2M Financial Qr03
+QDR QJRDQ0400000c QJRDQ04c           DW USD MT  160808 190118 Jet FOB Rdam Barge M2M Financial Qr04
+QDR QJRDQ0500000c QJRDQ05c           DW USD MT  160808 190118 Jet FOB Rdam Barge M2M Financial Qr05
+QDR QJRDQ0600000c QJRDQ06c           DW USD MT  160808 190118 Jet FOB Rdam Barge M2M Financial Qr06
+QDR QJRDQ0700000c QJRDQ07c           DW USD MT  160808 190118 Jet FOB Rdam Barge M2M Financial Qr07
+QDR QJRDQ0800000c QJRDQ08c           DW USD MT  160808 190118 Jet FOB Rdam Barge M2M Financial Qr08
+QDR QJRDY0100000c QJRDY01c           DW USD MT  160808 190118 Jet FOB Rdam Barge M2M Financial Yr01
+QDR QJRDY0200000c QJRDY02c           DW USD MT  160808 190118 Jet FOB Rdam Barge M2M Financial Yr02
+QDR QJSLM0100000c QJSLM01c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo01
+QDR QJSLM0200000c QJSLM02c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo02
+QDR QJSLM0300000c QJSLM03c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo03
+QDR QJSLM0400000c QJSLM04c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo04
+QDR QJSLM0500000c QJSLM05c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo05
+QDR QJSLM0600000c QJSLM06c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo06
+QDR QJSLM0700000c QJSLM07c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo07
+QDR QJSLM0800000c QJSLM08c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo08
+QDR QJSLM0900000c QJSLM09c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo09
+QDR QJSLM1000000c QJSLM10c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo10
+QDR QJSLM1100000c QJSLM11c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo11
+QDR QJSLM1200000c QJSLM12c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo12
+QDR QJSLM1300000c QJSLM13c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo13
+QDR QJSLM1400000c QJSLM14c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo14
+QDR QJSLM1500000c QJSLM15c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo15
+QDR QJSLM1600000c QJSLM16c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo16
+QDR QJSLM1700000c QJSLM17c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo17
+QDR QJSLM1800000c QJSLM18c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo18
+QDR QJSLM1900000c QJSLM19c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo19
+QDR QJSLM2000000c QJSLM20c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo20
+QDR QJSLM2100000c QJSLM21c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo21
+QDR QJSLM2200000c QJSLM22c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo22
+QDR QJSLM2300000c QJSLM23c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo23
+QDR QJSLM2400000c QJSLM24c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo24
+QDR QJSLM2500000c QJSLM25c           DW USD BBL 171031 190118 Jet Kero FOB Spore Cargo at London MOC M2M Financial $/Bbl Mo25
+QDR QVGCM0100000c QVGCM01c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo01
+QDR QVGCM0200000c QVGCM02c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo02
+QDR QVGCM0300000c QVGCM03c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo03
+QDR QVGCM0400000c QVGCM04c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo04
+QDR QVGCM0500000c QVGCM05c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo05
+QDR QVGCM0600000c QVGCM06c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo06
+QDR QVGCM0700000c QVGCM07c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo07
+QDR QVGCM0800000c QVGCM08c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo08
+QDR QVGCM0900000c QVGCM09c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo09
+QDR QVGCM1000000c QVGCM10c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo10
+QDR QVGCM1100000c QVGCM11c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo11
+QDR QVGCM1200000c QVGCM12c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo12
+QDR QVGCM1300000c QVGCM13c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo13
+QDR QVGCM1400000c QVGCM14c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo14
+QDR QVGCM1500000c QVGCM15c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo15
+QDR QVGCM1600000c QVGCM16c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo16
+QDR QVGCM1700000c QVGCM17c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo17
+QDR QVGCM1800000c QVGCM18c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo18
+QDR QVGCM1900000c QVGCM19c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo19
+QDR QVGCM2000000c QVGCM20c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo20
+QDR QVGCM2100000c QVGCM21c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo21
+QDR QVGCM2200000c QVGCM22c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo22
+QDR QVGCM2300000c QVGCM23c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo23
+QDR QVGCM2400000c QVGCM24c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo24
+QDR QVGCM2500000c QVGCM25c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo25
+QDR QVGCM2600000c QVGCM26c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo26
+QDR QVGCM2700000c QVGCM27c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo27
+QDR QVGCM2800000c QVGCM28c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo28
+QDR QVGCM2900000c QVGCM29c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo29
+QDR QVGCM3000000c QVGCM30c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo30
+QDR QVGCM3100000c QVGCM31c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo31
+QDR QVGCM3200000c QVGCM32c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo32
+QDR QVGCM3300000c QVGCM33c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo33
+QDR QVGCM3400000c QVGCM34c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo34
+QDR QVGCM3500000c QVGCM35c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo35
+QDR QVGCM3600000c QVGCM36c           DW USD MT  181210 190118 VGO 2.0%S CIF NWE M2M Financial Mo36
+QDR QVGFM0100000c QVGFM01c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo01
+QDR QVGFM0200000c QVGFM02c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo02
+QDR QVGFM0300000c QVGFM03c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo03
+QDR QVGFM0400000c QVGFM04c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo04
+QDR QVGFM0500000c QVGFM05c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo05
+QDR QVGFM0600000c QVGFM06c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo06
+QDR QVGFM0700000c QVGFM07c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo07
+QDR QVGFM0800000c QVGFM08c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo08
+QDR QVGFM0900000c QVGFM09c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo09
+QDR QVGFM1000000c QVGFM10c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo10
+QDR QVGFM1100000c QVGFM11c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo11
+QDR QVGFM1200000c QVGFM12c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo12
+QDR QVGFM1300000c QVGFM13c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo13
+QDR QVGFM1400000c QVGFM14c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo14
+QDR QVGFM1500000c QVGFM15c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo15
+QDR QVGFM1600000c QVGFM16c           DW USD MT  181210 190118 VGO 2.0%S FOB Rdam barge M2M Financial Mo16

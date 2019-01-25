@@ -1,0 +1,23 @@
+LSP                                                           © 2019 by S&P Global Inc.,190119
+LSP ACABA0000000c ACABA00c           DW USD MMB 180820 190118 LNG Gladstone-Japan/Korea Freight Cost $/MMBtu
+LSP ACABA0300000c ACABA03c           MA USD MMB 180801 181201 LNG Gladstone-Japan/Korea Freight Cost $/MMBtu MAvg
+LSP ACABB0000000c ACABB00c           DW USD MMB 180820 190118 LNG Gladstone-S China/Taiwan Freight Cost $/MMBtu
+LSP ACABB0300000c ACABB03c           MA USD MMB 180801 181201 LNG Gladstone-S China/Taiwan Freight Cost $/MMBtu MAvg
+LSP ACABC0000000c ACABC00c           DW USD MMB 180820 190118 LNG Gladstone-West India Freight Cost $/MMBtu
+LSP ACABC0300000c ACABC03c           MA USD MMB 180801 181201 LNG Gladstone-West India Freight Cost $/MMBtu MAvg
+LSP ACABD0000000c ACABD00c           DW USD MMB 180820 190118 LNG Gladstone-Southwest Europe via Suez Freight Cost $/MMBtu
+LSP ACABD0300000c ACABD03c           MA USD MMB 180801 181201 LNG Gladstone-Southwest Europe via Suez Freight Cost $/MMBtu MAvg
+LSP ACABE0000000c ACABE00c           DW USD MMB 180820 190118 LNG Gladstone-Northwest Europe via Suez Freight Cost $/MMBtu
+LSP ACABE0300000c ACABE03c           MA USD MMB 180801 181201 LNG Gladstone-Northwest Europe via Suez Freight Cost $/MMBtu MAvg
+LSP ACABF0000000c ACABF00c           DW USD MMB 180820 190118 LNG Gladstone-Northeast US via Panama Canal Freight Cost $/MMBtu
+LSP ACABF0300000c ACABF03c           MA USD MMB 180801 181201 LNG Gladstone-Northeast US via Panama Canal Freight Cost $/MMBtu MAvg
+LSP ACABG0000000c ACABG00c           DW USD MMB 180820 190118 LNG Gladstone-Brazil Freight Cost $/MMBtu
+LSP ACABG0300000c ACABG03c           MA USD MMB 180801 181201 LNG Gladstone-Brazil Freight Cost $/MMBtu MAvg
+LSP ACABH0000000c ACABH00c           DW USD MMB 180820 190118 LNG Gladstone-Argentina Freight Cost $/MMBtu
+LSP ACABH0300000c ACABH03c           MA USD MMB 180801 181201 LNG Gladstone-Argentina Freight Cost $/MMBtu MAvg
+LSP ACABI0000000c ACABI00c           DW USD MMB 180820 190118 LNG Gladstone-Egypt Freight Cost $/MMBtu
+LSP ACABI0300000c ACABI03c           MA USD MMB 180801 181201 LNG Gladstone-Egypt Freight Cost $/MMBtu MAvg
+LSP AAXTM0000000u AAXTM00u           DW N/A PCT 180702 190118 LNG Atlantic Ballast Rate
+LSP AAXTM0300000u AAXTM03u           MA N/A PCT 180701 181201 LNG Atlantic Ballast Rate MAvg
+LSP AAXTN0000000u AAXTN00u           DW N/A PCT 180702 190118 LNG Pacific Ballast Rate
+LSP AAXTN0300000u AAXTN03u           MA N/A PCT 180701 181201 LNG Pacific Ballast Rate MAvg

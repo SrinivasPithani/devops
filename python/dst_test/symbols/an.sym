@@ -1,0 +1,61 @@
+AN                                                           © 2019 by S&P Global Inc.,190119
+AN ACREA0000000c ACREA00c           MA USD MMB 170701 181101 CRE Natgas Wtd Average Pricing IPGN $/MMBtu Mthly
+AN ACREB0000000c ACREB00c           MA USD MMB 180201 181101 CRE Natgas Wtd Average Pricing Region I $/MMBtu Mthly
+AN ACREC0000000c ACREC00c           MA USD MMB 180201 181101 CRE Natgas Wtd Average Pricing Region II $/MMBtu Mthly
+AN ACRED0000000c ACRED00c           MA USD MMB 180201 181101 CRE Natgas Wtd Average Pricing Region III $/MMBtu Mthly
+AN ACREE0000000c ACREE00c           MA USD MMB 180201 181101 CRE Natgas Wtd Average Pricing Region IV $/MMBtu Mthly
+AN ACREF0000000c ACREF00c           MA USD MMB 180201 181101 CRE Natgas Wtd Average Pricing Region V $/MMBtu Mthly
+AN ACREG0000000c ACREG00c           MA USD MMB 180201 181101 CRE Natgas Wtd Average Pricing Region VI $/MMBtu Mthly
+AN ACRNA0000000u ACRNA00u           MA N/A CON 180201 181101 CRE Natgas Wtd Average Pricing Region V Transactions Excluded Mthly
+AN ACRNB0000000u ACRNB00u           MA N/A CON 180201 181101 CRE Natgas Wtd Average Pricing Region VI Transactions Excluded Mthly
+AN ACRPA0000000c ACRPA00c           MA MXN GIG 170701 181001 CRE Natgas Wtd Average Pricing IPGN pesos/gigajoule Mthly
+AN ACRPA0000000w ACRPA00w           MA MXN GIG 170701 181001 CRE Natgas Wtd Average Pricing IPGN pesos/gigajoule Mthly
+AN ACRPB0000000c ACRPB00c           MA MXN GIG 180201 181001 CRE Natgas Wtd Average Pricing Region I pesos/gigajoule Mthly
+AN ACRPB0000000w ACRPB00w           MA MXN GIG 180201 181001 CRE Natgas Wtd Average Pricing Region I pesos/gigajoule Mthly
+AN ACRPC0000000c ACRPC00c           MA MXN GIG 180201 181001 CRE Natgas Wtd Average Pricing Region II pesos/gigajoule Mthly
+AN ACRPC0000000w ACRPC00w           MA MXN GIG 180201 181001 CRE Natgas Wtd Average Pricing Region II pesos/gigajoule Mthly
+AN ACRPD0000000c ACRPD00c           MA MXN GIG 180201 181001 CRE Natgas Wtd Average Pricing Region III pesos/gigajoule Mthly
+AN ACRPD0000000w ACRPD00w           MA MXN GIG 180201 181001 CRE Natgas Wtd Average Pricing Region III pesos/gigajoule Mthly
+AN ACRPE0000000c ACRPE00c           MA MXN GIG 180201 181001 CRE Natgas Wtd Average Pricing Region IV pesos/gigajoule Mthly
+AN ACRPE0000000w ACRPE00w           MA MXN GIG 180201 181001 CRE Natgas Wtd Average Pricing Region IV pesos/gigajoule Mthly
+AN ACRPF0000000c ACRPF00c           MA MXN GIG 180201 181001 CRE Natgas Wtd Average Pricing Region V pesos/gigajoule Mthly
+AN ACRPF0000000w ACRPF00w           MA MXN GIG 180201 181001 CRE Natgas Wtd Average Pricing Region V pesos/gigajoule Mthly
+AN ACRPG0000000c ACRPG00c           MA MXN GIG 180201 181001 CRE Natgas Wtd Average Pricing Region VI pesos/gigajoule Mthly
+AN ACRPG0000000w ACRPG00w           MA MXN GIG 180201 181001 CRE Natgas Wtd Average Pricing Region VI pesos/gigajoule Mthly
+AN ACRPH0000000u ACRPH00u           MA N/A N/A 170701 181001 CRE Natgas Wtd Average Pricing IPGN Counterparties Mthly
+AN ACRPI0000000u ACRPI00u           MA N/A N/A               CRE Natgas Wtd Average Pricing Region I Counterparties Mthly
+AN ACRPJ0000000u ACRPJ00u           MA N/A N/A               CRE Natgas Wtd Average Pricing Region II Counterparties Mthly
+AN ACRPK0000000u ACRPK00u           MA N/A N/A               CRE Natgas Wtd Average Pricing Region III Counterparties Mthly
+AN ACRPL0000000u ACRPL00u           MA N/A N/A               CRE Natgas Wtd Average Pricing Region IV Counterparties Mthly
+AN ACRPM0000000u ACRPM00u           MA N/A N/A               CRE Natgas Wtd Average Pricing Region V Counterparties Mthly
+AN ACRPN0000000u ACRPN00u           MA N/A N/A               CRE Natgas Wtd Average Pricing Region VI Counterparties Mthly
+AN ACRPO0000000u ACRPO00u           MA N/A CON 170701 181001 CRE Natgas Wtd Average Pricing IPGN Transactions Reported Mthly
+AN ACRPP0000000u ACRPP00u           MA N/A CON 180201 181001 CRE Natgas Wtd Average Pricing Region I Transactions Reported Mthly
+AN ACRPQ0000000u ACRPQ00u           MA N/A CON 180201 181001 CRE Natgas Wtd Average Pricing Region II Transactions Reported Mthly
+AN ACRPR0000000u ACRPR00u           MA N/A CON 180201 181001 CRE Natgas Wtd Average Pricing Region III Transactions Reported Mthly
+AN ACRPS0000000u ACRPS00u           MA N/A CON 180201 181001 CRE Natgas Wtd Average Pricing Region IV Transactions Reported Mthly
+AN ACRPT0000000u ACRPT00u           MA N/A CON 180201 181001 CRE Natgas Wtd Average Pricing Region V Transactions Reported Mthly
+AN ACRPU0000000u ACRPU00u           MA N/A CON 180201 181001 CRE Natgas Wtd Average Pricing Region VI Transactions Reported Mthly
+AN ACRPV0000000u ACRPV00u           MA N/A CON 170701 181001 CRE Natgas Wtd Average Pricing IPGN Transactions Excluded Mthly
+AN ACRPW0000000u ACRPW00u           MA N/A CON 180201 181001 CRE Natgas Wtd Average Pricing Region I Transactions Excluded Mthly
+AN ACRPX0000000u ACRPX00u           MA N/A CON 180201 181001 CRE Natgas Wtd Average Pricing Region II Transactions Excluded Mthly
+AN ACRPY0000000u ACRPY00u           MA N/A CON 180201 181001 CRE Natgas Wtd Average Pricing Region III Transactions Excluded Mthly
+AN ACRPZ0000000u ACRPZ00u           MA N/A CON 180201 181001 CRE Natgas Wtd Average Pricing Region IV Transactions Excluded Mthly
+AN PMVDA0000000c PMVDA00c           DW MXN GIG               PEMEX Natgas ZONA 3 Daily VPM pesos/gj
+AN PMVDB0000000c PMVDB00c           DW MXN GIG               PEMEX Natgas ZONA 4 Daily VPM pesos/gj
+AN PMVDC0000000c PMVDC00c           DW MXN GIG               PEMEX Natgas ZONA 5 Daily VPM pesos/gj
+AN PMVDD0000000c PMVDD00c           DW MXN GIG               PEMEX Natgas ZONA 6 Daily VPM pesos/gj
+AN PMVDE0000000c PMVDE00c           DW MXN GIG               PEMEX Natgas ZONA 7 Daily VPM pesos/gj
+AN PMVDF0000000c PMVDF00c           DW MXN GIG               PEMEX Natgas ZONA 8 Daily VPM pesos/gj
+AN PMVDG0000000c PMVDG00c           DW MXN GIG               PEMEX Natgas GLORIA A DIOS Daily VPM pesos/gj
+AN PMVDH0000000c PMVDH00c           DW MXN GIG               PEMEX Natgas KINDER MORGAN MONTERREY Daily VPM pesos/gj
+AN PMVDI0000000c PMVDI00c           DW MXN GIG               PEMEX Natgas NACO Daily VPM pesos/gj
+AN PMVMA0000000c PMVMA00c           MA MXN GIG               PEMEX Natgas ZONA 3 Monthly VPM pesos/gj
+AN PMVMB0000000c PMVMB00c           MA MXN GIG               PEMEX Natgas ZONA 4 Monthly VPM pesos/gj
+AN PMVMC0000000c PMVMC00c           MA MXN GIG               PEMEX Natgas ZONA 5 Monthly VPM pesos/gj
+AN PMVMD0000000c PMVMD00c           MA MXN GIG               PEMEX Natgas ZONA 6 Monthly VPM pesos/gj
+AN PMVME0000000c PMVME00c           MA MXN GIG               PEMEX Natgas ZONA 7 Monthly VPM pesos/gj
+AN PMVMF0000000c PMVMF00c           MA MXN GIG               PEMEX Natgas ZONA 8 Monthly VPM pesos/gj
+AN PMVMG0000000c PMVMG00c           MA MXN GIG               PEMEX Natgas GLORIA A DIOS Monthly VPM pesos/gj
+AN PMVMH0000000c PMVMH00c           MA MXN GIG               PEMEX Natgas KINDER MORGAN MONTERREY Monthly VPM pesos/gj
+AN PMVMI0000000c PMVMI00c           MA MXN GIG               PEMEX Natgas NACO Monthly VPM pesos/gj

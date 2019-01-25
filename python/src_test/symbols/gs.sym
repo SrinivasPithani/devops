@@ -1,0 +1,50 @@
+GS                                                           © 2019 by S&P Global Inc.,190119
+GS AAJOQ0000000u AAJOQ00u           WA N/A BCF 931231 190111 EIA Natgas US Lower 48 Wrk Stor Wk
+GS AAJOQP100000u AAJOQP1u           WA N/A PCT 111130 180111 EIA Natgas US Lower 48 Wrk Stor Yr-ago %Chg Wk
+GS AAJOQP500000u AAJOQP5u           WA N/A PCT 121130 190111 EIA Natgas US Lower 48 Wrk Stor 5-Yr MovAvg %Chg Wk
+GS AAJOQY100000u AAJOQY1u           WA N/A BCF 111130 180111 EIA Natgas US Lower 48 Wrk Stor Yr-ago Wk
+GS AAJOQY500000u AAJOQY5u           WA N/A BCF 121130 190111 EIA Natgas US Lower 48 Wrk Stor 5-Yr MovAvg Wk
+GS AAMZW0000000u AAMZW00u           WA N/A BCF 151120 190111 EIA Natgas US South Central Working Storage Wk
+GS AAMZWP100000u AAMZWP1u           WA N/A PCT 141127 180111 EIA Natgas US South Central Working Storage Yr-ago %Chg Wk
+GS AAMZWP500000u AAMZWP5u           WA N/A PCT 151127 190111 EIA Natgas US South Central Working Storage 5-Yr MovAvg %Chg Wk
+GS AAMZWY100000u AAMZWY1u           WA N/A BCF 141127 180111 EIA Natgas US South Central Working Storage Yr-ago Wk
+GS AAMZWY500000u AAMZWY5u           WA N/A BCF 151127 190111 EIA Natgas US South Central Working Storage 5-Yr MovAvg Wk
+GS AAJTO0000000u AAJTO00u           WA N/A BCF 130426 190111 EIA Natgas US Prod Reg Nonsalt Wrk Stor Wk
+GS AAJTOP100000u AAJTOP1u           WA N/A PCT 120503 180111 EIA Natgas US Prod Reg Nonsalt Wrk Stor Yr-ago %Chg Wk
+GS AAJTOP500000u AAJTOP5u           WA N/A PCT 130503 190111 EIA Natgas US Prod Reg Nonsalt Wrk Stor 5-Yr MovAvg %Chg Wk
+GS AAJTOY100000u AAJTOY1u           WA N/A BCF 120503 180111 EIA Natgas US Prod Reg Nonsalt Wrk Stor Yr-ago Wk
+GS AAJTOY500000u AAJTOY5u           WA N/A BCF 130503 190111 EIA Natgas US Prod Reg Nonsalt Wrk Stor 5-Yr MovAvg Wk
+GS AAJTP0000000u AAJTP00u           WA N/A BCF 130426 190111 EIA Natgas US Prod Reg Salt Wrk Stor Wk
+GS AAJTPP100000u AAJTPP1u           WA N/A PCT 120503 180111 EIA Natgas US Prod Reg Salt Wrk Stor Yr-ago %Chg Wk
+GS AAJTPP500000u AAJTPP5u           WA N/A PCT 130503 190111 EIA Natgas US Prod Reg Salt Wrk Stor 5-Yr MovAvg %Chg Wk
+GS AAJTPY100000u AAJTPY1u           WA N/A BCF 120503 180111 EIA Natgas US Prod Reg Salt Wrk Stor Yr-ago Wk
+GS AAJTPY500000u AAJTPY5u           WA N/A BCF 130503 190111 EIA Natgas US Prod Reg Salt Wrk Stor 5-Yr MovAvg Wk
+GS AAXVW0000000u AAXVW00u           WA N/A BCF 151120 190111 EIA Natgas US East Working Storage Wk
+GS AAXVWP100000u AAXVWP1u           WA N/A PCT 141127 180111 EIA Natgas US East Working Storage Yr-ago %Chg Wk
+GS AAXVWP500000u AAXVWP5u           WA N/A PCT 151127 190111 EIA Natgas US East Working Storage 5-Yr MovAvg %Chg Wk
+GS AAXVWY100000u AAXVWY1u           WA N/A BCF 141127 180111 EIA Natgas US East Working Storage Yr-ago Wk
+GS AAXVWY500000u AAXVWY5u           WA N/A BCF 151127 190111 EIA Natgas US East Working Storage 5-Yr MovAvg Wk
+GS AAXWW0000000u AAXWW00u           WA N/A BCF 151120 190111 EIA Natgas US Midwest Working Storage Wk
+GS AAXWWP100000u AAXWWP1u           WA N/A PCT 141127 180111 EIA Natgas US Midwest Working Storage Yr-ago %Chg Wk
+GS AAXWWP500000u AAXWWP5u           WA N/A PCT 151127 190111 EIA Natgas US Midwest Working Storage 5-Yr MovAvg %Chg Wk
+GS AAXWWY100000u AAXWWY1u           WA N/A BCF 141127 180111 EIA Natgas US Midwest Working Storage Yr-ago Wk
+GS AAXWWY500000u AAXWWY5u           WA N/A BCF 151127 190111 EIA Natgas US Midwest Working Storage 5-Yr MovAvg Wk
+GS AAXXW0000000u AAXXW00u           WA N/A BCF 151120 190111 EIA Natgas US Mountain Working Storage Wk
+GS AAXXWP100000u AAXXWP1u           WA N/A PCT 141127 180111 EIA Natgas US Mountain Working Storage Yr-ago %Chg Wk
+GS AAXXWP500000u AAXXWP5u           WA N/A PCT 151127 190111 EIA Natgas US Mountain Working Storage 5-Yr MovAvg %Chg Wk
+GS AAXXWY100000u AAXXWY1u           WA N/A BCF 141127 180111 EIA Natgas US Mountain Working Storage Yr-ago Wk
+GS AAXXWY500000u AAXXWY5u           WA N/A BCF 151127 190111 EIA Natgas US Mountain Working Storage 5-Yr MovAvg Wk
+GS AAXYW0000000u AAXYW00u           WA N/A BCF 151120 190111 EIA Natgas US Pacific Working Storage Wk
+GS AAXYWP100000u AAXYWP1u           WA N/A PCT 141127 180111 EIA Natgas US Pacific Working Storage Yr-ago %Chg Wk
+GS AAXYWP500000u AAXYWP5u           WA N/A PCT 151127 190111 EIA Natgas US Pacific Working Storage 5-Yr MovAvg %Chg Wk
+GS AAXYWY100000u AAXYWY1u           WA N/A BCF 141127 180111 EIA Natgas US Pacific Working Storage Yr-ago Wk
+GS AAXYWY500000u AAXYWY5u           WA N/A BCF 151127 190111 EIA Natgas US Pacific Working Storage 5-Yr MovAvg Wk
+GS BGCWA0400000u BGCWA04u           WA N/A BCF 120106 190118 Bentek Natgas E Canada Working Storage
+GS BGCWB0400000u BGCWB04u           WA N/A PCT 120106 190118 Bentek Natgas E Canada Working Storage Pct Cap Used
+GS BGCWC0400000u BGCWC04u           WA N/A BCF 120106 190118 Bentek Natgas E Canada Working Storage Max Cap
+GS BGCWD0400000u BGCWD04u           WA N/A BCF 120106 190118 Bentek Natgas W Canada Working Storage
+GS BGCWE0400000u BGCWE04u           WA N/A PCT 120106 190118 Bentek Natgas W Canada Working Storage Pct Cap Used
+GS BGCWF0400000u BGCWF04u           WA N/A BCF 120106 190118 Bentek Natgas W Canada Working Storage Max Cap
+GS BGCWG0400000u BGCWG04u           WA N/A BCF 120106 190118 Bentek Natgas Canada Working Storage
+GS BGCWH0400000u BGCWH04u           WA N/A PCT 120106 190118 Bentek Natgas Canada Working Storage Pct Cap Used
+GS BGCWJ0400000u BGCWJ04u           WA N/A BCF 120106 190118 Bentek Natgas Canada Working Storage Max Cap

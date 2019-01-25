@@ -1,0 +1,287 @@
+Platts Market Data categories as of 26 October 2018              
+                                                                 
+BF Agriculture: Biofuels                                         
+BX Agriculture: Biofuels Non-Platts Data                         
+GRC Agriculture: Grains Corn                                     
+GRY Agriculture: Grains Dry Bulk                                 
+GRW Agriculture: Grains Wheat                                    
+GRX Agriculture: Grains and Oilseeds Non-Platts Data             
+OL Agriculture: Oilseeds                                         
+SG Agriculture: Sugar                                            
+SY Agriculture: Sugar Freight                                    
+SP Agriculture: Sugar Non-Platts Data                            
+BA Bunkers                                                       
+BL Bunkers: Latin America                                        
+CRY Coal: Dry Bulk Freight                                       
+CI Coal: International + US Export Prices                        
+MC Coal: Metallurgical Coal                                      
+HX Coal: Misc Non-Platts Data                                    
+CTA Coal: Thermal Coal Fundamental Data                          
+CO Coal: US Daily Assmts + Weekly Indexes                        
+NJ Crude Netbacks: Caribbean                                     
+NW Crude Netbacks: Europe ARA                                    
+NP Crude Netbacks: Freight Rates                                 
+NQ Crude Netbacks: Italy                                         
+NX Crude Netbacks: Singapore                                     
+NV Crude Netbacks: US East Coast                                 
+NM Crude Netbacks: US Gulf Coast                                 
+NK Crude Netbacks: US Midwest                                    
+NT Crude Netbacks: US West Coast                                 
+PA Crude Postings: Canadian                                      
+OS Crude Postings: Official Selling Prices                       
+PC Crude Postings: US                                            
+YC Crude Yields: Caribbean                                       
+YR Crude Yields: Europe ARA                                      
+YI Crude Yields: Italy                                           
+YS Crude Yields: Singapore                                       
+YN Crude Yields: US East Coast                                   
+YH Crude Yields: US Gulf Coast                                   
+YU Crude Yields: US Mid-Continent                                
+YL Crude Yields: US West Coast                                   
+RC Crudes: Canadian                                              
+RW Crudes: Feeders - Weekly                                      
+CL Crudes: Latin America                                         
+MPP Crudes: Market Parity Prices Africa                          
+RA Crudes: Russian Domestic Market                               
+RU Crudes: at 13:30 Houston                                      
+RI Crudes: at 16:30 London                                       
+RP Crudes: at 16:30 Singapore                                    
+DC Derivatives: Coal                                             
+ULC Derivatives: FtS Americas London Crude                       
+ULF Derivatives: FtS Americas London Fuel Oil                    
+ULO Derivatives: FtS Americas London Fuel Oil Cracks             
+ULE Derivatives: FtS Americas London Light End Cracks            
+ULL Derivatives: FtS Americas London Light Ends                  
+ULM Derivatives: FtS Americas London Middle Distillates          
+ULD Derivatives: FtS Americas London Middle Distillates Cracks   
+USC Derivatives: FtS Americas Singapore Crude                    
+USF Derivatives: FtS Americas Singapore Fuel Oil                 
+USO Derivatives: FtS Americas Singapore Fuel Oil Cracks          
+USE Derivatives: FtS Americas Singapore Light End Cracks         
+USL Derivatives: FtS Americas Singapore Light Ends               
+USM Derivatives: FtS Americas Singapore Middle Distillates       
+USD Derivatives: FtS Americas Singapore Middle Distillates Crack 
+AHC Derivatives: FtS Asia Houston Crude                          
+AHF Derivatives: FtS Asia Houston Fuel Oil                       
+AHO Derivatives: FtS Asia Houston Fuel Oil Cracks                
+AHE Derivatives: FtS Asia Houston Light End Cracks               
+AHL Derivatives: FtS Asia Houston Light Ends                     
+AHM Derivatives: FtS Asia Houston Middle Distillates             
+AHD Derivatives: FtS Asia Houston Middle Distillates Cracks      
+ALC Derivatives: FtS Asia London Crude                           
+ALF Derivatives: FtS Asia London Fuel Oil                        
+ALO Derivatives: FtS Asia London Fuel Oil Cracks                 
+ALE Derivatives: FtS Asia London Light End Cracks                
+ALL Derivatives: FtS Asia London Light Ends                      
+ALM Derivatives: FtS Asia London Middle Distillates              
+ALD Derivatives: FtS Asia London Middle Distillates Cracks       
+RHC Derivatives: FtS European Houston Crude                      
+RHF Derivatives: FtS European Houston Fuel Oil                   
+RHO Derivatives: FtS European Houston Fuel Oil Cracks            
+RHE Derivatives: FtS European Houston Light End Cracks           
+RHL Derivatives: FtS European Houston Light Ends                 
+RHM Derivatives: FtS European Houston Middle Distillates         
+RHD Derivatives: FtS European Houston Middle Distillates Cracks  
+RSC Derivatives: FtS European Singapore Crude                    
+RSF Derivatives: FtS European Singapore Fuel Oil                 
+RSO Derivatives: FtS European Singapore Fuel Oil Cracks          
+RSE Derivatives: FtS European Singapore Light End Cracks         
+RSL Derivatives: FtS European Singapore Light Ends               
+RSM Derivatives: FtS European Singapore Middle Distillates       
+RSD Derivatives: FtS European Singapore Middle Distillates Crack 
+DI Derivatives: Intraday Indicators                              
+DU Derivatives: Petroleum Americas                               
+DA Derivatives: Petroleum Asia                                   
+DR Derivatives: Petroleum EMEA                                   
+EE Electricity: European Assessments                             
+ET Electricity: European Exch/Other                              
+PE Electricity: European Fwd Assessments                         
+IK Electricity: North American ISO Prices                        
+IL Electricity: North American ISO Spark Spreads                 
+RE Electricity: Renewable Energy Certs                           
+ES Electricity: US Assessments + Indexes                         
+EJ Emissions: Global Sulfur/Nitrous Oxides                       
+EU Emissions: Non-Platts Data - European Exch/Other              
+FX Foreign Exchange: 3rd Party Rates & Platts MOC Assessments    
+XL Futures/Nearbys: DME Oman Crude Oil                           
+TJ Futures/Nearbys: ICE Brent Crude Oil                          
+RF Futures/Nearbys: ICE Coal                                     
+IB Futures/Nearbys: ICE Emissions                                
+TK Futures/Nearbys: ICE Gas Oil                                  
+ZA Futures/Nearbys: ICE Mideast Sour Crude                       
+TQ Futures/Nearbys: ICE Natural Gas                              
+TW Futures/Nearbys: ICE WTI Crude Oil                            
+CF Futures/Nearbys: NYMEX Brent/Sour Crude                       
+CH Futures/Nearbys: NYMEX CME Heating Oil                        
+CD Futures/Nearbys: NYMEX CME Lt Swt Crude                       
+CU Futures/Nearbys: NYMEX CME RBOB Gasoline                      
+QF Futures/Nearbys: NYMEX Coal                                   
+IC Futures/Nearbys: NYMEX Electricity                            
+IA Futures/Nearbys: NYMEX Emissions                              
+TE Futures/Nearbys: NYMEX Heating Oil/ULSD                       
+TB Futures/Nearbys: NYMEX Lt Swt Crude                           
+IF Futures/Nearbys: NYMEX Metals                                 
+TH Futures/Nearbys: NYMEX Natural Gas                            
+TG Futures/Nearbys: NYMEX RBOB Gasoline                          
+IX Futures/Nearbys: NYMEX Swap Contracts                         
+IS Futures/Nearbys: NYMEX Uranium                                
+IH Futures/Nearbys: Singapore Exch Fuel Oil                      
+ILO Futures: ICE Intraday Oil Risk Curves - London 16:30         
+INO Futures: ICE Intraday Oil Risk Curves - New York 14:30       
+ISO Futures: ICE Intraday Oil Risk Curves - Singapore 16:30      
+HD Holiday Schedule                                              
+LF LNG: Assessments & Fundamentals                               
+LNC LNG: Competitive Fuels                                       
+DLF LNG: Forward Curves                                          
+LSP LNG: Shipping                                                
+LI LPG: International                                            
+LG LPG: US                                                       
+MQN M2M: North America Natural Gas Liquid Forward Curves         
+QDU M2M: Oil Forward Curves Americas up to 36 months             
+FDU M2M: Oil Forward Curves Americas up to 84 months             
+QDA M2M: Oil Forward Curves Asia up to 36 months                 
+FDA M2M: Oil Forward Curves Asia up to 84 months                 
+QDR M2M: Oil Forward Curves EMEA up to 36 months                 
+FDE M2M: Oil Forward Curves EMEA up to 84 months                 
+QDG M2M: Oil Forward Curves Global up to 240 months              
+MDC M2MS: 120-month Gas forward curves MidContinent              
+EDC M2MS: 120-month Gas forward curves North East                
+PDC M2MS: 120-month Gas forward curves PFC Hubs Only             
+RDC M2MS: 120-month Gas forward curves Rockies and West          
+GDC M2MS: 120-month Gas forward curves US Gulf Coast             
+UDC M2MS: 120-month Gas forward curves Upper Midwest             
+ODC M2MS: 120-month Power forward curves ERCOT                   
+ADC M2MS: 120-month Power forward curves North East              
+FDC M2MS: 120-month Power forward curves PFC Power Hubs Only     
+JDC M2MS: 120-month Power forward curves PJM/MISO                
+SDC M2MS: 120-month Power forward curves South East              
+WDC M2MS: 120-month Power forward curves West                    
+MMC M2MS: 240-month Gas forward curves Mid Continent             
+EMC M2MS: 240-month Gas forward curves North East                
+PMC M2MS: 240-month Gas forward curves PFC Hubs Only             
+RMC M2MS: 240-month Gas forward curves Rockies and West          
+GMC M2MS: 240-month Gas forward curves US Gulf Coast             
+UMC M2MS: 240-month Gas forward curves Upper Midwest             
+OMC M2MS: 240-month Power forward curves ERCOT                   
+AMC M2MS: 240-month Power forward curves North East              
+FMC M2MS: 240-month Power forward curves PFC Power Hubs Only     
+JMC M2MS: 240-month Power forward curves PJM/MISO                
+SMC M2MS: 240-month Power forward curves South East              
+WMC M2MS: 240-month Power forward curves West                    
+ODH M2MS: 36-month heat rate curves ERCOT                        
+FDH M2MS: 36-month heat rate curves National Package             
+ADH M2MS: 36-month heat rate curves North East                   
+JDH M2MS: 36-month heat rate curves PJM/MISO                     
+SDH M2MS: 36-month heat rate curves South East                   
+WDH M2MS: 36-month heat rate curves West                         
+AD Metals: AISI Steel Demand Data                                
+AP Metals: AISI Steel Production Data                            
+AY Metals: AISI Steel Supply Data                                
+BAT Metals: Battery Materials                                    
+AC Metals: China Steel Analytics                                 
+MRY Metals: Dry Bulk Freight                                     
+FA Metals: Ferroalloys                                           
+ST Metals: Ferrous Scrap                                         
+SI Metals: Iron Ore                                              
+LM Metals: LME Ferrous                                           
+ML Metals: LME Non-ferrous                                       
+LT Metals: Light                                                 
+MM Metals: Major                                                 
+MI Metals: Minor                                                 
+SX Metals: Misc Non-Platts Data - Ferrous                        
+MX Metals: Misc Non-Platts Data - Non-Ferrous                    
+PM Metals: Precious                                              
+SS Metals: Steel Americas                                        
+SQ Metals: Steel Asia                                            
+SR Metals: Steel EMEA                                            
+MF Metals: Steel Mill Economics/Metals Spreads                   
+AN Natural Gas: Americas Non-Platts data                         
+EG Natural Gas: European Assessments                             
+EH Natural Gas: European Exch/Other                              
+GF Natural Gas: European Fwd Assessments                         
+GX Natural Gas: Gas Daily Mexico                                 
+GD Natural Gas: N American Daily Assmts                          
+GI Natural Gas: North American Preliminary Daily Prices          
+GJ Natural Gas: North American Preliminary Monthly Prices        
+GH Natural Gas: Platts ICE Gas Indices Americas (GIA)            
+GM Natural Gas: US Monthly Assessments                           
+UO Nuclear: Platts Uranium price assessments                     
+PP Oil Product Postings: Caribbean                               
+GA Oil Product Postings: USAC/USGC Resids                        
+AG Oil Products: Arab Gulf FOB                                   
+PU Oil Products: Asphalt                                         
+CC Oil Products: Caribbean Cargoes                               
+WC Oil Products: Chicago Pipeline                                
+EB Oil Products: European Bulk                                   
+FS Oil Products: Feedstocks                                      
+FUJ Oil Products: Fujairah Storage Inventory Data                
+JPR Oil Products: Japan Domestic Oil Products Racks              
+JPO Oil Products: Japan Domestic Oil Products Waterborne         
+PL Oil Products: Latin America                                   
+LU Oil Products: Lubricants                                      
+PN Oil Products: NY Harbor                                       
+PZ Oil Products: NY Harbor Fuel Oil                              
+CJ Oil Products: North Asia                                      
+RM Oil Products: Russian Domestic Market                         
+RN Oil Products: Russian Netbacks                                
+CS Oil Products: Singapore                                       
+CX Oil Products: Singapore Fuel Oil                              
+PS Oil Products: South China                                     
+PG Oil Products: US Group 3                                      
+UG Oil Products: US Gulf Coast                                   
+UZ Oil Products: US Gulf Coast Fuel Oil                          
+UW Oil Products: US West Coast                                   
+OX Oil: Misc Non-Platts Data                                     
+FK Oil: Platts Futures at MOC Assessments                        
+HF Petchems: Aromatics East Asia                                 
+AE Petchems: Aromatics Europe                                    
+AL Petchems: Aromatics Latin America                             
+AU Petchems: Aromatics US                                        
+IM Petchems: Intermediates                                       
+TA Petchems: Liquid Chemical Tanker Rates                        
+MPA Petchems: M2M-Benzene Asia                                   
+MPR Petchems: M2M-Benzene Europe                                 
+MPU Petchems: M2M-Benzene North America                          
+PX Petchems: Misc Non-Platts  Data                               
+HO Petchems: Olefins                                             
+PFA Petchems: PFC-Petrochemicals Asia                            
+PFR Petchems: PFC-Petrochemicals Europe                          
+PFU Petchems: PFC-Petrochemicals North America                   
+HP Petchems: Polymers                                            
+HL Petchems: Polymers Latin America                              
+HS Petchems: Solvents                                            
+IN Platts Indexes                                                
+ID Platts Intraday Indications                                   
+MA Platts Monthly Averages                                       
+AM Racks/PSTR: PADD 1 - Mid-Atlantic Area                        
+NE Racks/PSTR: PADD 1 - New England                              
+NY Racks/PSTR: PADD 1 - New York Area                            
+SA Racks/PSTR: PADD 1 - South Atlantic                           
+MW Racks/PSTR: PADD 2 - Lower East Midwest                       
+WO Racks/PSTR: PADD 2 - Michigan/Ohio Area                       
+NA Racks/PSTR: PADD 2 - Northwest Midwest                        
+SM Racks/PSTR: PADD 2 - Southwest Midwest                        
+NI Racks/PSTR: PADD 2 - Wisc/N Ill/N Ind                         
+AA Racks/PSTR: PADD 3 - Inland                                   
+GC Racks/PSTR: PADD 3 - US Gulf Coast                            
+NR Racks/PSTR: PADD 4 - Rockies                                  
+NB Racks/PSTR: PADD 5 - Northern                                 
+SB Racks/PSTR: PADD 5 - Southern                                 
+PR Racks: Canadian                                               
+SV Shale Value Chain                                             
+EM Spark Spreads: Europe                                         
+EK Spark Spreads: N America                                      
+IG Statistics: Baker Hughes Rig Counts                           
+CM Statistics: CFTC/ICE Bank Pos & COT Reports                   
+AO Statistics: EIA PADD 1                                        
+AT Statistics: EIA PADD 2                                        
+AH Statistics: EIA PADD 3                                        
+AF Statistics: EIA PADD 4                                        
+AI Statistics: EIA PADD 5                                        
+AS Statistics: EIA US/Reg Totals                                 
+IP Statistics: IE Singapore Petchems                             
+IO Statistics: IE Singapore Petroleum                            
+JI Statistics: Japanese Govt LPG/Oil                             
+GS Statistics: N Amer Natgas Storage                             
+TC Tankers: Clean                                                
+TD Tankers: Dirty                                                

@@ -1,0 +1,9 @@
+GRW                                                           © 2019 by S&P Global Inc.,190119
+GRW WRASS0000000c WRASS00c           DW USD MT  140317 190118 Russian Wheat 12.5% FOB Azov Sea shallow water
+GRW WRASS0300000c WRASS03c           MA USD MT  140901 181201 Russian Wheat 12.5% FOB Azov Sea shallow water MAvg
+GRW WRBSD0000000c WRBSD00c           DW USD MT  140317 190118 Russian Wheat 12.5% FOB Black Sea deep water
+GRW WRBSD0300000c WRBSD03c           MA USD MT  140901 181201 Russian Wheat 12.5% FOB Black Sea deep water MAvg
+GRW WAUSA0000000c WAUSA00c           DW USD MT  151109 190118 APW Wheat FOB Australia $/mt
+GRW WAUSA0300000c WAUSA03c           MA USD MT  151101 181201 APW Wheat FOB Australia $/mt MAvg
+GRW WDPMT0000000c WDPMT00c           DW USD MT  140317 190118 Wheat 13.5% Delivered Price CIF Marmara Turkey
+GRW WDPMT0300000c WDPMT03c           MA USD MT  140901 181201 Wheat 13.5% delivered price CIF Marmara Turkey MAvg

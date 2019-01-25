@@ -1,0 +1,817 @@
+RSD                                                           © 2019 by S&P Global Inc.,190119
+RSD GRWSP0100000c GRWSP01c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Mo01
+RSD GRWSP0200000c GRWSP02c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Mo02
+RSD GRWSP0300000c GRWSP03c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Mo03
+RSD GRWSP0400000c GRWSP04c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Mo04
+RSD GRWSP0500000c GRWSP05c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Mo05
+RSD GRWSP0600000c GRWSP06c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Mo06
+RSD GRWSP0700000c GRWSP07c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Mo07
+RSD GRWSP0800000c GRWSP08c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Mo08
+RSD GRWSP0900000c GRWSP09c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Mo09
+RSD GRWSP1000000c GRWSP10c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Mo10
+RSD GRWSP1100000c GRWSP11c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Mo11
+RSD GRWSP1200000c GRWSP12c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Mo12
+RSD GRWSP1300000c GRWSP13c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Mo13
+RSD GRWSP1400000c GRWSP14c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Mo14
+RSD GRWSP1500000c GRWSP15c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Mo15
+RSD GRWSP1600000c GRWSP16c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Mo16
+RSD GRWSP1700000c GRWSP17c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Mo17
+RSD GRWSP1800000c GRWSP18c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Mo18
+RSD GRWSP1900000c GRWSP19c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Mo19
+RSD GRWSP2000000c GRWSP20c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Mo20
+RSD GRWSP2100000c GRWSP21c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Mo21
+RSD GRWSP2200000c GRWSP22c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Mo22
+RSD GRWSP2300000c GRWSP23c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Mo23
+RSD GRWSP2400000c GRWSP24c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Mo24
+RSD GRWSR0100000c GRWSR01c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Qr01
+RSD GRWSR0200000c GRWSR02c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Qr02
+RSD GRWSR0300000c GRWSR03c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Qr03
+RSD GRWSR0400000c GRWSR04c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Qr04
+RSD GRWSR0500000c GRWSR05c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Qr05
+RSD GRWSR0600000c GRWSR06c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Qr06
+RSD GRWSR0700000c GRWSR07c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Qr07
+RSD GRWSR0800000c GRWSR08c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Qr08
+RSD GRWSS0100000c GRWSS01c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Yr01
+RSD GRWSS0200000c GRWSS02c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London WTI Crack swap Yr02
+RSD GMBSP0100000c GMBSP01c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Mo01
+RSD GMBSP0200000c GMBSP02c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Mo02
+RSD GMBSP0300000c GMBSP03c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Mo03
+RSD GMBSP0400000c GMBSP04c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Mo04
+RSD GMBSP0500000c GMBSP05c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Mo05
+RSD GMBSP0600000c GMBSP06c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Mo06
+RSD GMBSP0700000c GMBSP07c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Mo07
+RSD GMBSP0800000c GMBSP08c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Mo08
+RSD GMBSP0900000c GMBSP09c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Mo09
+RSD GMBSP1000000c GMBSP10c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Mo10
+RSD GMBSP1100000c GMBSP11c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Mo11
+RSD GMBSP1200000c GMBSP12c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Mo12
+RSD GMBSP1300000c GMBSP13c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Mo13
+RSD GMBSP1400000c GMBSP14c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Mo14
+RSD GNWSP0100000c GNWSP01c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Mo01
+RSD GNWSP0200000c GNWSP02c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Mo02
+RSD GNWSP0300000c GNWSP03c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Mo03
+RSD GNWSP0400000c GNWSP04c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Mo04
+RSD GNWSP0500000c GNWSP05c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Mo05
+RSD GNWSP0600000c GNWSP06c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Mo06
+RSD GNWSP0700000c GNWSP07c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Mo07
+RSD GNWSP0800000c GNWSP08c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Mo08
+RSD GNWSP0900000c GNWSP09c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Mo09
+RSD GNWSP1000000c GNWSP10c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Mo10
+RSD GNWSP1100000c GNWSP11c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Mo11
+RSD GNWSP1200000c GNWSP12c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Mo12
+RSD GNWSP1300000c GNWSP13c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Mo13
+RSD GNWSP1400000c GNWSP14c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Mo14
+RSD GNWSP1500000c GNWSP15c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Mo15
+RSD GNWSP1600000c GNWSP16c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Mo16
+RSD GNWSP1700000c GNWSP17c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Mo17
+RSD GNWSP1800000c GNWSP18c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Mo18
+RSD GNWSP1900000c GNWSP19c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Mo19
+RSD GNWSP2000000c GNWSP20c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Mo20
+RSD GNWSP2100000c GNWSP21c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Mo21
+RSD GMBSP1500000c GMBSP15c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Mo15
+RSD GMBSP1600000c GMBSP16c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Mo16
+RSD GMBSP1700000c GMBSP17c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Mo17
+RSD GMBSP1800000c GMBSP18c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Mo18
+RSD GMBSP1900000c GMBSP19c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Mo19
+RSD GMBSP2000000c GMBSP20c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Mo20
+RSD GMBSP2100000c GMBSP21c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Mo21
+RSD GMBSP2200000c GMBSP22c           DW USD BBL 140902 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Mo22
+RSD GMBSP2300000c GMBSP23c           DW USD BBL 140902 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Mo23
+RSD GMBSP2400000c GMBSP24c           DW USD BBL 140902 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Mo24
+RSD GMBSR0100000c GMBSR01c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Qr01
+RSD GMBSR0200000c GMBSR02c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Qr02
+RSD GMBSR0300000c GMBSR03c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Qr03
+RSD GMBSR0400000c GMBSR04c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Qr04
+RSD GMBSR0500000c GMBSR05c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Qr05
+RSD GMBSR0600000c GMBSR06c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Qr06
+RSD GMBSR0700000c GMBSR07c           DW USD BBL 140902 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Qr07
+RSD GMBSR0800000c GMBSR08c           DW USD BBL 140902 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Qr08
+RSD GMBSS0100000c GMBSS01c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Yr01
+RSD GMBSS0200000c GMBSS02c           DW USD BBL 140902 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Brent Crk Swap Yr02
+RSD GNWSP2200000c GNWSP22c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Mo22
+RSD GNWSP2300000c GNWSP23c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Mo23
+RSD GNWSP2400000c GNWSP24c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Mo24
+RSD GNWSR0100000c GNWSR01c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Qr01
+RSD GNWSR0200000c GNWSR02c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Qr02
+RSD GNWSR0300000c GNWSR03c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Qr03
+RSD GNWSR0400000c GNWSR04c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Qr04
+RSD GNWSR0500000c GNWSR05c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Qr05
+RSD GNWSR0600000c GNWSR06c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Qr06
+RSD GNWSR0700000c GNWSR07c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Qr07
+RSD GNWSR0800000c GNWSR08c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Qr08
+RSD GNWSS0100000c GNWSS01c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Yr01
+RSD GNWSS0200000c GNWSS02c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London WTI Crack swap Yr02
+RSD GMDSP0100000c GMDSP01c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Mo01
+RSD GMDSP0200000c GMDSP02c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Mo02
+RSD GMDSP0300000c GMDSP03c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Mo03
+RSD GMDSP0400000c GMDSP04c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Mo04
+RSD GMDSP0500000c GMDSP05c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Mo05
+RSD GMDSP0600000c GMDSP06c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Mo06
+RSD GMDSP0700000c GMDSP07c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Mo07
+RSD GMDSP0800000c GMDSP08c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Mo08
+RSD GMDSP0900000c GMDSP09c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Mo09
+RSD GMDSP1000000c GMDSP10c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Mo10
+RSD GMDSP1100000c GMDSP11c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Mo11
+RSD GMDSP1200000c GMDSP12c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Mo12
+RSD GMDSP1300000c GMDSP13c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Mo13
+RSD GMDSP1400000c GMDSP14c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Mo14
+RSD GMDSP1500000c GMDSP15c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Mo15
+RSD GMDSP1600000c GMDSP16c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Mo16
+RSD GMDSP1700000c GMDSP17c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Mo17
+RSD GMDSP1800000c GMDSP18c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Mo18
+RSD GMDSP1900000c GMDSP19c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Mo19
+RSD GMDSP2000000c GMDSP20c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Mo20
+RSD GMDSP2100000c GMDSP21c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Mo21
+RSD GMDSP2200000c GMDSP22c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Mo22
+RSD GMDSP2300000c GMDSP23c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Mo23
+RSD GMDSP2400000c GMDSP24c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Mo24
+RSD GMDSR0100000c GMDSR01c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Qr01
+RSD GMDSR0200000c GMDSR02c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Qr02
+RSD GMDSR0300000c GMDSR03c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Qr03
+RSD GMDSR0400000c GMDSR04c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Qr04
+RSD GMDSR0500000c GMDSR05c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Qr05
+RSD GMDSR0600000c GMDSR06c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Qr06
+RSD GMDSR0700000c GMDSR07c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Qr07
+RSD GMDSR0800000c GMDSR08c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Qr08
+RSD GMDSS0100000c GMDSS01c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Yr01
+RSD GMDSS0200000c GMDSS02c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London Dubai Crack swap Yr02
+RSD GFBSP0100000c GFBSP01c           DW USD BBL 130327 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Mo01
+RSD GFBSP0200000c GFBSP02c           DW USD BBL 130327 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Mo02
+RSD GFBSP0300000c GFBSP03c           DW USD BBL 130327 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Mo03
+RSD GFBSP0400000c GFBSP04c           DW USD BBL 130327 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Mo04
+RSD GFBSP0500000c GFBSP05c           DW USD BBL 130327 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Mo05
+RSD GFBSP0600000c GFBSP06c           DW USD BBL 130327 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Mo06
+RSD GFBSP0700000c GFBSP07c           DW USD BBL 130327 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Mo07
+RSD GFBSP0800000c GFBSP08c           DW USD BBL 130327 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Mo08
+RSD GFBSP0900000c GFBSP09c           DW USD BBL 130327 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Mo09
+RSD GFBSP1000000c GFBSP10c           DW USD BBL 130327 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Mo10
+RSD GFBSP1100000c GFBSP11c           DW USD BBL 130327 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Mo11
+RSD GFBSP1200000c GFBSP12c           DW USD BBL 130327 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Mo12
+RSD GFBSP1300000c GFBSP13c           DW USD BBL 130327 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Mo13
+RSD GFBSP1400000c GFBSP14c           DW USD BBL 130327 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Mo14
+RSD GFBSP1500000c GFBSP15c           DW USD BBL 130327 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Mo15
+RSD GFBSP1600000c GFBSP16c           DW USD BBL 130327 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Mo16
+RSD GFBSP1700000c GFBSP17c           DW USD BBL 130327 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Mo17
+RSD GFBSP1800000c GFBSP18c           DW USD BBL 130327 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Mo18
+RSD GFBSP1900000c GFBSP19c           DW USD BBL 130327 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Mo19
+RSD GFBSP2000000c GFBSP20c           DW USD BBL 130327 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Mo20
+RSD GFBSP2100000c GFBSP21c           DW USD BBL 130327 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Mo21
+RSD GFBSP2200000c GFBSP22c           DW USD BBL 140902 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Mo22
+RSD GFBSP2300000c GFBSP23c           DW USD BBL 140902 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Mo23
+RSD GFBSP2400000c GFBSP24c           DW USD BBL 140902 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Mo24
+RSD GFBSR0100000c GFBSR01c           DW USD BBL 130327 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Qr01
+RSD GFBSR0200000c GFBSR02c           DW USD BBL 130327 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Qr02
+RSD GFBSR0300000c GFBSR03c           DW USD BBL 130327 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Qr03
+RSD GFBSR0400000c GFBSR04c           DW USD BBL 130327 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Qr04
+RSD GFBSR0500000c GFBSR05c           DW USD BBL 130327 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Qr05
+RSD GFBSR0600000c GFBSR06c           DW USD BBL 130327 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Qr06
+RSD GFBSR0700000c GFBSR07c           DW USD BBL 140902 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Qr07
+RSD GFBSR0800000c GFBSR08c           DW USD BBL 140902 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Qr08
+RSD GFBSS0100000c GFBSS01c           DW USD BBL 130327 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Yr01
+RSD GFBSS0200000c GFBSS02c           DW USD BBL 140902 190118 FtS Spore LS Gasoil Frontline Brent Crk Swap Yr02
+RSD GMWSP0100000c GMWSP01c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Mo01
+RSD GMWSP0200000c GMWSP02c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Mo02
+RSD GMWSP0300000c GMWSP03c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Mo03
+RSD GMWSP0400000c GMWSP04c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Mo04
+RSD GMWSP0500000c GMWSP05c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Mo05
+RSD GMWSP0600000c GMWSP06c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Mo06
+RSD GMWSP0700000c GMWSP07c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Mo07
+RSD GMWSP0800000c GMWSP08c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Mo08
+RSD GMWSP0900000c GMWSP09c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Mo09
+RSD GMWSP1000000c GMWSP10c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Mo10
+RSD GMWSP1100000c GMWSP11c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Mo11
+RSD GMWSP1200000c GMWSP12c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Mo12
+RSD GMWSP1300000c GMWSP13c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Mo13
+RSD GMWSP1400000c GMWSP14c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Mo14
+RSD GMWSP1500000c GMWSP15c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Mo15
+RSD GMWSP1600000c GMWSP16c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Mo16
+RSD GMWSP1700000c GMWSP17c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Mo17
+RSD GMWSP1800000c GMWSP18c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Mo18
+RSD GMWSP1900000c GMWSP19c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Mo19
+RSD GMWSP2000000c GMWSP20c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Mo20
+RSD GMWSP2100000c GMWSP21c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Mo21
+RSD GMWSP2200000c GMWSP22c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Mo22
+RSD GMWSP2300000c GMWSP23c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Mo23
+RSD GMWSP2400000c GMWSP24c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Mo24
+RSD GMWSR0100000c GMWSR01c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Qr01
+RSD GMWSR0200000c GMWSR02c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Qr02
+RSD GMWSR0300000c GMWSR03c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Qr03
+RSD GMWSR0400000c GMWSR04c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Qr04
+RSD GMWSR0500000c GMWSR05c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Qr05
+RSD GMWSR0600000c GMWSR06c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Qr06
+RSD GMWSR0700000c GMWSR07c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Qr07
+RSD GMWSR0800000c GMWSR08c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Qr08
+RSD GFDSP0100000c GFDSP01c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Mo01
+RSD GFDSP0200000c GFDSP02c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Mo02
+RSD GFDSP0300000c GFDSP03c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Mo03
+RSD GFDSP0400000c GFDSP04c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Mo04
+RSD GFDSP0500000c GFDSP05c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Mo05
+RSD GFDSP0600000c GFDSP06c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Mo06
+RSD GFDSP0700000c GFDSP07c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Mo07
+RSD GFDSP0800000c GFDSP08c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Mo08
+RSD GFDSP0900000c GFDSP09c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Mo09
+RSD GFDSP1000000c GFDSP10c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Mo10
+RSD GFDSP1100000c GFDSP11c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Mo11
+RSD GFDSP1200000c GFDSP12c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Mo12
+RSD GFDSP1300000c GFDSP13c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Mo13
+RSD GFDSP1400000c GFDSP14c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Mo14
+RSD GFDSP1500000c GFDSP15c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Mo15
+RSD GFDSP1600000c GFDSP16c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Mo16
+RSD GFDSP1700000c GFDSP17c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Mo17
+RSD GFDSP1800000c GFDSP18c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Mo18
+RSD GFDSP1900000c GFDSP19c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Mo19
+RSD GMWSS0100000c GMWSS01c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Yr01
+RSD GMWSS0200000c GMWSS02c           DW USD BBL               FtS Spore Gasoil 0.1%S Med CIF Crg London WTI Crack swap Yr02
+RSD GNBSP0100000c GNBSP01c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Mo01
+RSD GNBSP0200000c GNBSP02c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Mo02
+RSD GNBSP0300000c GNBSP03c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Mo03
+RSD GNBSP0400000c GNBSP04c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Mo04
+RSD GNBSP0500000c GNBSP05c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Mo05
+RSD GNBSP0600000c GNBSP06c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Mo06
+RSD GNBSP0700000c GNBSP07c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Mo07
+RSD GNBSP0800000c GNBSP08c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Mo08
+RSD GNBSP0900000c GNBSP09c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Mo09
+RSD GNBSP1000000c GNBSP10c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Mo10
+RSD GNBSP1100000c GNBSP11c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Mo11
+RSD GNBSP1200000c GNBSP12c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Mo12
+RSD GFDSP2000000c GFDSP20c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Mo20
+RSD GFDSP2100000c GFDSP21c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Mo21
+RSD GFDSP2200000c GFDSP22c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Mo22
+RSD GFDSP2300000c GFDSP23c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Mo23
+RSD GFDSP2400000c GFDSP24c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Mo24
+RSD GFDSR0100000c GFDSR01c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Qr01
+RSD GFDSR0200000c GFDSR02c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Qr02
+RSD GFDSR0300000c GFDSR03c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Qr03
+RSD GFDSR0400000c GFDSR04c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Qr04
+RSD GFDSR0500000c GFDSR05c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Qr05
+RSD GFDSR0600000c GFDSR06c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Qr06
+RSD GFDSR0700000c GFDSR07c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Qr07
+RSD GFDSR0800000c GFDSR08c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Qr08
+RSD GFDSS0100000c GFDSS01c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Yr01
+RSD GFDSS0200000c GFDSS02c           DW USD BBL               FtS Spore Gasoil Frontline London Dubai Crack swap Yr02
+RSD GNBSP1300000c GNBSP13c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Mo13
+RSD GNBSP1400000c GNBSP14c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Mo14
+RSD GNBSP1500000c GNBSP15c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Mo15
+RSD GNBSP1600000c GNBSP16c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Mo16
+RSD GNBSP1700000c GNBSP17c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Mo17
+RSD GNBSP1800000c GNBSP18c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Mo18
+RSD GNBSP1900000c GNBSP19c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Mo19
+RSD GNBSP2000000c GNBSP20c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Mo20
+RSD GNBSP2100000c GNBSP21c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Mo21
+RSD GNBSP2200000c GNBSP22c           DW USD BBL 140902 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Mo22
+RSD GNBSP2300000c GNBSP23c           DW USD BBL 140902 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Mo23
+RSD GNBSP2400000c GNBSP24c           DW USD BBL 140902 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Mo24
+RSD GNBSR0100000c GNBSR01c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Qr01
+RSD GNBSR0200000c GNBSR02c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Qr02
+RSD GNBSR0300000c GNBSR03c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Qr03
+RSD GNBSR0400000c GNBSR04c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Qr04
+RSD GNBSR0500000c GNBSR05c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Qr05
+RSD GNBSR0600000c GNBSR06c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Qr06
+RSD GNBSR0700000c GNBSR07c           DW USD BBL 140902 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Qr07
+RSD GNBSR0800000c GNBSR08c           DW USD BBL 140902 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Qr08
+RSD GNBSS0100000c GNBSS01c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Yr01
+RSD GNBSS0200000c GNBSS02c           DW USD BBL 140902 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Brent Crk Swap Yr02
+RSD GRBSP0100000c GRBSP01c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Mo01
+RSD GRBSP0200000c GRBSP02c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Mo02
+RSD GRBSP0300000c GRBSP03c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Mo03
+RSD GRBSP0400000c GRBSP04c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Mo04
+RSD GRBSP0500000c GRBSP05c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Mo05
+RSD GRBSP0600000c GRBSP06c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Mo06
+RSD GRBSP0700000c GRBSP07c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Mo07
+RSD GRBSP0800000c GRBSP08c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Mo08
+RSD GRBSP0900000c GRBSP09c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Mo09
+RSD GRBSP1000000c GRBSP10c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Mo10
+RSD GRBSP1100000c GRBSP11c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Mo11
+RSD GRBSP1200000c GRBSP12c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Mo12
+RSD GRBSP1300000c GRBSP13c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Mo13
+RSD GRBSP1400000c GRBSP14c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Mo14
+RSD GRBSP1500000c GRBSP15c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Mo15
+RSD GRBSP1600000c GRBSP16c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Mo16
+RSD GRBSP1700000c GRBSP17c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Mo17
+RSD GRBSP1800000c GRBSP18c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Mo18
+RSD GRBSP1900000c GRBSP19c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Mo19
+RSD GRBSP2000000c GRBSP20c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Mo20
+RSD GRBSP2100000c GRBSP21c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Mo21
+RSD GRBSP2200000c GRBSP22c           DW USD BBL 140902 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Mo22
+RSD GRBSP2300000c GRBSP23c           DW USD BBL 140902 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Mo23
+RSD GRBSP2400000c GRBSP24c           DW USD BBL 140902 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Mo24
+RSD GRBSR0100000c GRBSR01c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Qr01
+RSD GRBSR0200000c GRBSR02c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Qr02
+RSD GRBSR0300000c GRBSR03c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Qr03
+RSD GRBSR0400000c GRBSR04c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Qr04
+RSD GRBSR0500000c GRBSR05c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Qr05
+RSD GRBSR0600000c GRBSR06c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Qr06
+RSD GRBSR0700000c GRBSR07c           DW USD BBL 140902 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Qr07
+RSD GRBSR0800000c GRBSR08c           DW USD BBL 140902 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Qr08
+RSD GRBSS0100000c GRBSS01c           DW USD BBL 130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Yr01
+RSD GRBSS0200000c GRBSS02c           DW USD BBL 140902 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Brent Crk Swap Yr02
+RSD GRDSP0100000c GRDSP01c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Mo01
+RSD GRDSP0200000c GRDSP02c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Mo02
+RSD GRDSP0300000c GRDSP03c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Mo03
+RSD GRDSP0400000c GRDSP04c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Mo04
+RSD GRDSP0500000c GRDSP05c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Mo05
+RSD GRDSP0600000c GRDSP06c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Mo06
+RSD GRDSP0700000c GRDSP07c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Mo07
+RSD GRDSP0800000c GRDSP08c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Mo08
+RSD GRDSP0900000c GRDSP09c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Mo09
+RSD GRDSP1000000c GRDSP10c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Mo10
+RSD GRDSP1100000c GRDSP11c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Mo11
+RSD GRDSP1200000c GRDSP12c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Mo12
+RSD GRDSP1300000c GRDSP13c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Mo13
+RSD GFWSP0100000c GFWSP01c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Mo01
+RSD GFWSP0200000c GFWSP02c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Mo02
+RSD GFWSP0300000c GFWSP03c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Mo03
+RSD GFWSP0400000c GFWSP04c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Mo04
+RSD GFWSP0500000c GFWSP05c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Mo05
+RSD GFWSP0600000c GFWSP06c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Mo06
+RSD GFWSP0700000c GFWSP07c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Mo07
+RSD GFWSP0800000c GFWSP08c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Mo08
+RSD GFWSP0900000c GFWSP09c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Mo09
+RSD GFWSP1000000c GFWSP10c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Mo10
+RSD GFWSP1100000c GFWSP11c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Mo11
+RSD GFWSP1200000c GFWSP12c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Mo12
+RSD GFWSP1300000c GFWSP13c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Mo13
+RSD GFWSP1400000c GFWSP14c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Mo14
+RSD GFWSP1500000c GFWSP15c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Mo15
+RSD GFWSP1600000c GFWSP16c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Mo16
+RSD GFWSP1700000c GFWSP17c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Mo17
+RSD GFWSP1800000c GFWSP18c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Mo18
+RSD GFWSP1900000c GFWSP19c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Mo19
+RSD GFWSP2000000c GFWSP20c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Mo20
+RSD GFWSP2100000c GFWSP21c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Mo21
+RSD GFWSP2200000c GFWSP22c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Mo22
+RSD GFWSP2300000c GFWSP23c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Mo23
+RSD GFWSP2400000c GFWSP24c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Mo24
+RSD GFWSR0100000c GFWSR01c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Qr01
+RSD GFWSR0200000c GFWSR02c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Qr02
+RSD GFWSR0300000c GFWSR03c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Qr03
+RSD GFWSR0400000c GFWSR04c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Qr04
+RSD GFWSR0500000c GFWSR05c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Qr05
+RSD GFWSR0600000c GFWSR06c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Qr06
+RSD GFWSR0700000c GFWSR07c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Qr07
+RSD GFWSR0800000c GFWSR08c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Qr08
+RSD GFWSS0100000c GFWSS01c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Yr01
+RSD GFWSS0200000c GFWSS02c           DW USD BBL               FtS Spore Gasoil Frontline London WTI Crack swap Yr02
+RSD GRDSP1400000c GRDSP14c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Mo14
+RSD GRDSP1500000c GRDSP15c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Mo15
+RSD GRDSP1600000c GRDSP16c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Mo16
+RSD GRDSP1700000c GRDSP17c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Mo17
+RSD GRDSP1800000c GRDSP18c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Mo18
+RSD GRDSP1900000c GRDSP19c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Mo19
+RSD GRDSP2000000c GRDSP20c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Mo20
+RSD GRDSP2100000c GRDSP21c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Mo21
+RSD GRDSP2200000c GRDSP22c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Mo22
+RSD GRDSP2300000c GRDSP23c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Mo23
+RSD GRDSP2400000c GRDSP24c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Mo24
+RSD GRDSR0100000c GRDSR01c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Qr01
+RSD GRDSR0200000c GRDSR02c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Qr02
+RSD GRDSR0300000c GRDSR03c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Qr03
+RSD GRDSR0400000c GRDSR04c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Qr04
+RSD GRDSR0500000c GRDSR05c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Qr05
+RSD GRDSR0600000c GRDSR06c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Qr06
+RSD GRDSR0700000c GRDSR07c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Qr07
+RSD GRDSR0800000c GRDSR08c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Qr08
+RSD GRDSS0100000c GRDSS01c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Yr01
+RSD GRDSS0200000c GRDSS02c           DW USD BBL               FtS Spore Gasoil 0.1%S ARA FOB Brg London Dubai Crack swap Yr02
+RSD GNDSP0100000c GNDSP01c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Mo01
+RSD GNDSP0200000c GNDSP02c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Mo02
+RSD GNDSP0300000c GNDSP03c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Mo03
+RSD GNDSP0400000c GNDSP04c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Mo04
+RSD GNDSP0500000c GNDSP05c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Mo05
+RSD GNDSP0600000c GNDSP06c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Mo06
+RSD GNDSP0700000c GNDSP07c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Mo07
+RSD GNDSP0800000c GNDSP08c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Mo08
+RSD GNDSP0900000c GNDSP09c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Mo09
+RSD GNDSP1000000c GNDSP10c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Mo10
+RSD GNDSP1100000c GNDSP11c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Mo11
+RSD GNDSP1200000c GNDSP12c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Mo12
+RSD GNDSP1300000c GNDSP13c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Mo13
+RSD GNDSP1400000c GNDSP14c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Mo14
+RSD GNDSP1500000c GNDSP15c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Mo15
+RSD GNDSP1600000c GNDSP16c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Mo16
+RSD GNDSP1700000c GNDSP17c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Mo17
+RSD GNDSP1800000c GNDSP18c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Mo18
+RSD GNDSP1900000c GNDSP19c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Mo19
+RSD GNDSP2000000c GNDSP20c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Mo20
+RSD GNDSP2100000c GNDSP21c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Mo21
+RSD GNDSP2200000c GNDSP22c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Mo22
+RSD GNDSP2300000c GNDSP23c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Mo23
+RSD GNDSP2400000c GNDSP24c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Mo24
+RSD GNDSR0100000c GNDSR01c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Qr01
+RSD GNDSR0200000c GNDSR02c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Qr02
+RSD GNDSR0300000c GNDSR03c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Qr03
+RSD GNDSR0400000c GNDSR04c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Qr04
+RSD GNDSR0500000c GNDSR05c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Qr05
+RSD GNDSR0600000c GNDSR06c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Qr06
+RSD GNDSR0700000c GNDSR07c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Qr07
+RSD GNDSR0800000c GNDSR08c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Qr08
+RSD GNDSS0100000c GNDSS01c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Yr01
+RSD GNDSS0200000c GNDSS02c           DW USD BBL               FtS Spore Gasoil 0.1%S NWE CIF Crg London Dubai Crack swap Yr02
+RSD JNBSP0100000c JNBSP01c           DW USD BBL 130327 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Mo01
+RSD JNBSP0200000c JNBSP02c           DW USD BBL 130327 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Mo02
+RSD JNBSP0300000c JNBSP03c           DW USD BBL 130327 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Mo03
+RSD JNBSP0400000c JNBSP04c           DW USD BBL 130327 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Mo04
+RSD JNBSP0500000c JNBSP05c           DW USD BBL 130327 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Mo05
+RSD JNBSP0600000c JNBSP06c           DW USD BBL 130327 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Mo06
+RSD JNBSP0700000c JNBSP07c           DW USD BBL 130327 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Mo07
+RSD JNBSP0800000c JNBSP08c           DW USD BBL 130327 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Mo08
+RSD JNBSP0900000c JNBSP09c           DW USD BBL 130327 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Mo09
+RSD JNBSP1000000c JNBSP10c           DW USD BBL 130327 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Mo10
+RSD JNBSP1100000c JNBSP11c           DW USD BBL 130327 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Mo11
+RSD JNBSP1200000c JNBSP12c           DW USD BBL 130327 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Mo12
+RSD JNBSP1300000c JNBSP13c           DW USD BBL 130327 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Mo13
+RSD JNBSP1400000c JNBSP14c           DW USD BBL 130327 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Mo14
+RSD JNBSP1500000c JNBSP15c           DW USD BBL 130327 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Mo15
+RSD JNBSP1600000c JNBSP16c           DW USD BBL 130327 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Mo16
+RSD JNBSP1700000c JNBSP17c           DW USD BBL 130327 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Mo17
+RSD JNBSP1800000c JNBSP18c           DW USD BBL 130327 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Mo18
+RSD JNBSP1900000c JNBSP19c           DW USD BBL 130327 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Mo19
+RSD JNBSP2000000c JNBSP20c           DW USD BBL 130327 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Mo20
+RSD JNBSP2100000c JNBSP21c           DW USD BBL 130327 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Mo21
+RSD JNBSP2200000c JNBSP22c           DW USD BBL 140902 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Mo22
+RSD JNBSP2300000c JNBSP23c           DW USD BBL 140902 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Mo23
+RSD JNBSP2400000c JNBSP24c           DW USD BBL 140902 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Mo24
+RSD JNBSR0100000c JNBSR01c           DW USD BBL 130327 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Qr01
+RSD JNBSR0200000c JNBSR02c           DW USD BBL 130327 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Qr02
+RSD JNBSR0300000c JNBSR03c           DW USD BBL 130327 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Qr03
+RSD JNBSR0400000c JNBSR04c           DW USD BBL 130327 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Qr04
+RSD JNBSR0500000c JNBSR05c           DW USD BBL 130327 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Qr05
+RSD JNBSR0600000c JNBSR06c           DW USD BBL 130327 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Qr06
+RSD JNBSR0700000c JNBSR07c           DW USD BBL 140902 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Qr07
+RSD JNBSR0800000c JNBSR08c           DW USD BBL 140902 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Qr08
+RSD JNBSS0100000c JNBSS01c           DW USD BBL 130327 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Yr01
+RSD JNBSS0200000c JNBSS02c           DW USD BBL 140902 190118 FtS Spore Jet Kero NWE CIF Crg Brent Crk Swap Yr02
+RSD JNDSP0100000c JNDSP01c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Mo01
+RSD JNDSP0200000c JNDSP02c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Mo02
+RSD JNDSP0300000c JNDSP03c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Mo03
+RSD JNDSP0400000c JNDSP04c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Mo04
+RSD JNDSP0500000c JNDSP05c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Mo05
+RSD JNDSP0600000c JNDSP06c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Mo06
+RSD JNDSP0700000c JNDSP07c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Mo07
+RSD JNDSP0800000c JNDSP08c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Mo08
+RSD JNDSP0900000c JNDSP09c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Mo09
+RSD JNDSP1000000c JNDSP10c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Mo10
+RSD JNDSP1100000c JNDSP11c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Mo11
+RSD JNDSP1200000c JNDSP12c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Mo12
+RSD JNDSP1300000c JNDSP13c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Mo13
+RSD JNDSP1400000c JNDSP14c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Mo14
+RSD JNDSP1500000c JNDSP15c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Mo15
+RSD JNDSP1600000c JNDSP16c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Mo16
+RSD JNDSP1700000c JNDSP17c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Mo17
+RSD JNDSP1800000c JNDSP18c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Mo18
+RSD JNDSP1900000c JNDSP19c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Mo19
+RSD JNDSP2000000c JNDSP20c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Mo20
+RSD JNDSP2100000c JNDSP21c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Mo21
+RSD JNDSP2200000c JNDSP22c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Mo22
+RSD JNDSP2300000c JNDSP23c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Mo23
+RSD JNDSP2400000c JNDSP24c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Mo24
+RSD JNDSR0100000c JNDSR01c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Qr01
+RSD JNDSR0200000c JNDSR02c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Qr02
+RSD JNDSR0300000c JNDSR03c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Qr03
+RSD JNDSR0400000c JNDSR04c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Qr04
+RSD JNDSR0500000c JNDSR05c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Qr05
+RSD JNDSR0600000c JNDSR06c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Qr06
+RSD JNDSR0700000c JNDSR07c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Qr07
+RSD JNDSR0800000c JNDSR08c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Qr08
+RSD JNDSS0100000c JNDSS01c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Yr01
+RSD JNDSS0200000c JNDSS02c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London Dubai Crack swap Yr02
+RSD JNWSP0100000c JNWSP01c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Mo01
+RSD JNWSP0200000c JNWSP02c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Mo02
+RSD JNWSP0300000c JNWSP03c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Mo03
+RSD JNWSP0400000c JNWSP04c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Mo04
+RSD JNWSP0500000c JNWSP05c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Mo05
+RSD JNWSP0600000c JNWSP06c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Mo06
+RSD JNWSP0700000c JNWSP07c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Mo07
+RSD JNWSP0800000c JNWSP08c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Mo08
+RSD JNWSP0900000c JNWSP09c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Mo09
+RSD JNWSP1000000c JNWSP10c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Mo10
+RSD JNWSP1100000c JNWSP11c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Mo11
+RSD JNWSP1200000c JNWSP12c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Mo12
+RSD JNWSP1300000c JNWSP13c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Mo13
+RSD JNWSP1400000c JNWSP14c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Mo14
+RSD JNWSP1500000c JNWSP15c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Mo15
+RSD JNWSP1600000c JNWSP16c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Mo16
+RSD JNWSP1700000c JNWSP17c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Mo17
+RSD JNWSP1800000c JNWSP18c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Mo18
+RSD JNWSP1900000c JNWSP19c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Mo19
+RSD JNWSP2000000c JNWSP20c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Mo20
+RSD JNWSP2100000c JNWSP21c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Mo21
+RSD JNWSP2200000c JNWSP22c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Mo22
+RSD JNWSP2300000c JNWSP23c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Mo23
+RSD JNWSP2400000c JNWSP24c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Mo24
+RSD JNWSR0100000c JNWSR01c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Qr01
+RSD JNWSR0200000c JNWSR02c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Qr02
+RSD JNWSR0300000c JNWSR03c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Qr03
+RSD JNWSR0400000c JNWSR04c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Qr04
+RSD JNWSR0500000c JNWSR05c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Qr05
+RSD JNWSR0600000c JNWSR06c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Qr06
+RSD JNWSR0700000c JNWSR07c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Qr07
+RSD JNWSR0800000c JNWSR08c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Qr08
+RSD JNWSS0100000c JNWSS01c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Yr01
+RSD JNWSS0200000c JNWSS02c           DW USD BBL               FtS Spore Jet Kero NWE CIF Crg London WTI Crack swap Yr02
+RSD URWSP0300000c URWSP03c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Mo03
+RSD URWSP0400000c URWSP04c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Mo04
+RSD URWSP0500000c URWSP05c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Mo05
+RSD URWSP0600000c URWSP06c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Mo06
+RSD URWSP0700000c URWSP07c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Mo07
+RSD URWSP0800000c URWSP08c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Mo08
+RSD URWSP0900000c URWSP09c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Mo09
+RSD URWSP1000000c URWSP10c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Mo10
+RSD URWSP1100000c URWSP11c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Mo11
+RSD URWSP1200000c URWSP12c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Mo12
+RSD URWSP1300000c URWSP13c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Mo13
+RSD URWSP1400000c URWSP14c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Mo14
+RSD URWSP1500000c URWSP15c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Mo15
+RSD URWSP1600000c URWSP16c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Mo16
+RSD URWSP1700000c URWSP17c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Mo17
+RSD URWSP1800000c URWSP18c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Mo18
+RSD URWSP1900000c URWSP19c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Mo19
+RSD URWSP2000000c URWSP20c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Mo20
+RSD URWSP2100000c URWSP21c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Mo21
+RSD URWSP2200000c URWSP22c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Mo22
+RSD URWSP2300000c URWSP23c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Mo23
+RSD URWSP2400000c URWSP24c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Mo24
+RSD URWSR0100000c URWSR01c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Qr01
+RSD URWSR0200000c URWSR02c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Qr02
+RSD URWSR0300000c URWSR03c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Qr03
+RSD URWSR0400000c URWSR04c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Qr04
+RSD URWSR0500000c URWSR05c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Qr05
+RSD URWSR0600000c URWSR06c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Qr06
+RSD URWSR0700000c URWSR07c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Qr07
+RSD URWSR0800000c URWSR08c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Qr08
+RSD URWSS0100000c URWSS01c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Yr01
+RSD URWSS0200000c URWSS02c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Yr02
+RSD UMWSP0100000c UMWSP01c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Mo01
+RSD UMWSP0200000c UMWSP02c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Mo02
+RSD UMWSP0300000c UMWSP03c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Mo03
+RSD UMWSP0400000c UMWSP04c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Mo04
+RSD UMWSP0500000c UMWSP05c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Mo05
+RSD UMWSP0600000c UMWSP06c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Mo06
+RSD UMWSP0700000c UMWSP07c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Mo07
+RSD UMWSP0800000c UMWSP08c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Mo08
+RSD UMWSP0900000c UMWSP09c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Mo09
+RSD UMWSP1000000c UMWSP10c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Mo10
+RSD UMWSP1100000c UMWSP11c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Mo11
+RSD UMWSP1200000c UMWSP12c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Mo12
+RSD UMWSP1300000c UMWSP13c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Mo13
+RSD UMWSP1400000c UMWSP14c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Mo14
+RSD UMWSP1500000c UMWSP15c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Mo15
+RSD UMWSP1600000c UMWSP16c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Mo16
+RSD UMWSP1700000c UMWSP17c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Mo17
+RSD UMWSP1800000c UMWSP18c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Mo18
+RSD UMWSP1900000c UMWSP19c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Mo19
+RSD UMWSP2000000c UMWSP20c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Mo20
+RSD UMWSP2100000c UMWSP21c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Mo21
+RSD UMWSP2200000c UMWSP22c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Mo22
+RSD UMWSP2300000c UMWSP23c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Mo23
+RSD UMWSP2400000c UMWSP24c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Mo24
+RSD UMWSR0100000c UMWSR01c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Qr01
+RSD UMWSR0200000c UMWSR02c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Qr02
+RSD UMWSR0300000c UMWSR03c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Qr03
+RSD UMWSR0400000c UMWSR04c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Qr04
+RSD UMWSR0500000c UMWSR05c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Qr05
+RSD UMWSR0600000c UMWSR06c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Qr06
+RSD UMWSR0700000c UMWSR07c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Qr07
+RSD UMWSR0800000c UMWSR08c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Qr08
+RSD UMWSS0100000c UMWSS01c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Yr01
+RSD UMWSS0200000c UMWSS02c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London WTI Crack swap Yr02
+RSD UNBSP0100000c UNBSP01c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Mo01
+RSD UNBSP0200000c UNBSP02c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Mo02
+RSD UNBSP0300000c UNBSP03c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Mo03
+RSD UNBSP0400000c UNBSP04c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Mo04
+RSD UNBSP0500000c UNBSP05c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Mo05
+RSD UNBSP0600000c UNBSP06c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Mo06
+RSD UNBSP0700000c UNBSP07c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Mo07
+RSD UNBSP0800000c UNBSP08c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Mo08
+RSD UNBSP0900000c UNBSP09c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Mo09
+RSD UNBSP1000000c UNBSP10c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Mo10
+RSD UNBSP1100000c UNBSP11c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Mo11
+RSD UNBSP1200000c UNBSP12c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Mo12
+RSD UNBSP1300000c UNBSP13c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Mo13
+RSD UNBSP1400000c UNBSP14c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Mo14
+RSD UNBSP1500000c UNBSP15c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Mo15
+RSD UNBSP1600000c UNBSP16c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Mo16
+RSD UNBSP1700000c UNBSP17c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Mo17
+RSD UNBSP1800000c UNBSP18c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Mo18
+RSD UNBSP1900000c UNBSP19c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Mo19
+RSD UNBSP2000000c UNBSP20c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Mo20
+RSD UNBSP2100000c UNBSP21c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Mo21
+RSD UNBSP2200000c UNBSP22c           DW USD BBL 140902 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Mo22
+RSD UNBSP2300000c UNBSP23c           DW USD BBL 140902 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Mo23
+RSD UNBSP2400000c UNBSP24c           DW USD BBL 140902 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Mo24
+RSD UNBSR0100000c UNBSR01c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Qr01
+RSD UNBSR0200000c UNBSR02c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Qr02
+RSD UNBSR0300000c UNBSR03c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Qr03
+RSD UNBSR0400000c UNBSR04c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Qr04
+RSD UNBSR0500000c UNBSR05c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Qr05
+RSD UNBSR0600000c UNBSR06c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Qr06
+RSD UNBSR0700000c UNBSR07c           DW USD BBL 140902 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Qr07
+RSD UNBSR0800000c UNBSR08c           DW USD BBL 140902 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Qr08
+RSD UNBSS0100000c UNBSS01c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Yr01
+RSD UNBSS0200000c UNBSS02c           DW USD BBL 140902 190118 FtS Spore ULSD 10ppm NWE CIF Crg Brent Crk Swap Yr02
+RSD UNDSP0100000c UNDSP01c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Mo01
+RSD UNDSP0200000c UNDSP02c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Mo02
+RSD UNDSP0300000c UNDSP03c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Mo03
+RSD UNDSP0400000c UNDSP04c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Mo04
+RSD UNDSP0500000c UNDSP05c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Mo05
+RSD UNDSP0600000c UNDSP06c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Mo06
+RSD UNDSP0700000c UNDSP07c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Mo07
+RSD UNDSP0800000c UNDSP08c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Mo08
+RSD UNDSP0900000c UNDSP09c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Mo09
+RSD UNDSP1000000c UNDSP10c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Mo10
+RSD UNDSP1100000c UNDSP11c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Mo11
+RSD UNDSP1200000c UNDSP12c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Mo12
+RSD UNDSP1300000c UNDSP13c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Mo13
+RSD UNDSP1400000c UNDSP14c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Mo14
+RSD UNDSP1500000c UNDSP15c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Mo15
+RSD UNDSP1600000c UNDSP16c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Mo16
+RSD UNDSP1700000c UNDSP17c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Mo17
+RSD UNDSP1800000c UNDSP18c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Mo18
+RSD UNDSP1900000c UNDSP19c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Mo19
+RSD UNDSP2000000c UNDSP20c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Mo20
+RSD UNDSP2100000c UNDSP21c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Mo21
+RSD UNDSP2200000c UNDSP22c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Mo22
+RSD UNDSP2300000c UNDSP23c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Mo23
+RSD UNDSP2400000c UNDSP24c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Mo24
+RSD UNDSR0100000c UNDSR01c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Qr01
+RSD UNDSR0200000c UNDSR02c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Qr02
+RSD UNDSR0300000c UNDSR03c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Qr03
+RSD UNDSR0400000c UNDSR04c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Qr04
+RSD UNDSR0500000c UNDSR05c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Qr05
+RSD UNDSR0600000c UNDSR06c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Qr06
+RSD UNDSR0700000c UNDSR07c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Qr07
+RSD UNDSR0800000c UNDSR08c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Qr08
+RSD UNDSS0100000c UNDSS01c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Yr01
+RSD UNDSS0200000c UNDSS02c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London Dubai Crack swap Yr02
+RSD UNWSP0100000c UNWSP01c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Mo01
+RSD UNWSP0200000c UNWSP02c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Mo02
+RSD UNWSP0300000c UNWSP03c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Mo03
+RSD UNWSP0400000c UNWSP04c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Mo04
+RSD UNWSP0500000c UNWSP05c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Mo05
+RSD UNWSP0600000c UNWSP06c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Mo06
+RSD UNWSP0700000c UNWSP07c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Mo07
+RSD UNWSP0800000c UNWSP08c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Mo08
+RSD UNWSP0900000c UNWSP09c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Mo09
+RSD UNWSP1000000c UNWSP10c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Mo10
+RSD UNWSP1100000c UNWSP11c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Mo11
+RSD UNWSP1200000c UNWSP12c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Mo12
+RSD UNWSP1300000c UNWSP13c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Mo13
+RSD UNWSP1400000c UNWSP14c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Mo14
+RSD UNWSP1500000c UNWSP15c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Mo15
+RSD UNWSP1600000c UNWSP16c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Mo16
+RSD UNWSP1700000c UNWSP17c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Mo17
+RSD UNWSP1800000c UNWSP18c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Mo18
+RSD UNWSP1900000c UNWSP19c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Mo19
+RSD UNWSP2000000c UNWSP20c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Mo20
+RSD UNWSP2100000c UNWSP21c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Mo21
+RSD UNWSP2200000c UNWSP22c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Mo22
+RSD UNWSP2300000c UNWSP23c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Mo23
+RSD UNWSP2400000c UNWSP24c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Mo24
+RSD UNWSR0100000c UNWSR01c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Qr01
+RSD UNWSR0200000c UNWSR02c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Qr02
+RSD UNWSR0300000c UNWSR03c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Qr03
+RSD UNWSR0400000c UNWSR04c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Qr04
+RSD UNWSR0500000c UNWSR05c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Qr05
+RSD UNWSR0600000c UNWSR06c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Qr06
+RSD UNWSR0700000c UNWSR07c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Qr07
+RSD UNWSR0800000c UNWSR08c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Qr08
+RSD UNWSS0100000c UNWSS01c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Yr01
+RSD UNWSS0200000c UNWSS02c           DW USD BBL               FtS Spore ULSD 10ppm NWE CIF Crg London WTI Crack swap Yr02
+RSD URBSP0100000c URBSP01c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Mo01
+RSD URBSP0200000c URBSP02c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Mo02
+RSD URBSP0300000c URBSP03c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Mo03
+RSD URBSP0400000c URBSP04c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Mo04
+RSD URBSP0500000c URBSP05c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Mo05
+RSD URBSP0600000c URBSP06c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Mo06
+RSD URBSP0700000c URBSP07c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Mo07
+RSD URBSP0800000c URBSP08c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Mo08
+RSD URBSP0900000c URBSP09c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Mo09
+RSD URBSP1000000c URBSP10c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Mo10
+RSD URBSP1100000c URBSP11c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Mo11
+RSD URBSP1200000c URBSP12c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Mo12
+RSD URBSP1300000c URBSP13c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Mo13
+RSD URBSP1400000c URBSP14c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Mo14
+RSD URBSP1500000c URBSP15c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Mo15
+RSD URBSP1600000c URBSP16c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Mo16
+RSD URBSP1700000c URBSP17c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Mo17
+RSD URBSP1800000c URBSP18c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Mo18
+RSD URBSP1900000c URBSP19c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Mo19
+RSD URBSP2000000c URBSP20c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Mo20
+RSD URBSP2100000c URBSP21c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Mo21
+RSD URBSP2200000c URBSP22c           DW USD BBL 140902 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Mo22
+RSD URBSP2300000c URBSP23c           DW USD BBL 140902 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Mo23
+RSD URBSP2400000c URBSP24c           DW USD BBL 140902 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Mo24
+RSD URBSR0100000c URBSR01c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Qr01
+RSD URBSR0200000c URBSR02c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Qr02
+RSD URBSR0300000c URBSR03c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Qr03
+RSD URBSR0400000c URBSR04c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Qr04
+RSD URBSR0500000c URBSR05c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Qr05
+RSD UMBSP0100000c UMBSP01c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Mo01
+RSD UMBSP0200000c UMBSP02c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Mo02
+RSD UMBSP0300000c UMBSP03c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Mo03
+RSD UMBSP0400000c UMBSP04c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Mo04
+RSD UMBSP0500000c UMBSP05c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Mo05
+RSD UMBSP0600000c UMBSP06c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Mo06
+RSD UMBSP0700000c UMBSP07c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Mo07
+RSD UMBSP0800000c UMBSP08c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Mo08
+RSD UMBSP0900000c UMBSP09c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Mo09
+RSD UMBSP1000000c UMBSP10c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Mo10
+RSD UMBSP1100000c UMBSP11c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Mo11
+RSD UMBSP1200000c UMBSP12c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Mo12
+RSD UMBSP1300000c UMBSP13c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Mo13
+RSD UMBSP1400000c UMBSP14c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Mo14
+RSD UMBSP1500000c UMBSP15c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Mo15
+RSD UMBSP1600000c UMBSP16c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Mo16
+RSD UMBSP1700000c UMBSP17c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Mo17
+RSD UMBSP1800000c UMBSP18c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Mo18
+RSD UMBSP1900000c UMBSP19c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Mo19
+RSD UMBSP2000000c UMBSP20c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Mo20
+RSD UMBSP2100000c UMBSP21c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Mo21
+RSD UMBSP2200000c UMBSP22c           DW USD BBL 140902 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Mo22
+RSD UMBSP2300000c UMBSP23c           DW USD BBL 140902 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Mo23
+RSD UMBSP2400000c UMBSP24c           DW USD BBL 140902 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Mo24
+RSD UMBSR0100000c UMBSR01c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Qr01
+RSD UMBSR0200000c UMBSR02c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Qr02
+RSD UMBSR0300000c UMBSR03c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Qr03
+RSD UMBSR0400000c UMBSR04c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Qr04
+RSD UMBSR0500000c UMBSR05c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Qr05
+RSD UMBSR0600000c UMBSR06c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Qr06
+RSD UMBSR0700000c UMBSR07c           DW USD BBL 140902 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Qr07
+RSD UMBSR0800000c UMBSR08c           DW USD BBL 140902 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Qr08
+RSD UMBSS0100000c UMBSS01c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Yr01
+RSD UMBSS0200000c UMBSS02c           DW USD BBL 140902 190118 FtS Spore ULSD 10ppm Med CIF Crg Brent Crk Swap Yr02
+RSD URBSR0600000c URBSR06c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Qr06
+RSD URBSR0700000c URBSR07c           DW USD BBL 140902 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Qr07
+RSD URBSR0800000c URBSR08c           DW USD BBL 140902 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Qr08
+RSD URBSS0100000c URBSS01c           DW USD BBL 130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Yr01
+RSD URBSS0200000c URBSS02c           DW USD BBL 140902 190118 FtS Spore ULSD 10ppm ARA FOB Brg Brent Crk Swap Yr02
+RSD URDSP0100000c URDSP01c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Mo01
+RSD URDSP0200000c URDSP02c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Mo02
+RSD URDSP0300000c URDSP03c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Mo03
+RSD URDSP0400000c URDSP04c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Mo04
+RSD URDSP0500000c URDSP05c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Mo05
+RSD URDSP0600000c URDSP06c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Mo06
+RSD URDSP0700000c URDSP07c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Mo07
+RSD URDSP0800000c URDSP08c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Mo08
+RSD URDSP0900000c URDSP09c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Mo09
+RSD URDSP1000000c URDSP10c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Mo10
+RSD URDSP1100000c URDSP11c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Mo11
+RSD UMDSP0100000c UMDSP01c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Mo01
+RSD UMDSP0200000c UMDSP02c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Mo02
+RSD UMDSP0300000c UMDSP03c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Mo03
+RSD UMDSP0400000c UMDSP04c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Mo04
+RSD UMDSP0500000c UMDSP05c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Mo05
+RSD UMDSP0600000c UMDSP06c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Mo06
+RSD UMDSP0700000c UMDSP07c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Mo07
+RSD UMDSP0800000c UMDSP08c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Mo08
+RSD UMDSP0900000c UMDSP09c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Mo09
+RSD UMDSP1000000c UMDSP10c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Mo10
+RSD UMDSP1100000c UMDSP11c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Mo11
+RSD UMDSP1200000c UMDSP12c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Mo12
+RSD UMDSP1300000c UMDSP13c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Mo13
+RSD UMDSP1400000c UMDSP14c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Mo14
+RSD UMDSP1500000c UMDSP15c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Mo15
+RSD UMDSP1600000c UMDSP16c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Mo16
+RSD UMDSP1700000c UMDSP17c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Mo17
+RSD UMDSP1800000c UMDSP18c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Mo18
+RSD UMDSP1900000c UMDSP19c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Mo19
+RSD UMDSP2000000c UMDSP20c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Mo20
+RSD UMDSP2100000c UMDSP21c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Mo21
+RSD UMDSP2200000c UMDSP22c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Mo22
+RSD UMDSP2300000c UMDSP23c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Mo23
+RSD UMDSP2400000c UMDSP24c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Mo24
+RSD UMDSR0100000c UMDSR01c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Qr01
+RSD UMDSR0200000c UMDSR02c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Qr02
+RSD UMDSR0300000c UMDSR03c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Qr03
+RSD UMDSR0400000c UMDSR04c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Qr04
+RSD URDSP1200000c URDSP12c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Mo12
+RSD URDSP1300000c URDSP13c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Mo13
+RSD URDSP1400000c URDSP14c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Mo14
+RSD URDSP1500000c URDSP15c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Mo15
+RSD URDSP1600000c URDSP16c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Mo16
+RSD URDSP1700000c URDSP17c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Mo17
+RSD URDSP1800000c URDSP18c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Mo18
+RSD URDSP1900000c URDSP19c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Mo19
+RSD URDSP2000000c URDSP20c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Mo20
+RSD URDSP2100000c URDSP21c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Mo21
+RSD URDSP2200000c URDSP22c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Mo22
+RSD URDSP2300000c URDSP23c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Mo23
+RSD URDSP2400000c URDSP24c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Mo24
+RSD URDSR0100000c URDSR01c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Qr01
+RSD URDSR0200000c URDSR02c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Qr02
+RSD URDSR0300000c URDSR03c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Qr03
+RSD URDSR0400000c URDSR04c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Qr04
+RSD URDSR0500000c URDSR05c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Qr05
+RSD URDSR0600000c URDSR06c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Qr06
+RSD URDSR0700000c URDSR07c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Qr07
+RSD URDSR0800000c URDSR08c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Qr08
+RSD URDSS0100000c URDSS01c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Yr01
+RSD URDSS0200000c URDSS02c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London Dubai Crack swap Yr02
+RSD UMDSR0500000c UMDSR05c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Qr05
+RSD UMDSR0600000c UMDSR06c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Qr06
+RSD UMDSR0700000c UMDSR07c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Qr07
+RSD UMDSR0800000c UMDSR08c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Qr08
+RSD UMDSS0100000c UMDSS01c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Yr01
+RSD UMDSS0200000c UMDSS02c           DW USD BBL               FtS Spore ULSD 10ppm Med CIF Crg London Dubai Crack swap Yr02
+RSD URWSP0100000c URWSP01c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Mo01
+RSD URWSP0200000c URWSP02c           DW USD BBL               FtS Spore ULSD 10ppm ARA FOB Brg London WTI Crack swap Mo02

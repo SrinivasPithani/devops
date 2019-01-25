@@ -1,0 +1,175 @@
+CL                                                           © 2019 by S&P Global Inc.,190119
+CL AAQTK0000000c AAQTK00c           DW USD BBL 090501 190118 Roncador FOB Brazil vs Latin America WTI strip
+CL AAQTK0000000h AAQTK00h           DW USD BBL 090501 190118 Roncador FOB Brazil vs Latin America WTI strip
+CL AAQTK0000000l AAQTK00l           DW USD BBL 090501 190118 Roncador FOB Brazil vs Latin America WTI strip
+CL AAQTK0300000c AAQTK03c           MA USD BBL 090501 181201 Roncador FOB Brazil vs Latin America WTI strip MAvg
+CL AAQTK0300000h AAQTK03h           MA USD BBL 090501 181201 Roncador FOB Brazil vs Latin America WTI strip MAvg
+CL AAQTK0300000l AAQTK03l           MA USD BBL 090501 181201 Roncador FOB Brazil vs Latin America WTI strip MAvg
+CL AAQTL0000000c AAQTL00c           DW USD BBL 090501 190118 Roncador FOB Brazil
+CL AAQTL0000000h AAQTL00h           DW USD BBL 090501 190118 Roncador FOB Brazil
+CL AAQTL0000000l AAQTL00l           DW USD BBL 090501 190118 Roncador FOB Brazil
+CL AAQTL0300000c AAQTL03c           MA USD BBL 090501 181201 Roncador FOB Brazil MAvg
+CL AAQTL0300000h AAQTL03h           MA USD BBL 090501 181201 Roncador FOB Brazil MAvg
+CL AAQTL0300000l AAQTL03l           MA USD BBL 090501 181201 Roncador FOB Brazil MAvg
+CL AAJJN0000000c AAJJN00c           MA USD BBL 950701 181201 Escalante FOB Argentina vs Latin America WTI strip MAvg
+CL AAJJN0000000h AAJJN00h           MA USD BBL 950701 181201 Escalante FOB Argentina vs Latin America WTI strip MAvg
+CL AAJJN0000000l AAJJN00l           MA USD BBL 950701 181201 Escalante FOB Argentina vs Latin America WTI strip MAvg
+CL AAJJO0000000c AAJJO00c           MA USD BBL 950701 181201 Vasconia FOB Colombia vs Latin America WTI strip MAvg
+CL AAJJO0000000h AAJJO00h           MA USD BBL 950701 181201 Vasconia FOB Colombia vs Latin America WTI strip MAvg
+CL AAJJO0000000l AAJJO00l           MA USD BBL 950701 181201 Vasconia FOB Colombia vs Latin America WTI strip MAvg
+CL AAJJP0000000c AAJJP00c           MA USD BBL 950701 181201 Oriente FOB Ecuador vs Latin America WTI strip MAvg
+CL AAJJP0000000h AAJJP00h           MA USD BBL 950701 181201 Oriente FOB Ecuador vs Latin America WTI strip MAvg
+CL AAJJP0000000l AAJJP00l           MA USD BBL 950701 181201 Oriente FOB Ecuador vs Latin America WTI strip MAvg
+CL AAJJR0000000c AAJJR00c           MA USD BBL 950701 181201 Loreto FOB Peru vs Latin America WTI strip MAvg
+CL AAJJR0000000h AAJJR00h           MA USD BBL 950701 181201 Loreto FOB Peru vs Latin America WTI strip MAvg
+CL AAJJR0000000l AAJJR00l           MA USD BBL 950701 181201 Loreto FOB Peru vs Latin America WTI strip MAvg
+CL AAVEQ0000000c AAVEQ00c           DW USD BBL 080102 190118 Castilla Blend FOB Colombia
+CL AAVEQ0000000h AAVEQ00h           DW USD BBL 080102 190118 Castilla Blend FOB Colombia
+CL AAVEQ0000000l AAVEQ00l           DW USD BBL 080102 190118 Castilla Blend FOB Colombia
+CL AAVEQ0100000c AAVEQ01c           DW USD BBL 080102 190118 Castilla Blend FOB Colombia vs Latin America WTI strip
+CL AAVEQ0100000h AAVEQ01h           DW USD BBL 080102 190118 Castilla Blend FOB Colombia vs Latin America WTI strip
+CL AAVEQ0100000l AAVEQ01l           DW USD BBL 080102 190118 Castilla Blend FOB Colombia vs Latin America WTI strip
+CL AAVEQ0300000c AAVEQ03c           MA USD BBL 080101 181201 Castilla Blend FOB Colombia MAvg
+CL AAVEQ0300000h AAVEQ03h           MA USD BBL 080101 181201 Castilla Blend FOB Colombia MAvg
+CL AAVEQ0300000l AAVEQ03l           MA USD BBL 080101 181201 Castilla Blend FOB Colombia MAvg
+CL AAVEQ0500000c AAVEQ05c           MA USD BBL 080101 181201 Castilla Blend FOB Colombia vs Latin America WTI strip MAvg
+CL AAVEQ0500000h AAVEQ05h           MA USD BBL 080101 181201 Castilla Blend FOB Colombia vs Latin America WTI strip MAvg
+CL AAVEQ0500000l AAVEQ05l           MA USD BBL 080101 181201 Castilla Blend FOB Colombia vs Latin America WTI strip MAvg
+CL AAIIN0000000u AAIIN00u           WA USD BBL 020104 190111 Escalante WAvg
+CL AAITB0000000c AAITB00c           DW USD BBL 020301 190118 Mesa FOB Puerto La Cruz Venezuela
+CL AAITB0000000h AAITB00h           DW USD BBL 020301 190118 Mesa FOB Puerto La Cruz Venezuela
+CL AAITB0000000l AAITB00l           DW USD BBL 020301 190118 Mesa FOB Puerto La Cruz Venezuela
+CL AAITC0000000c AAITC00c           MA USD BBL 020301 181201 Mesa FOB Puerto La Cruz Venezuela MAvg
+CL AAITC0000000h AAITC00h           MA USD BBL 020301 181201 Mesa FOB Puerto La Cruz Venezuela MAvg
+CL AAITC0000000l AAITC00l           MA USD BBL 020301 181201 Mesa FOB Puerto La Cruz Venezuela MAvg
+CL AAITD0000000c AAITD00c           DW USD BBL 020301 190118 Santa Barbara FOB Puerto La Cruz Venezuela
+CL AAITD0000000h AAITD00h           DW USD BBL 020301 190118 Santa Barbara FOB Puerto La Cruz Venezuela
+CL AAITD0000000l AAITD00l           DW USD BBL 020301 190118 Santa Barbara FOB Puerto La Cruz Venezuela
+CL AAITE0000000c AAITE00c           MA USD BBL 020301 181201 Santa Barbara FOB Puerto La Cruz Venezuela MAvg
+CL AAITE0000000h AAITE00h           MA USD BBL 020301 181201 Santa Barbara FOB Puerto La Cruz Venezuela MAvg
+CL AAITE0000000l AAITE00l           MA USD BBL 020301 181201 Santa Barbara FOB Puerto La Cruz Venezuela MAvg
+CL AAITF0000000c AAITF00c           DW USD BBL 020301 190118 Marlim FOB Brazil
+CL AAITF0000000h AAITF00h           DW USD BBL 020301 190118 Marlim FOB Brazil
+CL AAITF0000000l AAITF00l           DW USD BBL 020301 190118 Marlim FOB Brazil
+CL AAITG0000000c AAITG00c           MA USD BBL 020201 181201 Marlim FOB Brazil MAvg
+CL AAITG0000000h AAITG00h           MA USD BBL 020201 181201 Marlim FOB Brazil MAvg
+CL AAITG0000000l AAITG00l           MA USD BBL 020201 181201 Marlim FOB Brazil MAvg
+CL AAITH0000000c AAITH00c           DW USD BBL 020301 190118 Mesa FOB Puerto La Cruz Venezuela vs Latin America WTI strip
+CL AAITH0000000h AAITH00h           DW USD BBL 020301 190118 Mesa FOB Puerto La Cruz Venezuela vs Latin America WTI strip
+CL AAITH0000000l AAITH00l           DW USD BBL 020301 190118 Mesa FOB Puerto La Cruz Venezuela vs Latin America WTI strip
+CL AAITI0000000c AAITI00c           MA USD BBL 020301 181201 Mesa FOB Puerto La Cruz Venezuela vs Latin America WTI strip MAvg
+CL AAITI0000000h AAITI00h           MA USD BBL 020301 181201 Mesa FOB Puerto La Cruz Venezuela vs Latin America WTI strip MAvg
+CL AAITI0000000l AAITI00l           MA USD BBL 020301 181201 Mesa FOB Puerto La Cruz Venezuela vs Latin America WTI strip MAvg
+CL AAITJ0000000c AAITJ00c           DW USD BBL 020301 190118 Santa Barbara FOB Puerto La Cruz Venezuela vs Latin America WTI strip
+CL AAITJ0000000h AAITJ00h           DW USD BBL 020301 190118 Santa Barbara FOB Puerto La Cruz Venezuela vs Latin America WTI strip
+CL AAITJ0000000l AAITJ00l           DW USD BBL 020301 190118 Santa Barbara FOB Puerto La Cruz Venezuela vs Latin America WTI strip
+CL AAITK0000000c AAITK00c           MA USD BBL 020301 181201 Santa Barbara FOB Puerto La Cruz Venezuela vs Latin America WTI strip MAvg
+CL AAITK0000000h AAITK00h           MA USD BBL 020301 181201 Santa Barbara FOB Puerto La Cruz Venezuela vs Latin America WTI strip MAvg
+CL AAITK0000000l AAITK00l           MA USD BBL 020301 181201 Santa Barbara FOB Puerto La Cruz Venezuela vs Latin America WTI strip MAvg
+CL AAITL0000000c AAITL00c           DW USD BBL 020301 190118 Marlim FOB Brazil vs Latin America WTI strip
+CL AAITL0000000h AAITL00h           DW USD BBL 020301 190118 Marlim FOB Brazil vs Latin America WTI strip
+CL AAITL0000000l AAITL00l           DW USD BBL 020301 190118 Marlim FOB Brazil vs Latin America WTI strip
+CL AAITM0000000c AAITM00c           MA USD BBL 020201 181201 Marlim FOB Brazil vs Latin America WTI strip MAvg
+CL AAITM0000000h AAITM00h           MA USD BBL 020201 181201 Marlim FOB Brazil vs Latin America WTI strip MAvg
+CL AAITM0000000l AAITM00l           MA USD BBL 020201 181201 Marlim FOB Brazil vs Latin America WTI strip MAvg
+CL AAMCA0000000c AAMCA00c           DW USD BBL 031103 190118 Napo FOB Ecuador
+CL AAMCA0000000h AAMCA00h           DW USD BBL 031103 190118 Napo FOB Ecuador
+CL AAMCA0000000l AAMCA00l           DW USD BBL 031103 190118 Napo FOB Ecuador
+CL AAMCC0000000c AAMCC00c           MA USD BBL 031101 181201 Napo FOB Ecuador MAvg
+CL AAMCC0000000h AAMCC00h           MA USD BBL 031101 181201 Napo FOB Ecuador MAvg
+CL AAMCC0000000l AAMCC00l           MA USD BBL 031101 181201 Napo FOB Ecuador MAvg
+CL AAMCD0000000c AAMCD00c           DW USD BBL 031103 190118 Napo FOB Ecuador vs Latin America WTI strip
+CL AAMCD0000000h AAMCD00h           DW USD BBL 031103 190118 Napo FOB Ecuador vs Latin America WTI strip
+CL AAMCD0000000l AAMCD00l           DW USD BBL 031103 190118 Napo FOB Ecuador vs Latin America WTI strip
+CL AAMCE0000000c AAMCE00c           MA USD BBL 031101 181201 Napo FOB Ecuador vs Latin America WTI strip MAvg
+CL AAMCE0000000h AAMCE00h           MA USD BBL 031101 181201 Napo FOB Ecuador vs Latin America WTI strip MAvg
+CL AAMCE0000000l AAMCE00l           MA USD BBL 031101 181201 Napo FOB Ecuador vs Latin America WTI strip MAvg
+CL AAIZY0000000h AAIZY00h           WA USD BBL 020405 190111 Mesa FOB Puerto La Cruz Venezuela WAvg
+CL AAIZY0000000l AAIZY00l           WA USD BBL 020405 190111 Mesa FOB Puerto La Cruz Venezuela WAvg
+CL AAIZY0000000u AAIZY00u           WA USD BBL 020405 190111 Mesa FOB Puerto La Cruz Venezuela WAvg
+CL AAXAX0000000c AAXAX00c           DW USD BBL 130102 190118 Escalante FOB Argentina vs Latin American Dated Brent Strip $/Bbl
+CL AAXAX0300000c AAXAX03c           MA USD BBL 130101 181201 Escalante FOB Argentina vs Latin American Dated Brent Strip $/Bbl MAvg
+CL AAXAY0000000c AAXAY00c           DW USD BBL 130102 190118 Roncador FOB Brazil vs Latin American Dated Brent Strip $/Bbl
+CL AAXAY0300000c AAXAY03c           MA USD BBL 130101 181201 Roncador FOB Brazil vs Latin American Dated Brent Strip $/Bbl MAvg
+CL AAXAZ0000000c AAXAZ00c           DW USD BBL 130102 190118 Santa Barbara FOB Venezuela vs Latin American Dated Brent Strip $/Bbl
+CL AAXAZ0300000c AAXAZ03c           MA USD BBL 130101 181201 Santa Barbara FOB Venezuela vs Latin American Dated Brent Strip $/Bbl MAvg
+CL AAXBG0000000c AAXBG00c           DW USD BBL 130102 190118 Loreto FOB Peru vs Latin American Dated Brent Strip $/Bbl
+CL AAXBG0300000c AAXBG03c           MA USD BBL 130101 181201 Loreto FOB Peru vs Latin American Dated Brent Strip $/Bbl MAvg
+CL AAXBH0000000c AAXBH00c           DW USD BBL 130102 190118 Oriente FOB Ecuador vs Latin America Dated Brent Strip
+CL AAXBH0300000c AAXBH03c           MA USD BBL 130101 181201 Oriente FOB Ecuador vs Latin America Dated Brent Strip MAvg
+CL AAXBI0000000c AAXBI00c           DW USD BBL 130102 190118 Napo FOB Ecuador vs Latin America Dated Brent Strip
+CL AAXBI0300000c AAXBI03c           MA USD BBL 130101 181201 Napo FOB Ecuador vs Latin America Dated Brent Strip MAvg
+CL AAXBJ0000000c AAXBJ00c           DW USD BBL 130102 190118 Marlim FOB Brazil vs Latin America Dated Brent Strip
+CL AAXBJ0300000c AAXBJ03c           MA USD BBL 130101 181201 Marlim FOB Brazil vs Latin America Dated Brent Strip Mavg
+CL AAXBK0000000c AAXBK00c           DW USD BBL 130102 190118 Castilla Blend FOB Colombia vs Latin America Dated Brent Strip
+CL AAXBK0300000c AAXBK03c           MA USD BBL 130101 181201 Castilla Blend FOB Colombia vs Latin America Dated Brent Strip MAvg
+CL AAXBL0000000c AAXBL00c           DW USD BBL 130102 190118 Magdalena FOB Colombia vs Latin America Dated Brent Strip
+CL AAXBL0300000c AAXBL03c           MA USD BBL 130101 181201 Magdalena FOB Colombia vs Latin America Dated Brent Strip MAvg
+CL AAXBN0000000c AAXBN00c           DW USD BBL 130102 190118 Vasconia FOB Colombia vs Latin America Dated Brent Strip
+CL AAXBN0300000c AAXBN03c           MA USD BBL 130101 181201 Vasconia FOB Colombia vs Latin America Dated Brent Strip MAvg
+CL AAXBO0000000c AAXBO00c           DW USD BBL 130102 190118 Mesa FOB Venezuela vs Latin America Dated Brent Strip
+CL AAXBO0300000c AAXBO03c           MA USD BBL 130101 181201 Mesa FOB Venezuela vs Latin America Dated Brent Strip MAvg
+CL AAXBP0000000c AAXBP00c           DW USD BBL 130102 190118 Latin America WTI strip
+CL AAXBP0300000c AAXBP03c           MA USD BBL 130101 181201 Latin America WTI strip MAvg
+CL AAXBQ0000000c AAXBQ00c           DW USD BBL 130102 190118 Latin America Brent Futures strip
+CL AAXBQ0300000c AAXBQ03c           MA USD BBL 130101 181201 Latin America Brent Futures strip MAvg
+CL AAXBR0000000c AAXBR00c           DW USD BBL 130102 190118 Latin America Dated Brent strip
+CL AAXBR0300000c AAXBR03c           MA USD BBL 130101 181201 Latin America Dated Brent strip MAvg
+CL AAXBS0000000c AAXBS00c           DW USD BBL 130102 190118 Escalante FOB Argentina vs Latin America Brent Futures strip
+CL AAXBS0300000c AAXBS03c           MA USD BBL 130101 181201 Escalante FOB Argentina vs Latin America Brent Futures strip MAvg
+CL AAXBT0000000c AAXBT00c           DW USD BBL 130102 190118 Roncador FOB Brazil vs Latin America Brent Futures strip
+CL AAXBT0300000c AAXBT03c           MA USD BBL 130101 181201 Roncador FOB Brazil vs Latin America Brent Futures strip MAvg
+CL AAXBU0000000c AAXBU00c           DW USD BBL 130102 190118 Santa Barbara FOB Venezuela vs Latin America Brent Futures strip
+CL AAXBU0300000c AAXBU03c           MA USD BBL 130101 181201 Santa Barbara FOB Venezuela vs Latin America Brent Futures strip MAvg
+CL AAXBV0000000c AAXBV00c           DW USD BBL 130102 190118 Loreto FOB Peru vs Latin America Brent Futures strip
+CL AAXBV0300000c AAXBV03c           MA USD BBL 130101 181201 Loreto FOB Peru vs Latin America Brent Futures strip MAvg
+CL AAXBW0000000c AAXBW00c           DW USD BBL 130102 190118 Oriente FOB Ecuador vs Latin America Brent Futures strip
+CL AAXBW0300000c AAXBW03c           MA USD BBL 130101 181201 Oriente FOB Ecuador vs Latin America Brent Futures strip MAvg
+CL AAXBX0000000c AAXBX00c           DW USD BBL 130102 190118 Napo FOB Ecuador vs Latin America Brent Futures strip
+CL AAXBX0300000c AAXBX03c           MA USD BBL 130101 181201 Napo FOB Ecuador vs Latin America Brent Futures strip MAvg
+CL AAXBY0000000c AAXBY00c           DW USD BBL 130102 190118 Marlim FOB Brazil vs Latin America Brent Futures strip
+CL AAXBY0300000c AAXBY03c           MA USD BBL 130101 181201 Marlim FOB Brazil vs Latin America Brent Futures strip Mavg
+CL AAXBZ0000000c AAXBZ00c           DW USD BBL 130102 190118 Castilla Blend FOB Colombia vs Latin America Brent Futures strip
+CL AAXBZ0300000c AAXBZ03c           MA USD BBL 130101 181201 Castilla Blend FOB Colombia vs Latin America Brent Futures strip MAvg
+CL AAXCA0000000c AAXCA00c           DW USD BBL 130102 190118 Magdalena FOB Colombia vs Latin America Brent Futures strip
+CL AAXCA0300000c AAXCA03c           MA USD BBL 130101 181201 Magdalena FOB Colombia vs Latin America Brent Futures strip MAvg
+CL AAXCB0000000c AAXCB00c           DW USD BBL 130102 190118 Vasconia FOB Colombia vs Latin America Brent Futures strip
+CL AAXCB0300000c AAXCB03c           MA USD BBL 130101 181201 Vasconia FOB Colombia vs Latin America Brent Futures strip MAvg
+CL AAXCC0000000c AAXCC00c           DW USD BBL 130102 190118 Mesa FOB Venezuela vs Latin America Brent Futures strip
+CL AAXCC0300000c AAXCC03c           MA USD BBL 130101 181201 Mesa FOB Venezuela vs Latin America Brent Futures strip MAvg
+CL AAWFR0000000c AAWFR00c           DW USD BBL 120402 190118 Magdalena FOB Colombia $/Bbl
+CL AAWFR0000000h AAWFR00h           DW USD BBL 120402 190118 Magdalena FOB Colombia $/Bbl
+CL AAWFR0000000l AAWFR00l           DW USD BBL 120402 190118 Magdalena FOB Colombia $/Bbl
+CL AAWFR0300000c AAWFR03c           MA USD BBL 120401 181201 Magdalena FOB Colombia $/Bbl MAvg
+CL AAWFR0300000h AAWFR03h           MA USD BBL 120401 181201 Magdalena FOB Colombia $/Bbl MAvg
+CL AAWFR0300000l AAWFR03l           MA USD BBL 120401 181201 Magdalena FOB Colombia $/Bbl MAvg
+CL AAWFS0000000c AAWFS00c           DW USD BBL 120402 190118 Magdalena FOB Colombia Vs Latin America WTI strip $/Bbl
+CL AAWFS0000000h AAWFS00h           DW USD BBL 120402 190118 Magdalena FOB Colombia Vs Latin America WTI strip $/Bbl
+CL AAWFS0000000l AAWFS00l           DW USD BBL 120402 190118 Magdalena FOB Colombia Vs Latin America WTI strip $/Bbl
+CL AAWFS0300000c AAWFS03c           MA USD BBL 120401 181201 Magdalena FOB Colombia Vs Latin America WTI strip $/Bbl MAvg
+CL AAWFS0300000h AAWFS03h           MA USD BBL 120401 181201 Magdalena FOB Colombia Vs Latin America WTI strip $/Bbl MAvg
+CL AAWFS0300000l AAWFS03l           MA USD BBL 120401 181201 Magdalena FOB Colombia Vs Latin America WTI strip $/Bbl MAvg
+CL CRPORNM01AFVc PCADE00c           DW USD BBL 950626 190118 Oriente FOB Ecuador
+CL CRPORNM01AFVh PCADE00h           DW USD BBL 950626 190118 Oriente FOB Ecuador
+CL CRPORNM01AFVl PCADE00l           DW USD BBL 950626 190118 Oriente FOB Ecuador
+CL CRPESLM01AKCc PCAGC00c           DW USD BBL 950626 190118 Escalante FOB Argentina
+CL CRPESLM01AKCh PCAGC00h PC059$1$H DW USD BBL 950626 190118 Escalante FOB Argentina
+CL CRPESLM01AKCl PCAGC00l PC059$1$L DW USD BBL 950626 190118 Escalante FOB Argentina
+CL CRPLORM01AKHc PCAGH00c           DW USD BBL 950626 190118 Loreto FOB Peru
+CL CRPLORM01AKHh PCAGH00h PC066$1$H DW USD BBL 950626 190118 Loreto FOB Peru
+CL CRPLORM01AKHl PCAGH00l PC066$1$L DW USD BBL 950626 190118 Loreto FOB Peru
+CL CRPVSCM01AKIc PCAGI00c           DW USD BBL 950626 190118 Vasconia FOB Colombia
+CL CRPVSCM01AKIh PCAGI00h PC067$1$H DW USD BBL 950626 190118 Vasconia FOB Colombia
+CL CRPVSCM01AKIl PCAGI00l PC067$1$L DW USD BBL 950626 190118 Vasconia FOB Colombia
+CL CRPESLM01ALDc PCAGO00c           DW USD BBL 950714 190118 Escalante FOB Argentina vs Latin America WTI strip
+CL CRPESLM01ALDh PCAGO00h           DW USD BBL 950714 190118 Escalante FOB Argentina vs Latin America WTI strip
+CL CRPESLM01ALDl PCAGO00l           DW USD BBL 950714 190118 Escalante FOB Argentina vs Latin America WTI strip
+CL CRPLORM01ALFc PCAGQ00c           DW USD BBL 950726 190118 Loreto FOB Peru vs Latin America WTI strip
+CL CRPLORM01ALFh PCAGQ00h PC066$1CH DW USD BBL 950726 190118 Loreto FOB Peru vs Latin America WTI strip
+CL CRPLORM01ALFl PCAGQ00l PC066$1CL DW USD BBL 950726 190118 Loreto FOB Peru vs Latin America WTI strip
+CL CRPVSCM01ALGc PCAGR00c           DW USD BBL 950714 190118 Vasconia FOB Colombia vs Latin America WTI strip
+CL CRPVSCM01ALGh PCAGR00h           DW USD BBL 950714 190118 Vasconia FOB Colombia vs Latin America WTI strip
+CL CRPVSCM01ALGl PCAGR00l           DW USD BBL 950714 190118 Vasconia FOB Colombia vs Latin America WTI strip
+CL CRPORNM01ALIc PCAGU00c           DW USD BBL 950714 190118 Oriente FOB Ecuador vs Latin America WTI strip
+CL CRPORNM01ALIh PCAGU00h           DW USD BBL 950714 190118 Oriente FOB Ecuador vs Latin America WTI strip
+CL CRPORNM01ALIl PCAGU00l           DW USD BBL 950714 190118 Oriente FOB Ecuador vs Latin America WTI strip

@@ -1,0 +1,70 @@
+NX                                                           © 2019 by S&P Global Inc.,190119
+NX FNABH0000000u FNABH00u           WA USD BBL 020104 190111 Arab Heavy Singapore Cracking Netback WAvg
+NX FNACF0000000u FNACF00u           WA USD BBL 020104 190111 Arab Light Singapore Cracking Netback WAvg
+NX FNADL0000000u FNADL00u           WA USD BBL 020104 190111 Arab Medium Singapore Cracking Netback WAvg
+NX FNADX0000000u FNADX00u           WA USD BBL 020104 190111 Attaka Singapore Cracking Netback WAvg
+NX FNAJN0000000u FNAJN00u           WA USD BBL 020104 190111 Dubai Singapore Cracking Netback WAvg
+NX FNAJR0000000u FNAJR00u           WA USD BBL 020104 190111 Duri Singapore Cracking Netback WAvg
+NX FNANF0000000u FNANF00u           WA USD BBL 020104 190111 Kuwait Singapore Cracking Netback WAvg
+NX FNAPR0000000u FNAPR00u           WA USD BBL 020104 190111 Minas Singapore Cracking Netback WAvg
+NX FNAPY0000000u FNAPY00u           WA USD BBL 020308 190111 Murban Singapore Cracking Netback WAvg
+NX FNAQL0000000u FNAQL00u           WA USD BBL 020104 190111 Oman Singapore Cracking Netback WAvg
+NX FNARA0000000u FNARA00u           WA USD BBL 020308 190111 Qatar Land Singapore Cracking Netback WAvg
+NX FNARE0000000u FNARE00u           WA USD BBL 020308 190111 Qatar Marine Singapore Cracking Netback WAvg
+NX FNAST0000000u FNAST00u           WA USD BBL 020104 190111 Tapis Singapore Cracking Netback WAvg
+NX FNAVF0000000u FNAVF00u           WA USD BBL 140905 190111 Cabinda Spore Crk NetBk WAvg
+NX FNDSH0000000u FNDSH00u           WA USD BBL 140905 190111 Das Blend Singapore Cracking Netback WAvg
+NX TNANF0000000u TNANF00u           DW USD BBL 020102 190118 Kuwait Singapore Cracking Netback
+NX TNANF0300000u TNANF03u           MA USD BBL 020101 181201 Kuwait Singapore Cracking Netback MAvg
+NX TNANFMR00000c TNANFMRc           DW USD BBL 130501 190118 Kuwait Singapore Cracking Netback Margin
+NX TNAPR0000000u TNAPR00u           DW USD BBL 020102 190118 Minas Singapore Cracking Netback
+NX TNAPR0300000u TNAPR03u           MA USD BBL 020101 181201 Minas Singapore Cracking Netback MAvg
+NX TNAPRMR00000c TNAPRMRc           DW USD BBL 130501 190118 Minas Singapore Cracking Netback Margin
+NX TNAPY0000000u TNAPY00u           DW USD BBL 020301 190118 Murban Singapore Cracking Netback
+NX TNAPY0300000u TNAPY03u           MA USD BBL 020301 181201 Murban Singapore Cracking Netback MAvg
+NX TNAPYMR00000c TNAPYMRc           DW USD BBL 130501 190118 Murban Singapore Cracking Netback Margin
+NX TNAQL0000000u TNAQL00u           DW USD BBL 020102 190118 Oman Singapore Cracking Netback
+NX TNAQL0300000u TNAQL03u           MA USD BBL 020101 181201 Oman Singapore Cracking Netback MAvg
+NX TNAQLMR00000c TNAQLMRc           DW USD BBL 130501 190118 Oman Singapore Cracking Netback Margin
+NX TNARA0000000u TNARA00u           DW USD BBL 020301 190118 Qatar Land Singapore Cracking Netback
+NX TNARA0300000u TNARA03u           MA USD BBL 020301 181201 Qatar Land Singapore Cracking Netback MAvg
+NX TNARAMR00000c TNARAMRc           DW USD BBL 130501 190118 Qatar Land Singapore Cracking Netback Margin
+NX TNARE0000000u TNARE00u           DW USD BBL 020301 190118 Qatar Marine Singapore Cracking Netback
+NX TNARE0300000u TNARE03u           MA USD BBL 020301 181201 Qatar Marine Singapore Cracking Netback MAvg
+NX TNAREMR00000c TNAREMRc           DW USD BBL 130501 190118 Qatar Marine Singapore Cracking Netback Margin
+NX TNAST0000000u TNAST00u           DW USD BBL 020102 190118 Tapis Singapore Cracking Netback
+NX TNAST0300000u TNAST03u           MA USD BBL 020101 181201 Tapis Singapore Cracking Netback MAvg
+NX TNASTMR00000c TNASTMRc           DW USD BBL 130501 190118 Tapis Singapore Cracking Netback Margin
+NX TDEAAMR00000c TDEAAMRc           DW USD BBL 160701 190118 Al Shaheen Singapore Cracking Margin
+NX TNABH0000000u TNABH00u           DW USD BBL 020102 190118 Arab Heavy Singapore Cracking Netback
+NX TNABH0300000u TNABH03u           MA USD BBL 020101 181201 Arab Heavy Singapore Cracking Netback MAvg
+NX TNABHMR00000c TNABHMRc           DW USD BBL 130501 190118 Arab Heavy Singapore Cracking Netback Margin
+NX TNACF0000000u TNACF00u           DW USD BBL 020102 190118 Arab Light Singapore Cracking Netback
+NX TNACF0300000u TNACF03u           MA USD BBL 020101 181201 Arab Light Singapore Cracking Netback MAvg
+NX TNACFMR00000c TNACFMRc           DW USD BBL 130501 190118 Arab Light Singapore Cracking Netback Margin
+NX TNADL0000000u TNADL00u           DW USD BBL 020102 190118 Arab Medium Singapore Cracking Netback
+NX TNADL0300000u TNADL03u           MA USD BBL 020101 181201 Arab Medium Singapore Cracking Netback MAvg
+NX TNADLMR00000c TNADLMRc           DW USD BBL 130501 190118 Arab Medium Singapore Cracking Netback Margin
+NX TNADX0000000u TNADX00u           DW USD BBL 020102 190118 Attaka Singapore Cracking Netback
+NX TNADX0300000u TNADX03u           MA USD BBL 020101 181201 Attaka Singapore Cracking Netback MAvg
+NX TNADXMR00000c TNADXMRc           DW USD BBL 130501 190118 Attaka Singapore Cracking Netback Margin
+NX TNAJN0000000u TNAJN00u           DW USD BBL 020102 190118 Dubai Singapore Cracking Netback
+NX TNAJN0300000u TNAJN03u           MA USD BBL 020101 181201 Dubai Singapore Cracking Netback MAvg
+NX TNAJNMR00000c TNAJNMRc           DW USD BBL 130501 190118 Dubai Singapore Cracking Netback Margin
+NX TNAJR0000000u TNAJR00u           DW USD BBL 020102 190118 Duri Singapore Cracking Netback
+NX TNAJR0300000u TNAJR03u           MA USD BBL 020101 181201 Duri Singapore Cracking Netback MAvg
+NX TNAJRMR00000c TNAJRMRc           DW USD BBL 130501 190118 Duri Singapore Cracking Netback Margin
+NX TNAVF0000000u TNAVF00u           DW USD BBL 130501 190118 Cabinda Singapore Cracking Netback
+NX TNAVF0300000u TNAVF03u           MA USD BBL 130501 181201 Cabinda Singapore Cracking Netback MAvg
+NX TNAVFMR00000c TNAVFMRc           DW USD BBL 130501 190118 Cabinda Singapore Cracking Netback Margin
+NX TNDSH0000000u TNDSH00u           DW USD BBL 140901 190118 Das Blend Singapore Cracking Netback
+NX TNDSH0300000u TNDSH03u           MA USD BBL 140901 181201 Das Blend Singapore Cracking Netback MAvg
+NX TNDSHMR00000c TNDSHMRc           DW USD BBL 140901 190118 Das Blend Singapore Cracking Netback Margin
+NX TNEAA0000000c TNEAA00c           DW USD BBL 160701 190118 Al Shaheen Singapore Cracking Netback
+NX TNEAA0400000c TNEAA04c           WA USD BBL 160708 190111 Al Shaheen Singapore Cracking Netback WAvg
+NX TNEAD0000000c TNEAD00c           DW USD BBL 160701 190118 Forties Singapore Cracking Netback
+NX TNEAD0400000c TNEAD04c           WA USD BBL 160708 190111 Forties Singapore Cracking Netback WAvg
+NX TNEADMR00000c TNEADMRc           DW USD BBL 160701 190118 Forties Singapore Cracking Margin
+NX TNEAG0000000c TNEAG00c           DW USD BBL 160701 190118 Upper Zakum Singapore Cracking Netback
+NX TNEAG0400000c TNEAG04c           WA USD BBL 160708 190111 Upper Zakum Singapore Cracking Netback WAvg
+NX TNEAGMR00000c TNEAGMRc           DW USD BBL 160701 190118 Upper Zakum Singapore Cracking Margin

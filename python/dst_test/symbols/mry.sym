@@ -1,0 +1,176 @@
+MRY                                                           © 2019 by S&P Global Inc.,190119
+MRY CIPHT0000000c CIPHT00c           DW USD MT  141201 190118 DBF Petcoke New Orleans US Gulf Coast-Iskenderun Turkey 50kt $/mt Supramax
+MRY CIPHT0300000c CIPHT03c           MA USD MT  141201 181201 DBF Petcoke New Orleans US Gulf Coast-Iskenderun Turkey 50kt $/mt Supramax MAvg
+MRY CIPHTSZ00000u CIPHTSZu           DW N/A KT  180301 190118 DBF Petcoke Houston Texas US Gulf Coast-Aliaga Turkey 50kt Supramax Cargo Size
+MRY CDANC0000000u CDANC00u           DW USD MT  130902 190118 Met Coal Dry Bulk Freight East Australia-No. China $/MT
+MRY CDANC0300000c CDANC03c           MA USD MT  130901 181201 Met Coal Dry Bulk Freight East Australia-No. China $/MT MAvg
+MRY CDANCSZ00000u CDANCSZu           DW N/A KT  180301 190118 DBF Met Coal East Australia-No. China Cargo Size
+MRY CDAQA0000000c CDAQA00c           DW USD MT  171201 190118 DBF Met Coal Hay Point Australia-Qingdao China 85kt $/mt Post Panamax
+MRY CDAQA0300000c CDAQA03c           MA USD MT  171201 181201 DBF Met Coal Hay Point Australia-Qingdao China 85kt $/mt Post Panamax MAvg
+MRY CDAQASZ00000u CDAQASZu           DW N/A KT  180301 190118 DBF Met Coal Hay Point Australia-Qingdao China 85kt Post Panamax Cargo Size
+MRY CDARN0000000c CDARN00c           DW USD MT  160301 190118 DBF Met Coal Hay Point Australia-Rotterdam Netherlands 160kt $/mt Capesize
+MRY CDARN0300000c CDARN03c           MA USD MT  160301 181201 DBF Met Coal Hay Point Australia-Rotterdam Netherlands 160kt $/mt Capesize MAvg
+MRY CDARNSZ00000u CDARNSZu           DW N/A KT  180301 190118 DBF Met Coal Hay Point Australia-Rotterdam Netherlands 160kt Capesize Cargo Size
+MRY CDBFA0000000u CDBFA00u           DW USD MT  100315 190118 Met Coal Dry Bulk Freight East Australia-China 75kt $/MT
+MRY CDBFA0300000c CDBFA03c           MA USD MT  100301 181201 Met Coal Dry Bulk Freight East Australia-China $/MT MAvg
+MRY CDBFAI000000u CDBFAI0u           DW USD MT  100705 190118 Met Coal Dry Bulk Freight Australia-India $/MT
+MRY CDBFAI300000c CDBFAI3c           MA USD MT  100701 181201 Met Coal Dry Bulk Freight Australia-India $/MT MAvg
+MRY CDBFASZ00000u CDBFASZu           DW N/A KT  180301 190118 DBF Met Coal East Australia-China 75kt Cargo Size
+MRY CDBFBSZ00000u CDBFBSZu           DW N/A KT  180301 190118 DBF Met Coal Australia-India Cargo Size
+MRY CDBUB0000000u CDBUB00u           DW USD MT  121203 190118 Met Coal Dry Bulk Freight US-Brazil $/MT
+MRY CDBUB0300000c CDBUB03c           MA USD MT  121201 181201 Met Coal Dry Bulk Freight US-Brazil $/MT MAvg
+MRY CDBUBSZ00000u CDBUBSZu           DW N/A KT  180301 190118 DBF Met Coal US-Brazil Cargo Size
+MRY CDBUI0000000u CDBUI00u           DW USD MT  121203 190118 Met Coal Dry Bulk Freight US-India $/MT
+MRY CDBUI0300000c CDBUI03c           MA USD MT  121201 181201 Met Coal Dry Bulk Freight US-India $/MT MAvg
+MRY CDBUISZ00000u CDBUISZu           DW N/A KT  180301 190118 DBF Met Coal US-India Cargo Size
+MRY CDBUR0000000u CDBUR00u           DW USD MT  121203 190118 Met Coal Dry Bulk Freight US-Rotterdam $/MT
+MRY CDBUR0300000c CDBUR03c           MA USD MT  121201 181201 Met Coal Dry Bulk Freight US-Rotterdam $/MT MAvg
+MRY CDBURSZ00000u CDBURSZu           DW N/A KT  180301 190118 DBF Met Coal US-Rotterdam Cargo Size
+MRY CDCAC0000000c CDCAC00c           DW USD MT  140625 190118 DBF Metallurgical Coal Vancouver WC Canada-Qingdao N China 75kt $/Mt Panamax
+MRY CDCAC0300000c CDCAC03c           MA USD MT  140901 181201 DBF Metallurgical Coal Vancouver WC Canada-Qingdao N China 70kt $/Mt Panamax Mavg
+MRY CDCACSZ00000u CDCACSZu           DW N/A KT  180301 190118 DBF Metallurgical Coal Vancouver WC Canada-Qingdao N China 75kt Panamax Cargo Size
+MRY CDCAD0000000c CDCAD00c           DW USD DAY 180801 190118 DBF Metallurgical Coal Vancouver WC Canada-Qingdao N China 75kt $/Day Panamax
+MRY CDCAD0300000c CDCAD03c           MA USD DAY 180801 181201 DBF Metallurgical Coal Vancouver WC Canada-Qingdao N China 75kt $/Day Panamax MAvg
+MRY CDMAI0000000c CDMAI00c           DW USD MT  140624 190118 DBF Met Coal Mobile Alabama USGC-Taranto Italy 70kt $/mt Panamax
+MRY CDMAI0300000c CDMAI03c           MA USD MT  140901 181201 DBF Met Coal Mobile Alabama USGC-Taranto Italy 70kt $/mt Panamax MAvg
+MRY CDMAISZ00000u CDMAISZu           DW N/A KT  180301 190118 DBF Met Coal Mobile Alabama USGC-Taranto Italy 70kt Panamax Cargo Size
+MRY CDMAR0000000c CDMAR00c           DW USD MT  140624 190118 DBF Met Coal Mobile Alabama USGC-Rotterdam Netherlands 70kt $/mt Panamax
+MRY CDMAR0300000c CDMAR03c           MA USD MT  140901 181201 DBF Met Coal Mobile Alabama USGC-Rotterdam Netherlands 70kt $/mt Panamax MAvg
+MRY CDMARSZ00000u CDMARSZu           DW N/A KT  180301 190118 DBF Met Coal Mobile Alabama USGC-Rotterdam Netherlands 70kt Panamax Cargo Size
+MRY CDRBK0000000c CDRBK00c           DW USD MT  140625 190118 DBF Met Coal Roberts Bank W Canada-Kashima Japan 75kt $/mt Panamax
+MRY CDRBK0300000c CDRBK03c           MA USD MT  140901 181201 DBF Met Coal Roberts Bank W Canada-Kashima Japan 75kt $/mt Panamax MAvg
+MRY CDRBKSZ00000u CDRBKSZu           DW N/A KT  180301 190118 DBF Met Coal Roberts Bank W Canada-Kashima Japan 75kt Panamax Cargo Size
+MRY CDRKJ0000000c CDRKJ00c           DW USD MT  140625 190118 DBF Met Coal Roberts Bank W Canada-Kashima Japan 150kt $/mt Capesize
+MRY CDRKJ0300000c CDRKJ03c           MA USD MT  140801 181201 DBF Met Coal Roberts Bank W Canada-Kashima Japan 150kt $/mt Capesize MAvg
+MRY CDRKJSZ00000u CDRKJSZu           DW N/A KT  180301 190118 DBF Met Coal Roberts Bank W Canada-Kashima Japan 150kt Capesize Cargo Size
+MRY CDWCC0000000c CDWCC00c           DW USD MT  140625 190118 Dry Bulk Freight Metallurgical Coal WC Canada-China 160kt $/Mt Capesize
+MRY CDWCC0300000c CDWCC03c           MA USD MT  140801 181201 Dry Bulk Freight Metallurgical Coal WC Canada-China 160kt $/Mt Capesize MAvg
+MRY CDWCCSZ00000u CDWCCSZu           DW N/A KT  180301 190118 DBF Metallurgical Coal WC Canada-China 160kt Capesize Cargo Size
+MRY CDWCI0300000c CDWCI03c           MA USD MT  160601 181201 DBF Metallurgical Coal WC Canada-India 75kt $/Mt Panamax MAvg
+MRY CDWCI0400000c CDWCI04c           WA USD MT  160603 190118 DBF Metallurgical Coal WC Canada-India 75kt $/Mt Panamax Wkly
+MRY CDWCISZ00000u CDWCISZu           DW N/A KT  180301 190118 DBF Metallurgical Coal WC Canada-India 75kt Panamax Wkly Cargo Size
+MRY IOBQC0000000c IOBQC00c           DW USD MT  141201 190118 DBF Iron Ore Tubarao Brazil-Qingdao China 80kt $/mt Panamax
+MRY IOBQC0300000c IOBQC03c           MA USD MT  141201 181201 DBF Iron Ore Tubarao Brazil-Qingdao China 80kt $/mt Panamax MAvg
+MRY IOBQCSZ00000u IOBQCSZu           DW N/A KT  180301 190118 DBF Iron Ore Tubarao Brazil-Qingdao China 80kt Panamax Cargo Size
+MRY IOBRN0000000c IOBRN00c           DW USD MT  141201 190118 DBF Iron Ore Tubarao Brazil-Rotterdam Netherlands 70kt $/mt Panamax
+MRY IOBRN0300000c IOBRN03c           MA USD MT  141201 181201 DBF Iron Ore Tubarao Brazil-Rotterdam Netherlands 70kt $/mt Panamax MAvg
+MRY IOBRNSZ00000u IOBRNSZu           DW N/A KT  180301 190118 DBF Iron Ore Tubarao Brazil-Rotterdam Netherlands 70kt Panamax Cargo Size
+MRY IOBSC0000000c IOBSC00c           DW USD MT  140624 190118 DBF Iron Ore Yuzhny Ukraine-Qingdao N China 160kt $/Mt Capesize
+MRY IOBSC0300000c IOBSC03c           MA USD MT  140901 181201 DBF Iron Ore Yuzhny Ukraine-Qingdao N China 160kt $/Mt Capesize MAvg
+MRY IOBSCSZ00000u IOBSCSZu           DW N/A KT  180301 190118 DBF Iron Ore Yuzhny Ukraine-Qingdao N China 160kt Capesize Cargo Size
+MRY IOCRN0000000c IOCRN00c           DW USD MT  141201 190118 DBF Iron Ore Port Cartier Canada-Rotterdam Netherlands 70kt $/mt Panamax
+MRY IOCRN0300000c IOCRN03c           MA USD MT  141201 181201 DBF Iron Ore Port Cartier Canada-Rotterdam Netherlands 70kt $/mt Panamax MAvg
+MRY IOCRNSZ00000u IOCRNSZu           DW N/A KT  180301 190118 DBF Iron Ore Port Cartier Canada-Rotterdam Netherlands 70kt Panamax Cargo Size
+MRY IOEIC0000000c IOEIC00c           DW USD MT  140625 190118 DBF Iron Ore Paradip EC India-Qingdao N China 50kt $/Mt Supramax
+MRY IOEIC0300000c IOEIC03c           MA USD MT  140901 181201 DBF Iron Ore Paradip EC India-Qingdao N China 50kt $/Mt Supramax MAvg
+MRY IOEICSZ00000u IOEICSZu           DW N/A KT  180301 190118 DBF Iron Ore Paradip EC India-Qingdao N China 50kt Supramax Cargo Size
+MRY IOFAC0000000u IOFAC00u           DW USD WMT 090202 190118 IODEX Fgt Aus/Cape 170 kt $/WMt
+MRY IOFAC0300000c IOFAC03c           MA USD WMT 090201 181201 IODEX Fgt Aus/Cape $/WMt MAvg
+MRY IOFACSZ00000u IOFACSZu           DW N/A KT  180301 190118 DBF IODEX Aus/Cape 170 kt Cargo Size
+MRY IOFBC0000000u IOFBC00u           DW USD WMT 090202 190118 IODEX Fgt Brazil/Cape $/WMt
+MRY IOFBC0300000c IOFBC03c           MA USD WMT 090201 181201 IODEX Fgt Brazil/Cape $/WMt MAvg
+MRY IOFBCSZ00000u IOFBCSZu           DW N/A KT  180301 190118 DBF IODEX Brazil/Cape Cargo Size
+MRY IOFEC0000000u IOFEC00u           DW USD WMT 090202 190118 IODEX Fgt Diff E China $/WMt
+MRY IOFEC0300000c IOFEC03c           MA USD WMT 090201 181201 IODEX Fgt Diff EChina $/WMt MAvg
+MRY IOFECSZ00000u IOFECSZu           DW N/A KT  180301 190118 DBF IODEX Diff E China Cargo Size
+MRY IOFEI0000000u IOFEI00u           DW USD WMT 090202 170831 IODEX Fgt East India $/WMt
+MRY IOFEI0300000c IOFEI03c           MA USD WMT 090201 170801 IODEX Fgt East India $/WMt MAvg
+MRY IOFNC0000000u IOFNC00u           DW USD WMT 090202 190118 IODEX Fgt Diff N China $/WMt
+MRY IOFNC0300000c IOFNC03c           MA USD WMT 090201 181201 IODEX Fgt Diff NChina $/WMt MAvg
+MRY IOFNCSZ00000u IOFNCSZu           DW N/A KT  180301 190118 DBF IODEX Diff N China Cargo Size
+MRY IOFSA0000000u IOFSA00u           DW USD WMT 090817 190118 IODEX Fgt S Africa 170 kt $/WMt
+MRY IOFSA0300000c IOFSA03c           MA USD WMT 090801 181201 IODEX Fgt FOB S Afr $/WMt MAvg
+MRY IOFSASZ00000u IOFSASZu           DW N/A KT  180301 190118 DBF IODEX S Africa 170 kt Cargo Size
+MRY IOFSC0000000u IOFSC00u           DW USD WMT 090202 190118 IODEX Fgt Diff S China $/WMt
+MRY IOFSC0300000c IOFSC03c           MA USD WMT 090201 181201 IODEX Fgt Diff SChina $/WMt MAvg
+MRY IOFSCSZ00000u IOFSCSZu           DW N/A KT  180301 190118 DBF IODEX Diff S China Cargo Size
+MRY IOFWI0000000u IOFWI00u           DW USD WMT 090202 170831 IODEX Fgt West India $/WMt
+MRY IOFWI0300000c IOFWI03c           MA USD WMT 090201 170801 IODEX Fgt West India $/WMt MAvg
+MRY IONBA0000000u IONBA00u           DW USD DMT 090202 190118 IODEX NtBk FOB Aus $/DMt
+MRY IONBA0300000c IONBA03c           MA USD DMT 090201 181201 IODEX NtBk FOB Aus $/DMt MAvg
+MRY IONBB0000000u IONBB00u           DW USD DMT 090202 190118 IODEX NtBk FOB Brazil $/DMt
+MRY IONBB0300000c IONBB03c           MA USD DMT 090201 181201 IODEX NtBk FOB Brazil $/DMt MAvg
+MRY IONBE0000000u IONBE00u           DW USD DMT 090202 170831 IODEX NtBk East India $/DMt
+MRY IONBE0300000c IONBE03c           MA USD DMT 090201 170801 IODEX NtBk East India $/DMt MAvg
+MRY IONBI0000000u IONBI00u           DW USD DMT 100802 190118 IODEX NtBk FOB WIndia PMax $/Dmt
+MRY IONBI0300000c IONBI03c           MA USD DMT 100801 181201 IODEX NtBk FOB WIndia PMAX MAvg
+MRY IONBR0000000c IONBR00c           DW USD DMT 150701 190118 IODEX NtBk Rotterdam $/DMt
+MRY IONBR0300000c IONBR03c           MA USD DMT 150701 181201 IODEX NtBk Rotterdam $/DMt MAvg
+MRY IONBW0000000u IONBW00u           DW USD DMT 090202 170831 IODEX NtBk West India $/DMt
+MRY IONBW0300000c IONBW03c           MA USD DMT 090201 170801 IODEX NtBk West India $/DMt MAvg
+MRY IONSA0000000u IONSA00u           DW USD DMT 090817 190118 IODEX NtBk FOB S Afr $/DMt
+MRY IONSA0300000c IONSA03c           MA USD DMT 090801 181201 IODEX NtBk FOB S Afr $/DMt MAvg
+MRY IOTBE0000000c IOTBE00c           DW USD MT  140625 190118 DBF Iron Ore Tubarao Brazil ECSA-Rdam Netherlands 170kt $/mt Capesize
+MRY IOTBE0300000c IOTBE03c           MA USD MT  140901 181201 DBF Iron Ore Tubarao Brazil ECSA-Rdam Netherlands 170kt $/mt Capesize MAvg
+MRY IOTBESZ00000u IOTBESZu           DW N/A KT  180301 190118 DBF Iron Ore Tubarao Brazil ECSA-Rdam Netherlands 170kt Capesize Cargo Size
+MRY IOWIC0000000c IOWIC00c           DW USD MT  140625 190118 DBF Iron Ore Mormugao WC India-Qingdao N China 50kt $/Mt Supramax
+MRY IOWIC0300000c IOWIC03c           MA USD MT  140901 181201 DBF Iron Ore Mormugao WC India-Qingdao N China 50kt $/Mt Supramax MAvg
+MRY IOWICSZ00000u IOWICSZu           DW N/A KT  180301 190118 DBF Iron Ore Mormugao WC India-Qingdao N China 50kt Supramax Cargo Size
+MRY IDBFI0000000u IDBFI00u           DW USD MT  100802 190118 DBF W India-China Panamax
+MRY IDBFI0300000c IDBFI03c           MA USD MT  100801 181201 DBF W India-China Panamax MAvg
+MRY IDBFISZ00000u IDBFISZu           DW N/A KT  180301 190118 DBF W India-China Panamax Cargo Size
+MRY MRYAA0000000c MRYAA00c           DW USD DAY 170103 190118 DBF Port Hedland Western Australia-Qingdao China 170kt (plus/minus 10%) $/day Capesize
+MRY MRYAA0300000c MRYAA03c           MA USD DAY 170101 181201 DBF Port Hedland Western Aus-Qingdao China 170kt (plus/minus 10%) $/day Capesize MAvg
+MRY MRYBA0000000c MRYBA00c           DW USD DAY 170103 190118 DBF Saldanha Bay South Africa-Qingdao China 170kt (plus/minus 10%) $/day Capesize
+MRY MRYBA0300000c MRYBA03c           MA USD DAY 170101 181201 DBF Saldanha Bay South Africa-Qingdao China 170kt (plus/minus 10%) $/day Capesize MAvg
+MRY MRYCA0000000c MRYCA00c           DW USD DAY 170103 190118 DBF Tubarao Brazil-Qingdao China 170kt (plus/minus 10%) $/day Capesize PRV
+MRY MRYCA0300000c MRYCA03c           MA USD DAY 170101 181201 DBF Tubarao Brazil-Qingdao China 170kt (plus/minus 10%) $/day Capesize PRV MAvg
+MRY MRYDA0000000c MRYDA00c           DW USD DAY 170103 190118 DBF Tubarao Brazil-Qingdao China 170kt (plus/minus 10%) $/day Capesize Front Haul
+MRY MRYDA0300000c MRYDA03c           MA USD DAY 170101 181201 DBF Tubarao Brazil-Qingdao China 170kt (plus/minus 10%) $/day Capesize Front Haul MAvg
+MRY MRYEA0000000c MRYEA00c           DW USD DAY 170103 190118 DBF Hay Point Australia-Paradip India 75kt (plus/minus 10%) $/day Panamax
+MRY MRYEA0300000c MRYEA03c           MA USD DAY 170101 181201 DBF Hay Point Australia-Paradip India 75kt (plus/minus 10%) $/day Panamax MAvg
+MRY MRYFA0000000c MRYFA00c           DW USD DAY 170103 190118 DBF Hay Point Australia-Qingdao China 75kt (plus/minus 10%) $/day Panamax
+MRY MRYFA0300000c MRYFA03c           MA USD DAY 170101 181201 DBF Hay Point Australia-Qingdao China 75kt (plus/minus 10%) $/day Panamax MAvg
+MRY MRYGA0000000c MRYGA00c           DW USD DAY 170103 190118 DBF Mina Saqr UAE-Paradip India 50kt (plus/minus 10%) $/day Supramax
+MRY MRYGA0300000c MRYGA03c           MA USD DAY 170101 181201 DBF Mina Saqr UAE-Paradip India 50kt (plus/minus 10%) $/day Supramax MAvg
+MRY MSJAT0000000c MSJAT00c           DW USD MT  141201 190118 DBF Scrap New Jersey US East Coast-Aliaga Turkey 40kt $/mt Supramax
+MRY MSJAT0300000c MSJAT03c           MA USD MT  141201 181201 DBF Scrap New Jersey US East Coast-Aliaga Turkey 40kt $/mt Supramax MAvg
+MRY MSJATSZ00000u MSJATSZu           DW N/A KT  180301 190118 DBF Scrap New Jersey US East Coast-Aliaga Turkey 40kt Supramax Cargo Size
+MRY MSLAT0000000c MSLAT00c           DW USD MT  141201 190118 DBF Scrap Riga Latvia-Aliaga Turkey 45kt $/mt Supramax
+MRY MSLAT0300000c MSLAT03c           MA USD MT  141201 181201 DBF Scrap Riga Latvia-Aliaga Turkey 45kt $/mt Supramax MAvg
+MRY MSLATSZ00000u MSLATSZu           DW N/A KT  180301 190118 DBF Scrap Riga Latvia-Aliaga Turkey 45kt Supramax Cargo Size
+MRY MSNAT0000000c MSNAT00c           DW USD MT  141201 190118 DBF Scrap Rotterdam Netherlands-Aliaga Turkey 40kt $/mt Supramax
+MRY MSNAT0300000c MSNAT03c           MA USD MT  141201 181201 DBF Scrap Rotterdam Netherlands-Aliaga Turkey 40kt $/mt Supramax MAvg
+MRY MSNATSZ00000u MSNATSZu           DW N/A KT  180301 190118 DBF Scrap Rotterdam Netherlands-Aliaga Turkey 40kt Supramax Cargo Size
+MRY MSRAT0000000c MSRAT00c           DW USD MT  141201 190118 DBF Scrap Rotterdam Netherlands-Aliaga Turkey 30kt $/mt Supramax
+MRY MSRAT0300000c MSRAT03c           MA USD MT  141201 181201 DBF Scrap Rotterdam Netherlands-Aliaga Turkey 30kt $/mt Supramax MAvg
+MRY MSRATSZ00000u MSRATSZu           DW N/A KT  180301 190118 DBF Scrap Rotterdam Netherlands-Aliaga Turkey 30kt Supramax Cargo Size
+MRY MMASH0000000c MMASH00c           DW USD MT  140625 190118 DBF Alumina Bunbury SW Australia-Jebel Ali 30kt $/mt Handysize
+MRY MMASH0300000c MMASH03c           MA USD MT  140901 181201 DBF Alumina Bunbury SW Australia-Jebel Ali 30kt $/mt Handysize MAvg
+MRY MMASHSZ00000u MMASHSZu           DW N/A KT  180301 190118 DBF Alumina Bunbury SW Australia-Jebel Ali 30kt Handysize Cargo Size
+MRY MLSAA0000000c MLSAA00c           DW USD MT  160601 190118 DBF Limestone Mina Saqr (UAE)-Paradip (India) 50kt $/mt Supramax
+MRY MLSAA0300000c MLSAA03c           MA USD MT  160601 181201 DBF Limestone Mina Saqr (UAE)-Paradip (India) 50kt $/mt Supramax MAvg
+MRY MLSAASZ00000u MLSAASZu           DW N/A KT  180301 190118 DBF Limestone Mina Saqr (UAE)-Paradip (India) 50kt Supramax Cargo Size
+MRY MLSAB0000000c MLSAB00c           DW USD MT  160601 190118 DBF Limestone differential from Mina Saqr (UAE)-Salalah (Oman) 50kt $/mt Supramax
+MRY MLSAB0300000c MLSAB03c           MA USD MT  160601 181201 DBF Limestone differential from Mina Saqr (UAE)-Salalah (Oman) 50kt $/mt Supramax MAvg
+MRY MLSABSZ00000u MLSABSZu           DW N/A KT  180301 190118 DBF Limestone Diff from Mina Saqr (UAE)-Salalah (Oman) 50kt Supramax Cargo Size
+MRY MLSAC0000000c MLSAC00c           DW USD MT  160601 190118 DBF Limestone differential from Paradip (India)-Chennai (India) 50kt $/mt Supramax
+MRY MLSAC0300000c MLSAC03c           MA USD MT  160601 181201 DBF Limestone differential from Paradip (India)-Chennai (India) 50kt $/mt Supramax MAvg
+MRY MLSACSZ00000u MLSACSZu           DW N/A KT  180301 190118 DBF Limestone Diff from Paradip (India)-Chennai (India) 50kt Supramax Cargo Size
+MRY MMAAJSZ00000u MMAAJSZu           DW N/A KT  180301 190118 DBF Alumina Gladstone NE Australia-Jebel Ali 60kt Panamax Cargo Size
+MRY MMAAO0000000c MMAAO00c           DW USD MT  140625 190118 DBF Alumina Gladstone NE Australia-Jebel Ali 30kt $/Mt Handysize
+MRY MMAAO0300000c MMAAO03c           MA USD MT  140901 181201 DBF Alumina Gladstone NE Australia-Jebel Ali 30kt $/Mt Handysize MAvg
+MRY MMAAOSZ00000u MMAAOSZu           DW N/A KT  180301 190118 DBF Alumina Gladstone NE Australia-Jebel Ali 30kt Handysize Cargo Size
+MRY MMABJ0000000c MMABJ00c           DW USD MT  140625 190118 DBF Alumina Bunbury SW Australia-Jebel Ali 60kt $/Mt Panamax
+MRY MMABJ0300000c MMABJ03c           MA USD MT  140901 181201 DBF Alumina Bunbury SW Australia-Jebel Ali 60kt $/Mt Panamax MAvg
+MRY MMABJSZ00000u MMABJSZu           DW N/A KT  180301 190118 DBF Alumina Bunbury SW Australia-Jebel Ali 60kt Panamax Cargo Size
+MRY MMABL0000000c MMABL00c           DW USD MT  140625 190118 DBF Alumina Bunbury SW Australia-Lianyungang China 60kt Panamax $/Mt
+MRY MMABL0300000c MMABL03c           MA USD MT  140901 181201 DBF Alumina Bunbury SW Australia-Lianyungang China 60kt Panamax $/Mt MAvg
+MRY MMABLSZ00000u MMABLSZu           DW N/A KT  180301 190118 DBF Alumina Bunbury SW Australia-Lianyungang China 60kt Panamax Cargo Size
+MRY MMACH0000000u MMACH00u           DW USD MT  100816 190118 DBF Alumina Bunbury SW Australia-Lianyungang China 30kt $/mt Handysize
+MRY MMACH0300000u MMACH03u           MA USD MT  100801 181201 DBF Alumina Bunbury SW Australia-Lianyungang China 30kt $/mt Handysize MAvg
+MRY MMACH0400000u MMACH04u           WA USD MT  100820 190118 DBF Alumina Bunbury SW Australia-Lianyungang China 30kt $/mt Handysize WAvg
+MRY MMACH0600000c MMACH06c           YR USD MT  101231 181231 DBF Alumina Bunbury SW Australia-Lianyungang China 30kt $/mt Handysize YAvg
+MRY MMACHSZ00000u MMACHSZu           DW N/A KT  180301 190118 DBF Alumina Bunbury SW Australia-Lianyungang China 30kt Handysize Cargo Size
+MRY MMADZ0000000c MMADZ00c           DW USD MT  160201 190118 DBF Bauxite Kamsar-San Ciprian 59kt Panamax $/mt
+MRY MMADZ0300000c MMADZ03c           MA USD MT  160201 181201 DBF Bauxite Kamsar-San Ciprian 59kt Panamax $/mt MAvg
+MRY MMADZSZ00000u MMADZSZu           DW N/A KT  180301 190118 DBF Bauxite Kamsar-San Ciprian 59kt Panamax Cargo Size
+MRY MMAGC0000000c MMAGC00c           DW USD MT  140625 190118 DBF Alumina Gladstone NE Australia-Lianyungang China 30kt $/Mt Handysize
+MRY MMAGC0300000c MMAGC03c           MA USD MT  140901 181201 DBF Alumina Gladstone NE Australia-Lianyungang China 30kt $/Mt Handysize MAvg
+MRY MMAGCSZ00000u MMAGCSZu           DW N/A KT  180301 190118 DBF Alumina Gladstone NE Australia-Lianyungang China 30kt Handysize Cargo Size
+MRY MMAHH0000000c MMAHH00c           DW USD MT  161101 190118 DBF Bauxite Kamsar Guinea-Longkou N China 60kt $/mt Panamax
+MRY MMAHH0300000c MMAHH03c           MA USD MT  161101 181201 DBF Bauxite Kamsar Guinea-Longkou N China 60kt $/mt Panamax MAvg
+MRY MMAHHSZ00000u MMAHHSZu           DW N/A KT  180301 190118 DBF Bauxite Kamsar Guinea-Longkou N China 60kt Panamax Cargo Size
+MRY MMAHJ0000000c MMAHJ00c           DW USD MT  161101 190118 DBF Bauxite Trombetas Brazil-Longkou N China 60kt $/mt Panamax
+MRY MMAHJ0300000c MMAHJ03c           MA USD MT  161101 181201 DBF Bauxite Trombetas Brazil-Longkou N China 60kt $/mt Panamax MAvg
+MRY MMAHJSZ00000u MMAHJSZu           DW N/A KT  180301 190118 DBF Bauxite Trombetas Brazil-Longkou N China 60kt Panamax Cargo Size

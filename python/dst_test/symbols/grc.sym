@@ -1,0 +1,23 @@
+GRC                                                           © 2019 by S&P Global Inc.,190119
+GRC ABCSA0000000c ABCSA00c           DW USD MT                Brazil Corn FOB Santos
+GRC ABCSA0300000c ABCSA03c           MA USD MT                Brazil Corn FOB Santos MAvg
+GRC ABCSB0000000c ABCSB00c           DW USC BSL               Brazil Corn FOB Santos Basis
+GRC ABCSB0300000c ABCSB03c           MA USC BSL               Brazil Corn FOB Santos Basis MAvg
+GRC ARGCA0000000c ARGCA00c           DW USD MT                Argentina Corn FOB Up River
+GRC ARGCA0300000c ARGCA03c           MA USD MT                Argentina Corn FOB Up River MAvg
+GRC ARGCB0000000c ARGCB00c           DW USC BSL               Argentina Corn FOB Up River Basis
+GRC ARGCB0300000c ARGCB03c           MA USC BSL               Argentina Corn FOB Up River Basis MAvg
+GRC CUBSU0000000c CUBSU00c           DW USD MT  140317 190118 Ukrainian corn FOB Black Sea
+GRC CUBSU0300000c CUBSU03c           MA USD MT  140901 181201 Ukrainian corn FOB Black Sea MAvg
+GRC WCINV0000000c WCINV00c           DW USD MT  160822 190118 Corn CFR North East Asia $/MT
+GRC WCINV0300000c WCINV03c           MA USD MT  160801 181201 Corn CFR North East Asia $/MT MAvg
+GRC WCNOA0000000c WCNOA00c           DW USD MT  160404 190118 US Corn CIF New Orleans $/mt Mo01
+GRC WCNOA0300000c WCNOA03c           MA USD MT  160401 181201 US Corn CIF New Orleans $/mt Mo01 MAvg
+GRC WCNOB0000000c WCNOB00c           DW USD MT  160404 190118 US Corn CIF New Orleans $/mt Mo02
+GRC WCNOB0300000c WCNOB03c           MA USD MT  160401 181201 US Corn CIF New Orleans $/mt Mo02 MAvg
+GRC WCNOC0000000c WCNOC00c           DW USD BSL 160404 190118 US Corn CIF New Orleans $/bu Mo01
+GRC WCNOC0300000c WCNOC03c           MA USD BSL 160401 181201 US Corn CIF New Orleans $/bu Mo01 MAvg
+GRC WCNOD0000000c WCNOD00c           DW USD BSL 160404 190118 US Corn CIF New Orleans $/bu Mo02
+GRC WCNOD0300000c WCNOD03c           MA USD BSL 160401 181201 US Corn CIF New Orleans $/bu Mo02 MAvg
+GRC WCNOE0000000c WCNOE00c           DW USC BSL 160404 190118 US Corn CIF New Orleans Basis cent/bu Mo01
+GRC WCNOU0000000c WCNOU00c           DW USC BSL 160404 190118 US Corn CIF New Orleans Basis cent/bu Mo02

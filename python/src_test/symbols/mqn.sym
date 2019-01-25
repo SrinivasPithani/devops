@@ -1,0 +1,901 @@
+MQN                                                           © 2019 by S&P Global Inc.,190119
+MQN QISLP3400000c QISLP34c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo34
+MQN QISLP3500000c QISLP35c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo35
+MQN QISLP3600000c QISLP36c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo36
+MQN QISLP3700000c QISLP37c           DW USC GAL               Isobutane Mont Belvieu LST M2M Financial Mo37
+MQN QISLP3800000c QISLP38c           DW USC GAL               Isobutane Mont Belvieu LST M2M Financial Mo38
+MQN QISLP3900000c QISLP39c           DW USC GAL               Isobutane Mont Belvieu LST M2M Financial Mo39
+MQN QISLP4000000c QISLP40c           DW USC GAL               Isobutane Mont Belvieu LST M2M Financial Mo40
+MQN QISLP4100000c QISLP41c           DW USC GAL               Isobutane Mont Belvieu LST M2M Financial Mo41
+MQN QISLP4200000c QISLP42c           DW USC GAL               Isobutane Mont Belvieu LST M2M Financial Mo42
+MQN QISLP4300000c QISLP43c           DW USC GAL               Isobutane Mont Belvieu LST M2M Financial Mo43
+MQN QISLP4400000c QISLP44c           DW USC GAL               Isobutane Mont Belvieu LST M2M Financial Mo44
+MQN QISLP4500000c QISLP45c           DW USC GAL               Isobutane Mont Belvieu LST M2M Financial Mo45
+MQN QISLP4600000c QISLP46c           DW USC GAL               Isobutane Mont Belvieu LST M2M Financial Mo46
+MQN QISLP4700000c QISLP47c           DW USC GAL               Isobutane Mont Belvieu LST M2M Financial Mo47
+MQN QISLP4800000c QISLP48c           DW USC GAL               Isobutane Mont Belvieu LST M2M Financial Mo48
+MQN QISLP4900000c QISLP49c           DW USC GAL               Isobutane Mont Belvieu LST M2M Financial Mo49
+MQN QISLP5000000c QISLP50c           DW USC GAL               Isobutane Mont Belvieu LST M2M Financial Mo50
+MQN QISLP5100000c QISLP51c           DW USC GAL               Isobutane Mont Belvieu LST M2M Financial Mo51
+MQN QISLP5200000c QISLP52c           DW USC GAL               Isobutane Mont Belvieu LST M2M Financial Mo52
+MQN QISLP5300000c QISLP53c           DW USC GAL               Isobutane Mont Belvieu LST M2M Financial Mo53
+MQN QISLP5400000c QISLP54c           DW USC GAL               Isobutane Mont Belvieu LST M2M Financial Mo54
+MQN QISLP5500000c QISLP55c           DW USC GAL               Isobutane Mont Belvieu LST M2M Financial Mo55
+MQN QISLP5600000c QISLP56c           DW USC GAL               Isobutane Mont Belvieu LST M2M Financial Mo56
+MQN QISLP5700000c QISLP57c           DW USC GAL               Isobutane Mont Belvieu LST M2M Financial Mo57
+MQN QISLP5800000c QISLP58c           DW USC GAL               Isobutane Mont Belvieu LST M2M Financial Mo58
+MQN QISLP5900000c QISLP59c           DW USC GAL               Isobutane Mont Belvieu LST M2M Financial Mo59
+MQN QISLP6000000c QISLP60c           DW USC GAL               Isobutane Mont Belvieu LST M2M Financial Mo60
+MQN QISOP0100000c QISOP01c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo01
+MQN QISOP0200000c QISOP02c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo02
+MQN QISOP0300000c QISOP03c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo03
+MQN QISOP0400000c QISOP04c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo04
+MQN QISOP0500000c QISOP05c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo05
+MQN QISOP0600000c QISOP06c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo06
+MQN QISOP0700000c QISOP07c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo07
+MQN QISOP0800000c QISOP08c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo08
+MQN QISOP0900000c QISOP09c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo09
+MQN QISOP1000000c QISOP10c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo10
+MQN QISOP1100000c QISOP11c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo11
+MQN QISOP1200000c QISOP12c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo12
+MQN QISOP1300000c QISOP13c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo13
+MQN QISOP1400000c QISOP14c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo14
+MQN QISOP1500000c QISOP15c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo15
+MQN QISOP1600000c QISOP16c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo16
+MQN QISOP1700000c QISOP17c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo17
+MQN QISOP1800000c QISOP18c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo18
+MQN QISOP1900000c QISOP19c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo19
+MQN QISOP2000000c QISOP20c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo20
+MQN QISOP2100000c QISOP21c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo21
+MQN QISOP2200000c QISOP22c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo22
+MQN QISOP2300000c QISOP23c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo23
+MQN QISOP2400000c QISOP24c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo24
+MQN QISOP2500000c QISOP25c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo25
+MQN QISOP2600000c QISOP26c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo26
+MQN QISOP2700000c QISOP27c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo27
+MQN QISOP2800000c QISOP28c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo28
+MQN QISOP2900000c QISOP29c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo29
+MQN QISOP3000000c QISOP30c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo30
+MQN QISOP3100000c QISOP31c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo31
+MQN QISOP3200000c QISOP32c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo32
+MQN QISOP3300000c QISOP33c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo33
+MQN QISOP3400000c QISOP34c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo34
+MQN QISOP3500000c QISOP35c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo35
+MQN QISOP3600000c QISOP36c           DW USC GAL 151123 190118 Isobutane Mont Belvieu Non-LST M2M Financial Mo36
+MQN QISOP3700000c QISOP37c           DW USC GAL               Isobutane Mont Belvieu Non-LST M2M Financial Mo37
+MQN QISOP3800000c QISOP38c           DW USC GAL               Isobutane Mont Belvieu Non-LST M2M Financial Mo38
+MQN QISOP3900000c QISOP39c           DW USC GAL               Isobutane Mont Belvieu Non-LST M2M Financial Mo39
+MQN QISOP4000000c QISOP40c           DW USC GAL               Isobutane Mont Belvieu Non-LST M2M Financial Mo40
+MQN QISOP4100000c QISOP41c           DW USC GAL               Isobutane Mont Belvieu Non-LST M2M Financial Mo41
+MQN QISOP4200000c QISOP42c           DW USC GAL               Isobutane Mont Belvieu Non-LST M2M Financial Mo42
+MQN QISOP4300000c QISOP43c           DW USC GAL               Isobutane Mont Belvieu Non-LST M2M Financial Mo43
+MQN QISOP4400000c QISOP44c           DW USC GAL               Isobutane Mont Belvieu Non-LST M2M Financial Mo44
+MQN QISOP4500000c QISOP45c           DW USC GAL               Isobutane Mont Belvieu Non-LST M2M Financial Mo45
+MQN QISOP4600000c QISOP46c           DW USC GAL               Isobutane Mont Belvieu Non-LST M2M Financial Mo46
+MQN QISOP4700000c QISOP47c           DW USC GAL               Isobutane Mont Belvieu Non-LST M2M Financial Mo47
+MQN QISOP4800000c QISOP48c           DW USC GAL               Isobutane Mont Belvieu Non-LST M2M Financial Mo48
+MQN QISOP4900000c QISOP49c           DW USC GAL               Isobutane Mont Belvieu Non-LST M2M Financial Mo49
+MQN QISOP5000000c QISOP50c           DW USC GAL               Isobutane Mont Belvieu Non-LST M2M Financial Mo50
+MQN QISOP5100000c QISOP51c           DW USC GAL               Isobutane Mont Belvieu Non-LST M2M Financial Mo51
+MQN QISOP5200000c QISOP52c           DW USC GAL               Isobutane Mont Belvieu Non-LST M2M Financial Mo52
+MQN QISOP5300000c QISOP53c           DW USC GAL               Isobutane Mont Belvieu Non-LST M2M Financial Mo53
+MQN QISOP5400000c QISOP54c           DW USC GAL               Isobutane Mont Belvieu Non-LST M2M Financial Mo54
+MQN QISOP5500000c QISOP55c           DW USC GAL               Isobutane Mont Belvieu Non-LST M2M Financial Mo55
+MQN QISOP5600000c QISOP56c           DW USC GAL               Isobutane Mont Belvieu Non-LST M2M Financial Mo56
+MQN QISOP5700000c QISOP57c           DW USC GAL               Isobutane Mont Belvieu Non-LST M2M Financial Mo57
+MQN QISOP5800000c QISOP58c           DW USC GAL               Isobutane Mont Belvieu Non-LST M2M Financial Mo58
+MQN QISOP5900000c QISOP59c           DW USC GAL               Isobutane Mont Belvieu Non-LST M2M Financial Mo59
+MQN QISOP6000000c QISOP60c           DW USC GAL               Isobutane Mont Belvieu Non-LST M2M Financial Mo60
+MQN QNBIP0100000c QNBIP01c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo01
+MQN QNBIP0200000c QNBIP02c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo02
+MQN QNBIP0300000c QNBIP03c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo03
+MQN QNBIP0400000c QNBIP04c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo04
+MQN QNBIP0500000c QNBIP05c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo05
+MQN QNBIP0600000c QNBIP06c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo06
+MQN QNBIP0700000c QNBIP07c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo07
+MQN QNBIP0800000c QNBIP08c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo08
+MQN QNBIP0900000c QNBIP09c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo09
+MQN QNBIP1000000c QNBIP10c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo10
+MQN QNBIP1100000c QNBIP11c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo11
+MQN QNBIP1200000c QNBIP12c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo12
+MQN QNBIP1300000c QNBIP13c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo13
+MQN QNBIP1400000c QNBIP14c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo14
+MQN QNBIP1500000c QNBIP15c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo15
+MQN QNBIP1600000c QNBIP16c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo16
+MQN QNBIP1700000c QNBIP17c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo17
+MQN QNBIP1800000c QNBIP18c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo18
+MQN QNBIP1900000c QNBIP19c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo19
+MQN QNBIP2000000c QNBIP20c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo20
+MQN QNBIP2100000c QNBIP21c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo21
+MQN QNBIP2200000c QNBIP22c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo22
+MQN QNBIP2300000c QNBIP23c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo23
+MQN QNBIP2400000c QNBIP24c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo24
+MQN QNBIP2500000c QNBIP25c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo25
+MQN QNBIP2600000c QNBIP26c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo26
+MQN QNBIP2700000c QNBIP27c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo27
+MQN QNBIP2800000c QNBIP28c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo28
+MQN QNBIP2900000c QNBIP29c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo29
+MQN QNBIP3000000c QNBIP30c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo30
+MQN QNBIP3100000c QNBIP31c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo31
+MQN QNBIP3200000c QNBIP32c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo32
+MQN QNBIP3300000c QNBIP33c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo33
+MQN QNBIP3400000c QNBIP34c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo34
+MQN QNBIP3500000c QNBIP35c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo35
+MQN QNBIP3600000c QNBIP36c           DW USC GAL 151123 190118 Butane Mont Belvieu Non-LST M2M Financial Mo36
+MQN QNBIP3700000c QNBIP37c           DW USC GAL               Butane Mont Belvieu Non-LST M2M Financial Mo37
+MQN QNBIP3800000c QNBIP38c           DW USC GAL               Butane Mont Belvieu Non-LST M2M Financial Mo38
+MQN QNBIP3900000c QNBIP39c           DW USC GAL               Butane Mont Belvieu Non-LST M2M Financial Mo39
+MQN QNBIP4000000c QNBIP40c           DW USC GAL               Butane Mont Belvieu Non-LST M2M Financial Mo40
+MQN QNBIP4100000c QNBIP41c           DW USC GAL               Butane Mont Belvieu Non-LST M2M Financial Mo41
+MQN QNBIP4200000c QNBIP42c           DW USC GAL               Butane Mont Belvieu Non-LST M2M Financial Mo42
+MQN QNBIP4300000c QNBIP43c           DW USC GAL               Butane Mont Belvieu Non-LST M2M Financial Mo43
+MQN QNBIP4400000c QNBIP44c           DW USC GAL               Butane Mont Belvieu Non-LST M2M Financial Mo44
+MQN QNBIP4500000c QNBIP45c           DW USC GAL               Butane Mont Belvieu Non-LST M2M Financial Mo45
+MQN QNBIP4600000c QNBIP46c           DW USC GAL               Butane Mont Belvieu Non-LST M2M Financial Mo46
+MQN QNBIP4700000c QNBIP47c           DW USC GAL               Butane Mont Belvieu Non-LST M2M Financial Mo47
+MQN QNBIP4800000c QNBIP48c           DW USC GAL               Butane Mont Belvieu Non-LST M2M Financial Mo48
+MQN QNBIP4900000c QNBIP49c           DW USC GAL               Butane Mont Belvieu Non-LST M2M Financial Mo49
+MQN QNBIP5000000c QNBIP50c           DW USC GAL               Butane Mont Belvieu Non-LST M2M Financial Mo50
+MQN QNBIP5100000c QNBIP51c           DW USC GAL               Butane Mont Belvieu Non-LST M2M Financial Mo51
+MQN QNBIP5200000c QNBIP52c           DW USC GAL               Butane Mont Belvieu Non-LST M2M Financial Mo52
+MQN QNBIP5300000c QNBIP53c           DW USC GAL               Butane Mont Belvieu Non-LST M2M Financial Mo53
+MQN QNBIP5400000c QNBIP54c           DW USC GAL               Butane Mont Belvieu Non-LST M2M Financial Mo54
+MQN QNBIP5500000c QNBIP55c           DW USC GAL               Butane Mont Belvieu Non-LST M2M Financial Mo55
+MQN QNBIP5600000c QNBIP56c           DW USC GAL               Butane Mont Belvieu Non-LST M2M Financial Mo56
+MQN QNBIP5700000c QNBIP57c           DW USC GAL               Butane Mont Belvieu Non-LST M2M Financial Mo57
+MQN QNBIP5800000c QNBIP58c           DW USC GAL               Butane Mont Belvieu Non-LST M2M Financial Mo58
+MQN QNBIP5900000c QNBIP59c           DW USC GAL               Butane Mont Belvieu Non-LST M2M Financial Mo59
+MQN QNBIP6000000c QNBIP60c           DW USC GAL               Butane Mont Belvieu Non-LST M2M Financial Mo60
+MQN QNBRP0100000c QNBRP01c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo01
+MQN QNBRP0200000c QNBRP02c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo02
+MQN QNBRP0300000c QNBRP03c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo03
+MQN QNBRP0400000c QNBRP04c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo04
+MQN QNBRP0500000c QNBRP05c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo05
+MQN QNBRP0600000c QNBRP06c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo06
+MQN QNBRP0700000c QNBRP07c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo07
+MQN QNBRP0800000c QNBRP08c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo08
+MQN QNBRP0900000c QNBRP09c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo09
+MQN QNBRP1000000c QNBRP10c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo10
+MQN QNBRP1100000c QNBRP11c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo11
+MQN QNBRP1200000c QNBRP12c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo12
+MQN QNBRP1300000c QNBRP13c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo13
+MQN QNBRP1400000c QNBRP14c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo14
+MQN QNBRP1500000c QNBRP15c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo15
+MQN QNBRP1600000c QNBRP16c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo16
+MQN QNBRP1700000c QNBRP17c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo17
+MQN QNBRP1800000c QNBRP18c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo18
+MQN QNBRP1900000c QNBRP19c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo19
+MQN QNBRP2000000c QNBRP20c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo20
+MQN QNBRP2100000c QNBRP21c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo21
+MQN QNBRP2200000c QNBRP22c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo22
+MQN QNBRP2300000c QNBRP23c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo23
+MQN QNBRP2400000c QNBRP24c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo24
+MQN QNBRP2500000c QNBRP25c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo25
+MQN QNBRP2600000c QNBRP26c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo26
+MQN QNBRP2700000c QNBRP27c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo27
+MQN QNBRP2800000c QNBRP28c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo28
+MQN QNBRP2900000c QNBRP29c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo29
+MQN QNBRP3000000c QNBRP30c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo30
+MQN QNBRP3100000c QNBRP31c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo31
+MQN QNBRP3200000c QNBRP32c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo32
+MQN QNBRP3300000c QNBRP33c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo33
+MQN QNBRP3400000c QNBRP34c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo34
+MQN QNBRP3500000c QNBRP35c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo35
+MQN QNBRP3600000c QNBRP36c           DW USC GAL 151201 190118 Butane Mont Belvieu LST M2M Financial Mo36
+MQN QNBRP3700000c QNBRP37c           DW USC GAL               Butane Mont Belvieu LST M2M Financial Mo37
+MQN QNBRP3800000c QNBRP38c           DW USC GAL               Butane Mont Belvieu LST M2M Financial Mo38
+MQN QNBRP3900000c QNBRP39c           DW USC GAL               Butane Mont Belvieu LST M2M Financial Mo39
+MQN QNBRP4000000c QNBRP40c           DW USC GAL               Butane Mont Belvieu LST M2M Financial Mo40
+MQN QNBRP4100000c QNBRP41c           DW USC GAL               Butane Mont Belvieu LST M2M Financial Mo41
+MQN QNBRP4200000c QNBRP42c           DW USC GAL               Butane Mont Belvieu LST M2M Financial Mo42
+MQN QNBRP4300000c QNBRP43c           DW USC GAL               Butane Mont Belvieu LST M2M Financial Mo43
+MQN QNBRP4400000c QNBRP44c           DW USC GAL               Butane Mont Belvieu LST M2M Financial Mo44
+MQN QNBRP4500000c QNBRP45c           DW USC GAL               Butane Mont Belvieu LST M2M Financial Mo45
+MQN QNBRP4600000c QNBRP46c           DW USC GAL               Butane Mont Belvieu LST M2M Financial Mo46
+MQN QNBRP4700000c QNBRP47c           DW USC GAL               Butane Mont Belvieu LST M2M Financial Mo47
+MQN QNBRP4800000c QNBRP48c           DW USC GAL               Butane Mont Belvieu LST M2M Financial Mo48
+MQN QNBRP4900000c QNBRP49c           DW USC GAL               Butane Mont Belvieu LST M2M Financial Mo49
+MQN QNBRP5000000c QNBRP50c           DW USC GAL               Butane Mont Belvieu LST M2M Financial Mo50
+MQN QNBRP5100000c QNBRP51c           DW USC GAL               Butane Mont Belvieu LST M2M Financial Mo51
+MQN QNBRP5200000c QNBRP52c           DW USC GAL               Butane Mont Belvieu LST M2M Financial Mo52
+MQN QNBRP5300000c QNBRP53c           DW USC GAL               Butane Mont Belvieu LST M2M Financial Mo53
+MQN QNBRP5400000c QNBRP54c           DW USC GAL               Butane Mont Belvieu LST M2M Financial Mo54
+MQN QNBRP5500000c QNBRP55c           DW USC GAL               Butane Mont Belvieu LST M2M Financial Mo55
+MQN QNBRP5600000c QNBRP56c           DW USC GAL               Butane Mont Belvieu LST M2M Financial Mo56
+MQN QNBRP5800000c QNBRP58c           DW USC GAL               Butane Mont Belvieu LST M2M Financial Mo58
+MQN QNBRP5900000c QNBRP59c           DW USC GAL               Butane Mont Belvieu LST M2M Financial Mo59
+MQN QNBRP6000000c QNBRP60c           DW USC GAL               Butane Mont Belvieu LST M2M Financial Mo60
+MQN QNGCP0100000c QNGCP01c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo01
+MQN QNGCP0200000c QNGCP02c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo02
+MQN QNGCP0300000c QNGCP03c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo03
+MQN QNGCP0400000c QNGCP04c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo04
+MQN QNGCP0500000c QNGCP05c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo05
+MQN QNGCP0600000c QNGCP06c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo06
+MQN QNGCP0700000c QNGCP07c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo07
+MQN QNGCP0800000c QNGCP08c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo08
+MQN QNGCP0900000c QNGCP09c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo09
+MQN QNGCP1000000c QNGCP10c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo10
+MQN QNGCP1100000c QNGCP11c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo11
+MQN QNGCP1200000c QNGCP12c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo12
+MQN QNGCP1300000c QNGCP13c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo13
+MQN QNGCP1400000c QNGCP14c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo14
+MQN QNGCP1500000c QNGCP15c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo15
+MQN QNGCP1600000c QNGCP16c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo16
+MQN QNGCP1700000c QNGCP17c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo17
+MQN QNGCP1800000c QNGCP18c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo18
+MQN QNGCP1900000c QNGCP19c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo19
+MQN QNGCP2000000c QNGCP20c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo20
+MQN QNGCP2100000c QNGCP21c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo21
+MQN QNGCP2200000c QNGCP22c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo22
+MQN QNGCP2300000c QNGCP23c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo23
+MQN QNGCP2400000c QNGCP24c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo24
+MQN QNGCP2500000c QNGCP25c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo25
+MQN QNGCP2600000c QNGCP26c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo26
+MQN QNGCP2700000c QNGCP27c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo27
+MQN QNGCP2800000c QNGCP28c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo28
+MQN QNGCP2900000c QNGCP29c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo29
+MQN QNGCP3000000c QNGCP30c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo30
+MQN QNGCP3100000c QNGCP31c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo31
+MQN QNGCP3200000c QNGCP32c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo32
+MQN QNGCP3300000c QNGCP33c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo33
+MQN QNGCP3400000c QNGCP34c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo34
+MQN QNGCP3500000c QNGCP35c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo35
+MQN QNGCP3600000c QNGCP36c           DW USC GAL 160310 190118 Natural Gasoline Conway M2M Financial Mo36
+MQN QNGCP3700000c QNGCP37c           DW USC GAL               Natural Gasoline Conway M2M Financial Mo37
+MQN QNGCP3800000c QNGCP38c           DW USC GAL               Natural Gasoline Conway M2M Financial Mo38
+MQN QNGCP3900000c QNGCP39c           DW USC GAL               Natural Gasoline Conway M2M Financial Mo39
+MQN QNGCP4000000c QNGCP40c           DW USC GAL               Natural Gasoline Conway M2M Financial Mo40
+MQN QNGCP4100000c QNGCP41c           DW USC GAL               Natural Gasoline Conway M2M Financial Mo41
+MQN QNGCP4200000c QNGCP42c           DW USC GAL               Natural Gasoline Conway M2M Financial Mo42
+MQN QNGCP4300000c QNGCP43c           DW USC GAL               Natural Gasoline Conway M2M Financial Mo43
+MQN QNGCP4400000c QNGCP44c           DW USC GAL               Natural Gasoline Conway M2M Financial Mo44
+MQN QNGCP4500000c QNGCP45c           DW USC GAL               Natural Gasoline Conway M2M Financial Mo45
+MQN QNGCP4600000c QNGCP46c           DW USC GAL               Natural Gasoline Conway M2M Financial Mo46
+MQN QNBRP5700000c QNBRP57c           DW USC GAL               Butane Mont Belvieu LST M2M Financial Mo57
+MQN QNGCP4700000c QNGCP47c           DW USC GAL               Natural Gasoline Conway M2M Financial Mo47
+MQN QNGCP4800000c QNGCP48c           DW USC GAL               Natural Gasoline Conway M2M Financial Mo48
+MQN QNGCP4900000c QNGCP49c           DW USC GAL               Natural Gasoline Conway M2M Financial Mo49
+MQN QNGCP5000000c QNGCP50c           DW USC GAL               Natural Gasoline Conway M2M Financial Mo50
+MQN QNGCP5100000c QNGCP51c           DW USC GAL               Natural Gasoline Conway M2M Financial Mo51
+MQN QNGCP5200000c QNGCP52c           DW USC GAL               Natural Gasoline Conway M2M Financial Mo52
+MQN QNGCP5300000c QNGCP53c           DW USC GAL               Natural Gasoline Conway M2M Financial Mo53
+MQN QNGCP5400000c QNGCP54c           DW USC GAL               Natural Gasoline Conway M2M Financial Mo54
+MQN QNGCP5500000c QNGCP55c           DW USC GAL               Natural Gasoline Conway M2M Financial Mo55
+MQN QNGCP5600000c QNGCP56c           DW USC GAL               Natural Gasoline Conway M2M Financial Mo56
+MQN QNGCP5700000c QNGCP57c           DW USC GAL               Natural Gasoline Conway M2M Financial Mo57
+MQN QNGCP5800000c QNGCP58c           DW USC GAL               Natural Gasoline Conway M2M Financial Mo58
+MQN QNGCP5900000c QNGCP59c           DW USC GAL               Natural Gasoline Conway M2M Financial Mo59
+MQN QNGCP6000000c QNGCP60c           DW USC GAL               Natural Gasoline Conway M2M Financial Mo60
+MQN QNGEP0100000c QNGEP01c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo01
+MQN QNGEP0200000c QNGEP02c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo02
+MQN QNGEP0300000c QNGEP03c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo03
+MQN QNGEP0400000c QNGEP04c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo04
+MQN QNGEP0500000c QNGEP05c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo05
+MQN QNGEP0600000c QNGEP06c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo06
+MQN QNGEP0700000c QNGEP07c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo07
+MQN QNGEP0800000c QNGEP08c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo08
+MQN QNGEP0900000c QNGEP09c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo09
+MQN QNGEP1000000c QNGEP10c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo10
+MQN QNGEP1100000c QNGEP11c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo11
+MQN QNGEP1200000c QNGEP12c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo12
+MQN QNGEP1300000c QNGEP13c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo13
+MQN QNGEP1400000c QNGEP14c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo14
+MQN QNGEP1500000c QNGEP15c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo15
+MQN QNGEP1600000c QNGEP16c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo16
+MQN QNGEP1700000c QNGEP17c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo17
+MQN QNGEP1800000c QNGEP18c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo18
+MQN QNGEP1900000c QNGEP19c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo19
+MQN QNGEP2000000c QNGEP20c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo20
+MQN QNGEP2100000c QNGEP21c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo21
+MQN QNGEP2200000c QNGEP22c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo22
+MQN QNGEP2300000c QNGEP23c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo23
+MQN QNGEP2400000c QNGEP24c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo24
+MQN QNGEP2500000c QNGEP25c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo25
+MQN QNGEP2600000c QNGEP26c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo26
+MQN QNGEP2700000c QNGEP27c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo27
+MQN QNGEP2800000c QNGEP28c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo28
+MQN QNGEP2900000c QNGEP29c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo29
+MQN QNGEP3000000c QNGEP30c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo30
+MQN QNGEP3100000c QNGEP31c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo31
+MQN QNGEP3200000c QNGEP32c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo32
+MQN QNGEP3300000c QNGEP33c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo33
+MQN QNGEP3400000c QNGEP34c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo34
+MQN QNGEP3500000c QNGEP35c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo35
+MQN QNGEP3600000c QNGEP36c           DW USC GAL 151123 190118 Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo36
+MQN QNGEP3700000c QNGEP37c           DW USC GAL               Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo37
+MQN QNGEP3800000c QNGEP38c           DW USC GAL               Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo38
+MQN QNGEP3900000c QNGEP39c           DW USC GAL               Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo39
+MQN QNGEP4000000c QNGEP40c           DW USC GAL               Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo40
+MQN QNGEP4100000c QNGEP41c           DW USC GAL               Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo41
+MQN QNGEP4200000c QNGEP42c           DW USC GAL               Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo42
+MQN QNGEP4300000c QNGEP43c           DW USC GAL               Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo43
+MQN QNGEP4400000c QNGEP44c           DW USC GAL               Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo44
+MQN QNGEP4500000c QNGEP45c           DW USC GAL               Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo45
+MQN QNGEP4600000c QNGEP46c           DW USC GAL               Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo46
+MQN QNGEP4700000c QNGEP47c           DW USC GAL               Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo47
+MQN QNGEP4800000c QNGEP48c           DW USC GAL               Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo48
+MQN QNGEP4900000c QNGEP49c           DW USC GAL               Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo49
+MQN QNGEP5000000c QNGEP50c           DW USC GAL               Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo50
+MQN QNGEP5100000c QNGEP51c           DW USC GAL               Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo51
+MQN QNGEP5200000c QNGEP52c           DW USC GAL               Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo52
+MQN QNGEP5300000c QNGEP53c           DW USC GAL               Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo53
+MQN QNGEP5400000c QNGEP54c           DW USC GAL               Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo54
+MQN QNGEP5500000c QNGEP55c           DW USC GAL               Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo55
+MQN QNGEP5600000c QNGEP56c           DW USC GAL               Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo56
+MQN QNGEP5700000c QNGEP57c           DW USC GAL               Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo57
+MQN QNGEP5800000c QNGEP58c           DW USC GAL               Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo58
+MQN QNGEP5900000c QNGEP59c           DW USC GAL               Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo59
+MQN QNGEP6000000c QNGEP60c           DW USC GAL               Natural Gasoline Non-LST Mont Belvieu M2M Financial Mo60
+MQN QNGLP0100000c QNGLP01c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo01
+MQN QNGLP0200000c QNGLP02c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo02
+MQN QNGLP0300000c QNGLP03c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo03
+MQN QNGLP0400000c QNGLP04c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo04
+MQN QNGLP0500000c QNGLP05c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo05
+MQN QNGLP0600000c QNGLP06c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo06
+MQN QNGLP0700000c QNGLP07c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo07
+MQN QNGLP0800000c QNGLP08c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo08
+MQN QNGLP0900000c QNGLP09c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo09
+MQN QNGLP1000000c QNGLP10c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo10
+MQN QNGLP1100000c QNGLP11c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo11
+MQN QNGLP1200000c QNGLP12c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo12
+MQN QNGLP1300000c QNGLP13c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo13
+MQN QNGLP1400000c QNGLP14c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo14
+MQN QNGLP1500000c QNGLP15c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo15
+MQN QNGLP1600000c QNGLP16c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo16
+MQN QNGLP1700000c QNGLP17c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo17
+MQN QNGLP1800000c QNGLP18c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo18
+MQN QNGLP1900000c QNGLP19c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo19
+MQN QNGLP2000000c QNGLP20c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo20
+MQN QNGLP2100000c QNGLP21c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo21
+MQN QNGLP2200000c QNGLP22c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo22
+MQN QNGLP2300000c QNGLP23c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo23
+MQN QNGLP2400000c QNGLP24c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo24
+MQN QNGLP2500000c QNGLP25c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo25
+MQN QNGLP2600000c QNGLP26c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo26
+MQN QNGLP2700000c QNGLP27c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo27
+MQN QNGLP2800000c QNGLP28c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo28
+MQN QNGLP2900000c QNGLP29c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo29
+MQN QNGLP3000000c QNGLP30c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo30
+MQN QECBP0100000c QECBP01c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo01
+MQN QECBP0200000c QECBP02c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo02
+MQN QECBP0300000c QECBP03c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo03
+MQN QECBP0400000c QECBP04c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo04
+MQN QECBP0500000c QECBP05c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo05
+MQN QECBP0600000c QECBP06c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo06
+MQN QECBP0700000c QECBP07c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo07
+MQN QECBP0800000c QECBP08c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo08
+MQN QECBP0900000c QECBP09c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo09
+MQN QECBP1000000c QECBP10c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo10
+MQN QECBP1100000c QECBP11c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo11
+MQN QECBP1200000c QECBP12c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo12
+MQN QECBP1300000c QECBP13c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo13
+MQN QECBP1400000c QECBP14c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo14
+MQN QECBP1500000c QECBP15c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo15
+MQN QECBP1600000c QECBP16c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo16
+MQN QECBP1700000c QECBP17c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo17
+MQN QECBP1800000c QECBP18c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo18
+MQN QECBP1900000c QECBP19c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo19
+MQN QECBP2000000c QECBP20c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo20
+MQN QECBP2100000c QECBP21c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo21
+MQN QNGLP3100000c QNGLP31c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo31
+MQN QNGLP3200000c QNGLP32c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo32
+MQN QNGLP3300000c QNGLP33c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo33
+MQN QNGLP3400000c QNGLP34c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo34
+MQN QNGLP3500000c QNGLP35c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo35
+MQN QNGLP3600000c QNGLP36c           DW USC GAL 151201 190118 Natural Gasoline Mont Belvieu LST M2M Financial Mo36
+MQN QNGLP3700000c QNGLP37c           DW USC GAL               Natural Gasoline Mont Belvieu LST M2M Financial Mo37
+MQN QNGLP3800000c QNGLP38c           DW USC GAL               Natural Gasoline Mont Belvieu LST M2M Financial Mo38
+MQN QNGLP3900000c QNGLP39c           DW USC GAL               Natural Gasoline Mont Belvieu LST M2M Financial Mo39
+MQN QNGLP4000000c QNGLP40c           DW USC GAL               Natural Gasoline Mont Belvieu LST M2M Financial Mo40
+MQN QNGLP4100000c QNGLP41c           DW USC GAL               Natural Gasoline Mont Belvieu LST M2M Financial Mo41
+MQN QNGLP4200000c QNGLP42c           DW USC GAL               Natural Gasoline Mont Belvieu LST M2M Financial Mo42
+MQN QNGLP4300000c QNGLP43c           DW USC GAL               Natural Gasoline Mont Belvieu LST M2M Financial Mo43
+MQN QNGLP4400000c QNGLP44c           DW USC GAL               Natural Gasoline Mont Belvieu LST M2M Financial Mo44
+MQN QNGLP4500000c QNGLP45c           DW USC GAL               Natural Gasoline Mont Belvieu LST M2M Financial Mo45
+MQN QNGLP4600000c QNGLP46c           DW USC GAL               Natural Gasoline Mont Belvieu LST M2M Financial Mo46
+MQN QNGLP4700000c QNGLP47c           DW USC GAL               Natural Gasoline Mont Belvieu LST M2M Financial Mo47
+MQN QNGLP4800000c QNGLP48c           DW USC GAL               Natural Gasoline Mont Belvieu LST M2M Financial Mo48
+MQN QNGLP4900000c QNGLP49c           DW USC GAL               Natural Gasoline Mont Belvieu LST M2M Financial Mo49
+MQN QNGLP5000000c QNGLP50c           DW USC GAL               Natural Gasoline Mont Belvieu LST M2M Financial Mo50
+MQN QNGLP5100000c QNGLP51c           DW USC GAL               Natural Gasoline Mont Belvieu LST M2M Financial Mo51
+MQN QNGLP5200000c QNGLP52c           DW USC GAL               Natural Gasoline Mont Belvieu LST M2M Financial Mo52
+MQN QNGLP5300000c QNGLP53c           DW USC GAL               Natural Gasoline Mont Belvieu LST M2M Financial Mo53
+MQN QNGLP5400000c QNGLP54c           DW USC GAL               Natural Gasoline Mont Belvieu LST M2M Financial Mo54
+MQN QNGLP5500000c QNGLP55c           DW USC GAL               Natural Gasoline Mont Belvieu LST M2M Financial Mo55
+MQN QNGLP5600000c QNGLP56c           DW USC GAL               Natural Gasoline Mont Belvieu LST M2M Financial Mo56
+MQN QNGLP5700000c QNGLP57c           DW USC GAL               Natural Gasoline Mont Belvieu LST M2M Financial Mo57
+MQN QNGLP5800000c QNGLP58c           DW USC GAL               Natural Gasoline Mont Belvieu LST M2M Financial Mo58
+MQN QNGLP5900000c QNGLP59c           DW USC GAL               Natural Gasoline Mont Belvieu LST M2M Financial Mo59
+MQN QNGLP6000000c QNGLP60c           DW USC GAL               Natural Gasoline Mont Belvieu LST M2M Financial Mo60
+MQN QECBP2300000c QECBP23c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo23
+MQN QECBP2400000c QECBP24c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo24
+MQN QECBP2500000c QECBP25c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo25
+MQN QECBP2600000c QECBP26c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo26
+MQN QECBP2700000c QECBP27c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo27
+MQN QECBP2800000c QECBP28c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo28
+MQN QECBP2900000c QECBP29c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo29
+MQN QECBP3000000c QECBP30c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo30
+MQN QECBP3100000c QECBP31c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo31
+MQN QECBP3200000c QECBP32c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo32
+MQN QECBP3300000c QECBP33c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo33
+MQN QECBP3400000c QECBP34c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo34
+MQN QECBP3500000c QECBP35c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo35
+MQN QECBP3600000c QECBP36c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo36
+MQN QECBP3700000c QECBP37c           DW USC GAL               E/P Mix Mont Belvieu Non-LST M2M Financial Mo37
+MQN QECBP3800000c QECBP38c           DW USC GAL               E/P Mix Mont Belvieu Non-LST M2M Financial Mo38
+MQN QECBP3900000c QECBP39c           DW USC GAL               E/P Mix Mont Belvieu Non-LST M2M Financial Mo39
+MQN QECBP4000000c QECBP40c           DW USC GAL               E/P Mix Mont Belvieu Non-LST M2M Financial Mo40
+MQN QECBP4100000c QECBP41c           DW USC GAL               E/P Mix Mont Belvieu Non-LST M2M Financial Mo41
+MQN QECBP4200000c QECBP42c           DW USC GAL               E/P Mix Mont Belvieu Non-LST M2M Financial Mo42
+MQN QECBP4300000c QECBP43c           DW USC GAL               E/P Mix Mont Belvieu Non-LST M2M Financial Mo43
+MQN QECBP4400000c QECBP44c           DW USC GAL               E/P Mix Mont Belvieu Non-LST M2M Financial Mo44
+MQN QECBP4500000c QECBP45c           DW USC GAL               E/P Mix Mont Belvieu Non-LST M2M Financial Mo45
+MQN QECBP4600000c QECBP46c           DW USC GAL               E/P Mix Mont Belvieu Non-LST M2M Financial Mo46
+MQN QECBP4700000c QECBP47c           DW USC GAL               E/P Mix Mont Belvieu Non-LST M2M Financial Mo47
+MQN QECBP4800000c QECBP48c           DW USC GAL               E/P Mix Mont Belvieu Non-LST M2M Financial Mo48
+MQN QECBP4900000c QECBP49c           DW USC GAL               E/P Mix Mont Belvieu Non-LST M2M Financial Mo49
+MQN QECBP5000000c QECBP50c           DW USC GAL               E/P Mix Mont Belvieu Non-LST M2M Financial Mo50
+MQN QECBP5100000c QECBP51c           DW USC GAL               E/P Mix Mont Belvieu Non-LST M2M Financial Mo51
+MQN QECBP5200000c QECBP52c           DW USC GAL               E/P Mix Mont Belvieu Non-LST M2M Financial Mo52
+MQN QECBP5300000c QECBP53c           DW USC GAL               E/P Mix Mont Belvieu Non-LST M2M Financial Mo53
+MQN QECBP5400000c QECBP54c           DW USC GAL               E/P Mix Mont Belvieu Non-LST M2M Financial Mo54
+MQN QECBP5500000c QECBP55c           DW USC GAL               E/P Mix Mont Belvieu Non-LST M2M Financial Mo55
+MQN QECBP5600000c QECBP56c           DW USC GAL               E/P Mix Mont Belvieu Non-LST M2M Financial Mo56
+MQN QECBP5700000c QECBP57c           DW USC GAL               E/P Mix Mont Belvieu Non-LST M2M Financial Mo57
+MQN QECBP5800000c QECBP58c           DW USC GAL               E/P Mix Mont Belvieu Non-LST M2M Financial Mo58
+MQN QECBP5900000c QECBP59c           DW USC GAL               E/P Mix Mont Belvieu Non-LST M2M Financial Mo59
+MQN QECBP6000000c QECBP60c           DW USC GAL               E/P Mix Mont Belvieu Non-LST M2M Financial Mo60
+MQN QECCP0100000c QECCP01c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo01
+MQN QECCP0200000c QECCP02c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo02
+MQN QECCP0300000c QECCP03c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo03
+MQN QECCP0400000c QECCP04c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo04
+MQN QECCP0500000c QECCP05c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo05
+MQN QECCP0600000c QECCP06c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo06
+MQN QECCP0700000c QECCP07c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo07
+MQN QECBP2200000c QECBP22c           DW USC GAL 151201 190118 E/P Mix Mont Belvieu Non-LST M2M Financial Mo22
+MQN QECCP0800000c QECCP08c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo08
+MQN QECCP0900000c QECCP09c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo09
+MQN QECCP1000000c QECCP10c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo10
+MQN QECCP1100000c QECCP11c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo11
+MQN QECCP1200000c QECCP12c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo12
+MQN QECCP1300000c QECCP13c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo13
+MQN QECCP1400000c QECCP14c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo14
+MQN QECCP1500000c QECCP15c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo15
+MQN QECCP1600000c QECCP16c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo16
+MQN QECCP1700000c QECCP17c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo17
+MQN QECCP1800000c QECCP18c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo18
+MQN QECCP1900000c QECCP19c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo19
+MQN QECCP2000000c QECCP20c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo20
+MQN QECCP2100000c QECCP21c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo21
+MQN QECCP2200000c QECCP22c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo22
+MQN QECCP2300000c QECCP23c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo23
+MQN QECCP2400000c QECCP24c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo24
+MQN QECCP2500000c QECCP25c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo25
+MQN QECCP2600000c QECCP26c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo26
+MQN QECCP2700000c QECCP27c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo27
+MQN QECCP2800000c QECCP28c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo28
+MQN QECCP2900000c QECCP29c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo29
+MQN QECCP3000000c QECCP30c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo30
+MQN QECCP3100000c QECCP31c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo31
+MQN QECCP3200000c QECCP32c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo32
+MQN QECCP3300000c QECCP33c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo33
+MQN QECCP3400000c QECCP34c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo34
+MQN QECCP3500000c QECCP35c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo35
+MQN QECCP3600000c QECCP36c           DW USC GAL 151201 190118 E/P Mix Conway M2M Financial Mo36
+MQN QECCP3700000c QECCP37c           DW USC GAL               E/P Mix Conway M2M Financial Mo37
+MQN QECCP3800000c QECCP38c           DW USC GAL               E/P Mix Conway M2M Financial Mo38
+MQN QECCP3900000c QECCP39c           DW USC GAL               E/P Mix Conway M2M Financial Mo39
+MQN QECCP4000000c QECCP40c           DW USC GAL               E/P Mix Conway M2M Financial Mo40
+MQN QECCP4100000c QECCP41c           DW USC GAL               E/P Mix Conway M2M Financial Mo41
+MQN QECCP4200000c QECCP42c           DW USC GAL               E/P Mix Conway M2M Financial Mo42
+MQN QECCP4300000c QECCP43c           DW USC GAL               E/P Mix Conway M2M Financial Mo43
+MQN QECCP4400000c QECCP44c           DW USC GAL               E/P Mix Conway M2M Financial Mo44
+MQN QECCP4500000c QECCP45c           DW USC GAL               E/P Mix Conway M2M Financial Mo45
+MQN QECCP4600000c QECCP46c           DW USC GAL               E/P Mix Conway M2M Financial Mo46
+MQN QECCP4700000c QECCP47c           DW USC GAL               E/P Mix Conway M2M Financial Mo47
+MQN QECCP4800000c QECCP48c           DW USC GAL               E/P Mix Conway M2M Financial Mo48
+MQN QECCP4900000c QECCP49c           DW USC GAL               E/P Mix Conway M2M Financial Mo49
+MQN QECCP5000000c QECCP50c           DW USC GAL               E/P Mix Conway M2M Financial Mo50
+MQN QECCP5100000c QECCP51c           DW USC GAL               E/P Mix Conway M2M Financial Mo51
+MQN QECCP5200000c QECCP52c           DW USC GAL               E/P Mix Conway M2M Financial Mo52
+MQN QECCP5300000c QECCP53c           DW USC GAL               E/P Mix Conway M2M Financial Mo53
+MQN QECCP5400000c QECCP54c           DW USC GAL               E/P Mix Conway M2M Financial Mo54
+MQN QECCP5500000c QECCP55c           DW USC GAL               E/P Mix Conway M2M Financial Mo55
+MQN QECCP5600000c QECCP56c           DW USC GAL               E/P Mix Conway M2M Financial Mo56
+MQN QECCP5700000c QECCP57c           DW USC GAL               E/P Mix Conway M2M Financial Mo57
+MQN QECCP5800000c QECCP58c           DW USC GAL               E/P Mix Conway M2M Financial Mo58
+MQN QECCP5900000c QECCP59c           DW USC GAL               E/P Mix Conway M2M Financial Mo59
+MQN QECCP6000000c QECCP60c           DW USC GAL               E/P Mix Conway M2M Financial Mo60
+MQN QPRCP0100000c QPRCP01c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo01
+MQN QPRCP0200000c QPRCP02c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo02
+MQN QPRCP0300000c QPRCP03c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo03
+MQN QPRCP0400000c QPRCP04c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo04
+MQN QPRCP0500000c QPRCP05c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo05
+MQN QPRCP0600000c QPRCP06c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo06
+MQN QPRCP0700000c QPRCP07c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo07
+MQN QPRCP0800000c QPRCP08c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo08
+MQN QPRCP0900000c QPRCP09c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo09
+MQN QPRCP1000000c QPRCP10c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo10
+MQN QPRCP1100000c QPRCP11c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo11
+MQN QPRCP1200000c QPRCP12c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo12
+MQN QPRCP1300000c QPRCP13c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo13
+MQN QPRCP1400000c QPRCP14c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo14
+MQN QPRCP1500000c QPRCP15c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo15
+MQN QPRCP1600000c QPRCP16c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo16
+MQN QPRCP1700000c QPRCP17c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo17
+MQN QPRCP1800000c QPRCP18c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo18
+MQN QPRCP1900000c QPRCP19c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo19
+MQN QPRCP2000000c QPRCP20c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo20
+MQN QPRCP2100000c QPRCP21c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo21
+MQN QPRCP2200000c QPRCP22c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo22
+MQN QPRCP2300000c QPRCP23c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo23
+MQN QPRCP2400000c QPRCP24c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo24
+MQN QPRCP2500000c QPRCP25c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo25
+MQN QPRCP2600000c QPRCP26c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo26
+MQN QPRCP2700000c QPRCP27c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo27
+MQN QPRCP2800000c QPRCP28c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo28
+MQN QPRCP2900000c QPRCP29c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo29
+MQN QPRCP3000000c QPRCP30c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo30
+MQN QPRCP3100000c QPRCP31c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo31
+MQN QPRCP3200000c QPRCP32c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo32
+MQN QPRCP3300000c QPRCP33c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo33
+MQN QPRCP3400000c QPRCP34c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo34
+MQN QPRCP3500000c QPRCP35c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo35
+MQN QPRCP3600000c QPRCP36c           DW USC GAL 151201 190118 Propane Conway M2M Financial Mo36
+MQN QPRCP3700000c QPRCP37c           DW USC GAL               Propane Conway M2M Financial Mo37
+MQN QPRCP3800000c QPRCP38c           DW USC GAL               Propane Conway M2M Financial Mo38
+MQN QPRCP3900000c QPRCP39c           DW USC GAL               Propane Conway M2M Financial Mo39
+MQN QPRCP4000000c QPRCP40c           DW USC GAL               Propane Conway M2M Financial Mo40
+MQN QPRCP4100000c QPRCP41c           DW USC GAL               Propane Conway M2M Financial Mo41
+MQN QPRCP4200000c QPRCP42c           DW USC GAL               Propane Conway M2M Financial Mo42
+MQN QPRCP4300000c QPRCP43c           DW USC GAL               Propane Conway M2M Financial Mo43
+MQN QPRCP4400000c QPRCP44c           DW USC GAL               Propane Conway M2M Financial Mo44
+MQN QPRCP4500000c QPRCP45c           DW USC GAL               Propane Conway M2M Financial Mo45
+MQN QPRCP4600000c QPRCP46c           DW USC GAL               Propane Conway M2M Financial Mo46
+MQN QPRCP4700000c QPRCP47c           DW USC GAL               Propane Conway M2M Financial Mo47
+MQN QPRCP4800000c QPRCP48c           DW USC GAL               Propane Conway M2M Financial Mo48
+MQN QPRCP4900000c QPRCP49c           DW USC GAL               Propane Conway M2M Financial Mo49
+MQN QPRCP5000000c QPRCP50c           DW USC GAL               Propane Conway M2M Financial Mo50
+MQN QPRCP5100000c QPRCP51c           DW USC GAL               Propane Conway M2M Financial Mo51
+MQN QPRCP5200000c QPRCP52c           DW USC GAL               Propane Conway M2M Financial Mo52
+MQN QPRCP5300000c QPRCP53c           DW USC GAL               Propane Conway M2M Financial Mo53
+MQN QPRCP5400000c QPRCP54c           DW USC GAL               Propane Conway M2M Financial Mo54
+MQN QPRCP5500000c QPRCP55c           DW USC GAL               Propane Conway M2M Financial Mo55
+MQN QPRCP5600000c QPRCP56c           DW USC GAL               Propane Conway M2M Financial Mo56
+MQN QPRCP5700000c QPRCP57c           DW USC GAL               Propane Conway M2M Financial Mo57
+MQN QPRCP5800000c QPRCP58c           DW USC GAL               Propane Conway M2M Financial Mo58
+MQN QPRCP5900000c QPRCP59c           DW USC GAL               Propane Conway M2M Financial Mo59
+MQN QPRCP6000000c QPRCP60c           DW USC GAL               Propane Conway M2M Financial Mo60
+MQN QPRLP0100000c QPRLP01c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo01
+MQN QPRLP0200000c QPRLP02c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo02
+MQN QPRLP0300000c QPRLP03c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo03
+MQN QPRLP0400000c QPRLP04c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo04
+MQN QPRLP0500000c QPRLP05c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo05
+MQN QPRLP0600000c QPRLP06c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo06
+MQN QPRLP0700000c QPRLP07c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo07
+MQN QPRLP0800000c QPRLP08c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo08
+MQN QPRLP0900000c QPRLP09c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo09
+MQN QPRLP1000000c QPRLP10c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo10
+MQN QPRLP1100000c QPRLP11c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo11
+MQN QPRLP1200000c QPRLP12c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo12
+MQN QPRLP1300000c QPRLP13c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo13
+MQN QPRLP1400000c QPRLP14c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo14
+MQN QPRLP1500000c QPRLP15c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo15
+MQN QPRLP1600000c QPRLP16c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo16
+MQN QPRLP1700000c QPRLP17c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo17
+MQN QPRLP1800000c QPRLP18c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo18
+MQN QPRLP1900000c QPRLP19c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo19
+MQN QPRLP2000000c QPRLP20c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo20
+MQN QPRLP2100000c QPRLP21c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo21
+MQN QPRLP2200000c QPRLP22c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo22
+MQN QPRLP2300000c QPRLP23c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo23
+MQN QPRLP2400000c QPRLP24c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo24
+MQN QPRLP2500000c QPRLP25c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo25
+MQN QPRLP2600000c QPRLP26c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo26
+MQN QPRLP2700000c QPRLP27c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo27
+MQN QPRLP2800000c QPRLP28c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo28
+MQN QPRLP2900000c QPRLP29c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo29
+MQN QPRLP3000000c QPRLP30c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo30
+MQN QPRLP3100000c QPRLP31c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo31
+MQN QPRLP3200000c QPRLP32c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo32
+MQN QPRLP3300000c QPRLP33c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo33
+MQN QPRLP3400000c QPRLP34c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo34
+MQN QPRLP3500000c QPRLP35c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo35
+MQN QPRLP3600000c QPRLP36c           DW USC GAL 151201 190118 Propane Mont Belvieu LST M2M Financial Mo36
+MQN QETEP0100000c QETEP01c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo01
+MQN QETEP0200000c QETEP02c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo02
+MQN QETEP0300000c QETEP03c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo03
+MQN QETEP0400000c QETEP04c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo04
+MQN QETEP0500000c QETEP05c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo05
+MQN QETEP0600000c QETEP06c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo06
+MQN QPRLP3700000c QPRLP37c           DW USC GAL               Propane Mont Belvieu LST M2M Financial Mo37
+MQN QPRLP3800000c QPRLP38c           DW USC GAL               Propane Mont Belvieu LST M2M Financial Mo38
+MQN QPRLP3900000c QPRLP39c           DW USC GAL               Propane Mont Belvieu LST M2M Financial Mo39
+MQN QPRLP4000000c QPRLP40c           DW USC GAL               Propane Mont Belvieu LST M2M Financial Mo40
+MQN QPRLP4100000c QPRLP41c           DW USC GAL               Propane Mont Belvieu LST M2M Financial Mo41
+MQN QPRLP4200000c QPRLP42c           DW USC GAL               Propane Mont Belvieu LST M2M Financial Mo42
+MQN QPRLP4300000c QPRLP43c           DW USC GAL               Propane Mont Belvieu LST M2M Financial Mo43
+MQN QPRLP4400000c QPRLP44c           DW USC GAL               Propane Mont Belvieu LST M2M Financial Mo44
+MQN QPRLP4500000c QPRLP45c           DW USC GAL               Propane Mont Belvieu LST M2M Financial Mo45
+MQN QPRLP4600000c QPRLP46c           DW USC GAL               Propane Mont Belvieu LST M2M Financial Mo46
+MQN QPRLP4700000c QPRLP47c           DW USC GAL               Propane Mont Belvieu LST M2M Financial Mo47
+MQN QPRLP4800000c QPRLP48c           DW USC GAL               Propane Mont Belvieu LST M2M Financial Mo48
+MQN QPRLP4900000c QPRLP49c           DW USC GAL               Propane Mont Belvieu LST M2M Financial Mo49
+MQN QPRLP5000000c QPRLP50c           DW USC GAL               Propane Mont Belvieu LST M2M Financial Mo50
+MQN QPRLP5100000c QPRLP51c           DW USC GAL               Propane Mont Belvieu LST M2M Financial Mo51
+MQN QPRLP5200000c QPRLP52c           DW USC GAL               Propane Mont Belvieu LST M2M Financial Mo52
+MQN QPRLP5300000c QPRLP53c           DW USC GAL               Propane Mont Belvieu LST M2M Financial Mo53
+MQN QPRLP5400000c QPRLP54c           DW USC GAL               Propane Mont Belvieu LST M2M Financial Mo54
+MQN QPRLP5500000c QPRLP55c           DW USC GAL               Propane Mont Belvieu LST M2M Financial Mo55
+MQN QPRLP5600000c QPRLP56c           DW USC GAL               Propane Mont Belvieu LST M2M Financial Mo56
+MQN QPRLP5700000c QPRLP57c           DW USC GAL               Propane Mont Belvieu LST M2M Financial Mo57
+MQN QPRLP5800000c QPRLP58c           DW USC GAL               Propane Mont Belvieu LST M2M Financial Mo58
+MQN QPRLP5900000c QPRLP59c           DW USC GAL               Propane Mont Belvieu LST M2M Financial Mo59
+MQN QPRLP6000000c QPRLP60c           DW USC GAL               Propane Mont Belvieu LST M2M Financial Mo60
+MQN QPRNP0100000c QPRNP01c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo01
+MQN QPRNP0200000c QPRNP02c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo02
+MQN QPRNP0300000c QPRNP03c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo03
+MQN QPRNP0400000c QPRNP04c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo04
+MQN QPRNP0500000c QPRNP05c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo05
+MQN QPRNP0600000c QPRNP06c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo06
+MQN QPRNP0700000c QPRNP07c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo07
+MQN QPRNP0800000c QPRNP08c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo08
+MQN QPRNP0900000c QPRNP09c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo09
+MQN QPRNP1000000c QPRNP10c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo10
+MQN QPRNP1100000c QPRNP11c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo11
+MQN QPRNP1200000c QPRNP12c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo12
+MQN QPRNP1300000c QPRNP13c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo13
+MQN QPRNP1400000c QPRNP14c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo14
+MQN QPRNP1500000c QPRNP15c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo15
+MQN QPRNP1600000c QPRNP16c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo16
+MQN QPRNP1700000c QPRNP17c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo17
+MQN QPRNP1800000c QPRNP18c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo18
+MQN QPRNP1900000c QPRNP19c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo19
+MQN QPRNP2000000c QPRNP20c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo20
+MQN QPRNP2100000c QPRNP21c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo21
+MQN QPRNP2200000c QPRNP22c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo22
+MQN QPRNP2300000c QPRNP23c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo23
+MQN QPRNP2400000c QPRNP24c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo24
+MQN QPRNP2500000c QPRNP25c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo25
+MQN QPRNP2600000c QPRNP26c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo26
+MQN QPRNP2700000c QPRNP27c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo27
+MQN QPRNP2800000c QPRNP28c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo28
+MQN QPRNP2900000c QPRNP29c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo29
+MQN QPRNP3000000c QPRNP30c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo30
+MQN QETEP0700000c QETEP07c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo07
+MQN QETEP0800000c QETEP08c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo08
+MQN QETEP0900000c QETEP09c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo09
+MQN QETEP1000000c QETEP10c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo10
+MQN QETEP1100000c QETEP11c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo11
+MQN QETEP1200000c QETEP12c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo12
+MQN QETEP1300000c QETEP13c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo13
+MQN QETEP1400000c QETEP14c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo14
+MQN QETEP1500000c QETEP15c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo15
+MQN QETEP1600000c QETEP16c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo16
+MQN QETEP1700000c QETEP17c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo17
+MQN QETEP1800000c QETEP18c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo18
+MQN QETEP1900000c QETEP19c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo19
+MQN QETEP2000000c QETEP20c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo20
+MQN QETEP2100000c QETEP21c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo21
+MQN QETEP2200000c QETEP22c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo22
+MQN QETEP2300000c QETEP23c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo23
+MQN QETEP2400000c QETEP24c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo24
+MQN QETEP2500000c QETEP25c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo25
+MQN QETEP2600000c QETEP26c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo26
+MQN QETEP2700000c QETEP27c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo27
+MQN QETEP2800000c QETEP28c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo28
+MQN QETEP2900000c QETEP29c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo29
+MQN QETEP3000000c QETEP30c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo30
+MQN QETEP3100000c QETEP31c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo31
+MQN QETEP3200000c QETEP32c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo32
+MQN QETEP3300000c QETEP33c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo33
+MQN QETEP3400000c QETEP34c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo34
+MQN QETEP3500000c QETEP35c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo35
+MQN QETEP3600000c QETEP36c           DW USC GAL 151123 190118 Ethane Mont Belvieu Non-LST M2M Financial Mo36
+MQN QETEP3700000c QETEP37c           DW USC GAL               Ethane Mont Belvieu Non-LST M2M Financial Mo37
+MQN QETEP3800000c QETEP38c           DW USC GAL               Ethane Mont Belvieu Non-LST M2M Financial Mo38
+MQN QETEP3900000c QETEP39c           DW USC GAL               Ethane Mont Belvieu Non-LST M2M Financial Mo39
+MQN QETEP4000000c QETEP40c           DW USC GAL               Ethane Mont Belvieu Non-LST M2M Financial Mo40
+MQN QETEP4100000c QETEP41c           DW USC GAL               Ethane Mont Belvieu Non-LST M2M Financial Mo41
+MQN QETEP4200000c QETEP42c           DW USC GAL               Ethane Mont Belvieu Non-LST M2M Financial Mo42
+MQN QETEP4300000c QETEP43c           DW USC GAL               Ethane Mont Belvieu Non-LST M2M Financial Mo43
+MQN QETEP4400000c QETEP44c           DW USC GAL               Ethane Mont Belvieu Non-LST M2M Financial Mo44
+MQN QETEP4500000c QETEP45c           DW USC GAL               Ethane Mont Belvieu Non-LST M2M Financial Mo45
+MQN QETEP4600000c QETEP46c           DW USC GAL               Ethane Mont Belvieu Non-LST M2M Financial Mo46
+MQN QETEP4700000c QETEP47c           DW USC GAL               Ethane Mont Belvieu Non-LST M2M Financial Mo47
+MQN QETEP4800000c QETEP48c           DW USC GAL               Ethane Mont Belvieu Non-LST M2M Financial Mo48
+MQN QETEP4900000c QETEP49c           DW USC GAL               Ethane Mont Belvieu Non-LST M2M Financial Mo49
+MQN QETEP5000000c QETEP50c           DW USC GAL               Ethane Mont Belvieu Non-LST M2M Financial Mo50
+MQN QETEP5100000c QETEP51c           DW USC GAL               Ethane Mont Belvieu Non-LST M2M Financial Mo51
+MQN QETEP5200000c QETEP52c           DW USC GAL               Ethane Mont Belvieu Non-LST M2M Financial Mo52
+MQN QETEP5300000c QETEP53c           DW USC GAL               Ethane Mont Belvieu Non-LST M2M Financial Mo53
+MQN QETEP5400000c QETEP54c           DW USC GAL               Ethane Mont Belvieu Non-LST M2M Financial Mo54
+MQN QETEP5500000c QETEP55c           DW USC GAL               Ethane Mont Belvieu Non-LST M2M Financial Mo55
+MQN QETEP5600000c QETEP56c           DW USC GAL               Ethane Mont Belvieu Non-LST M2M Financial Mo56
+MQN QETEP5700000c QETEP57c           DW USC GAL               Ethane Mont Belvieu Non-LST M2M Financial Mo57
+MQN QETEP5800000c QETEP58c           DW USC GAL               Ethane Mont Belvieu Non-LST M2M Financial Mo58
+MQN QETEP5900000c QETEP59c           DW USC GAL               Ethane Mont Belvieu Non-LST M2M Financial Mo59
+MQN QIBCP0100000c QIBCP01c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo01
+MQN QIBCP0200000c QIBCP02c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo02
+MQN QIBCP0300000c QIBCP03c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo03
+MQN QIBCP0400000c QIBCP04c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo04
+MQN QIBCP0500000c QIBCP05c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo05
+MQN QIBCP0600000c QIBCP06c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo06
+MQN QIBCP0700000c QIBCP07c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo07
+MQN QIBCP0800000c QIBCP08c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo08
+MQN QIBCP0900000c QIBCP09c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo09
+MQN QIBCP1000000c QIBCP10c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo10
+MQN QIBCP1100000c QIBCP11c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo11
+MQN QIBCP1200000c QIBCP12c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo12
+MQN QIBCP1300000c QIBCP13c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo13
+MQN QIBCP1400000c QIBCP14c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo14
+MQN QIBCP1500000c QIBCP15c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo15
+MQN QIBCP1600000c QIBCP16c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo16
+MQN QIBCP1700000c QIBCP17c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo17
+MQN QIBCP1800000c QIBCP18c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo18
+MQN QIBCP1900000c QIBCP19c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo19
+MQN QIBCP2000000c QIBCP20c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo20
+MQN QIBCP2100000c QIBCP21c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo21
+MQN QIBCP2200000c QIBCP22c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo22
+MQN QIBCP2300000c QIBCP23c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo23
+MQN QIBCP2400000c QIBCP24c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo24
+MQN QIBCP2500000c QIBCP25c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo25
+MQN QIBCP2600000c QIBCP26c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo26
+MQN QIBCP2700000c QIBCP27c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo27
+MQN QIBCP2800000c QIBCP28c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo28
+MQN QIBCP2900000c QIBCP29c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo29
+MQN QIBCP3000000c QIBCP30c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo30
+MQN QIBCP3100000c QIBCP31c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo31
+MQN QIBCP3200000c QIBCP32c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo32
+MQN QIBCP3300000c QIBCP33c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo33
+MQN QIBCP3400000c QIBCP34c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo34
+MQN QIBCP3500000c QIBCP35c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo35
+MQN QIBCP3600000c QIBCP36c           DW USC GAL 151201 190118 Butane Conway M2M Financial Mo36
+MQN QIBCP3700000c QIBCP37c           DW USC GAL               Butane Conway M2M Financial Mo37
+MQN QIBCP3800000c QIBCP38c           DW USC GAL               Butane Conway M2M Financial Mo38
+MQN QIBCP3900000c QIBCP39c           DW USC GAL               Butane Conway M2M Financial Mo39
+MQN QIBCP4000000c QIBCP40c           DW USC GAL               Butane Conway M2M Financial Mo40
+MQN QPRNP3100000c QPRNP31c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo31
+MQN QPRNP3200000c QPRNP32c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo32
+MQN QPRNP3300000c QPRNP33c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo33
+MQN QPRNP3400000c QPRNP34c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo34
+MQN QPRNP3500000c QPRNP35c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo35
+MQN QPRNP3600000c QPRNP36c           DW USC GAL 151123 190118 Propane Mont Belvieu Non-LST M2M Financial Mo36
+MQN QPRNP3700000c QPRNP37c           DW USC GAL               Propane Mont Belvieu Non-LST M2M Financial Mo37
+MQN QPRNP3800000c QPRNP38c           DW USC GAL               Propane Mont Belvieu Non-LST M2M Financial Mo38
+MQN QPRNP3900000c QPRNP39c           DW USC GAL               Propane Mont Belvieu Non-LST M2M Financial Mo39
+MQN QPRNP4000000c QPRNP40c           DW USC GAL               Propane Mont Belvieu Non-LST M2M Financial Mo40
+MQN QPRNP4100000c QPRNP41c           DW USC GAL               Propane Mont Belvieu Non-LST M2M Financial Mo41
+MQN QPRNP4200000c QPRNP42c           DW USC GAL               Propane Mont Belvieu Non-LST M2M Financial Mo42
+MQN QPRNP4300000c QPRNP43c           DW USC GAL               Propane Mont Belvieu Non-LST M2M Financial Mo43
+MQN QPRNP4400000c QPRNP44c           DW USC GAL               Propane Mont Belvieu Non-LST M2M Financial Mo44
+MQN QPRNP4500000c QPRNP45c           DW USC GAL               Propane Mont Belvieu Non-LST M2M Financial Mo45
+MQN QPRNP4600000c QPRNP46c           DW USC GAL               Propane Mont Belvieu Non-LST M2M Financial Mo46
+MQN QPRNP4700000c QPRNP47c           DW USC GAL               Propane Mont Belvieu Non-LST M2M Financial Mo47
+MQN QPRNP4800000c QPRNP48c           DW USC GAL               Propane Mont Belvieu Non-LST M2M Financial Mo48
+MQN QPRNP4900000c QPRNP49c           DW USC GAL               Propane Mont Belvieu Non-LST M2M Financial Mo49
+MQN QPRNP5000000c QPRNP50c           DW USC GAL               Propane Mont Belvieu Non-LST M2M Financial Mo50
+MQN QPRNP5100000c QPRNP51c           DW USC GAL               Propane Mont Belvieu Non-LST M2M Financial Mo51
+MQN QPRNP5200000c QPRNP52c           DW USC GAL               Propane Mont Belvieu Non-LST M2M Financial Mo52
+MQN QPRNP5300000c QPRNP53c           DW USC GAL               Propane Mont Belvieu Non-LST M2M Financial Mo53
+MQN QPRNP5400000c QPRNP54c           DW USC GAL               Propane Mont Belvieu Non-LST M2M Financial Mo54
+MQN QPRNP5500000c QPRNP55c           DW USC GAL               Propane Mont Belvieu Non-LST M2M Financial Mo55
+MQN QPRNP5600000c QPRNP56c           DW USC GAL               Propane Mont Belvieu Non-LST M2M Financial Mo56
+MQN QPRNP5700000c QPRNP57c           DW USC GAL               Propane Mont Belvieu Non-LST M2M Financial Mo57
+MQN QPRNP5800000c QPRNP58c           DW USC GAL               Propane Mont Belvieu Non-LST M2M Financial Mo58
+MQN QPRNP5900000c QPRNP59c           DW USC GAL               Propane Mont Belvieu Non-LST M2M Financial Mo59
+MQN QPRNP6000000c QPRNP60c           DW USC GAL               Propane Mont Belvieu Non-LST M2M Financial Mo60
+MQN QETEP6000000c QETEP60c           DW USC GAL               Ethane Mont Belvieu Non-LST M2M Financial Mo60
+MQN QIBCP4100000c QIBCP41c           DW USC GAL               Butane Conway M2M Financial Mo41
+MQN QIBCP4200000c QIBCP42c           DW USC GAL               Butane Conway M2M Financial Mo42
+MQN QIBCP4300000c QIBCP43c           DW USC GAL               Butane Conway M2M Financial Mo43
+MQN QIBCP4400000c QIBCP44c           DW USC GAL               Butane Conway M2M Financial Mo44
+MQN QIBCP4500000c QIBCP45c           DW USC GAL               Butane Conway M2M Financial Mo45
+MQN QIBCP4600000c QIBCP46c           DW USC GAL               Butane Conway M2M Financial Mo46
+MQN QIBCP4700000c QIBCP47c           DW USC GAL               Butane Conway M2M Financial Mo47
+MQN QIBCP4800000c QIBCP48c           DW USC GAL               Butane Conway M2M Financial Mo48
+MQN QIBCP4900000c QIBCP49c           DW USC GAL               Butane Conway M2M Financial Mo49
+MQN QIBCP5000000c QIBCP50c           DW USC GAL               Butane Conway M2M Financial Mo50
+MQN QIBCP5100000c QIBCP51c           DW USC GAL               Butane Conway M2M Financial Mo51
+MQN QIBCP5200000c QIBCP52c           DW USC GAL               Butane Conway M2M Financial Mo52
+MQN QIBCP5300000c QIBCP53c           DW USC GAL               Butane Conway M2M Financial Mo53
+MQN QIBCP5400000c QIBCP54c           DW USC GAL               Butane Conway M2M Financial Mo54
+MQN QIBCP5500000c QIBCP55c           DW USC GAL               Butane Conway M2M Financial Mo55
+MQN QIBCP5600000c QIBCP56c           DW USC GAL               Butane Conway M2M Financial Mo56
+MQN QIBCP5700000c QIBCP57c           DW USC GAL               Butane Conway M2M Financial Mo57
+MQN QIBCP5800000c QIBCP58c           DW USC GAL               Butane Conway M2M Financial Mo58
+MQN QIBCP5900000c QIBCP59c           DW USC GAL               Butane Conway M2M Financial Mo59
+MQN QIBCP6000000c QIBCP60c           DW USC GAL               Butane Conway M2M Financial Mo60
+MQN QISCP0100000c QISCP01c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo01
+MQN QISCP0200000c QISCP02c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo02
+MQN QISCP0300000c QISCP03c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo03
+MQN QISCP0400000c QISCP04c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo04
+MQN QISCP0500000c QISCP05c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo05
+MQN QISCP0600000c QISCP06c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo06
+MQN QISCP0700000c QISCP07c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo07
+MQN QISCP0800000c QISCP08c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo08
+MQN QISCP0900000c QISCP09c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo09
+MQN QISCP1000000c QISCP10c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo10
+MQN QISCP1100000c QISCP11c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo11
+MQN QISCP1200000c QISCP12c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo12
+MQN QISCP1300000c QISCP13c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo13
+MQN QISCP1400000c QISCP14c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo14
+MQN QISCP1500000c QISCP15c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo15
+MQN QISCP1600000c QISCP16c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo16
+MQN QISCP1700000c QISCP17c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo17
+MQN QISCP1800000c QISCP18c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo18
+MQN QISCP1900000c QISCP19c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo19
+MQN QISCP2000000c QISCP20c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo20
+MQN QISCP2100000c QISCP21c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo21
+MQN QISCP2200000c QISCP22c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo22
+MQN QISCP2300000c QISCP23c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo23
+MQN QISCP2400000c QISCP24c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo24
+MQN QISCP2500000c QISCP25c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo25
+MQN QISCP2600000c QISCP26c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo26
+MQN QISCP2700000c QISCP27c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo27
+MQN QISCP2800000c QISCP28c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo28
+MQN QISCP2900000c QISCP29c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo29
+MQN QISCP3000000c QISCP30c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo30
+MQN QISCP3100000c QISCP31c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo31
+MQN QISCP3200000c QISCP32c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo32
+MQN QISCP3300000c QISCP33c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo33
+MQN QISCP3400000c QISCP34c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo34
+MQN QISCP3500000c QISCP35c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo35
+MQN QISCP3600000c QISCP36c           DW USC GAL 151201 190118 Isobutane Conway M2M Financial Mo36
+MQN QISCP3700000c QISCP37c           DW USC GAL               Isobutane Conway M2M Financial Mo37
+MQN QISCP3800000c QISCP38c           DW USC GAL               Isobutane Conway M2M Financial Mo38
+MQN QISCP3900000c QISCP39c           DW USC GAL               Isobutane Conway M2M Financial Mo39
+MQN QISCP4000000c QISCP40c           DW USC GAL               Isobutane Conway M2M Financial Mo40
+MQN QISCP4100000c QISCP41c           DW USC GAL               Isobutane Conway M2M Financial Mo41
+MQN QISCP4200000c QISCP42c           DW USC GAL               Isobutane Conway M2M Financial Mo42
+MQN QISCP4300000c QISCP43c           DW USC GAL               Isobutane Conway M2M Financial Mo43
+MQN QISCP4400000c QISCP44c           DW USC GAL               Isobutane Conway M2M Financial Mo44
+MQN QISCP4500000c QISCP45c           DW USC GAL               Isobutane Conway M2M Financial Mo45
+MQN QISCP4600000c QISCP46c           DW USC GAL               Isobutane Conway M2M Financial Mo46
+MQN QISCP4700000c QISCP47c           DW USC GAL               Isobutane Conway M2M Financial Mo47
+MQN QISCP4800000c QISCP48c           DW USC GAL               Isobutane Conway M2M Financial Mo48
+MQN QISCP4900000c QISCP49c           DW USC GAL               Isobutane Conway M2M Financial Mo49
+MQN QISCP5000000c QISCP50c           DW USC GAL               Isobutane Conway M2M Financial Mo50
+MQN QISCP5100000c QISCP51c           DW USC GAL               Isobutane Conway M2M Financial Mo51
+MQN QISCP5200000c QISCP52c           DW USC GAL               Isobutane Conway M2M Financial Mo52
+MQN QISCP5300000c QISCP53c           DW USC GAL               Isobutane Conway M2M Financial Mo53
+MQN QISCP5400000c QISCP54c           DW USC GAL               Isobutane Conway M2M Financial Mo54
+MQN QISCP5500000c QISCP55c           DW USC GAL               Isobutane Conway M2M Financial Mo55
+MQN QISCP5600000c QISCP56c           DW USC GAL               Isobutane Conway M2M Financial Mo56
+MQN QISCP5700000c QISCP57c           DW USC GAL               Isobutane Conway M2M Financial Mo57
+MQN QISCP5800000c QISCP58c           DW USC GAL               Isobutane Conway M2M Financial Mo58
+MQN QISCP5900000c QISCP59c           DW USC GAL               Isobutane Conway M2M Financial Mo59
+MQN QISCP6000000c QISCP60c           DW USC GAL               Isobutane Conway M2M Financial Mo60
+MQN QISLP0100000c QISLP01c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo01
+MQN QISLP0200000c QISLP02c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo02
+MQN QISLP0300000c QISLP03c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo03
+MQN QISLP0400000c QISLP04c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo04
+MQN QISLP0500000c QISLP05c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo05
+MQN QISLP0600000c QISLP06c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo06
+MQN QISLP0700000c QISLP07c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo07
+MQN QISLP0800000c QISLP08c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo08
+MQN QISLP0900000c QISLP09c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo09
+MQN QISLP1000000c QISLP10c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo10
+MQN QISLP1100000c QISLP11c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo11
+MQN QISLP1200000c QISLP12c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo12
+MQN QISLP1300000c QISLP13c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo13
+MQN QISLP1400000c QISLP14c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo14
+MQN QISLP1500000c QISLP15c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo15
+MQN QISLP1600000c QISLP16c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo16
+MQN QISLP1700000c QISLP17c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo17
+MQN QISLP1800000c QISLP18c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo18
+MQN QISLP1900000c QISLP19c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo19
+MQN QISLP2000000c QISLP20c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo20
+MQN QISLP2100000c QISLP21c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo21
+MQN QISLP2200000c QISLP22c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo22
+MQN QISLP2300000c QISLP23c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo23
+MQN QISLP2400000c QISLP24c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo24
+MQN QISLP2500000c QISLP25c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo25
+MQN QISLP2600000c QISLP26c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo26
+MQN QISLP2700000c QISLP27c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo27
+MQN QISLP2800000c QISLP28c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo28
+MQN QISLP2900000c QISLP29c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo29
+MQN QISLP3000000c QISLP30c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo30
+MQN QISLP3100000c QISLP31c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo31
+MQN QISLP3200000c QISLP32c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo32
+MQN QISLP3300000c QISLP33c           DW USC GAL 151201 190118 Isobutane Mont Belvieu LST M2M Financial Mo33

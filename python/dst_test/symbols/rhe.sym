@@ -1,0 +1,154 @@
+RHE                                                           © 2019 by S&P Global Inc.,190119
+RHE GEBHP0100000c GEBHP01c           DW USD BBL 130327 190118 FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg Brent Crk Swap Mo01
+RHE GEBHP0200000c GEBHP02c           DW USD BBL 130327 190118 FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg Brent Crk Swap Mo02
+RHE GEBHP0300000c GEBHP03c           DW USD BBL 130327 190118 FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg Brent Crk Swap Mo03
+RHE GEBHP0400000c GEBHP04c           DW USD BBL 130327 190118 FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg Brent Crk Swap Mo04
+RHE GEBHP0500000c GEBHP05c           DW USD BBL 130327 190118 FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg Brent Crk Swap Mo05
+RHE GEBHP0600000c GEBHP06c           DW USD BBL 130327 190118 FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg Brent Crk Swap Mo06
+RHE GEBHP0700000c GEBHP07c           DW USD BBL 130327 190118 FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg Brent Crk Swap Mo07
+RHE GEBHP0800000c GEBHP08c           DW USD BBL 130327 190118 FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg Brent Crk Swap Mo08
+RHE GEBHP0900000c GEBHP09c           DW USD BBL 130327 190118 FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg Brent Crk Swap Mo09
+RHE GEBHP1000000c GEBHP10c           DW USD BBL 130327 190118 FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg Brent Crk Swap Mo10
+RHE GEBHP1100000c GEBHP11c           DW USD BBL 130327 190118 FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg Brent Crk Swap Mo11
+RHE GEBHP1200000c GEBHP12c           DW USD BBL 130327 190118 FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg Brent Crk Swap Mo12
+RHE GEBHR0100000c GEBHR01c           DW USD BBL 130327 190118 FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg Brent Crk Swap Qr01
+RHE GEBHR0200000c GEBHR02c           DW USD BBL 130327 190118 FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg Brent Crk Swap Qr02
+RHE GEBHR0300000c GEBHR03c           DW USD BBL 130327 190118 FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg Brent Crk Swap Qr03
+RHE GEBHR0400000c GEBHR04c           DW USD BBL 130327 190118 FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg Brent Crk Swap Qr04
+RHE GEBHS0100000c GEBHS01c           DW USD BBL 130327 190118 FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg Brent Crk Swap Yr01
+RHE GEDHP0100000c GEDHP01c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London Dubai Crack swap Mo01
+RHE GEDHP0200000c GEDHP02c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London Dubai Crack swap Mo02
+RHE GEDHP0300000c GEDHP03c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London Dubai Crack swap Mo03
+RHE GEDHP0400000c GEDHP04c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London Dubai Crack swap Mo04
+RHE GEDHP0500000c GEDHP05c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London Dubai Crack swap Mo05
+RHE GEDHP0600000c GEDHP06c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London Dubai Crack swap Mo06
+RHE GEDHP0700000c GEDHP07c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London Dubai Crack swap Mo07
+RHE GEDHP0800000c GEDHP08c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London Dubai Crack swap Mo08
+RHE GEDHP0900000c GEDHP09c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London Dubai Crack swap Mo09
+RHE GEDHP1000000c GEDHP10c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London Dubai Crack swap Mo10
+RHE GEDHP1100000c GEDHP11c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London Dubai Crack swap Mo11
+RHE GEDHP1200000c GEDHP12c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London Dubai Crack swap Mo12
+RHE GEDHR0100000c GEDHR01c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London Dubai Crack swap Qr01
+RHE GEDHR0200000c GEDHR02c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London Dubai Crack swap Qr02
+RHE GEDHR0300000c GEDHR03c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London Dubai Crack swap Qr03
+RHE GEDHR0400000c GEDHR04c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London Dubai Crack swap Qr04
+RHE GEDHS0100000c GEDHS01c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London Dubai Crack swap Yr01
+RHE GEWHP0100000c GEWHP01c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London WTI Crack swap Mo01
+RHE GEWHP0200000c GEWHP02c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London WTI Crack swap Mo02
+RHE GEWHP0300000c GEWHP03c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London WTI Crack swap Mo03
+RHE GEWHP0400000c GEWHP04c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London WTI Crack swap Mo04
+RHE GEWHP0500000c GEWHP05c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London WTI Crack swap Mo05
+RHE GEWHP0600000c GEWHP06c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London WTI Crack swap Mo06
+RHE GEWHP0700000c GEWHP07c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London WTI Crack swap Mo07
+RHE GEWHP0800000c GEWHP08c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London WTI Crack swap Mo08
+RHE GEWHP0900000c GEWHP09c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London WTI Crack swap Mo09
+RHE GEWHP1000000c GEWHP10c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London WTI Crack swap Mo10
+RHE GEWHP1100000c GEWHP11c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London WTI Crack swap Mo11
+RHE GEWHP1200000c GEWHP12c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London WTI Crack swap Mo12
+RHE GEWHR0100000c GEWHR01c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London WTI Crack swap Qr01
+RHE GEWHR0200000c GEWHR02c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London WTI Crack swap Qr02
+RHE GEWHR0300000c GEWHR03c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London WTI Crack swap Qr03
+RHE GEWHR0400000c GEWHR04c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London WTI Crack swap Qr04
+RHE GEWHS0100000c GEWHS01c           DW USD BBL               FtS Houston Gasoline Eurobob 10ppm ARA FOB Brg London WTI Crack swap Yr01
+RHE GPBHP0100000c GPBHP01c           DW USD BBL 130327 190118 FtS Houston Gasoline Prem ARA Brent Crk Swap Mo01
+RHE GPBHP0200000c GPBHP02c           DW USD BBL 130327 190118 FtS Houston Gasoline Prem ARA Brent Crk Swap Mo02
+RHE GPBHP0300000c GPBHP03c           DW USD BBL 130327 190118 FtS Houston Gasoline Prem ARA Brent Crk Swap Mo03
+RHE GPBHP0400000c GPBHP04c           DW USD BBL 130327 190118 FtS Houston Gasoline Prem ARA Brent Crk Swap Mo04
+RHE GPBHP0500000c GPBHP05c           DW USD BBL 130327 190118 FtS Houston Gasoline Prem ARA Brent Crk Swap Mo05
+RHE GPBHP0600000c GPBHP06c           DW USD BBL 130327 190118 FtS Houston Gasoline Prem ARA Brent Crk Swap Mo06
+RHE GPBHP0700000c GPBHP07c           DW USD BBL 130327 190118 FtS Houston Gasoline Prem ARA Brent Crk Swap Mo07
+RHE GPBHP0800000c GPBHP08c           DW USD BBL 130327 190118 FtS Houston Gasoline Prem ARA Brent Crk Swap Mo08
+RHE GPBHP0900000c GPBHP09c           DW USD BBL 130327 190118 FtS Houston Gasoline Prem ARA Brent Crk Swap Mo09
+RHE GPBHP1000000c GPBHP10c           DW USD BBL 130327 190118 FtS Houston Gasoline Prem ARA Brent Crk Swap Mo10
+RHE GPBHP1100000c GPBHP11c           DW USD BBL 130327 190118 FtS Houston Gasoline Prem ARA Brent Crk Swap Mo11
+RHE GPBHP1200000c GPBHP12c           DW USD BBL 130327 190118 FtS Houston Gasoline Prem ARA Brent Crk Swap Mo12
+RHE GPBHR0100000c GPBHR01c           DW USD BBL 130327 190118 FtS Houston Gasoline Prem ARA Brent Crk Swap Qr01
+RHE GPBHR0200000c GPBHR02c           DW USD BBL 130327 190118 FtS Houston Gasoline Prem ARA Brent Crk Swap Qr02
+RHE GPBHR0300000c GPBHR03c           DW USD BBL 130327 190118 FtS Houston Gasoline Prem ARA Brent Crk Swap Qr03
+RHE GPBHR0400000c GPBHR04c           DW USD BBL 130327 190118 FtS Houston Gasoline Prem ARA Brent Crk Swap Qr04
+RHE GPBHS0100000c GPBHS01c           DW USD BBL 130327 190118 FtS Houston Gasoline Prem ARA Brent Crk Swap Yr01
+RHE GPDHP0100000c GPDHP01c           DW USD BBL               FtS Houston Gasoline Prem ARA London Dubai Crack swap Mo01
+RHE GPDHP0200000c GPDHP02c           DW USD BBL               FtS Houston Gasoline Prem ARA London Dubai Crack swap Mo02
+RHE GPDHP0300000c GPDHP03c           DW USD BBL               FtS Houston Gasoline Prem ARA London Dubai Crack swap Mo03
+RHE GPDHP0400000c GPDHP04c           DW USD BBL               FtS Houston Gasoline Prem ARA London Dubai Crack swap Mo04
+RHE GPDHP0500000c GPDHP05c           DW USD BBL               FtS Houston Gasoline Prem ARA London Dubai Crack swap Mo05
+RHE GPDHP0600000c GPDHP06c           DW USD BBL               FtS Houston Gasoline Prem ARA London Dubai Crack swap Mo06
+RHE GPDHP0700000c GPDHP07c           DW USD BBL               FtS Houston Gasoline Prem ARA London Dubai Crack swap Mo07
+RHE GPDHP0800000c GPDHP08c           DW USD BBL               FtS Houston Gasoline Prem ARA London Dubai Crack swap Mo08
+RHE GPDHP0900000c GPDHP09c           DW USD BBL               FtS Houston Gasoline Prem ARA London Dubai Crack swap Mo09
+RHE GPDHP1000000c GPDHP10c           DW USD BBL               FtS Houston Gasoline Prem ARA London Dubai Crack swap Mo10
+RHE GPDHP1100000c GPDHP11c           DW USD BBL               FtS Houston Gasoline Prem ARA London Dubai Crack swap Mo11
+RHE GPDHP1200000c GPDHP12c           DW USD BBL               FtS Houston Gasoline Prem ARA London Dubai Crack swap Mo12
+RHE GPDHR0100000c GPDHR01c           DW USD BBL               FtS Houston Gasoline Prem ARA London Dubai Crack swap Qr01
+RHE GPDHR0200000c GPDHR02c           DW USD BBL               FtS Houston Gasoline Prem ARA London Dubai Crack swap Qr02
+RHE GPDHR0300000c GPDHR03c           DW USD BBL               FtS Houston Gasoline Prem ARA London Dubai Crack swap Qr03
+RHE GPDHR0400000c GPDHR04c           DW USD BBL               FtS Houston Gasoline Prem ARA London Dubai Crack swap Qr04
+RHE GPDHS0100000c GPDHS01c           DW USD BBL               FtS Houston Gasoline Prem ARA London Dubai Crack swap Yr01
+RHE GPWHP0100000c GPWHP01c           DW USD BBL               FtS Houston Gasoline Prem ARA London WTI Crack swap Mo01
+RHE GPWHP0200000c GPWHP02c           DW USD BBL               FtS Houston Gasoline Prem ARA London WTI Crack swap Mo02
+RHE GPWHP0300000c GPWHP03c           DW USD BBL               FtS Houston Gasoline Prem ARA London WTI Crack swap Mo03
+RHE GPWHP0400000c GPWHP04c           DW USD BBL               FtS Houston Gasoline Prem ARA London WTI Crack swap Mo04
+RHE GPWHP0500000c GPWHP05c           DW USD BBL               FtS Houston Gasoline Prem ARA London WTI Crack swap Mo05
+RHE GPWHP0600000c GPWHP06c           DW USD BBL               FtS Houston Gasoline Prem ARA London WTI Crack swap Mo06
+RHE GPWHP0700000c GPWHP07c           DW USD BBL               FtS Houston Gasoline Prem ARA London WTI Crack swap Mo07
+RHE GPWHP0800000c GPWHP08c           DW USD BBL               FtS Houston Gasoline Prem ARA London WTI Crack swap Mo08
+RHE GPWHP0900000c GPWHP09c           DW USD BBL               FtS Houston Gasoline Prem ARA London WTI Crack swap Mo09
+RHE GPWHP1000000c GPWHP10c           DW USD BBL               FtS Houston Gasoline Prem ARA London WTI Crack swap Mo10
+RHE GPWHP1100000c GPWHP11c           DW USD BBL               FtS Houston Gasoline Prem ARA London WTI Crack swap Mo11
+RHE GPWHP1200000c GPWHP12c           DW USD BBL               FtS Houston Gasoline Prem ARA London WTI Crack swap Mo12
+RHE GPWHR0100000c GPWHR01c           DW USD BBL               FtS Houston Gasoline Prem ARA London WTI Crack swap Qr01
+RHE GPWHR0200000c GPWHR02c           DW USD BBL               FtS Houston Gasoline Prem ARA London WTI Crack swap Qr02
+RHE GPWHR0300000c GPWHR03c           DW USD BBL               FtS Houston Gasoline Prem ARA London WTI Crack swap Qr03
+RHE GPWHR0400000c GPWHR04c           DW USD BBL               FtS Houston Gasoline Prem ARA London WTI Crack swap Qr04
+RHE GPWHS0100000c GPWHS01c           DW USD BBL               FtS Houston Gasoline Prem ARA London WTI Crack swap Yr01
+RHE NNDHP0800000c NNDHP08c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London Dubai Crack swap Mo08
+RHE NNDHP0900000c NNDHP09c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London Dubai Crack swap Mo09
+RHE NNDHP1000000c NNDHP10c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London Dubai Crack swap Mo10
+RHE NNDHP1100000c NNDHP11c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London Dubai Crack swap Mo11
+RHE NNDHP1200000c NNDHP12c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London Dubai Crack swap Mo12
+RHE NNDHR0100000c NNDHR01c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London Dubai Crack swap Qr01
+RHE NNDHR0200000c NNDHR02c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London Dubai Crack swap Qr02
+RHE NNDHR0300000c NNDHR03c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London Dubai Crack swap Qr03
+RHE NNDHR0400000c NNDHR04c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London Dubai Crack swap Qr04
+RHE NNDHS0100000c NNDHS01c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London Dubai Crack swap Yr01
+RHE NNWHP0100000c NNWHP01c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London WTI Crack swap Mo01
+RHE NNWHP0200000c NNWHP02c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London WTI Crack swap Mo02
+RHE NNWHP0300000c NNWHP03c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London WTI Crack swap Mo03
+RHE NNWHP0400000c NNWHP04c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London WTI Crack swap Mo04
+RHE NNWHP0500000c NNWHP05c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London WTI Crack swap Mo05
+RHE NNWHP0600000c NNWHP06c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London WTI Crack swap Mo06
+RHE NNWHP0700000c NNWHP07c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London WTI Crack swap Mo07
+RHE NNWHP0800000c NNWHP08c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London WTI Crack swap Mo08
+RHE NNWHP0900000c NNWHP09c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London WTI Crack swap Mo09
+RHE NNWHP1000000c NNWHP10c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London WTI Crack swap Mo10
+RHE NNWHP1100000c NNWHP11c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London WTI Crack swap Mo11
+RHE NNWHP1200000c NNWHP12c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London WTI Crack swap Mo12
+RHE NNWHR0100000c NNWHR01c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London WTI Crack swap Qr01
+RHE NNWHR0200000c NNWHR02c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London WTI Crack swap Qr02
+RHE NNWHR0300000c NNWHR03c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London WTI Crack swap Qr03
+RHE NNWHR0400000c NNWHR04c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London WTI Crack swap Qr04
+RHE NNWHS0100000c NNWHS01c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London WTI Crack swap Yr01
+RHE NNBHP0100000c NNBHP01c           DW USD BBL 130327 190118 FtS Houston Naphtha NWE CIF Crg Brent Crk Swap Mo01
+RHE NNBHP0200000c NNBHP02c           DW USD BBL 130327 190118 FtS Houston Naphtha NWE CIF Crg Brent Crk Swap Mo02
+RHE NNBHP0300000c NNBHP03c           DW USD BBL 130327 190118 FtS Houston Naphtha NWE CIF Crg Brent Crk Swap Mo03
+RHE NNBHP0400000c NNBHP04c           DW USD BBL 130327 190118 FtS Houston Naphtha NWE CIF Crg Brent Crk Swap Mo04
+RHE NNBHP0500000c NNBHP05c           DW USD BBL 130327 190118 FtS Houston Naphtha NWE CIF Crg Brent Crk Swap Mo05
+RHE NNBHP0600000c NNBHP06c           DW USD BBL 130327 190118 FtS Houston Naphtha NWE CIF Crg Brent Crk Swap Mo06
+RHE NNBHP0700000c NNBHP07c           DW USD BBL 130327 190118 FtS Houston Naphtha NWE CIF Crg Brent Crk Swap Mo07
+RHE NNBHP0800000c NNBHP08c           DW USD BBL 130327 190118 FtS Houston Naphtha NWE CIF Crg Brent Crk Swap Mo08
+RHE NNBHP0900000c NNBHP09c           DW USD BBL 130327 190118 FtS Houston Naphtha NWE CIF Crg Brent Crk Swap Mo09
+RHE NNBHP1000000c NNBHP10c           DW USD BBL 130327 190118 FtS Houston Naphtha NWE CIF Crg Brent Crk Swap Mo10
+RHE NNBHP1100000c NNBHP11c           DW USD BBL 130327 190118 FtS Houston Naphtha NWE CIF Crg Brent Crk Swap Mo11
+RHE NNBHP1200000c NNBHP12c           DW USD BBL 130327 190118 FtS Houston Naphtha NWE CIF Crg Brent Crk Swap Mo12
+RHE NNBHR0100000c NNBHR01c           DW USD BBL 130327 190118 FtS Houston Naphtha NWE CIF Crg Brent Crk Swap Qr01
+RHE NNBHR0200000c NNBHR02c           DW USD BBL 130327 190118 FtS Houston Naphtha NWE CIF Crg Brent Crk Swap Qr02
+RHE NNBHR0300000c NNBHR03c           DW USD BBL 130327 190118 FtS Houston Naphtha NWE CIF Crg Brent Crk Swap Qr03
+RHE NNBHR0400000c NNBHR04c           DW USD BBL 130327 190118 FtS Houston Naphtha NWE CIF Crg Brent Crk Swap Qr04
+RHE NNBHS0100000c NNBHS01c           DW USD BBL 130327 190118 FtS Houston Naphtha NWE CIF Crg Brent Crk Swap Yr01
+RHE NNDHP0100000c NNDHP01c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London Dubai Crack swap Mo01
+RHE NNDHP0200000c NNDHP02c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London Dubai Crack swap Mo02
+RHE NNDHP0300000c NNDHP03c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London Dubai Crack swap Mo03
+RHE NNDHP0400000c NNDHP04c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London Dubai Crack swap Mo04
+RHE NNDHP0500000c NNDHP05c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London Dubai Crack swap Mo05
+RHE NNDHP0600000c NNDHP06c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London Dubai Crack swap Mo06
+RHE NNDHP0700000c NNDHP07c           DW USD BBL               FtS Houston Naphtha NWE CIF Crg London Dubai Crack swap Mo07

@@ -1,0 +1,38 @@
+AHL                                                           © 2019 by S&P Global Inc.,190119
+AHL GRMHP0100000c GRMHP01c           DW USD BBL 130327 190118 FtS Houston Gasoline 92RON FOB Spore Swap Mo01
+AHL GRMHP0200000c GRMHP02c           DW USD BBL 130327 190118 FtS Houston Gasoline 92RON FOB Spore Swap Mo02
+AHL NFTHP0100000c NFTHP01c           DW USD BBL 130327 190118 FtS Houston Naphtha Spore Time Spread Swap Mo01/02
+AHL NFTHP0200000c NFTHP02c           DW USD BBL 130327 190118 FtS Houston Naphtha Spore Time Spread Swap Mo02/03
+AHL NFTHP0300000c NFTHP03c           DW USD BBL 130327 190118 FtS Houston Naphtha Spore Time Spread Swap Mo03/04
+AHL NFTHP0400000c NFTHP04c           DW USD BBL 130327 190118 FtS Houston Naphtha Spore Time Spread Swap Mo04/05
+AHL NFTHP0500000c NFTHP05c           DW USD BBL 130327 190118 FtS Houston Naphtha Spore Time Spread Swap Mo05/06
+AHL NFTHP0600000c NFTHP06c           DW USD BBL 130327 190118 FtS Houston Naphtha Spore Time Spread Swap Mo06/07
+AHL NFTHP0700000c NFTHP07c           DW USD BBL 130327 190118 FtS Houston Naphtha Spore Time Spread Swap Mo07/08
+AHL NFTHP0800000c NFTHP08c           DW USD BBL 130327 190118 FtS Houston Naphtha Spore Time Spread Swap Mo08/09
+AHL NFTHP0900000c NFTHP09c           DW USD BBL 130327 190118 FtS Houston Naphtha Spore Time Spread Swap Mo09/10
+AHL NFTHP1000000c NFTHP10c           DW USD BBL 130327 190118 FtS Houston Naphtha Spore Time Spread Swap Mo10/11
+AHL NFTHP1100000c NFTHP11c           DW USD BBL 130327 190118 FtS Houston Naphtha Spore Time Spread Swap Mo11/12
+AHL NFTHR0100000c NFTHR01c           DW USD BBL 130327 190118 FtS Houston Naphtha Spore Time Spread Swap Q1/Q2
+AHL NFTHR0200000c NFTHR02c           DW USD BBL 130327 190118 FtS Houston Naphtha Spore Time Spread Swap Q2/Q3
+AHL NFTHR0300000c NFTHR03c           DW USD BBL 130327 190118 FtS Houston Naphtha Spore Time Spread Swap Qr03/04
+AHL NFMHP0100000c NFMHP01c           DW USD BBL 130327 190118 FtS Houston Naphtha FOB Spore Swap Mo01
+AHL NFMHP0200000c NFMHP02c           DW USD BBL 130327 190118 FtS Houston Naphtha FOB Spore Swap Mo02
+AHL NFMHP0300000c NFMHP03c           DW USD BBL 130327 190118 FtS Houston Naphtha FOB Spore Swap Mo03
+AHL NFMHP0400000c NFMHP04c           DW USD BBL 130327 190118 FtS Houston Naphtha FOB Spore Swap Mo04
+AHL NFMHP0500000c NFMHP05c           DW USD BBL 130327 190118 FtS Houston Naphtha FOB Spore Swap Mo05
+AHL NFMHP0600000c NFMHP06c           DW USD BBL 130327 190118 FtS Houston Naphtha FOB Spore Swap Mo06
+AHL NFMHP0700000c NFMHP07c           DW USD BBL 130327 190118 FtS Houston Naphtha FOB Spore Swap Mo07
+AHL NFMHP0800000c NFMHP08c           DW USD BBL 130327 190118 FtS Houston Naphtha FOB Spore Swap Mo08
+AHL NFMHP0900000c NFMHP09c           DW USD BBL 130327 190118 FtS Houston Naphtha FOB Spore Swap Mo09
+AHL NFMHP1000000c NFMHP10c           DW USD BBL 130327 190118 FtS Houston Naphtha FOB Spore Swap Mo10
+AHL NFMHP1100000c NFMHP11c           DW USD BBL 130327 190118 FtS Houston Naphtha FOB Spore Swap Mo11
+AHL NFMHP1200000c NFMHP12c           DW USD BBL 130327 190118 FtS Houston Naphtha FOB Spore Swap Mo12
+AHL NFMHR0100000c NFMHR01c           DW USD BBL 130327 190118 FtS Houston Naphtha FOB Spore Swap Qr01
+AHL NFMHR0200000c NFMHR02c           DW USD BBL 130327 190118 FtS Houston Naphtha FOB Spore Swap Qr02
+AHL NFMHR0300000c NFMHR03c           DW USD BBL 130327 190118 FtS Houston Naphtha FOB Spore Swap Qr03
+AHL NFMHR0400000c NFMHR04c           DW USD BBL 130327 190118 FtS Houston Naphtha FOB Spore Swap Qr04
+AHL NJMHP0100000c NJMHP01c           DW USD MT  130327 190118 FtS Houston Naphtha Japan Swap Mo01
+AHL NJMHP0200000c NJMHP02c           DW USD MT  130327 190118 FtS Houston Naphtha Japan Swap Mo02
+AHL NJMHP0300000c NJMHP03c           DW USD MT  130327 190118 FtS Houston Naphtha Japan Swap Mo03
+AHL RSMHP0100000c RSMHP01c           DW USD BBL 130327 190118 FtS Houston Reforming Spread Spore Swap Mo01
+AHL RSMHP0200000c RSMHP02c           DW USD BBL 130327 190118 FtS Houston Reforming Spread Spore Swap Mo02

@@ -1,0 +1,58 @@
+CTA                                                           © 2019 by S&P Global Inc.,190119
+CTA CAAAF0400000u CAAAF04u           WA N/A ST  120712 190117 CAPP Coal Production Fcst Wkly
+CTA CAAAP0400000u CAAAP04u           WA N/A ST  141127 190110 CAPP Coal Production Wkly
+CTA CAABF0400000u CAABF04u           WA N/A ST  141204 190124 ERCOT Coal Consumption Fcst Wkly
+CTA CAABP0400000u CAABP04u           WA N/A ST  141127 190110 ERCOT Coal Consumption Wkly
+CTA CAACF0400000u CAACF04u           WA N/A ST  120712 190117 IL Coal Production Fcst Wkly
+CTA CAACP0400000u CAACP04u           WA N/A ST  141127 190110 IL Coal Production Wkly
+CTA CAADF0400000u CAADF04u           WA N/A ST  141204 190124 MISO Coal Consumption Fcst Wkly
+CTA CAADP0400000u CAADP04u           WA N/A ST  141127 190110 MISO Coal Consumption Wkly
+CTA CAAEF0400000u CAAEF04u           WA N/A ST  120712 190117 NAPP Coal Production Fcst Wkly
+CTA CAAEP0400000u CAAEP04u           WA N/A ST  141127 190110 NAPP Coal Production Wkly
+CTA CAAFF0400000u CAAFF04u           WA N/A ST  141204 190124 NEISO Coal Consumption Fcst Wkly
+CTA CAAFP0400000u CAAFP04u           WA N/A ST  141127 190110 NEISO Coal Consumption Wkly
+CTA CAAGF0400000u CAAGF04u           WA N/A ST  141204 190124 NYISO Coal Consumption Fcst Wkly
+CTA CAAGP0400000u CAAGP04u           WA N/A ST  141127 190110 NYISO Coal Consumption Wkly
+CTA CAAHF0400000u CAAHF04u           WA N/A ST  120712 190117 Other Coal Production Fcst Wkly
+CTA CAAHP0400000u CAAHP04u           WA N/A ST  141127 190110 Other Coal Production Wkly
+CTA CAAIF0400000u CAAIF04u           WA N/A ST  141204 190124 PJM Coal Consumption Fcst Wkly
+CTA CAAIP0400000u CAAIP04u           WA N/A ST  141127 190110 PJM Coal Consumption Wkly
+CTA CAAJF0400000u CAAJF04u           WA N/A ST  120712 190117 PRB Coal Production Fcst Wkly
+CTA CAAJP0400000u CAAJP04u           WA N/A ST  141127 190110 PRB Coal Production Wkly
+CTA CAAKF0400000u CAAKF04u           WA N/A ST  141204 190124 SPP Coal Consumption Fcst Wkly
+CTA CAAKP0400000u CAAKP04u           WA N/A ST  141127 190110 SPP Coal Consumption Wkly
+CTA CAALF0400000u CAALF04u           WA N/A ST  141204 190124 Southeast Coal Consumption Fcst Wkly
+CTA CAALP0400000u CAALP04u           WA N/A ST  141127 190110 Southeast Coal Consumption Wkly
+CTA CAAMF0400000u CAAMF04u           WA N/A ST  120712 190117 Texas Coal Production Fcst Wkly
+CTA CAAMP0400000u CAAMP04u           WA N/A ST  141127 190110 Texas Coal Production Wkly
+CTA CAANF0400000u CAANF04u           WA N/A ST  120712 190117 US Coal Production Fcst Wkly
+CTA CAANP0400000u CAANP04u           WA N/A ST  141127 190110 US Coal Production Wkly
+CTA CAAOF0400000u CAAOF04u           WA N/A THT 141127 150903 US Coal Stockpiles Fcst Wkly
+CTA CAAOP0400000u CAAOP04u           WA N/A THT 141127 190110 US Coal Stockpiles Wkly
+CTA CAAPF0400000u CAAPF04u           WA N/A ST  120712 190117 Uinta Coal Production Fcst Wkly
+CTA CAAPP0400000u CAAPP04u           WA N/A ST  141127 190110 Uinta Coal Production Wkly
+CTA CAAQF0400000u CAAQF04u           WA N/A ST  141204 190124 West Coal Consumption Fcst Wkly
+CTA CAAQP0400000u CAAQP04u           WA N/A ST  141127 190110 West Coal Consumption Wkly
+CTA CAARF0400000u CAARF04u           WA N/A ST  141127 190110 US Coal Distribution to Electric Power Facilities Wkly
+CTA CFCRA0000000u CFCRA00u           DW N/A N/A 140102 190117 Fuel Cost Ratio for CAISO SP15 - PRB Basin Rail 8800 BTU/SoCal Gas
+CTA CFCRB0000000u CFCRB00u           DW N/A N/A 140102 190117 Fuel Cost Ratio for ERCOT North - PRB Basin Rail 8800 BTU/TX Eastern E TX
+CTA CFCRC0000000u CFCRC00u           DW N/A N/A 160119 190117 Fuel Cost Ratio for Into Southern - IL Basin 11800 BTU Barge/FL Gas Zn3
+CTA CFCRD0000000u CFCRD00u           DW N/A N/A 141027 161230 Fuel Cost Ratio for Into Southern - IL Basin 11500 BTU Barge/FL Gas Zn3
+CTA CFCRE0000000u CFCRE00u           DW N/A N/A 140102 190117 Fuel Cost Ratio for Into Southern - PRB Basin Rail 8800 BTU/FL Gas Zn3
+CTA CFCRF0000000u CFCRF00u           DW N/A N/A 141027 161230 Fuel Cost Ratio for Into Southern - IL Basin 11500 BTU Barge/Transco Zn4
+CTA CFCRG0000000u CFCRG00u           DW N/A N/A 160119 190117 Fuel Cost Ratio for Into Southern - IL Basin 11800 BTU Barge/Transco Zn4
+CTA CFCRH0000000u CFCRH00u           DW N/A N/A 140102 190117 Fuel Cost Ratio for Into Southern - PRB Basin Rail 8800 BTU/Transco Zn4
+CTA CFCRI0000000u CFCRI00u           DW N/A N/A 160119 190117 Fuel Cost Ratio for MISO Indiana - IL Basin 11800 BTU Barge/Chicago CG
+CTA CFCRJ0000000u CFCRJ00u           DW N/A N/A 141027 161230 Fuel Cost Ratio for MISO Indiana - IL Basin 11500 BTU Barge/Chicago CG
+CTA CFCRK0000000u CFCRK00u           DW N/A N/A 140102 190117 Fuel Cost Ratio for MISO Indiana - PRB Basin Rail 8800 BTU/Chicago CG
+CTA CFCRL0000000u CFCRL00u           DW N/A N/A 160119 190117 Fuel Cost Ratio for MISO Indiana - IL Basin 11800 BTU Barge/Lebanon Hub Ohio
+CTA CFCRM0000000u CFCRM00u           DW N/A N/A 141027 161230 Fuel Cost Ratio for MISO Indiana - IL Basin 11500 BTU Barge/Lebanon Hub Ohio
+CTA CFCRN0000000u CFCRN00u           DW N/A N/A 140102 190117 Fuel Cost Ratio for MISO Indiana - PRB Basin Rail 8800 BTU/Lebanon Hub Ohio
+CTA CFCRO0000000u CFCRO00u           DW N/A N/A 140102 190117 Fuel Cost Ratio for PJM West - CAPP Basin Rail/Col Gas Appal
+CTA CFCRP0000000u CFCRP00u           DW N/A N/A 140102 190117 Fuel Cost Ratio for PJM West - CAPP Basin Rail/Dominion S Pt
+CTA CFCRQ0000000u CFCRQ00u           DW N/A N/A 140102 190117 Fuel Cost Ratio for PJM West - CAPP Basin Rail/Leidy
+CTA CFCRR0000000u CFCRR00u           DW N/A N/A 140102 190117 Fuel Cost Ratio for PJM West - CAPP Basin Rail/TX Eastern M/3
+CTA CFCRS0000000u CFCRS00u           DW N/A N/A 140102 190117 Fuel Cost Ratio for SPP South - PRB Basin Rail 8800 BTU/ANR OK
+CTA CFCRT0000000u CFCRT00u           DW N/A N/A 140102 190117 Fuel Cost Ratio for SPP South - PRB Basin Rail 8800 BTU/NGPL Midcont
+CTA CFCRU0000000u CFCRU00u           DW N/A N/A 140102 190117 Fuel Cost Ratio for SPP South - PRB Basin Rail 8800 BTU/Oneok OK
+CTA CFCRV0000000u CFCRV00u           DW N/A N/A 140102 190117 Fuel Cost Ratio for SPP South - PRB Basin Rail 8800 BTU/Panhandle TX/OK

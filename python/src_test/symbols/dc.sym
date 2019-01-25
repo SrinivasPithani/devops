@@ -1,0 +1,55 @@
+DC                                                           © 2019 by S&P Global Inc.,190119
+DC CSAY00100000c CSAY001c           DW USD MT  070518 190118 Thermal Coal Forward Curve ARA Prompt Calendar Year
+DC CSAY00100000h CSAY001h           DW USD MT  070518 190118 Thermal Coal Forward Curve ARA Prompt Calendar Year
+DC CSAY00100000l CSAY001l           DW USD MT  070518 190118 Thermal Coal Forward Curve ARA Prompt Calendar Year
+DC CSAY00200000c CSAY002c           DW USD MT  070518 190118 Thermal Coal Forward Curve ARA Prompt Calendar Year +1
+DC CSAY00200000h CSAY002h           DW USD MT  070518 190118 Thermal Coal Forward Curve ARA Prompt Calendar Year +1
+DC CSAY00200000l CSAY002l           DW USD MT  070518 190118 Thermal Coal Forward Curve ARA Prompt Calendar Year +1
+DC CSAY00300000c CSAY003c           DW USD MT  090720 190118 Thermal Coal Forward Curve ARA Prompt Calendar Year +2
+DC CSAY00300000h CSAY003h           DW USD MT  090720 190118 Thermal Coal Forward Curve ARA Prompt Calendar Year +2
+DC CSAY00300000l CSAY003l           DW USD MT  090720 190118 Thermal Coal Forward Curve ARA Prompt Calendar Year +2
+DC CSCM00100000c CSCM001c           DW USD MT  070518 190118 Thermal Coal Forward Curve Newcastle Australia Prompt Month
+DC CSCM00100000h CSCM001h           DW USD MT  070518 190118 Thermal Coal Forward Curve Newcastle Australia Prompt Month
+DC CSCM00100000l CSCM001l           DW USD MT  070518 190118 Thermal Coal Forward Curve Newcastle Australia Prompt Month
+DC CSCM00200000c CSCM002c           DW USD MT  070518 190118 Thermal Coal Forward Curve Newcastle Australia Prompt Month +1
+DC CSCM00200000h CSCM002h           DW USD MT  070518 190118 Thermal Coal Forward Curve Newcastle Australia Prompt Month +1
+DC CSCM00200000l CSCM002l           DW USD MT  070518 190118 Thermal Coal Forward Curve Newcastle Australia Prompt Month +1
+DC CSCQ00100000c CSCQ001c           DW USD MT  070518 190118 Thermal Coal Forward Curve Newcastle Australia Prompt Quarter
+DC CSCQ00100000h CSCQ001h           DW USD MT  070518 190118 Thermal Coal Forward Curve Newcastle Australia Prompt Quarter
+DC CSCQ00100000l CSCQ001l           DW USD MT  070518 190118 Thermal Coal Forward Curve Newcastle Australia Prompt Quarter
+DC CSCQ00200000c CSCQ002c           DW USD MT  070518 190118 Thermal Coal Forward Curve Newcastle Australia Prompt Quarter +1
+DC CSCQ00200000h CSCQ002h           DW USD MT  070518 190118 Thermal Coal Forward Curve Newcastle Australia Prompt Quarter +1
+DC CSCQ00200000l CSCQ002l           DW USD MT  070518 190118 Thermal Coal Forward Curve Newcastle Australia Prompt Quarter +1
+DC CSCQ00300000c CSCQ003c           DW USD MT  070518 190118 Thermal Coal Forward Curve Newcastle Australia Prompt Quarter +2
+DC CSCQ00300000h CSCQ003h           DW USD MT  070518 190118 Thermal Coal Forward Curve Newcastle Australia Prompt Quarter +2
+DC CSCQ00300000l CSCQ003l           DW USD MT  070518 190118 Thermal Coal Forward Curve Newcastle Australia Prompt Quarter +2
+DC CSCQ00400000c CSCQ004c           DW USD MT  070518 190118 Thermal Coal Forward Curve Newcastle Australia Prompt Quarter +3
+DC CSCQ00400000h CSCQ004h           DW USD MT  070518 190118 Thermal Coal Forward Curve Newcastle Australia Prompt Quarter +3
+DC CSCQ00400000l CSCQ004l           DW USD MT  070518 190118 Thermal Coal Forward Curve Newcastle Australia Prompt Quarter +3
+DC CSCY00100000c CSCY001c           DW USD MT  070518 190118 Thermal Coal Forward Curve Newcastle Australia Prompt Calendar Year
+DC CSCY00100000h CSCY001h           DW USD MT  070518 190118 Thermal Coal Forward Curve Newcastle Australia Prompt Calendar Year
+DC CSCY00100000l CSCY001l           DW USD MT  070518 190118 Thermal Coal Forward Curve Newcastle Australia Prompt Calendar Year
+DC CSCY00200000c CSCY002c           DW USD MT  070518 190118 Thermal Coal Forward Curve Newcastle Australia Prompt Calendar Year +1
+DC CSCY00200000h CSCY002h           DW USD MT  070518 190118 Thermal Coal Forward Curve Newcastle Australia Prompt Calendar Year +1
+DC CSCY00200000l CSCY002l           DW USD MT  070518 190118 Thermal Coal Forward Curve Newcastle Australia Prompt Calendar Year +1
+DC CSCY00300000c CSCY003c           DW USD MT  090720 190118 Thermal Coal Forward Curve Newcastle Australia Prompt Calendar Year +2
+DC CSCY00300000h CSCY003h           DW USD MT  090720 190118 Thermal Coal Forward Curve Newcastle Australia Prompt Calendar Year +2
+DC CSCY00300000l CSCY003l           DW USD MT  090720 190118 Thermal Coal Forward Curve Newcastle Australia Prompt Calendar Year +2
+DC CSAM00100000c CSAM001c           DW USD MT  070518 190118 Thermal Coal Forward Curve ARA Prompt Month
+DC CSAM00100000h CSAM001h           DW USD MT  070518 190118 Thermal Coal Forward Curve ARA Prompt Month
+DC CSAM00100000l CSAM001l           DW USD MT  070518 190118 Thermal Coal Forward Curve ARA Prompt Month
+DC CSAM00200000c CSAM002c           DW USD MT  070518 190118 Thermal Coal Forward Curve ARA Prompt Month +1
+DC CSAM00200000h CSAM002h           DW USD MT  070518 190118 Thermal Coal Forward Curve ARA Prompt Month +1
+DC CSAM00200000l CSAM002l           DW USD MT  070518 190118 Thermal Coal Forward Curve ARA Prompt Month +1
+DC CSAQ00100000c CSAQ001c           DW USD MT  070518 190118 Thermal Coal Forward Curve ARA Prompt Quarter
+DC CSAQ00100000h CSAQ001h           DW USD MT  070518 190118 Thermal Coal Forward Curve ARA Prompt Quarter
+DC CSAQ00100000l CSAQ001l           DW USD MT  070518 190118 Thermal Coal Forward Curve ARA Prompt Quarter
+DC CSAQ00200000c CSAQ002c           DW USD MT  070518 190118 Thermal Coal Forward Curve ARA Prompt Quarter +1
+DC CSAQ00200000h CSAQ002h           DW USD MT  070518 190118 Thermal Coal Forward Curve ARA Prompt Quarter +1
+DC CSAQ00200000l CSAQ002l           DW USD MT  070518 190118 Thermal Coal Forward Curve ARA Prompt Quarter +1
+DC CSAQ00300000c CSAQ003c           DW USD MT  070518 190118 Thermal Coal Forward Curve ARA Prompt Quarter +2
+DC CSAQ00300000h CSAQ003h           DW USD MT  070518 190118 Thermal Coal Forward Curve ARA Prompt Quarter +2
+DC CSAQ00300000l CSAQ003l           DW USD MT  070518 190118 Thermal Coal Forward Curve ARA Prompt Quarter +2
+DC CSAQ00400000c CSAQ004c           DW USD MT  070518 190118 Thermal Coal Forward Curve ARA Prompt Quarter +3
+DC CSAQ00400000h CSAQ004h           DW USD MT  070518 190118 Thermal Coal Forward Curve ARA Prompt Quarter +3
+DC CSAQ00400000l CSAQ004l           DW USD MT  070518 190118 Thermal Coal Forward Curve ARA Prompt Quarter +3

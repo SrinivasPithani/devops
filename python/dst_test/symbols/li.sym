@@ -1,0 +1,432 @@
+LI                                                           © 2019 by S&P Global Inc.,190119
+LI AAAVQ0000000c AAAVQ00c           MA USD MT  850401 181201 Butane Refrigerated CFR Japan 30-60 days cargo MAvg
+LI AAAVQ0000000h AAAVQ00h           MA USD MT  850401 181201 Butane Refrigerated CFR Japan 30-60 days cargo MAvg
+LI AAAVQ0000000l AAAVQ00l           MA USD MT  850401 181201 Butane Refrigerated CFR Japan 30-60 days cargo MAvg
+LI AAAVR0000000c AAAVR00c           MA USD MT  820701 181201 Propane Refrigerated CFR Japan 30-60 days cargo MAvg
+LI AAAVR0000000h AAAVR00h           MA USD MT  820701 181201 Propane Refrigerated CFR Japan 30-60 days cargo MAvg
+LI AAAVR0000000l AAAVR00l           MA USD MT  820701 181201 Propane Refrigerated CFR Japan 30-60 days cargo MAvg
+LI AAJTQ0000000c AAJTQ00c           DW USD MT  020906 190118 Propane Refrigerated CFR North Asia Zone 30-60 days cargo
+LI AAJTQ0000000h AAJTQ00h           DW USD MT  020906 190118 Propane Refrigerated CFR North Asia Zone 30-60 days cargo
+LI AAJTQ0000000l AAJTQ00l           DW USD MT  020906 190118 Propane Refrigerated CFR North Asia Zone 30-60 days cargo
+LI AAJTR0000000c AAJTR00c           MA USD MT  020901 181201 Propane Refrigerated CFR North Asia Zone 30-60 days cargo MAvg
+LI AAJTR0000000h AAJTR00h           MA USD MT  020901 181201 Propane Refrigerated CFR North Asia Zone 30-60 days cargo MAvg
+LI AAJTR0000000l AAJTR00l           MA USD MT  020901 181201 Propane Refrigerated CFR North Asia Zone 30-60 days cargo MAvg
+LI AAJTT0000000c AAJTT00c           DW USD MT  020906 190118 Butane Refrigerated CFR North Asia Zone 30-60 days cargo
+LI AAJTT0000000h AAJTT00h           DW USD MT  020906 190118 Butane Refrigerated CFR North Asia Zone 30-60 days cargo
+LI AAJTT0000000l AAJTT00l           DW USD MT  020906 190118 Butane Refrigerated CFR North Asia Zone 30-60 days cargo
+LI AAJTU0000000c AAJTU00c           MA USD MT  020901 181201 Butane Refrigerated CFR North Asia Zone 30-60 days cargo MAvg
+LI AAJTU0000000h AAJTU00h           MA USD MT  020901 181201 Butane Refrigerated CFR North Asia Zone 30-60 days cargo MAvg
+LI AAJTU0000000l AAJTU00l           MA USD MT  020901 181201 Butane Refrigerated CFR North Asia Zone 30-60 days cargo MAvg
+LI AABAI0000000c AABAI00c           DW USD MT  991220 190118 Propane CFR South China 20-35 days vs Saudi Propane CP strip 5-15 days
+LI AABAI0000000h AABAI00h           DW USD MT  991220 190118 Propane CFR South China 20-35 days vs Saudi Propane CP strip 5-15 days
+LI AABAI0000000l AABAI00l           DW USD MT  991220 190118 Propane CFR South China 20-35 days vs Saudi Propane CP strip 5-15 days
+LI AABAI0300000c AABAI03c           MA USD MT  991201 181201 Propane CFR South China 20-35 days vs Saudi Propane CP strip 5-15 days Mavg
+LI AABAI0300000h AABAI03h           MA USD MT  991201 181201 Propane CFR South China 20-35 days vs Saudi Propane CP strip 5-15 days Mavg
+LI AABAI0300000l AABAI03l           MA USD MT  991201 181201 Propane CFR South China 20-35 days vs Saudi Propane CP strip 5-15 days Mavg
+LI AABAK0000000c AABAK00c           DW USD MT  991220 190118 Propane Refrigerated CFR South China 20-35 days cargo
+LI AABAK0000000h AABAK00h           DW USD MT  991220 190118 Propane Refrigerated CFR South China 20-35 days cargo
+LI AABAK0000000l AABAK00l           DW USD MT  991220 190118 Propane Refrigerated CFR South China 20-35 days cargo
+LI AABAM0000000c AABAM00c           MA USD MT  991201 181201 Propane Refrigerated CFR South China 20-35 days cargo MAvg
+LI AABAM0000000h AABAM00h           MA USD MT  991201 181201 Propane Refrigerated CFR South China 20-35 days cargo MAvg
+LI AABAM0000000l AABAM00l           MA USD MT  991201 181201 Propane Refrigerated CFR South China 20-35 days cargo MAvg
+LI AABAN0000000c AABAN00c           DW USD MT  991220 190118 Propane Refrigerated CFR Taiwan 20-35 days cargo
+LI AABAN0000000h AABAN00h           DW USD MT  991220 190118 Propane Refrigerated CFR Taiwan 20-35 days cargo
+LI AABAN0000000l AABAN00l           DW USD MT  991220 190118 Propane Refrigerated CFR Taiwan 20-35 days cargo
+LI AABAO0000000c AABAO00c           DW USD MT  991220 190118 Propane CFR Taiwan 20-35 days vs Saudi Propane CP strip 5-15 days
+LI AABAO0000000h AABAO00h           DW USD MT  991220 190118 Propane CFR Taiwan 20-35 days vs Saudi Propane CP strip 5-15 days
+LI AASGN0000000u AASGN00u           DW USD MT  100301 190118 LPG Refrigerated 11:11 CFR Singapore-Japan 30-60 days cargo
+LI AASGN0300000c AASGN03c           MA USD MT  100301 181201 LPG Refrigerated 11:11 CFR Singapore-Japan 30-60 days cargo MAvg
+LI AASGO0000000u AASGO00u           DW USD MT  100301 190118 LPG Refrigerated 11:11 CFR Singapore-Japan 30-45 days
+LI AASGO0300000c AASGO03c           MA USD MT  100301 181201 LPG Refrigerated 11:11 CFR Singapore-Japan 30-45 days MAvg
+LI AASGP0000000u AASGP00u           DW USD MT  100301 190118 LPG Refrigerated 11:11 CFR Singapore-Japan 45-60 days
+LI AASGP0300000c AASGP03c           MA USD MT  100301 181201 LPG Refrigerated 11:11 CFR Singapore-Japan 45-60 days MAvg
+LI AASGQ0000000u AASGQ00u           DW USD MT  100301 190118 LPG Refrigerated 11:11 CFR Singapore-Japan 60-75 days
+LI AASGQ0300000c AASGQ03c           MA USD MT  100301 181201 LPG Refrigerated 11:11 CFR Singapore-Japan 60-75 days MAvg
+LI AABAO0000000l AABAO00l           DW USD MT  991220 190118 Propane CFR Taiwan 20-35 days vs Saudi Propane CP strip 5-15 days
+LI AABAO0300000c AABAO03c           MA USD MT  991201 181201 Propane CFR Taiwan 20-35 days vs Saudi Propane CP strip 5-15 days Mavg
+LI AABAO0300000h AABAO03h           MA USD MT  991201 181201 Propane CFR Taiwan 20-35 days vs Saudi Propane CP strip 5-15 days Mavg
+LI AABAO0300000l AABAO03l           MA USD MT  991201 181201 Propane CFR Taiwan 20-35 days vs Saudi Propane CP strip 5-15 days Mavg
+LI AABAQ0000000c AABAQ00c           MA USD MT  991201 181201 Propane Refrigerated CFR Taiwan 20-35 days cargo MAvg
+LI AABAQ0000000h AABAQ00h           MA USD MT  991201 181201 Propane Refrigerated CFR Taiwan 20-35 days cargo MAvg
+LI AABAQ0000000l AABAQ00l           MA USD MT  991201 181201 Propane Refrigerated CFR Taiwan 20-35 days cargo MAvg
+LI AABAS0000000c AABAS00c           MA USD MT  991201 181201 Butane Refrigerated CFR South China 20-35 days cargo MAvg
+LI AABAS0000000h AABAS00h           MA USD MT  991201 181201 Butane Refrigerated CFR South China 20-35 days cargo MAvg
+LI AABAS0000000l AABAS00l           MA USD MT  991201 181201 Butane Refrigerated CFR South China 20-35 days cargo MAvg
+LI AABAT0000000c AABAT00c           DW USD MT  991220 190118 Butane CFR South China 20-35 days vs Saudi Butane CP strip 5-15 days
+LI AABAT0000000h AABAT00h           DW USD MT  991220 190118 Butane CFR South China 20-35 days vs Saudi Butane CP strip 5-15 days
+LI AABAT0000000l AABAT00l           DW USD MT  991220 190118 Butane CFR South China 20-35 days vs Saudi Butane CP strip 5-15 days
+LI AABAT0300000c AABAT03c           MA USD MT  991201 181201 Butane CFR South China 20-35 days vs Saudi Butane CP strip 5-15 days MAvg
+LI AABAT0300000h AABAT03h           MA USD MT  991201 181201 Butane CFR South China 20-35 days vs Saudi Butane CP strip 5-15 days MAvg
+LI AABAT0300000l AABAT03l           MA USD MT  991201 181201 Butane CFR South China 20-35 days vs Saudi Butane CP strip 5-15 days MAvg
+LI AABAU0000000c AABAU00c           DW USD MT  991220 190118 Butane Refrigerated CFR South China 20-35 days cargo
+LI AABAU0000000h AABAU00h           DW USD MT  991220 190118 Butane Refrigerated CFR South China 20-35 days cargo
+LI AABAU0000000l AABAU00l           DW USD MT  991220 190118 Butane Refrigerated CFR South China 20-35 days cargo
+LI AABBH0000000c AABBH00c           DW USD MT  991220 190118 Butane Refrigerated CFR Taiwan 20-35 days cargo
+LI AABBH0000000h AABBH00h           DW USD MT  991220 190118 Butane Refrigerated CFR Taiwan 20-35 days cargo
+LI AABBH0000000l AABBH00l           DW USD MT  991220 190118 Butane Refrigerated CFR Taiwan 20-35 days cargo
+LI AABBI0000000c AABBI00c           DW USD MT  991220 190118 Butane CFR Taiwan 20-35 days vs Saudi Butane CP strip 5-15 days
+LI AABBI0000000h AABBI00h           DW USD MT  991220 190118 Butane CFR Taiwan 20-35 days vs Saudi Butane CP strip 5-15 days
+LI AABBI0000000l AABBI00l           DW USD MT  991220 190118 Butane CFR Taiwan 20-35 days vs Saudi Butane CP strip 5-15 days
+LI AABBJ0000000c AABBJ00c           MA USD MT  991201 181201 Butane CFR Taiwan 20-35 days vs Saudi Butane CP strip 5-15 days MAvg
+LI AABBJ0000000h AABBJ00h           MA USD MT  991201 181201 Butane CFR Taiwan 20-35 days vs Saudi Butane CP strip 5-15 days MAvg
+LI AABBJ0000000l AABBJ00l           MA USD MT  991201 181201 Butane CFR Taiwan 20-35 days vs Saudi Butane CP strip 5-15 days MAvg
+LI AABBK0000000c AABBK00c           MA USD MT  990801 181201 Butane Refrigerated CFR Taiwan 20-35 days cargo MAvg
+LI AABBK0000000h AABBK00h           MA USD MT  990801 181201 Butane Refrigerated CFR Taiwan 20-35 days cargo MAvg
+LI AABBK0000000l AABBK00l           MA USD MT  990801 181201 Butane Refrigerated CFR Taiwan 20-35 days cargo MAvg
+LI AABEO0000000c AABEO00c           WA USD MT  990927 190114 Butane FOB NWE Seagoing WAvg
+LI AABEO0000000h AABEO00h           WA USD MT  990927 190114 Butane FOB NWE Seagoing WAvg
+LI AABEO0000000l AABEO00l           WA USD MT  990927 190114 Butane FOB NWE Seagoing WAvg
+LI AABEP0000000c AABEP00c           WA USD MT  990927 190114 Butane FOB ARA WAvg
+LI AABEP0000000h AABEP00h           WA USD MT  990927 190114 Butane FOB ARA WAvg
+LI AABEP0000000l AABEP00l           WA USD MT  990927 190114 Butane FOB ARA WAvg
+LI AABEQ0000000c AABEQ00c           WA USD MT  990927 190114 Butane FCA ARA WAvg
+LI AABEQ0000000h AABEQ00h           WA USD MT  990927 190114 Butane FCA ARA WAvg
+LI AABEQ0000000l AABEQ00l           WA USD MT  990927 190114 Butane FCA ARA WAvg
+LI AABER0000000c AABER00c           WA USD MT  990927 190114 Butane CIF NWE 1-3kt WAvg
+LI AABER0000000h AABER00h           WA USD MT  990927 190114 Butane CIF NWE 1-3kt WAvg
+LI AABER0000000l AABER00l           WA USD MT  990927 190114 Butane CIF NWE 1-3kt WAvg
+LI AABES0000000c AABES00c           WA USD MT  990927 190114 Butane CIF NWE Large Cargo WAvg
+LI AABES0000000h AABES00h           WA USD MT  990927 190114 Butane CIF NWE Large Cargo WAvg
+LI AABES0000000l AABES00l           WA USD MT  990927 190114 Butane CIF NWE Large Cargo WAvg
+LI AABET0000000c AABET00c           WA USD MT  990927 190114 Butane FOB West Med Coaster WAvg
+LI AABET0000000h AABET00h           WA USD MT  990927 190114 Butane FOB West Med Coaster WAvg
+LI AABET0000000l AABET00l           WA USD MT  990927 190114 Butane FOB West Med Coaster WAvg
+LI AABEU0000000c AABEU00c           WA USD MT  990927 190114 Propane FOB NWE Seagoing WAvg
+LI AABEU0000000h AABEU00h           WA USD MT  990927 190114 Propane FOB NWE Seagoing WAvg
+LI AABEU0000000l AABEU00l           WA USD MT  990927 190114 Propane FOB NWE Seagoing WAvg
+LI AABEV0000000c AABEV00c           WA USD MT  990927 190114 Propane FOB ARA WAvg
+LI AABEV0000000h AABEV00h           WA USD MT  990927 190114 Propane FOB ARA WAvg
+LI AABEV0000000l AABEV00l           WA USD MT  990927 190114 Propane FOB ARA WAvg
+LI AABEW0000000c AABEW00c           WA USD MT  990927 190114 Propane FCA ARA WAvg
+LI AABEW0000000h AABEW00h           WA USD MT  990927 190114 Propane FCA ARA WAvg
+LI AABEW0000000l AABEW00l           WA USD MT  990927 190114 Propane FCA ARA WAvg
+LI AABEY0000000c AABEY00c           WA USD MT  990927 190114 Propane CIF NWE Large Cargo WAvg
+LI AABEY0000000h AABEY00h           WA USD MT  990927 190114 Propane CIF NWE Large Cargo WAvg
+LI AABEY0000000l AABEY00l           WA USD MT  990927 190114 Propane CIF NWE Large Cargo WAvg
+LI AABEZ0000000c AABEZ00c           WA USD MT  990927 190114 Propane FOB W Med Ex-Refinery/Storage WAvg
+LI AABEZ0000000h AABEZ00h           WA USD MT  990927 190114 Propane FOB W Med Ex-Refinery/Storage WAvg
+LI AABEZ0000000l AABEZ00l           WA USD MT  990927 190114 Propane FOB W Med Ex-Refinery/Storage WAvg
+LI AABFA0000000c AABFA00c           WA USD MT  990927 190114 Propane FCA W Med Ex-Refinery/Storage WAvg
+LI AABFA0000000h AABFA00h           WA USD MT  990927 190114 Propane FCA W Med Ex-Refinery/Storage WAvg
+LI AABFA0000000l AABFA00l           WA USD MT  990927 190114 Propane FCA W Med Ex-Refinery/Storage WAvg
+LI AABFB0000000c AABFB00c           WA USD MT  990927 190114 Propane CIF W Med 7kt+ WAvg
+LI AABFB0000000h AABFB00h           WA USD MT  990927 190114 Propane CIF W Med 7kt+ WAvg
+LI AABFB0000000l AABFB00l           WA USD MT  990927 190114 Propane CIF W Med 7kt+ WAvg
+LI AAVAK0000000c AAVAK00c           DW USD MT  061002 190118 Propane Refrigerated CFR Japan 30-45 days
+LI AAKZA0000000c AAKZA00c           DW USD MT  021209 190118 Propane FOB AG cargo vs Saudi Propane CP M1
+LI AAKZA0000000h AAKZA00h           DW USD MT  021209 190118 Propane FOB AG cargo vs Saudi Propane CP M1
+LI AAKZA0000000l AAKZA00l           DW USD MT  021209 190118 Propane FOB AG cargo vs Saudi Propane CP M1
+LI AAKZA0300000c AAKZA03c           MA USD MT  130201 181201 Propane FOB AG Cargo vs Saudi Propane CP Mo01 Mavg
+LI AAKZA0300000h AAKZA03h           MA USD MT  130201 181201 Propane FOB AG Cargo vs Saudi Propane CP Mo01 Mavg
+LI AAKZA0300000l AAKZA03l           MA USD MT  130201 181201 Propane FOB AG Cargo vs Saudi Propane CP Mo01 Mavg
+LI AAKZB0000000c AAKZB00c           DW USD MT  021209 190118 Butane FOB AG cargo vs Saudi Butane CP Mo01
+LI AAKZB0000000h AAKZB00h           DW USD MT  021209 190118 Butane FOB AG cargo vs Saudi Butane CP Mo01
+LI AAKZB0000000l AAKZB00l           DW USD MT  021209 190118 Butane FOB AG cargo vs Saudi Butane CP Mo01
+LI AAKZB0300000c AAKZB03c           MA USD MT  130201 181201 Butane FOB AG Cargo M1 vs Saudi Butane CP M1 MAvg
+LI AAKZB0300000h AAKZB03h           MA USD MT  130201 181201 Butane FOB AG Cargo M1 vs Saudi Butane CP M1 MAvg
+LI AAKZB0300000l AAKZB03l           MA USD MT  130201 181201 Butane FOB AG Cargo M1 vs Saudi Butane CP M1 MAvg
+LI AAKZC0000000c AAKZC00c           DW USD MT  021209 190118 Propane Saudi CP strip 20-40 days AG loading to Japan-Korea
+LI AAKZC0000000h AAKZC00h           DW USD MT  021209 190118 Propane Saudi CP strip 20-40 days AG loading to Japan-Korea
+LI AAKZC0000000l AAKZC00l           DW USD MT  021209 190118 Propane Saudi CP strip 20-40 days AG loading to Japan-Korea
+LI AAKZC0300000c AAKZC03c           MA USD MT  021201 181201 Propane Saudi CP strip 20-40 days AG loading to Japan-Korea MAvg
+LI AAKZC0300000h AAKZC03h           MA USD MT  021201 181201 Propane Saudi CP strip 20-40 days AG loading to Japan-Korea MAvg
+LI AAKZC0300000l AAKZC03l           MA USD MT  021201 181201 Propane Saudi CP strip 20-40 days AG loading to Japan-Korea MAvg
+LI AAKZD0000000c AAKZD00c           DW USD MT  021209 190118 Butane Saudi CP strip 20-40 days AG loading to Japan-Korea
+LI AAKZD0000000h AAKZD00h           DW USD MT  021209 190118 Butane Saudi CP strip 20-40 days AG loading to Japan-Korea
+LI AAKZD0000000l AAKZD00l           DW USD MT  021209 190118 Butane Saudi CP strip 20-40 days AG loading to Japan-Korea
+LI AAKZD0300000c AAKZD03c           MA USD MT  021201 181201 Butane Saudi CP strip 20-40 days AG loading to Japan-Korea MAvg
+LI AAKZD0300000h AAKZD03h           MA USD MT  021201 181201 Butane Saudi CP strip 20-40 days AG loading to Japan-Korea MAvg
+LI AAKZD0300000l AAKZD03l           MA USD MT  021201 181201 Butane Saudi CP strip 20-40 days AG loading to Japan-Korea MAvg
+LI AAKZE0000000c AAKZE00c           DW USD MT  021209 190118 Propane Saudi CP strip 5-15 days AG loading to China-Taiwan
+LI AAKZE0000000h AAKZE00h           DW USD MT  021209 190118 Propane Saudi CP strip 5-15 days AG loading to China-Taiwan
+LI AAKZE0000000l AAKZE00l           DW USD MT  021209 190118 Propane Saudi CP strip 5-15 days AG loading to China-Taiwan
+LI AAKZE0300000c AAKZE03c           MA USD MT  021201 181201 Propane Saudi CP strip 5-15 days AG loading to China-Taiwan MAvg
+LI AAKZE0300000h AAKZE03h           MA USD MT  021201 181201 Propane Saudi CP strip 5-15 days AG loading to China-Taiwan MAvg
+LI AAKZE0300000l AAKZE03l           MA USD MT  021201 181201 Propane Saudi CP strip 5-15 days AG loading to China-Taiwan MAvg
+LI AAKZF0000000c AAKZF00c           DW USD MT  021209 190118 Butane Saudi CP strip 5-15 days AG loading to China-Taiwan
+LI AAKZF0000000h AAKZF00h           DW USD MT  021209 190118 Butane Saudi CP strip 5-15 days AG loading to China-Taiwan
+LI AAKZF0000000l AAKZF00l           DW USD MT  021209 190118 Butane Saudi CP strip 5-15 days AG loading to China-Taiwan
+LI AAKZF0300000c AAKZF03c           MA USD MT  021201 181201 Butane Saudi CP strip 5-15 days AG loading to China-Taiwan MAvg
+LI AAKZF0300000h AAKZF03h           MA USD MT  021201 181201 Butane Saudi CP strip 5-15 days AG loading to China-Taiwan MAvg
+LI AAKZF0300000l AAKZF03l           MA USD MT  021201 181201 Butane Saudi CP strip 5-15 days AG loading to China-Taiwan MAvg
+LI AAVAK0000000h AAVAK00h           DW USD MT  061002 190118 Propane Refrigerated CFR Japan 30-45 days
+LI AAVAK0000000l AAVAK00l           DW USD MT  061002 190118 Propane Refrigerated CFR Japan 30-45 days
+LI AAVAK0300000c AAVAK03c           MA USD MT  070601 181201 Propane Refrigerated CFR Japan 30-45 days MAvg
+LI AAVAK0300000h AAVAK03h           MA USD MT  070601 181201 Propane Refrigerated CFR Japan 30-45 days MAvg
+LI AAVAK0300000l AAVAK03l           MA USD MT  070601 181201 Propane Refrigerated CFR Japan 30-45 days MAvg
+LI AAVAL0000000c AAVAL00c           DW USD MT  061002 190118 Propane Refrigerated CFR Japan 45-60 days
+LI AAVAL0000000h AAVAL00h           DW USD MT  061002 190118 Propane Refrigerated CFR Japan 45-60 days
+LI AAVAL0000000l AAVAL00l           DW USD MT  061002 190118 Propane Refrigerated CFR Japan 45-60 days
+LI AAVAL0300000c AAVAL03c           MA USD MT  070601 181201 Propane Refrigerated CFR Japan 45-60 days MAvg
+LI AAVAL0300000h AAVAL03h           MA USD MT  070601 181201 Propane Refrigerated CFR Japan 45-60 days MAvg
+LI AAVAL0300000l AAVAL03l           MA USD MT  070601 181201 Propane Refrigerated CFR Japan 45-60 days MAvg
+LI AAVAM0000000c AAVAM00c           DW USD MT  061002 190118 Propane Refrigerated CFR Japan 60-75 days
+LI AAVAM0000000h AAVAM00h           DW USD MT  061002 190118 Propane Refrigerated CFR Japan 60-75 days
+LI AAVAM0000000l AAVAM00l           DW USD MT  061002 190118 Propane Refrigerated CFR Japan 60-75 days
+LI AAVAM0300000c AAVAM03c           MA USD MT  070601 181201 Propane Refrigerated CFR Japan 60-75 days MAvg
+LI AAVAM0300000h AAVAM03h           MA USD MT  070601 181201 Propane Refrigerated CFR Japan 60-75 days MAvg
+LI AAVAM0300000l AAVAM03l           MA USD MT  070601 181201 Propane Refrigerated CFR Japan 60-75 days MAvg
+LI AAVAN0000000c AAVAN00c           DW USD MT  061002 190118 Butane Refrigerated CFR Japan 30-45 days
+LI AAVAN0000000h AAVAN00h           DW USD MT  061002 190118 Butane Refrigerated CFR Japan 30-45 days
+LI AAVAN0000000l AAVAN00l           DW USD MT  061002 190118 Butane Refrigerated CFR Japan 30-45 days
+LI AAVAN0300000c AAVAN03c           MA USD MT  061001 181201 Butane Refrigerated CFR Japan 30-45 days MAvg
+LI AAVAN0300000h AAVAN03h           MA USD MT  061001 181201 Butane Refrigerated CFR Japan 30-45 days MAvg
+LI AAVAN0300000l AAVAN03l           MA USD MT  061001 181201 Butane Refrigerated CFR Japan 30-45 days MAvg
+LI AAVAO0000000c AAVAO00c           DW USD MT  061002 190118 Butane Refrigerated CFR Japan 45-60 days
+LI AAVAO0000000h AAVAO00h           DW USD MT  061002 190118 Butane Refrigerated CFR Japan 45-60 days
+LI AAVAO0000000l AAVAO00l           DW USD MT  061002 190118 Butane Refrigerated CFR Japan 45-60 days
+LI AAVAO0300000c AAVAO03c           MA USD MT  061001 181201 Butane Refrigerated CFR Japan 45-60 days MAvg
+LI AAVAO0300000h AAVAO03h           MA USD MT  061001 181201 Butane Refrigerated CFR Japan 45-60 days MAvg
+LI AAVAO0300000l AAVAO03l           MA USD MT  061001 181201 Butane Refrigerated CFR Japan 45-60 days MAvg
+LI AAVAP0000000c AAVAP00c           DW USD MT  061002 190118 Butane Refrigerated CFR Japan 60-75 days
+LI AAVAP0000000h AAVAP00h           DW USD MT  061002 190118 Butane Refrigerated CFR Japan 60-75 days
+LI AAVAP0000000l AAVAP00l           DW USD MT  061002 190118 Butane Refrigerated CFR Japan 60-75 days
+LI AAVAP0300000c AAVAP03c           MA USD MT  061001 181201 Butane Refrigerated CFR Japan 60-75 days MAvg
+LI AAVAP0300000h AAVAP03h           MA USD MT  061001 181201 Butane Refrigerated CFR Japan 60-75 days MAvg
+LI AAVAP0300000l AAVAP03l           MA USD MT  061001 181201 Butane Refrigerated CFR Japan 60-75 days MAvg
+LI AAXIQ0000000c AAXIQ00c           DW USD MT  130701 190118 VLGC Freight Houston-NWE
+LI AAXIQ0000000h AAXIQ00h           DW USD MT  130701 190118 VLGC Freight Houston-NWE
+LI AAXIQ0000000l AAXIQ00l           DW USD MT  130701 190118 VLGC Freight Houston-NWE
+LI AAXIQ0300000c AAXIQ03c           MA USD MT  130701 181201 VLGC Freight Houston-NWE MAvg
+LI AAXIQ0300000h AAXIQ03h           MA USD MT  130701 181201 VLGC Freight Houston-NWE MAvg
+LI AAXIQ0300000l AAXIQ03l           MA USD MT  130701 181201 VLGC Freight Houston-NWE MAvg
+LI AAXIR0000000c AAXIR00c           DW USC GAL 130701 190118 VLGC Freight Houston-NWE cts/gal
+LI AAXIR0000000h AAXIR00h           DW USC GAL 130701 190118 VLGC Freight Houston-NWE cts/gal
+LI AAXIR0000000l AAXIR00l           DW USC GAL 130701 190118 VLGC Freight Houston-NWE cts/gal
+LI AAXIR0300000c AAXIR03c           MA USC GAL 130701 181201 VLGC Freight Houston-NWE cts/gal MAvg
+LI AAXIR0300000h AAXIR03h           MA USC GAL 130701 181201 VLGC Freight Houston-NWE cts/gal MAvg
+LI AAXIR0300000l AAXIR03l           MA USC GAL 130701 181201 VLGC Freight Houston-NWE cts/gal MAvg
+LI AAXIS0000000c AAXIS00c           DW USD MT  130701 190118 VLGC Freight Houston-Japan
+LI AAXIS0000000h AAXIS00h           DW USD MT  130701 190118 VLGC Freight Houston-Japan
+LI AAXIS0000000l AAXIS00l           DW USD MT  130701 190118 VLGC Freight Houston-Japan
+LI AAXIS0300000c AAXIS03c           MA USD MT  130701 181201 VLGC Freight Houston-Japan MAvg
+LI AAXIS0300000h AAXIS03h           MA USD MT  130701 181201 VLGC Freight Houston-Japan MAvg
+LI AAXIS0300000l AAXIS03l           MA USD MT  130701 181201 VLGC Freight Houston-Japan MAvg
+LI AAXIT0000000c AAXIT00c           DW USC GAL 130701 190118 VLGC Freight Houston-Japan cts/gal
+LI AAXIT0000000h AAXIT00h           DW USC GAL 130701 190118 VLGC Freight Houston-Japan cts/gal
+LI AAXIT0000000l AAXIT00l           DW USC GAL 130701 190118 VLGC Freight Houston-Japan cts/gal
+LI AAXIT0300000c AAXIT03c           MA USC GAL 130701 181201 VLGC Freight Houston-Japan cts/gal MAvg
+LI AAXIT0300000h AAXIT03h           MA USC GAL 130701 181201 VLGC Freight Houston-Japan cts/gal MAvg
+LI AAXIT0300000l AAXIT03l           MA USC GAL 130701 181201 VLGC Freight Houston-Japan cts/gal MAvg
+LI AAWUV0000000c AAWUV00c           DW USD MT  120801 190118 LPG Pressurized CFR Vietnam 7-15 days
+LI AAWUV0000000h AAWUV00h           DW USD MT  120801 190118 LPG Pressurized CFR Vietnam 7-15 days
+LI AAWUV0000000l AAWUV00l           DW USD MT  120801 190118 LPG Pressurized CFR Vietnam 7-15 days
+LI AAWUV0300000c AAWUV03c           MA USD MT  120801 181201 LPG Pressurized CFR Vietnam 7-15 days MAvg
+LI AAWUV0300000h AAWUV03h           MA USD MT  120801 181201 LPG Pressurized CFR Vietnam 7-15 days MAvg
+LI AAWUV0300000l AAWUV03l           MA USD MT  120801 181201 LPG Pressurized CFR Vietnam 7-15 days MAvg
+LI AAWUW0000000c AAWUW00c           DW USD MT  120801 190118 LPG Pressurized CFR Vietnam vs Saudi Propane-Butane CP Mo01
+LI AAWUW0000000h AAWUW00h           DW USD MT  120801 190118 LPG Pressurized CFR Vietnam vs Saudi Propane-Butane CP Mo01
+LI AAWUW0000000l AAWUW00l           DW USD MT  120801 190118 LPG Pressurized CFR Vietnam vs Saudi Propane-Butane CP Mo01
+LI AAWUW0300000c AAWUW03c           MA USD MT  120801 181201 LPG Pressurized CFR Vietnam vs Saudi Propane-Butane CP Mo01 MAvg
+LI AAWUW0300000h AAWUW03h           MA USD MT  120801 181201 LPG Pressurized CFR Vietnam vs Saudi Propane-Butane CP Mo01 MAvg
+LI AAWUW0300000l AAWUW03l           MA USD MT  120801 181201 LPG Pressurized CFR Vietnam vs Saudi Propane-Butane CP Mo01 MAvg
+LI AAWUX0000000c AAWUX00c           DW USD MT  120801 190118 LPG Pressurized CFR Philippines 7-15 days
+LI AAWUX0000000h AAWUX00h           DW USD MT  120801 190118 LPG Pressurized CFR Philippines 7-15 days
+LI AAWUX0000000l AAWUX00l           DW USD MT  120801 190118 LPG Pressurized CFR Philippines 7-15 days
+LI AAWUX0300000c AAWUX03c           MA USD MT  120801 181201 LPG Pressurized CFR Philippines 7-15 days MAvg
+LI AAWUX0300000h AAWUX03h           MA USD MT  120801 181201 LPG Pressurized CFR Philippines 7-15 days MAvg
+LI AAWUX0300000l AAWUX03l           MA USD MT  120801 181201 LPG Pressurized CFR Philippines 7-15 days MAvg
+LI AAWUY0000000c AAWUY00c           DW USD MT  120801 190118 LPG Pressurized CFR Philippines vs Saudi Propane-Butane CP Mo01
+LI AAWUY0000000h AAWUY00h           DW USD MT  120801 190118 LPG Pressurized CFR Philippines vs Saudi Propane-Butane CP Mo01
+LI AAWUY0000000l AAWUY00l           DW USD MT  120801 190118 LPG Pressurized CFR Philippines vs Saudi Propane-Butane CP Mo01
+LI AAWUY0300000c AAWUY03c           MA USD MT  120801 181201 LPG Pressurized CFR Philippines vs Saudi Propane-Butane CP Mo01 MAvg
+LI AAWUY0300000h AAWUY03h           MA USD MT  120801 181201 LPG Pressurized CFR Philippines vs Saudi Propane-Butane CP Mo01 MAvg
+LI AAWUY0300000l AAWUY03l           MA USD MT  120801 181201 LPG Pressurized CFR Philippines vs Saudi Propane-Butane CP Mo01 MAvg
+LI AAWUZ0000000c AAWUZ00c           DW USD MT  120801 190118 LPG Pressurized FOB East China 7-15 days
+LI AAWUZ0000000h AAWUZ00h           DW USD MT  120801 190118 LPG Pressurized FOB East China 7-15 days
+LI AAWUZ0000000l AAWUZ00l           DW USD MT  120801 190118 LPG Pressurized FOB East China 7-15 days
+LI AAWUZ0300000c AAWUZ03c           MA USD MT  120801 181201 LPG Pressurized FOB East China 7-15 days MAvg
+LI AAWUZ0300000h AAWUZ03h           MA USD MT  120801 181201 LPG Pressurized FOB East China 7-15 days MAvg
+LI AAWUZ0300000l AAWUZ03l           MA USD MT  120801 181201 LPG Pressurized FOB East China 7-15 days MAvg
+LI AAWVA0000000c AAWVA00c           DW USD MT  120801 190118 LPG Pressurized FOB East China vs Saudi Propane-Butane CP Mo01
+LI AAWVA0000000h AAWVA00h           DW USD MT  120801 190118 LPG Pressurized FOB East China vs Saudi Propane-Butane CP Mo01
+LI AAWVA0000000l AAWVA00l           DW USD MT  120801 190118 LPG Pressurized FOB East China vs Saudi Propane-Butane CP Mo01
+LI AAWVA0300000c AAWVA03c           MA USD MT  120801 181201 LPG Pressurized FOB East China vs Saudi Propane-Butane CP Mo01 MAvg
+LI AAWVA0300000h AAWVA03h           MA USD MT  120801 181201 LPG Pressurized FOB East China vs Saudi Propane-Butane CP Mo01 MAvg
+LI AAWVA0300000l AAWVA03l           MA USD MT  120801 181201 LPG Pressurized FOB East China vs Saudi Propane-Butane CP Mo01 MAvg
+LI AAWVB0000000c AAWVB00c           DW USD MT  120801 190118 LPG Pressurized FOB South China 7-15 days
+LI AAWVB0000000h AAWVB00h           DW USD MT  120801 190118 LPG Pressurized FOB South China 7-15 days
+LI AAWVB0000000l AAWVB00l           DW USD MT  120801 190118 LPG Pressurized FOB South China 7-15 days
+LI AAWVB0300000c AAWVB03c           MA USD MT  120801 181201 LPG Pressurized FOB South China 7-15 days MAvg
+LI AAWVB0300000h AAWVB03h           MA USD MT  120801 181201 LPG Pressurized FOB South China 7-15 days MAvg
+LI AAWVB0300000l AAWVB03l           MA USD MT  120801 181201 LPG Pressurized FOB South China 7-15 days MAvg
+LI AAWVC0000000c AAWVC00c           DW USD MT  120801 190118 LPG Pressurized FOB South China vs Saudi Propane-Butane CP Mo01
+LI AAWVC0000000h AAWVC00h           DW USD MT  120801 190118 LPG Pressurized FOB South China vs Saudi Propane-Butane CP Mo01
+LI AAWVC0000000l AAWVC00l           DW USD MT  120801 190118 LPG Pressurized FOB South China vs Saudi Propane-Butane CP Mo01
+LI AAWVC0300000c AAWVC03c           MA USD MT  120801 181201 LPG Pressurized FOB South China vs Saudi Propane-Butane CP Mo01 MAvg
+LI AAWVC0300000h AAWVC03h           MA USD MT  120801 181201 LPG Pressurized FOB South China vs Saudi Propane-Butane CP Mo01 MAvg
+LI AAWVC0300000l AAWVC03l           MA USD MT  120801 181201 LPG Pressurized FOB South China vs Saudi Propane-Butane CP Mo01 MAvg
+LI AAWVD0000000c AAWVD00c           DW USD MT  120801 190118 LPG Pressurized FOB Singapore 7-15 days
+LI AAWVD0000000h AAWVD00h           DW USD MT  120801 190118 LPG Pressurized FOB Singapore 7-15 days
+LI AAWVD0000000l AAWVD00l           DW USD MT  120801 190118 LPG Pressurized FOB Singapore 7-15 days
+LI AAWVD0300000c AAWVD03c           MA USD MT  120801 181201 LPG Pressurized FOB Singapore 7-15 days MAvg
+LI AAWVD0300000h AAWVD03h           MA USD MT  120801 181201 LPG Pressurized FOB Singapore 7-15 days MAvg
+LI AAWVD0300000l AAWVD03l           MA USD MT  120801 181201 LPG Pressurized FOB Singapore 7-15 days MAvg
+LI AAWVE0000000c AAWVE00c           DW USD MT  120801 190118 LPG Pressurized FOB Singapore vs Saudi Propane-Butane CP Mo01
+LI AAWVE0000000h AAWVE00h           DW USD MT  120801 190118 LPG Pressurized FOB Singapore vs Saudi Propane-Butane CP Mo01
+LI AAWVE0000000l AAWVE00l           DW USD MT  120801 190118 LPG Pressurized FOB Singapore vs Saudi Propane-Butane CP Mo01
+LI AAWVE0300000c AAWVE03c           MA USD MT  120801 181201 LPG Pressurized FOB Singapore vs Saudi Propane-Butane CP Mo01 MAvg
+LI AAWVE0300000h AAWVE03h           MA USD MT  120801 181201 LPG Pressurized FOB Singapore vs Saudi Propane-Butane CP Mo01 MAvg
+LI AAWVE0300000l AAWVE03l           MA USD MT  120801 181201 LPG Pressurized FOB Singapore vs Saudi Propane-Butane CP Mo01 MAvg
+LI PRPPN$NWEDBHc PMUDI00c           DW USD MT  980624 190118 Propane FOB NWE Seagoing Month to Date
+LI PRPPN$NWEDBHh PMUDI00h PPPRNE5GH DW USD MT  980624 190118 Propane FOB NWE Seagoing Month to Date
+LI PRPPN$NWEDBHl PMUDI00l PPPRNE5GL DW USD MT  980624 190118 Propane FOB NWE Seagoing Month to Date
+LI PRPPN$NWEDBJc PMUDK00c           DW USD MT  980624 190118 Propane CIF NWE Large Cargo Month to Date
+LI PRPPN$NWEDBJh PMUDK00h PPPRNEDUH DW USD MT  980624 190118 Propane CIF NWE Large Cargo Month to Date
+LI PRPPN$NWEDBJl PMUDK00l PPPRNEDUL DW USD MT  980624 190118 Propane CIF NWE Large Cargo Month to Date
+LI PRPPN$ARGAAAc PMUDM00c           DW USD MT  980601 190118 Propane FOB AG 20-40 days cargo
+LI PRPPN$ARGAAAh PMUDM00h           DW USD MT  980601 190118 Propane FOB AG 20-40 days cargo
+LI PRPPN$ARGAAAl PMUDM00l           DW USD MT  980601 190118 Propane FOB AG 20-40 days cargo
+LI PRPPN$ARGAABc PMUDN03c PPPRAG5CE MA USD MT  990101 181201 Propane FOB AG 20-40 days cargo MAvg
+LI PRPPN$ARGAABh PMUDN03h PPPRAG5CC MA USD MT  990101 181201 Propane FOB AG 20-40 days cargo MAvg
+LI PRPPN$ARGAABl PMUDN03l PPPRAG5CD MA USD MT  990101 181201 Propane FOB AG 20-40 days cargo MAvg
+LI PRPPN$ARGAACc PMUDO00c           DW USD MT  980624 190118 Propane FOB AG 20-40 days cargo Month to Date
+LI PRPPN$ARGAACh PMUDO00h           DW USD MT  980624 190118 Propane FOB AG 20-40 days cargo Month to Date
+LI PRPPN$ARGAACl PMUDO00l           DW USD MT  980624 190118 Propane FOB AG 20-40 days cargo Month to Date
+LI PRPBTNARGAAAc PMUDQ00c           DW USD MT  980612 190118 Butane FOB AG 20-40 days cargo Month to Date
+LI PRPBTNARGAAAh PMUDQ00h           DW USD MT  980612 190118 Butane FOB AG 20-40 days cargo Month to Date
+LI PRPBTNARGAAAl PMUDQ00l           DW USD MT  980612 190118 Butane FOB AG 20-40 days cargo Month to Date
+LI PRPBTNARGAABc PMUDR00c           DW USD MT  980601 190118 Butane FOB AG 20-40 days cargo
+LI PRPBTNARGAABh PMUDR00h PPBNAG5UH DW USD MT  980601 190118 Butane FOB AG 20-40 days cargo
+LI PRPBTNARGAABl PMUDR00l PPBNAG5UL DW USD MT  980601 190118 Butane FOB AG 20-40 days cargo
+LI PRPBTNARGAACc PMUDS03c           MA USD MT  990101 181201 Butane FOB AG 20-40 days cargo MAvg
+LI PRPBTNARGAACh PMUDS03h           MA USD MT  990101 181201 Butane FOB AG 20-40 days cargo MAvg
+LI PRPBTNARGAACl PMUDS03l           MA USD MT  990101 181201 Butane FOB AG 20-40 days cargo MAvg
+LI PRPBTNNWEBHSc PMUDU03c PPBNNE5GE MA USD MT  990101 181201 Butane FOB NWE Seagoing MAvg
+LI PRPBTNNWEBHSh PMUDU03h PPBNNE5GC MA USD MT  990101 181201 Butane FOB NWE Seagoing MAvg
+LI PRPBTNNWEBHSl PMUDU03l PPBNNE5GD MA USD MT  990101 181201 Butane FOB NWE Seagoing MAvg
+LI PRPBTNNWEBHTc PMUDV03c PPBNAA5UE MA USD MT  990101 181201 Butane FOB ARA MAvg
+LI PRPBTNNWEBHTh PMUDV03h PPBNAA5UC MA USD MT  990101 181201 Butane FOB ARA MAvg
+LI PRPBTNNWEBHTl PMUDV03l PPBNAA5UD MA USD MT  990101 181201 Butane FOB ARA MAvg
+LI PRPBTNNWEBHUc PMUDW03c PPBNAASUE MA USD MT  990101 181201 Butane FCA ARA MAvg
+LI PRPBTNNWEBHUh PMUDW03h PPBNAASUC MA USD MT  990101 181201 Butane FCA ARA MAvg
+LI PRPBTNNWEBHUl PMUDW03l PPBNAASUD MA USD MT  990101 181201 Butane FCA ARA MAvg
+LI PRPBTNNWEBHVc PMUDX03c PPBNNEGUE MA USD MT  990101 181201 Butane CIF NWE 1-3kt MAvg
+LI PRPBTNNWEBHVh PMUDX03h PPBNNEGUC MA USD MT  990101 181201 Butane CIF NWE 1-3kt MAvg
+LI PRPBTNNWEBHVl PMUDX03l PPBNNEGUD MA USD MT  990101 181201 Butane CIF NWE 1-3kt MAvg
+LI PRPBTNNWEBHWc PMUDY03c PPBNNEHUE MA USD MT  990101 181201 Butane CIF NWE Large Cargo MAvg
+LI PRPBTNNWEBHWh PMUDY03h PPBNNEHUC MA USD MT  990101 181201 Butane CIF NWE Large Cargo MAvg
+LI PRPBTNNWEBHWl PMUDY03l PPBNNEHUD MA USD MT  990101 181201 Butane CIF NWE Large Cargo MAvg
+LI PRPBTNWMDBHUc PMUDZ03c PPBNWMAUE MA USD MT  990101 181201 Butane FOB West Med Coaster MAvg
+LI PRPBTNWMDBHUh PMUDZ03h PPBNWMAUC MA USD MT  990101 181201 Butane FOB West Med Coaster MAvg
+LI PRPBTNWMDBHUl PMUDZ03l PPBNWMAUD MA USD MT  990101 181201 Butane FOB West Med Coaster MAvg
+LI PRPPN$NWEDBLc PMUEA03c PPPRNESGE MA USD MT  990101 181201 Propane FOB NWE Seagoing MAvg
+LI PRPPN$NWEDBLh PMUEA03h PPPRNESGC MA USD MT  990101 181201 Propane FOB NWE Seagoing MAvg
+LI PRPPN$NWEDBLl PMUEA03l PPPRNESGD MA USD MT  990101 181201 Propane FOB NWE Seagoing MAvg
+LI PRPPN$NWEDBMc PMUEB03c PPPRAA5UE MA USD MT  990301 181201 Propane FOB ARA MAvg
+LI PRPPN$NWEDBMh PMUEB03h PPPRAA5UC MA USD MT  990301 181201 Propane FOB ARA MAvg
+LI PRPPN$NWEDBMl PMUEB03l PPPRAA5UD MA USD MT  990301 181201 Propane FOB ARA MAvg
+LI PRPPN$NWEDBNc PMUEC03c PPPRAASUE MA USD MT  990301 181201 Propane FCA ARA MAvg
+LI PRPPN$NWEDBNh PMUEC03h PPPRAASUC MA USD MT  990301 181201 Propane FCA ARA MAvg
+LI PRPPN$NWEDBNl PMUEC03l PPPRAASUD MA USD MT  990301 181201 Propane FCA ARA MAvg
+LI PRPPN$NWEDBPc PMUEE03c PPPRNEHUE MA USD MT  990101 181201 Propane CIF NWE Large Cargo MAvg
+LI PRPPN$NWEDBPh PMUEE03h PPPRNEHUC MA USD MT  990101 181201 Propane CIF NWE Large Cargo MAvg
+LI PRPPN$NWEDBPl PMUEE03l PPPRNEHUD MA USD MT  990101 181201 Propane CIF NWE Large Cargo MAvg
+LI PRPPN$WMDCVIc PMUEF03c PPPRWMAUE MA USD MT  990101 181201 Propane FOB W Med Ex-Refinery/Storage MAvg
+LI PRPPN$WMDCVIh PMUEF03h PPPRWMAUC MA USD MT  990101 181201 Propane FOB W Med Ex-Refinery/Storage MAvg
+LI PRPPN$WMDCVIl PMUEF03l PPPRWMAUD MA USD MT  990101 181201 Propane FOB W Med Ex-Refinery/Storage MAvg
+LI PRPPN$WMDCVJc PMUEG03c PPPRWMSUE MA USD MT  990101 181201 Propane FCA W Med Ex-Refinery/Storage MAvg
+LI PRPPN$WMDCVJh PMUEG03h PPPRWMSUC MA USD MT  990101 181201 Propane FCA W Med Ex-Refinery/Storage MAvg
+LI PRPPN$WMDCVJl PMUEG03l PPPRWMSUD MA USD MT  990101 181201 Propane FCA W Med Ex-Refinery/Storage MAvg
+LI PRPPN$WMDCVKc PMUEH03c PPPRWMHUE MA USD MT  990101 181201 Propane CIF W Med 7kt+ MAvg
+LI PRPPN$WMDCVKh PMUEH03h PPPRWMHUC MA USD MT  990101 181201 Propane CIF W Med 7kt+ MAvg
+LI PRPPN$WMDCVKl PMUEH03l PPPRWMHUD MA USD MT  990101 181201 Propane CIF W Med 7kt+ MAvg
+LI PRPPN$JPNCUZc PMUEI03c PPPRJAJUE MA USD MT  990101 181201 Propane CFR Japan 30-60 days vs Saudi Propane CP strip 20-40 days MAvg
+LI PRPPN$JPNCUZh PMUEI03h PPPRJAJUC MA USD MT  990101 181201 Propane CFR Japan 30-60 days vs Saudi Propane CP strip 20-40 days MAvg
+LI PRPPN$JPNCUZl PMUEI03l PPPRJAJUD MA USD MT  990101 181201 Propane CFR Japan 30-60 days vs Saudi Propane CP strip 20-40 days MAvg
+LI PRPPN$ARGAAEc PMUEJ03c PPPRAGKUE MA USD MT  990101 181201 Propane FOB AG 20-40 days cargo vs Propane Saudi CP strip 20-40 days MAvg
+LI PRPPN$ARGAAEh PMUEJ03h PPPRAGKUC MA USD MT  990101 181201 Propane FOB AG 20-40 days cargo vs Propane Saudi CP strip 20-40 days MAvg
+LI PRPPN$ARGAAEl PMUEJ03l PPPRAGKUD MA USD MT  990101 181201 Propane FOB AG 20-40 days cargo vs Propane Saudi CP strip 20-40 days MAvg
+LI PRPBTNARGAAEc PMUEK03c PPBNAGKUE MA USD MT  990101 181201 Butane FOB AG 20-40 days cargo vs Butane Saudi CP strip 20-40 days MAvg
+LI PRPBTNARGAAEh PMUEK03h PPBNAGKUC MA USD MT  990101 181201 Butane FOB AG 20-40 days cargo vs Butane Saudi CP strip 20-40 days MAvg
+LI PRPBTNARGAAEl PMUEK03l PPBNAGKUD MA USD MT  990101 181201 Butane FOB AG 20-40 days cargo vs Butane Saudi CP strip 20-40 days MAvg
+LI PRPBTNJPNBHNc PMUEL03c PPBNJAKUE MA USD MT  990101 181201 Butane CFR Japan 30-60 days vs Saudi Butane CP strip 5-15 days MAvg
+LI PRPBTNJPNBHNh PMUEL03h PPBNJAKUC MA USD MT  990101 181201 Butane CFR Japan 30-60 days vs Saudi Butane CP strip 5-15 days MAvg
+LI PRPBTNJPNBHNl PMUEL03l PPBNJAKUD MA USD MT  990101 181201 Butane CFR Japan 30-60 days vs Saudi Butane CP strip 5-15 days MAvg
+LI PRPBTNARABHDc PMAAC00c           DW USD MT  850405 190118 Butane FOB ARA
+LI PRPBTNARABHDh PMAAC00h           DW USD MT  850405 190118 Butane FOB ARA
+LI PRPBTNARABHDl PMAAC00l           DW USD MT  850405 190118 Butane FOB ARA
+LI PMAACPT00000u PMAACPTu           DW N/A PCT 180709 190118 Butane FOB ARA Physical Percentage vs Naphtha Cargoes CIF NWE
+LI PRPBTNJPNBHKc PMAAF00c           DW USD MT  850405 190118 Butane Refrigerated CFR Japan 30-60 days cargo
+LI PRPBTNJPNBHKh PMAAF00h PPBNJACCH DW USD MT  850405 190118 Butane Refrigerated CFR Japan 30-60 days cargo
+LI PRPBTNJPNBHKl PMAAF00l PPBNJACCL DW USD MT  850405 190118 Butane Refrigerated CFR Japan 30-60 days cargo
+LI PRPBTNJPNBHMc PMAAH00c           DW USD MT  930205 190118 Butane CFR Japan 30-60 days vs Saudi Butane CP strip 5-15 days
+LI PRPBTNJPNBHMh PMAAH00h PPBNJAJCH DW USD MT  930205 190118 Butane CFR Japan 30-60 days vs Saudi Butane CP strip 5-15 days
+LI PRPBTNJPNBHMl PMAAH00l PPBNJAJCL DW USD MT  930205 190118 Butane CFR Japan 30-60 days vs Saudi Butane CP strip 5-15 days
+LI PRPBTNNWEBHPc PMAAJ00c           DW USD MT  850405 190118 Butane CIF NWE 1-3kt
+LI PRPBTNNWEBHPh PMAAJ00h PPBNNEGCH DW USD MT  850405 190118 Butane CIF NWE 1-3kt
+LI PRPBTNNWEBHPl PMAAJ00l PPBNNEGCL DW USD MT  850405 190118 Butane CIF NWE 1-3kt
+LI PMAAJPT00000u PMAAJPTu           DW N/A PCT 180709 190118 Butane CIF NWE 1-3kt Physical Percentage vs Naphtha Cargoes CIF NWE
+LI PRPBTNNWEBHQc PMAAK00c           DW USD MT  850405 190118 Butane CIF NWE Large Cargo
+LI PRPBTNNWEBHQh PMAAK00h PPBNNEHCH DW USD MT  850405 190118 Butane CIF NWE Large Cargo
+LI PRPBTNNWEBHQl PMAAK00l PPBNNEHCL DW USD MT  850405 190118 Butane CIF NWE Large Cargo
+LI PMAAKPT00000u PMAAKPTu           DW N/A PCT 180709 190118 Butane CIF NWE Large Cargo Physical Percentage vs Naphtha Cargoes CIF NWE
+LI PRPBTNNWEBHRc PMAAL00c           DW USD MT  850405 190118 Butane FOB NWE Seagoing
+LI PRPBTNNWEBHRh PMAAL00h PPBNNESGH DW USD MT  850405 190118 Butane FOB NWE Seagoing
+LI PRPBTNNWEBHRl PMAAL00l PPBNNESGL DW USD MT  850405 190118 Butane FOB NWE Seagoing
+LI PMAALPT00000u PMAALPTu           DW N/A PCT 180709 190118 Butane FOB NWE Seagoing Physical Percentage vs Naphtha Cargoes CIF NWE
+LI PRPBTNWMDBHSc PMAAM00c           DW USD MT  850405 190118 Butane FOB West Med Coaster
+LI PRPBTNWMDBHSh PMAAM00h PPBNWMAUH DW USD MT  850405 190118 Butane FOB West Med Coaster
+LI PRPBTNWMDBHSl PMAAM00l PPBNWMAUL DW USD MT  850405 190118 Butane FOB West Med Coaster
+LI PMAAMPT00000u PMAAMPTu           DW N/A PCT 180709 190118 Butane FOB West Med Coaster Physical Percentage vs Naphtha Cargoes CIF NWE
+LI PRPPN$ARACUPc PMAAS00c           DW USD MT  850405 190118 Propane FOB ARA
+LI PRPPN$ARACUPh PMAAS00h           DW USD MT  850405 190118 Propane FOB ARA
+LI PRPPN$ARACUPl PMAAS00l           DW USD MT  850405 190118 Propane FOB ARA
+LI PMAASPT00000u PMAASPTu           DW N/A PCT 180709 190118 Propane FOB ARA Physical Percentage vs Naphtha Cargoes CIF NWE
+LI PRPPN$JPNCUWc PMAAV00c           DW USD MT  820702 190118 Propane Refrigerated CFR Japan 30-60 days cargo
+LI PRPPN$JPNCUWh PMAAV00h PPPRJACCH DW USD MT  820702 190118 Propane Refrigerated CFR Japan 30-60 days cargo
+LI PRPPN$JPNCUWl PMAAV00l PPPRJACCL DW USD MT  820702 190118 Propane Refrigerated CFR Japan 30-60 days cargo
+LI PRPPN$JPNCUYc PMAAX00c           DW USD MT  930205 190118 Propane CFR Japan 30-60 days vs Saudi Propane CP strip 20-40 days
+LI PRPPN$JPNCUYh PMAAX00h PPPRJAJCH DW USD MT  930205 190118 Propane CFR Japan 30-60 days vs Saudi Propane CP strip 20-40 days
+LI PRPPN$JPNCUYl PMAAX00l PPPRJAJCL DW USD MT  930205 190118 Propane CFR Japan 30-60 days vs Saudi Propane CP strip 20-40 days
+LI PRPPN$NWECVCc PMABA00c           DW USD MT  850405 190118 Propane CIF NWE Large Cargo
+LI PRPPN$NWECVCh PMABA00h PPPRNEHCH DW USD MT  850405 190118 Propane CIF NWE Large Cargo
+LI PRPPN$NWECVCl PMABA00l PPPRNEHCL DW USD MT  850405 190118 Propane CIF NWE Large Cargo
+LI PMABAPT00000u PMABAPTu           DW N/A PCT 180709 190118 Propane CIF NWE Large Cargo Physical Percentage vs Naphtha Cargoes CIF NWE
+LI PRPPN$NWECVDc PMABB00c           DW USD MT  820702 190118 Propane FOB NWE Seagoing
+LI PRPPN$NWECVDh PMABB00h           DW USD MT  820702 190118 Propane FOB NWE Seagoing
+LI PRPPN$NWECVDl PMABB00l           DW USD MT  820702 190118 Propane FOB NWE Seagoing
+LI PMABBPT00000u PMABBPTu           DW N/A PCT 180709 190118 Propane FOB NWE Seagoing Physical Percentage vs Naphtha Cargoes CIF NWE
+LI PRPPN$WMDCVEc PMABC00c           DW USD MT  850405 190118 Propane FOB W Med Ex-Refinery/Storage
+LI PRPPN$WMDCVEh PMABC00h           DW USD MT  850405 190118 Propane FOB W Med Ex-Refinery/Storage
+LI PRPPN$WMDCVEl PMABC00l           DW USD MT  850405 190118 Propane FOB W Med Ex-Refinery/Storage
+LI PMABCPT00000u PMABCPTu           DW N/A PCT 180709 190118 Propane FOB W Med Ex-Refinery/Storage Physical Percentage vs Naphtha Cargoes CIF NWE
+LI PRPPN$WMDCVGc PMABE00c           DW USD MT  850405 190118 Propane CIF W Med 7kt+
+LI PRPPN$WMDCVGh PMABE00h PPPRWMHCH DW USD MT  850405 190118 Propane CIF W Med 7kt+
+LI PRPPN$WMDCVGl PMABE00l PPPRWMHCL DW USD MT  850405 190118 Propane CIF W Med 7kt+
+LI PMABEPT00000u PMABEPTu           DW N/A PCT 180709 190118 Propane CIF W Med 7kt+ Physical Percentage vs Naphtha Cargoes CIF NWE
+LI PRPPN$FAGCUTc PMABF00c           DW USD MT  940304 190118 Propane FOB AG 20-40 days cargo vs Propane Saudi CP strip 20-40 days
+LI PRPPN$FAGCUTh PMABF00h PPPRFAKCH DW USD MT  940304 190118 Propane FOB AG 20-40 days cargo vs Propane Saudi CP strip 20-40 days
+LI PRPPN$FAGCUTl PMABF00l PPPRFAKCL DW USD MT  940304 190118 Propane FOB AG 20-40 days cargo vs Propane Saudi CP strip 20-40 days
+LI PRPBTNFAGBHHc PMABG00c           DW USD MT  940304 190118 Butane FOB AG 20-40 days cargo vs Butane Saudi CP strip 20-40 days
+LI PRPBTNFAGBHHh PMABG00h PPBNFAKCH DW USD MT  940304 190118 Butane FOB AG 20-40 days cargo vs Butane Saudi CP strip 20-40 days
+LI PRPBTNFAGBHHl PMABG00l PPBNFAKCL DW USD MT  940304 190118 Butane FOB AG 20-40 days cargo vs Butane Saudi CP strip 20-40 days
+LI PRPPN$ARACUQc PMABH00c           DW USD MT  940722 190118 Propane FCA ARA
+LI PRPPN$ARACUQh PMABH00h PPPRAASQH DW USD MT  940722 190118 Propane FCA ARA
+LI PRPPN$ARACUQl PMABH00l PPPRAASQL DW USD MT  940722 190118 Propane FCA ARA
+LI PMABHPT00000u PMABHPTu           DW N/A PCT 180709 190118 Propane FCA ARA Physical Percentage vs Naphtha Cargoes CIF NWE
+LI PRPBTNARABHEc PMABI00c           DW USD MT  940722 190118 Butane FCA ARA
+LI PRPBTNARABHEh PMABI00h           DW USD MT  940722 190118 Butane FCA ARA
+LI PRPBTNARABHEl PMABI00l           DW USD MT  940722 190118 Butane FCA ARA
+LI PMABIPT00000u PMABIPTu           DW N/A PCT 180709 190118 Butane FCA ARA Physical Percentage vs Naphtha Cargoes CIF NWE
+LI PRPPN$WMDCVHc PMABJ00c           DW USD MT  940722 190118 Propane FCA W Med Ex-Refinery/Storage
+LI PRPPN$WMDCVHh PMABJ00h           DW USD MT  940722 190118 Propane FCA W Med Ex-Refinery/Storage
+LI PRPPN$WMDCVHl PMABJ00l           DW USD MT  940722 190118 Propane FCA W Med Ex-Refinery/Storage
+LI PMABJPT00000u PMABJPTu           DW N/A PCT 180709 190118 Propane FCA W Med Ex-Refinery/Storage Physical Percentage vs Naphtha Cargoes CIF NWE
+LI PRPPN$KRADAYc PMABK00c           DW USD MT  951201 190118 Propane CFR Korea 30-60 days vs Saudi Propane CP strip 20-40 days
+LI PRPPN$KRADAYh PMABK00h PPPRKRJCH DW USD MT  951201 190118 Propane CFR Korea 30-60 days vs Saudi Propane CP strip 20-40 days
+LI PRPPN$KRADAYl PMABK00l PPPRKRJCL DW USD MT  951201 190118 Propane CFR Korea 30-60 days vs Saudi Propane CP strip 20-40 days
+LI PRPPN$KRADAXc PMABK03c PPPRKRJC0 MA USD MT  951201 181201 Propane CFR Korea 30-60 days vs Saudi Propane CP strip 20-40 days MAvg
+LI PRPPN$KRADAXh PMABK03h PPPRKRJC1 MA USD MT  951201 181201 Propane CFR Korea 30-60 days vs Saudi Propane CP strip 20-40 days MAvg
+LI PRPPN$KRADAXl PMABK03l PPPRKRJC2 MA USD MT  951201 181201 Propane CFR Korea 30-60 days vs Saudi Propane CP strip 20-40 days MAvg
+LI PRPBTNKRADAMc PMABL00c           DW USD MT  951201 190118 Butane CFR Korea 30-60 days vs Saudi Butane CP strip 20-40 days
+LI PRPBTNKRADAMh PMABL00h PPBNKRJCH DW USD MT  951201 190118 Butane CFR Korea 30-60 days vs Saudi Butane CP strip 20-40 days
+LI PRPBTNKRADAMl PMABL00l PPBNKRJCL DW USD MT  951201 190118 Butane CFR Korea 30-60 days vs Saudi Butane CP strip 20-40 days
+LI PRPBTNKRADALc PMABL03c PPBNKRJC0 MA USD MT  951201 181201 Butane CFR Korea 30-60 days vs Saudi Butane CP strip 20-40 days MAvg
+LI PRPBTNKRADALh PMABL03h PPBNKRJC1 MA USD MT  951201 181201 Butane CFR Korea 30-60 days vs Saudi Butane CP strip 20-40 days MAvg
+LI PRPBTNKRADALl PMABL03l PPBNKRJC2 MA USD MT  951201 181201 Butane CFR Korea 30-60 days vs Saudi Butane CP strip 20-40 days MAvg
+LI PPPBTNALRIFIu PTAAC10u PTBNAI$$$ DW USD MT  880115 190118 Butane FOB Algeria CP
+LI PPPBTNSARIFPu PTAAF10u PTBNSB$$$ DW USD MT  880115 190118 Butane FOB Saudi Arabia CP
+LI PPPPN$BTHIOYu PTAAI10u PTPRIE$$$ DW USD MT  880115 190118 Propane FOB Bethouia Algeria CP
+LI PPPPN$SKKIOZu PTAAJ10u PTPRIK$$$ DW USD MT  880115 190118 Propane FOB Skikda Algeria CP
+LI PPPPN$SARIPGu PTAAM10u PTPRSB$$$ DW USD MT  880115 190118 Propane FOB Saudi Arabia CP

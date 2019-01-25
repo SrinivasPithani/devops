@@ -1,0 +1,28 @@
+IN                                                           © 2019 by S&P Global Inc.,190119
+IN PJASO0000000u PJASO00u           DW N/A IBP 021015 190118 Jet Index Asia & Oceania
+IN PJASO0700000u PJASO07u           DW USC GAL 021015 190118 Jet Index Asia & Oceania Cts/Gal
+IN PJASO0800000u PJASO08u           DW USD BBL 021015 190118 Jet Index Asia & Oceania $/Bbl
+IN PJASO0900000u PJASO09u           DW USD MT  021015 190118 Jet Index Asia & Oceania $/Mt
+IN PRPLO$NA$CZFc PXAAJ00c           DW USD MT  960311 190118 ICE GWAVE Mo01
+IN PRPLO$NA$CZGc PXAAK00c           DW USD MT  960311 190118 ICE GWAVE Mo02
+IN PJECI0000000u PJECI00u           DW N/A IBP 021015 190118 Jet Index Europe & CIS
+IN PJECI0700000u PJECI07u           DW USC GAL 021015 190118 Jet Index Europe & CIS Cts/Gal
+IN PJECI0800000u PJECI08u           DW USD BBL 021015 190118 Jet Index Europe & CIS $/Bbl
+IN PJECI0900000u PJECI09u           DW USD MT  021015 190118 Jet Index Europe & CIS $/Mt
+IN PJGLO0000000u PJGLO00u           DW N/A IBP 021015 190118 Jet Index Global
+IN PJGLO0300000c PJGLO03c           MA UNS IBP 110501 181201 Jet Index Global MAvg
+IN PJGLO0700000u PJGLO07u           DW USC GAL 021015 190118 Jet Index Global Cts/Gal
+IN PJGLO0800000u PJGLO08u           DW USD BBL 021015 190118 Jet Index Global $/Bbl
+IN PJGLO0900000u PJGLO09u           DW USD MT  021015 190118 Jet Index Global $/Mt
+IN PJLAC0000000u PJLAC00u           DW N/A IBP 021015 190118 Jet Index Latin America & Caribbean
+IN PJLAC0700000u PJLAC07u           DW USC GAL 021015 190118 Jet Index Latin America & Caribbean Cts/Gal
+IN PJLAC0800000u PJLAC08u           DW USD BBL 021015 190118 Jet Index Latin America & Caribbean $/Bbl
+IN PJLAC0900000u PJLAC09u           DW USD MT  021015 190118 Jet Index Latin America & Caribbean $/Mt
+IN PJMEA0000000u PJMEA00u           DW N/A IBP 021015 190118 Jet Index MidEast & Africa
+IN PJMEA0700000u PJMEA07u           DW USC GAL 021015 190118 Jet Index MidEast & Africa Cts/Gal
+IN PJMEA0800000u PJMEA08u           DW USD BBL 021015 190118 Jet Index MidEast & Africa $/Bbl
+IN PJMEA0900000u PJMEA09u           DW USD MT  021015 190118 Jet Index MidEast & Africa $/Mt
+IN PJNAM0000000u PJNAM00u           DW N/A IBP 021015 190118 Jet Index North America
+IN PJNAM0700000u PJNAM07u           DW USC GAL 021015 190118 Jet Index North America Cts/Gal
+IN PJNAM0800000u PJNAM08u           DW USD BBL 021015 190118 Jet Index North America $/Bbl
+IN PJNAM0900000u PJNAM09u           DW USD MT  021015 190118 Jet Index North America $/Mt

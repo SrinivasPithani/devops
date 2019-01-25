@@ -1,0 +1,30 @@
+PS                                                           © 2019 by S&P Global Inc.,190119
+PS AAICU0000000c AAICU00c           DW USD MT  011105 190118 Gasoline Unl 90 FOB South China
+PS AAICU0000000h AAICU00h           DW USD MT  011105 190118 Gasoline Unl 90 FOB South China
+PS AAICU0000000l AAICU00l           DW USD MT  011105 190118 Gasoline Unl 90 FOB South China
+PS AAICV0000000c AAICV00c           MA USD MT  011101 181201 Gasoline Unl 90 FOB South China MAvg
+PS AAICV0000000h AAICV00h           MA USD MT  011101 181201 Gasoline Unl 90 FOB South China MAvg
+PS AAICV0000000l AAICV00l           MA USD MT  011101 181201 Gasoline Unl 90 FOB South China MAvg
+PS AAICW0000000c AAICW00c           DW USD MT  011105 190118 Gasoline Unl 93 FOB South China
+PS AAICW0000000h AAICW00h           DW USD MT  011105 190118 Gasoline Unl 93 FOB South China
+PS AAICW0000000l AAICW00l           DW USD MT  011105 190118 Gasoline Unl 93 FOB South China
+PS AAICX0000000c AAICX00c           MA USD MT  011101 181201 Gasoline Unl 93 FOB South China MAvg
+PS AAICX0000000h AAICX00h           MA USD MT  011101 181201 Gasoline Unl 93 FOB South China MAvg
+PS AAICX0000000l AAICX00l           MA USD MT  011101 181201 Gasoline Unl 93 FOB South China MAvg
+PS AABJZ0000000c AABJZ00c           DW USD BBL 990614 190118 Gasoil LP C+F South China Cargo vs Gasoil MOPS strip
+PS AABJZ0000000h AABJZ00h           DW USD BBL 990614 190118 Gasoil LP C+F South China Cargo vs Gasoil MOPS strip
+PS AABJZ0000000l AABJZ00l           DW USD BBL 990614 190118 Gasoil LP C+F South China Cargo vs Gasoil MOPS strip
+PS AABJZSF00000c AABJZSFc           DW N/A N/A 120702 190118 Gasoil LP C+F South China Cargo vs Gasoil MOPS strip sulfur ppm
+PS AAWTW0000000c AAWTW00c           DW USD BBL 120702 190118 Jet Kero C+F South China Cargo vs Jet Kero MOPS strip
+PS AAWTW0000000h AAWTW00h           DW USD BBL 120702 190118 Jet Kero C+F South China Cargo vs Jet Kero MOPS strip
+PS AAWTW0000000l AAWTW00l           DW USD BBL 120702 190118 Jet Kero C+F South China Cargo vs Jet Kero MOPS strip
+PS AAWTW0300000c AAWTW03c           MA USD BBL 120701 181201 Jet Kero C+F South China Cargo vs Jet Kero MOPS strip MAvg
+PS AAWTW0300000h AAWTW03h           MA USD BBL 120701 181201 Jet Kero C+F South China Cargo vs Jet Kero MOPS strip MAvg
+PS AAWTW0300000l AAWTW03l           MA USD BBL 120701 181201 Jet Kero C+F South China Cargo vs Jet Kero MOPS strip MAvg
+PS PRPJK$SCHCLGc PJABQ00c           DW USD MT  940613 190118 Jet Kero C+F South China Cargo
+PS PRPJK$SCHCLGh PJABQ00h           DW USD MT  940613 190118 Jet Kero C+F South China Cargo
+PS PRPJK$SCHCLGl PJABQ00l           DW USD MT  940613 190118 Jet Kero C+F South China Cargo
+PS PRPGS5SCHBODc POAFA00c           DW USD MT  940613 190118 Gasoil LP C+F South China Cargo
+PS PRPGS5SCHBODh POAFA00h           DW USD MT  940613 190118 Gasoil LP C+F South China Cargo
+PS PRPGS5SCHBODl POAFA00l           DW USD MT  940613 190118 Gasoil LP C+F South China Cargo
+PS POAFASF00000c POAFASFc           DW N/A N/A 120702 190118 Gasoil LP C+F South China Cargo sulfur ppm

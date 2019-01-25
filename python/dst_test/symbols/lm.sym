@@ -1,0 +1,147 @@
+LM                                                           © 2019 by S&P Global Inc.,190119
+LM LLBSC0000000u LLBSC00u           DW N/A MT  140611 190117 LME Lead Busan Closing Stks
+LM LLBSI0000000u LLBSI00u           DW N/A MT  140611 190117 LME Lead Busan Dlvd In Stks
+LM LLBSL0000000u LLBSL00u           DW N/A MT  140611 190117 LME Lead Busan Cancelled Tonnage
+LM LLBSN0000000u LLBSN00u           DW N/A MT  140611 190117 LME Lead Busan Open Tonnage
+LM LLBSO0000000u LLBSO00u           DW N/A MT  140611 190117 LME Lead Busan Dlvd Out Stks
+LM LLBSP0000000u LLBSP00u           DW N/A MT  140611 190117 LME Lead Busan Opening Stks
+LM LLGYC0000000u LLGYC00u           DW N/A MT  140611 190117 LME Lead Gwangyang Closing Stks
+LM LLGYI0000000u LLGYI00u           DW N/A MT  140611 190117 LME Lead Gwangyang Dlvd In Stks
+LM LLGYL0000000u LLGYL00u           DW N/A MT  140611 190117 LME Lead Gwangyang Cancelled Tonnage
+LM LLGYN0000000u LLGYN00u           DW N/A MT  140611 190117 LME Lead Gwangyang Open Tonnage
+LM LLGYO0000000u LLGYO00u           DW N/A MT  140611 190117 LME Lead Gwangyang Dlvd Out Stks
+LM LLGYP0000000u LLGYP00u           DW N/A MT  140611 190117 LME Lead Gwangyang Opening Stks
+LM LLICC0000000u LLICC00u           DW N/A MT  140611 190117 LME Lead Incheon Closing Stks
+LM LLICI0000000u LLICI00u           DW N/A MT  140611 190117 LME Lead Incheon Dlvd In Stks
+LM LLICL0000000u LLICL00u           DW N/A MT  140611 190117 LME Lead Incheon Cancelled Tonnage
+LM LLICN0000000u LLICN00u           DW N/A MT  140611 190117 LME Lead Incheon Open Tonnage
+LM LLICO0000000u LLICO00u           DW N/A MT  140611 190117 LME Lead Incheon Dlvd Out Stks
+LM LLICP0000000u LLICP00u           DW N/A MT  140611 190117 LME Lead Incheon Opening Stks
+LM LLKSC0000000u LLKSC00u           DW N/A MT  140613 190117 LME Lead Kaohsiung TWN Closing Stks
+LM LLKSI0000000u LLKSI00u           DW N/A MT  140613 190117 LME Lead Kaohsiung TWN Dlvd In Stks
+LM LLKSL0000000u LLKSL00u           DW N/A MT  140613 190117 LME Lead Kaohsiung TWN Cancelled Tonnage
+LM LLKSN0000000u LLKSN00u           DW N/A MT  140613 190117 LME Lead Kaohsiung TWN Open Tonnage
+LM LLKSO0000000u LLKSO00u           DW N/A MT  140613 190117 LME Lead Kaohsiung TWN Dlvd Out Stks
+LM LLKSP0000000u LLKSP00u           DW N/A MT  140613 190117 LME Lead Kaohsiung TWN Opening Stks
+LM LACSC0000000u LACSC00u           DW N/A MT  150904 170706 LME Steel Billet Closing Stks
+LM LACSI0000000u LACSI00u           DW N/A MT  150904 170706 LME Steel Billet Dlvd In Stks
+LM LACSL0000000u LACSL00u           DW N/A MT  150904 171010 LME Steel Billet Cancelled Tonnage
+LM LACSN0000000u LACSN00u           DW N/A MT  150904 171010 LME Steel Billet Open Tonnage
+LM LACSO0000000u LACSO00u           DW N/A MT  150904 170706 LME Steel Billet Dlvd Out Stks
+LM LACSP0000000u LACSP00u           DW N/A MT  150904 171010 LME Steel Billet Opening Stks
+LM LCNAP0000000u LCNAP00u           DW N/A MT  110224 190117 LME Cobalt Opening Stks
+LM LCSGC0000000u LCSGC00u           DW N/A MT  110224 190117 LME Cobalt Singapore Closing Stks
+LM LCSGI0000000u LCSGI00u           DW N/A MT  110224 190117 LME Cobalt Singapore Dlvd In Stks
+LM LCSGL0000000u LCSGL00u           DW N/A MT  110224 190117 LME Cobalt Singapore Cancelled Tonnage
+LM LCSGN0000000u LCSGN00u           DW N/A MT  110224 190117 LME Cobalt Singapore Open Tonnage
+LM LCSGO0000000u LCSGO00u           DW N/A MT  110224 190117 LME Cobalt Singapore Dlvd Out Stks
+LM LCSGP0000000u LCSGP00u           DW N/A MT  110224 190117 LME Cobalt Singapore Opening Stks
+LM LMABR0000000a LMABR00a           DW USD MT  150914 170410 LME Steel Billet 3 Mo $/MT
+LM LMABR0000000b LMABR00b           DW USD MT  150914 170410 LME Steel Billet 3 Mo $/MT
+LM LMABS0000000a LMABS00a           DW USD MT  150914 170410 LME Steel Billet 15 Mo $/MT
+LM LMABS0000000b LMABS00b           DW USD MT  150914 170410 LME Steel Billet 15 Mo $/MT
+LM LMABT0000000a LMABT00a           DW USD MT  150914 170410 LME Steel Billet Cash Mo $/MT
+LM LMABT0000000b LMABT00b           DW USD MT  150914 170410 LME Steel Billet Cash Mo $/MT
+LM LMACC0000000u LMACC00u           DW N/A MT  100519 190117 LME Cobalt Cancelled Tonnage
+LM LMACI0000000u LMACI00u           DW N/A MT  100519 190117 LME Cobalt Dlvd In Stks
+LM LMACO0000000u LMACO00u           DW N/A MT  100519 190117 LME Cobalt Dlvd Out Stks
+LM LMACW0000000u LMACW00u           DW N/A MT  100519 190117 LME Cobalt Open Tonnage
+LM LMAEA0000000u LMAEA00u           DW USD MT  100519 190118 Cobalt LME Settle $/Mt Daily
+LM LMAEA0100000u LMAEA01u           WA USD MT  100521 190118 Cobalt LME Settle $/Mt WAvg
+LM LMAEA0300000u LMAEA03u           MA USD MT  100601 181201 Cobalt LME Settle $/Mt MAvg
+LM LMAEA1600000c LMAEA16c           YR USD MT  101231 181231 Cobalt LME Settle London $/MT YAvg
+LM LMAEB0000000a LMAEB00a           DW USD MT  100519 190118 Cobalt LME 3 Mo $/Mt Daily
+LM LMAEB0000000b LMAEB00b           DW USD MT  100519 190118 Cobalt LME 3 Mo $/Mt Daily
+LM LMAEB0100000u LMAEB01u           WA USD MT  100521 190118 Cobalt LME 3 Mo $/Mt WAvg
+LM LMAEB0300000u LMAEB03u           MA USD MT  100601 181201 Cobalt LME 3 Mo $/Mt MAvg
+LM LMAEB1600000c LMAEB16c           YR USD MT  101231 181231 Cobalt LME 3 Month London $/MT YAvg
+LM LMAEC0000000a LMAEC00a           DW USD MT  100519 190118 Cobalt LME 15 Mo $/Mt Daily
+LM LMAEC0000000b LMAEC00b           DW USD MT  100519 190118 Cobalt LME 15 Mo $/Mt Daily
+LM LMAEC0100000u LMAEC01u           WA USD MT  100521 190118 Cobalt LME 15 Mo $/Mt WAvg
+LM LMAEC0300000u LMAEC03u           MA USD MT  100601 181201 Cobalt LME 15 Mo $/Mt MAvg
+LM LMAEC1600000c LMAEC16c           YR USD MT  101231 181231 Cobalt LME 15 Month London $/MT YAvg
+LM LMAEE0000000u LMAEE00u           DW N/A MT  100519 190117 LME Cobalt Closing Stks
+LM LMAEF0000000a LMAEF00a           DW USD MT  100519 190118 Cobalt LME Cash $/Mt Daily
+LM LMAEF0000000b LMAEF00b           DW USD MT  100519 190118 Cobalt LME Cash $/Mt Daily
+LM LMAEF0100000u LMAEF01u           WA USD MT  100521 190118 Cobalt LME Cash $/Mt WAvg
+LM LMAEF0300000u LMAEF03u           MA USD MT  100601 181201 Cobalt LME Cash $/Mt MAvg
+LM LMAEF1600000c LMAEF16c           YR USD MT  101231 181231 Cobalt LME Cash London $/MT YAvg
+LM LMAEG0000000u LMAEG00u           DW USD MT  100519 190118 Molybdenum LME Settle $/Mt Daily
+LM LMAEG0100000u LMAEG01u           WA USD MT  100521 190118 Molybdenum LME Settle $/Mt WAvg
+LM LMAEG0300000u LMAEG03u           MA USD MT  100601 181201 Molybdenum LME Settle $/Mt MAvg
+LM LMAEG1600000c LMAEG16c           YR USD MT  101231 181231 Molybdenum LME Settle London $/MT YAvg
+LM LMAEH0000000a LMAEH00a           DW USD MT  100519 190118 Molybdenum LME 3 Mo $/Mt Daily
+LM LMAEH0000000b LMAEH00b           DW USD MT  100519 190118 Molybdenum LME 3 Mo $/Mt Daily
+LM LMAEH0100000u LMAEH01u           WA USD MT  100521 190118 Molybdenum LME 3 Mo $/Mt WAvg
+LM LMAEH0300000u LMAEH03u           MA USD MT  100601 181201 Molybdenum LME 3 Mo $/Mt MAvg
+LM LMAEH1600000c LMAEH16c           YR USD MT  101231 181231 Molybdenum LME 3 Month London $/MT YAvg
+LM LMAEI0000000a LMAEI00a           DW USD MT  100519 190118 Molybdenum LME 15 Mo $/Mt Daily
+LM LMAEI0000000b LMAEI00b           DW USD MT  100519 190118 Molybdenum LME 15 Mo $/Mt Daily
+LM LMAEI0100000u LMAEI01u           WA USD MT  100521 190118 Molybdenum LME 15 Mo $/Mt WAvg
+LM LMAEI0300000u LMAEI03u           MA USD MT  100601 181201 Molybdenum LME 15 Mo $/Mt MAvg
+LM LMAEI1600000c LMAEI16c           YR USD MT  101231 181231 Molybdenum LME 15 Month London $/MT YAvg
+LM LMAEK0000000u LMAEK00u           DW N/A MT  100519 190117 LME Molybdenum Closing Stks
+LM LMAEL0000000a LMAEL00a           DW USD MT  100519 190118 Molybdenum LME Cash $/Mt Daily
+LM LMAEL0000000b LMAEL00b           DW USD MT  100519 190118 Molybdenum LME Cash $/Mt Daily
+LM LMAEL0100000u LMAEL01u           WA USD MT  100521 190118 Molybdenum LME cash $/Mt WAvg
+LM LMAEL0300000u LMAEL03u           MA USD MT  100601 181201 Molybdenum LME Cash $/Mt MAvg
+LM LMAEL1600000c LMAEL16c           YR USD MT  101231 181231 Molybdenum LME Cash London $/MT YAvg
+LM LMAKC0000000u LMAKC00u           DW N/A MT  100519 190117 LME Molybdenum Cancelled Tonnage
+LM LMAKI0000000u LMAKI00u           DW N/A MT  100519 190117 LME Molybdenum Dlvd In Stks
+LM LMAKO0000000u LMAKO00u           DW N/A MT  100519 190117 LME Molybdenum Dlvd Out Stks
+LM LMAKW0000000u LMAKW00u           DW N/A MT  100519 190117 LME Molybdenum Open Tonnage
+LM LNKSC0000000u LNKSC00u           DW N/A MT  140613 190117 LME Nickel Kaohsiung TWN Closing Stks
+LM LNKSI0000000u LNKSI00u           DW N/A MT  140613 190117 LME Nickel Kaohsiung TWN Dlvd In Stks
+LM LNKSL0000000u LNKSL00u           DW N/A MT  140613 190117 LME Nickel Kaohsiung TWN Cancelled Tonnage
+LM LNKSN0000000u LNKSN00u           DW N/A MT  140613 190117 LME Nickel Kaohsiung TWN Open Tonnage
+LM LNKSO0000000u LNKSO00u           DW N/A MT  140613 190117 LME Nickel Kaohsiung TWN Dlvd Out Stks
+LM LNKSP0000000u LNKSP00u           DW N/A MT  140613 190117 LME Nickel Kaohsiung TWN Opening Stks
+LM LPKSC0000000u LPKSC00u           DW N/A MT  140613 190117 LME Copper Kaohsiung TWN Closing Stks
+LM LPKSI0000000u LPKSI00u           DW N/A MT  140613 190117 LME Copper Kaohsiung TWN Dlvd In Stks
+LM LPKSL0000000u LPKSL00u           DW N/A MT  140613 190117 LME Copper Kaohsiung TWN Cancelled Tonnage
+LM LPKSN0000000u LPKSN00u           DW N/A MT  140613 190117 LME Copper Kaohsiung TWN Open Tonnage
+LM LPKSO0000000u LPKSO00u           DW N/A MT  140613 190117 LME Copper Kaohsiung TWN Dlvd Out Stks
+LM LPKSP0000000u LPKSP00u           DW N/A MT  140613 190117 LME Copper Kaohsiung TWN Opening Stks
+LM LRMAC0000000u LRMAC00u           DW N/A MT                LME Roasted Moly Conc Closing Stks
+LM LRMAI0000000u LRMAI00u           DW N/A MT                LME Roasted Moly Conc Dlvd In Stks
+LM LRMAL0000000u LRMAL00u           DW N/A MT                LME Roasted Moly Conc Cancelled Tonnage
+LM LRMAN0000000u LRMAN00u           DW N/A MT                LME Roasted Moly Conc Open Tonnage
+LM LRMAO0000000u LRMAO00u           DW N/A MT                LME Roasted Moly Conc Dlvd Out Stks
+LM LRMAP0000000u LRMAP00u           DW N/A MT                LME Roasted Moly Conc Opening Stks
+LM LRMGC0000000u LRMGC00u           DW N/A MT                LME Roasted Moly Conc Singapore Closing Stks
+LM LRMGI0000000u LRMGI00u           DW N/A MT                LME Roasted Moly Conc Singapore Dlvd In Stks
+LM LRMGL0000000u LRMGL00u           DW N/A MT                LME Roasted Moly Conc Singapore Cancelled Tonnage
+LM LRMGN0000000u LRMGN00u           DW N/A MT                LME Roasted Moly Conc Singapore Open Tonnage
+LM LRMGO0000000u LRMGO00u           DW N/A MT                LME Roasted Moly Conc Singapore Dlvd Out Stks
+LM LRMGP0000000u LRMGP00u           DW N/A MT                LME Roasted Moly Conc Singapore Opening Stks
+LM LTKSC0000000u LTKSC00u           DW N/A MT  140613 190117 LME Tin Kaohsiung TWN Closing Stks
+LM LTKSI0000000u LTKSI00u           DW N/A MT  140613 190117 LME Tin Kaohsiung TWN Dlvd In Stks
+LM LTKSL0000000u LTKSL00u           DW N/A MT  140613 190117 LME Tin Kaohsiung TWN Cancelled Tonnage
+LM LTKSN0000000u LTKSN00u           DW N/A MT  140613 190117 LME Tin Kaohsiung TWN Open Tonnage
+LM LMNAP0000000u LMNAP00u           DW N/A MT  110224 190117 LME Molybdenum Opening Stks
+LM LMSGC0000000u LMSGC00u           DW N/A MT  110224 190117 LME Molybdenum Singapore Closing Stks
+LM LMSGI0000000u LMSGI00u           DW N/A MT  110224 190117 LME Molybdenum Singapore Dlvd In Stks
+LM LMSGL0000000u LMSGL00u           DW N/A MT  110224 190117 LME Molybdenum Singapore Cancelled Tonnage
+LM LMSGN0000000u LMSGN00u           DW N/A MT  110224 190117 LME Molybdenum Singapore Open Tonnage
+LM LMSGO0000000u LMSGO00u           DW N/A MT  110224 190117 LME Molybdenum Singapore Dlvd Out Stks
+LM LMSGP0000000u LMSGP00u           DW N/A MT  110224 190117 LME Molybdenum Singapore Opening Stks
+LM LTKSO0000000u LTKSO00u           DW N/A MT  140613 190117 LME Tin Kaohsiung TWN Dlvd Out Stks
+LM LTKSP0000000u LTKSP00u           DW N/A MT  140613 190117 LME Tin Kaohsiung TWN Opening Stks
+LM LUKSC0000000u LUKSC00u           DW N/A MT  140613 190117 LME Alum Kaohsiung TWN Closing Stks
+LM LUKSI0000000u LUKSI00u           DW N/A MT  140613 190117 LME Alum Kaohsiung TWN Dlvd In Stks
+LM LAKSC0000000u LAKSC00u           DW N/A MT  140613 190117 LME Al Alloy Kaohsiung TWN Closing Stks
+LM LAKSI0000000u LAKSI00u           DW N/A MT  140613 190117 LME Al Alloy Kaohsiung TWN Dlvd In Stks
+LM LAKSL0000000u LAKSL00u           DW N/A MT  140613 190117 LME Al Alloy Kaohsiung TWN Cancelled Tonnage
+LM LAKSN0000000u LAKSN00u           DW N/A MT  140613 190117 LME Al Alloy Kaohsiung TWN Open Tonnage
+LM LAKSO0000000u LAKSO00u           DW N/A MT  140613 190117 LME Al Alloy Kaohsiung TWN Dlvd Out Stks
+LM LAKSP0000000u LAKSP00u           DW N/A MT  140613 190117 LME Al Alloy Kaohsiung TWN Opening Stks
+LM LUKSL0000000u LUKSL00u           DW N/A MT  140613 190117 LME Alum Kaohsiung TWN Cancelled Tonnage
+LM LUKSN0000000u LUKSN00u           DW N/A MT  140613 190117 LME Alum Kaohsiung TWN Open Tonnage
+LM LUKSO0000000u LUKSO00u           DW N/A MT  140613 190117 LME Alum Kaohsiung TWN Dlvd Out Stks
+LM LUKSP0000000u LUKSP00u           DW N/A MT  140613 190117 LME Alum Kaohsiung TWN Opening Stks
+LM LZKSC0000000u LZKSC00u           DW N/A MT  140613 190117 LME Zinc Kaohsiung TWN Closing Stks
+LM LZKSI0000000u LZKSI00u           DW N/A MT  140613 190117 LME Zinc Kaohsiung TWN Dlvd In Stks
+LM LZKSL0000000u LZKSL00u           DW N/A MT  140613 190117 LME Zinc Kaohsiung TWN Cancelled Tonnage
+LM LZKSN0000000u LZKSN00u           DW N/A MT  140613 190117 LME Zinc Kaohsiung TWN Open Tonnage
+LM LZKSO0000000u LZKSO00u           DW N/A MT  140613 190117 LME Zinc Kaohsiung TWN Dlvd Out Stks
+LM LZKSP0000000u LZKSP00u           DW N/A MT  140613 190117 LME Zinc Kaohsiung TWN Opening Stks

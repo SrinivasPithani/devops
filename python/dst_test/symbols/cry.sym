@@ -1,0 +1,210 @@
+CRY                                                           © 2019 by S&P Global Inc.,190119
+CRY CIBCR0000000c CIBCR00c           DW USD MT  140625 190118 DBF Thermal Coal Puerto Bolivar Colombia-Rotterdam Netherlands 150kt $/mt Capesize
+CRY CIBCR0300000c CIBCR03c           MA USD MT  140801 181201 DBF Thermal Coal Puerto Bolivar Colombia-Rotterdam Netherlands 150kt $/mt Capesize Mavg
+CRY CIBCRSZ00000u CIBCRSZu           DW N/A KT  180301 190118 DBF Thermal Coal Puerto Bolivar Colombia-Rdam Netherlands 150kt Capesize Cargo Size
+CRY CIBRN0000000c CIBRN00c           DW USD MT  140624 190118 DBF Thermal Coal Puerto Bolivar Colombia-Rotterdam Netherlands 70kt $/mt Panamax
+CRY CIBRN0300000c CIBRN03c           MA USD MT  140901 181201 DBF Thermal Coal Puerto Bolivar Colombia-Rotterdam Netherlands 70kt $/mt Panamax MAvg
+CRY CIBRNSZ00000u CIBRNSZu           DW N/A KT  180301 190118 DBF Thermal Coal Puerto Bolivar Colombia-Rdam Netherlands 70kt Panamax Cargo Size
+CRY CIFSC0000000c CIFSC00c           DW USD MT  140625 190118 DBF Thermal Coal Richards Bay S Africa-Fangcheng S China 160 kt Capesize $/Mt
+CRY CIFSC0300000c CIFSC03c           MA USD MT  140801 181201 DBF Thermal Coal Richards Bay S Africa-Fangcheng S China 160 kt Capesize $/Mt MAvg
+CRY CIFSCSZ00000u CIFSCSZu           DW N/A KT  180301 190118 DBF Thermal Coal Richards Bay S Africa-Fangcheng S China 160 kt Capesize Cargo Size
+CRY CIGAJ0000000c CIGAJ00c           DW USD MT  140625 190118 DBF Thermal Coal Gladstone NE Australia-Kashima Japan 150kt $/mt Capesize
+CRY CIGAJ0300000c CIGAJ03c           MA USD MT  140801 181201 DBF Thermal Coal Gladstone NE Australia-Kashima Japan 150kt $/mt Capesize MAvg
+CRY CIGAJSZ00000u CIGAJSZu           DW N/A KT  180301 190118 DBF Thermal Coal Gladstone NE Australia-Kashima Japan 150kt Capesize Cargo Size
+CRY CIHIT0000000c CIHIT00c           DW USD MT  141201 190118 DBF Thermal Coal Hampton Roads Virgina US East Coast-Isdemir Turkey 70kt $/mt Panamax
+CRY CIHIT0300000c CIHIT03c           MA USD MT  141201 181201 DBF Thermal Coal Hampton Roads Virgina US East Coast-Isdemir Turkey 70kt $/mt Panamax MAvg
+CRY CIHITSZ00000u CIHITSZu           DW N/A KT  180301 190118 DBF Thermal Coal Hampton Roads Virgina USEC-Isdemir Turkey 70kt Panamx Cargo Size
+CRY CIIDI0000000c CIIDI00c           DW USD MT  140625 190118 DBF Thermal Coal S Kalimantan Indo-Dahej WC India 75kt $/Mt Panamax
+CRY CIIDI0300000c CIIDI03c           MA USD MT  140901 181201 DBF Thermal Coal S Kalimantan Indo-Dahej WC India 60 kt $/Mt Panamax MAvg
+CRY CIIDISZ00000u CIIDISZu           DW N/A KT  180301 190118 DBF Thermal Coal S Kalimantan Indo-Dahej WC India 75kt Panamax Cargo Size
+CRY CIIEE0000000c CIIEE00c           DW USD MT  140625 190118 DBF Thermal Coal S Kalimantan Indo-Ennore EC India 60 kt $/Mt Panamax
+CRY CIIEE0300000c CIIEE03c           MA USD MT  140901 181201 DBF Thermal Coal S Kalimantan Indo-Ennore EC India 60 kt $/Mt Panamax MAvg
+CRY CIIEESZ00000u CIIEESZu           DW N/A KT  180301 190118 DBF Thermal Coal S Kalimantan Indo-Ennore EC India 60 kt Panamax Cargo Size
+CRY CIIEI0000000c CIIEI00c           DW USD MT  140625 190118 DBF Thermal Coal S Kalimantan Indo-Krishnapatnam EC India 75 kt $/Mt Panamax
+CRY CIIEI0300000c CIIEI03c           MA USD MT  140901 181201 DBF Thermal Coal S Kalimantan Indo-Krishnapatnam EC India 60 kt $/Mt Panamax MAvg
+CRY CIIEISZ00000u CIIEISZu           DW N/A KT  180301 190118 DBF Thermal Coal S Kalimantan Indo-Krishnapatnam EC India 75 kt Panamax Cargo Size
+CRY CIIEJ0000000c CIIEJ00c           DW USD MT  160901 190118 DBF Thermal Coal S Kalimantan-Paradip EC India 55kt $/mt Supramax
+CRY CIIEJ0300000c CIIEJ03c           MA USD MT  160901 181201 DBF Thermal Coal S Kalimantan-Paradip EC India 55kt $/mt Supramax MAvg
+CRY CIIEJSZ00000u CIIEJSZu           DW N/A KT  180301 190118 DBF Thermal Coal S Kalimantan-Paradip EC India 55kt Supramax Cargo Size
+CRY CIIEK0000000c CIIEK00c           DW USD MT  160901 190118 DBF Thermal Coal S Kalimantan-Navlakhi WC India 55kt $/mt Supramax
+CRY CIIEK0300000c CIIEK03c           MA USD MT  160901 181201 DBF Thermal Coal S Kalimantan-Navlakhi WC India 55kt $/mt Supramax MAvg
+CRY CIIEKSZ00000u CIIEKSZu           DW N/A KT  180301 190118 DBF Thermal Coal S Kalimantan-Navlakhi WC India 55kt Supramax Cargo Size
+CRY CIIEL0000000c CIIEL00c           DW USD MT  160901 190118 DBF Thermal Coal Differential from S Kalimantan to E Kalimantan 55kt $/mt Supramax
+CRY CIIEL0300000c CIIEL03c           MA USD MT  160901 181201 DBF Thermal Coal Differential from S Kalimantan to E Kalimantan 55kt $/mt Supramax MAvg
+CRY CIIELSZ00000u CIIELSZu           DW N/A KT  180301 190118 DBF Thermal Coal Diff from S Kalimantan to E Kalimantan 55kt Supramax Cargo Size
+CRY CIIEM0000000c CIIEM00c           DW USD MT  160901 190118 DBF Thermal Coal Richards Bay S Africa-Paradip EC India 55kt $/mt Supramax
+CRY CIIEM0300000c CIIEM03c           MA USD MT  160901 181201 DBF Thermal Coal Richards Bay S Africa-Paradip EC India 55kt $/mt Supramax MAvg
+CRY CIIEMSZ00000u CIIEMSZu           DW N/A KT  180301 190118 DBF Thermal Coal Richards Bay S Africa-Paradip EC India 55kt Supramax Cargo Size
+CRY CIIEN0000000c CIIEN00c           DW USD MT  160901 190118 DBF Thermal Coal Richards Bay S Africa-Navlakhi WC India 55kt $/mt Supramax
+CRY CIIEN0300000c CIIEN03c           MA USD MT  160901 181201 DBF Thermal Coal Richards Bay S Africa-Navlakhi WC India 55kt $/mt Supramax MAvg
+CRY CIIENSZ00000u CIIENSZu           DW N/A KT  180301 190118 DBF Thermal Coal Richards Bay S Africa-Navlakhi WC India 55kt Supramax Cargo Size
+CRY CIIKW0000000c CIIKW00c           DW USD MT  140625 190118 DBF Thermal Coal S Kalimantan Indo-Kandla WC India 75kt $/Mt Panamax
+CRY CIIKW0300000c CIIKW03c           MA USD MT  140901 181201 DBF Thermal Coal S Kalimantan Indo-Kandla WC India 60 kt $/Mt Panamax MAvg
+CRY CIIKWSZ00000u CIIKWSZu           DW N/A KT  180301 190118 DBF Thermal Coal S Kalimantan Indo-Kandla WC India 75kt Panamax Cargo Size
+CRY CIINM0000000c CIINM00c           DW USD MT  140625 190118 DBF Thermal Coal S Kalimantan Indo-New Mangalore WC India 75kt $/Mt Panamax
+CRY CIINM0300000c CIINM03c           MA USD MT  140901 181201 DBF Thermal Coal S Kalimantan Indo-New Mangalore WC India 60 kt $/Mt Panamax MAvg
+CRY CIINMSZ00000u CIINMSZu           DW N/A KT  180301 190118 DBF Thermal Coal S Kalimantan Indo-New Mangalore WC India 75kt Panamax Cargo Size
+CRY CIIVI0000000c CIIVI00c           DW USD MT  140625 190118 DBF Thermal Coal S Kalimantan Indo-Vizag EC India 60 kt $/Mt Panamax
+CRY CIIVI0300000c CIIVI03c           MA USD MT  140901 181201 DBF Thermal Coal S Kalimantan Indo-Vizag EC India 60 kt $/Mt Panamax MAvg
+CRY CIIVISZ00000u CIIVISZu           DW N/A KT  180301 190118 DBF Thermal Coal S Kalimantan Indo-Vizag EC India 60 kt Panamax Cargo Size
+CRY CIKEI0000000c CIKEI00c           DW USD MT  140625 190118 DBF Thermal Coal Richards Bay S Africa-Krishnapatnam EC India 55kt $/Mt Supramax
+CRY CIKEI0300000c CIKEI03c           MA USD MT  140901 181201 DBF Thermal Coal Richards Bay S Africa-Krishnapatnam EC India 55kt $/Mt Supramax MAvg
+CRY CIKEISZ00000u CIKEISZu           DW N/A KT  180301 190118 DBF Thermal Coal Richards Bay S Africa-Krishnapatnam EC India 55kt Supramax Cargo Size
+CRY CIKWISZ00000u CIKWISZu           DW N/A KT  180301 190118 DBF Thermal Coal Richards Bay Diff Mundra-Kandla WC India 55kt Supramax Cargo Size
+CRY CILTN0000000c CILTN00c           DW USD MT  140624 190118 DBF Thermal Coal Ventspils Latvia-Rdam Netherlands 70kt $/Mt Panamax
+CRY CILTN0300000c CILTN03c           MA USD MT  140901 181201 DBF Thermal Coal Ventspils Latvia-Rdam Netherlands 70kt $/Mt Panamax MAvg
+CRY CILTNSZ00000u CILTNSZu           DW N/A KT  180301 190118 DBF Thermal Coal Ventspils Latvia-Rdam Netherlands 70kt Panamax Cargo Size
+CRY CINAJ0000000c CINAJ00c           DW USD MT  180601 190118 DBF Thermal Coal Newcastle-Kinuura $/mt Panamax
+CRY CINAJ0300000c CINAJ03c           MA USD MT  180601 181201 DBF Thermal Coal Newcastle-Kinuura $/mt Panamax MAvg
+CRY CINAJSZ00000u CINAJSZu           DW N/A KT  180601 190118 DBF Thermal Coal Newcastle-Kinuura Panamax cargo size
+CRY CINAK0000000c CINAK00c           DW USD MT  140625 190118 DBF Thermal Coal Newcastle SE Australia-Pohang S Korea 130kt $/mt Capesize
+CRY CINAK0300000c CINAK03c           MA USD MT  140801 181201 DBF Thermal Coal Newcastle SE Australia-Pohang S Korea 130kt $/mt Capesize MAvg
+CRY CINAKSZ00000u CINAKSZu           DW N/A KT  180301 190118 DBF Thermal Coal Newcastle SE Australia-Pohang S Korea 130kt Capesize Cargo Size
+CRY CIQGU0000000c CIQGU00c           DW USD MT  140625 190118 DBF Thermal Coal Qinhuangdao N China-Guangzhou S China 50kt $/Mt Supramax
+CRY CIQGU0300000c CIQGU03c           MA USD MT  140901 181201 DBF Thermal Coal Qinhuangdao N China-Guangzhou S China 50kt $/Mt Supramax MAvg
+CRY CIQGUSZ00000u CIQGUSZu           DW N/A KT  180301 190118 DBF Thermal Coal Qinhuangdao N China-Guangzhou S China 50kt Supramax Cargo Size
+CRY CIQIG0000000c CIQIG00c           DW USD MT  140625 190118 DBF Thermal Coal Qinhuangdao N China-Guangzhou S China 40kt $/Mt Handymax
+CRY CIQIG0300000c CIQIG03c           MA USD MT  140901 181201 DBF Thermal Coal Qinhuangdao N China-Guangzhou S China 40kt $/Mt Handymax MAvg
+CRY CIQIGSZ00000u CIQIGSZu           DW N/A KT  180301 190118 DBF Thermal Coal Qinhuangdao N China-Guangzhou S China 40kt Handymax Cargo Size
+CRY CIQNC0000000c CIQNC00c           DW USD MT  140625 190118 DBF Thermal Coal Richards Bay S Africa-Qingdao N China 160kt Capesize $/Mt
+CRY CIQNC0300000c CIQNC03c           MA USD MT  140801 181201 DBF Thermal Coal Richards Bay S Africa-Qingdao N China 160kt Capesize $/Mt MAvg
+CRY CIQNCSZ00000u CIQNCSZu           DW N/A KT  180301 190118 DBF Thermal Coal Richards Bay S Africa-Qingdao N China 160kt Capesize Cargo Size
+CRY CIRBD0000000c CIRBD00c           DW USD MT  140625 190118 DBF Thermal Coal Richards Bay S Africa-Dahej WC India 75kt $/Mt Panamax
+CRY CIRBD0300000c CIRBD03c           MA USD MT  140901 181201 DBF Thermal Coal Richards Bay S Africa-Dahej WC India 60 kt $/Mt Panamax MAvg
+CRY CIRBDSZ00000u CIRBDSZu           DW N/A KT  180301 190118 DBF Thermal Coal Richards Bay S Africa-Dahej WC India 75kt Panamax Cargo Size
+CRY CIRBESZ00000u CIRBESZu           DW N/A KT  180301 190118 DBF Thermal Coal Richards Bay Diff Krishnapatnam-Ennore India 55kt Supramx Cargo Size
+CRY CIRBI0000000c CIRBI00c           DW USD MT  140625 190118 Thermal Coal Discharge New Mangalore WCI Diff vs Richards Bay-Mundra 75kt Panamax
+CRY CIRBI0300000c CIRBI03c           MA USD MT  140901 181201 DBF Thermal Coal Richards Bay S Africa-New Mangalore WC India 60 kt $/Mt Panamax MAvg
+CRY CIRBISZ00000u CIRBISZu           DW N/A KT  180301 190118 DBF Thermal Coal New Mangalore WCI Diff vs Richard Bay-Mundra 75kt Panamx Cargo Size
+CRY CIRBJ0000000c CIRBJ00c           DW USD MT  140624 190118 DBF Thermal Coal Richards Bay S Africa-Jorf Lasfar Morocco 60kt $/mt Panamax
+CRY CIRBJ0300000c CIRBJ03c           MA USD MT  140901 181201 DBF Thermal Coal Richards Bay S Africa-Jorf Lasfar Morocco 60kt $/mt Panamax MAvg
+CRY CIRBJSZ00000u CIRBJSZu           DW N/A KT  180301 190118 DBF Thermal Coal Richards Bay S Africa-Jorf Lasfar Morocco 60kt Panamax Cargo Size
+CRY CIRBK0000000c CIRBK00c           DW USD MT  140625 190118 DBF Thermal Coal Richards Bay S Africa-Kandla WC India 75kt $/Mt Panamax
+CRY CIRBK0300000c CIRBK03c           MA USD MT  140901 181201 DBF Thermal Coal Richards Bay S Africa-Kandla WC India 60 kt $/Mt Panamax MAvg
+CRY CIRBKSZ00000u CIRBKSZu           DW N/A KT  180301 190118 DBF Thermal Coal Richards Bay S Africa-Kandla WC India 75kt Panamax Cargo Size
+CRY CIRBN0000000c CIRBN00c           DW USD MT  140625 190118 DBF Thermal Coal Richards Bay S Africa-Rotterdam Netherlands 150kt $/mt Capesize
+CRY CIRBN0300000c CIRBN03c           MA USD MT  140801 181201 DBF Thermal Coal Richards Bay S Africa-Rotterdam Netherlands 150kt $/mt Capesize MAvg
+CRY CIRBNSZ00000u CIRBNSZu           DW N/A KT  180301 190118 DBF Thermal Coal Richards Bay S Africa-Rdam Netherlands 150kt Capesize Cargo Size
+CRY CIRBPSZ00000u CIRBPSZu           DW N/A KT  180301 190118 DBF Thermal Coal Richards Bay Diff Krishnapatnam-Paradip India 55kt Supramx Cargo Size
+CRY CIRBT0000000c CIRBT00c           DW USD MT  140624 190118 DBF Thermal Coal Richards Bay S Africa-Tarragona Spain 70kt $/mt Panamax
+CRY CIRBT0300000c CIRBT03c           MA USD MT  140901 181201 DBF Thermal Coal Richards Bay S Africa-Tarragona Spain70kt $/mt Panamax MAvg
+CRY CIRBTSZ00000u CIRBTSZu           DW N/A KT  180301 190118 DBF Thermal Coal Richards Bay S Africa-Tarragona Spain 70kt Panamax Cargo Size
+CRY CIRBV0000000c CIRBV00c           DW USD MT  140625 190118 DBF Thermal Coal Richards Bay S Africa-Vizag EC India 60 kt $/Mt Panamax
+CRY CIRBV0300000c CIRBV03c           MA USD MT  140901 181201 DBF Thermal Coal Richards Bay S Africa-Vizag EC India 60 kt $/Mt Panamax MAvg
+CRY CIRBVSZ00000u CIRBVSZu           DW N/A KT  180301 190118 DBF Thermal Coal Richards Bay S Africa-Vizag EC India 60 kt Panamax Cargo Size
+CRY CIRBWSZ00000u CIRBWSZu           DW N/A KT  180301 190118 DBF Thermal Coal Richards Bay S Africa-Mundra WC India 55kt Supramax Cargo Size
+CRY CIREI0000000c CIREI00c           DW USD MT  140625 190118 DBF Thermal Coal Richards Bay S Africa-Krishnapatnam EC India 150kt Capesize
+CRY CIREI0300000c CIREI03c           MA USD MT  140801 181201 DBF Thermal Coal Richards Bay S Africa-Krishnapatnam EC India 150kt Capesize MAvg
+CRY CIREISZ00000u CIREISZu           DW N/A KT  180301 190118 DBF Thermal Coal Richards Bay S Africa-Krishnapatnam EC India 150kt Capesize Cargo Size
+CRY CIRRN0000000c CIRRN00c           DW USD MT  140624 190118 DBF Thermal Coal Richards Bay S Africa-Rotterdam Netherlands 70kt $/mt Panamax
+CRY CIRRN0300000c CIRRN03c           MA USD MT  140901 181201 DBF Thermal Coal Richards Bay S Africa-Rotterdam Netherlands 70kt $/mt Panamax MAvg
+CRY CIRRNSZ00000u CIRRNSZu           DW N/A KT  180301 190118 DBF Thermal Coal Richards Bay S Africa-Rotterdam Netherlands 70kt Panamax Cargo Size
+CRY CIRWI0000000c CIRWI00c           DW USD MT  140625 190118 DBF Thermal Coal Richards Bay S Africa-Mundra WC India 150kt $/Mt Capesize
+CRY CIRWI0300000c CIRWI03c           MA USD MT  140801 181201 DBF Thermal Coal Richards Bay S Africa-Mundra WC India 150kt $/Mt Capesize MAvg
+CRY CIRWISZ00000u CIRWISZu           DW N/A KT  180301 190118 DBF Thermal Coal Richards Bay S Africa-Mundra WC India 150kt Capesize Cargo Size
+CRY CSKNA0000000c CSKNA00c           DW USD MT                DBF Thermal Coal South Kalimantan Indonesia-Navlakhi WC India 55kt $/mt Ultramax
+CRY CSKNA0300000c CSKNA03c           MA USD MT                DBF Thermal Coal South Kalimantan Indonesia-Navlakhi WC India 55kt $/mt Ultramax MAvg
+CRY CSKNB0000000c CSKNB00c           DW USD DAY 180102 190118 DBF Thermal Coal South Kalimantan Indonesia-Navlakhi WC India 55kt $/day Ultramax
+CRY CSKNB0300000c CSKNB03c           MA USD DAY 180101 181201 DBF Thermal Coal South Kalimantan Indonesia-Navlakhi WC India 55kt $/day Ultramax MAvg
+CRY CSKPA0000000c CSKPA00c           DW USD MT                DBF Thermal Coal South Kalimantan Indonesia-Paradip EC India 55kt $/mt Ultramax
+CRY CSKPA0300000c CSKPA03c           MA USD MT                DBF Thermal Coal South Kalimantan Indonesia-Paradip EC India 55kt $/mt Ultramax MAvg
+CRY CSKPB0000000c CSKPB00c           DW USD DAY 180102 190118 DBF Thermal Coal South Kalimantan Indonesia-Paradip EC India 55kt $/day Ultramax
+CRY CSKPB0300000c CSKPB03c           MA USD DAY 180101 181201 DBF Thermal Coal South Kalimantan Indonesia-Paradip EC India 55kt $/day Ultramax MAvg
+CRY CISAE0000000c CISAE00c           DW USD MT  140625 190118 DBF Thermal Coal Richards Bay S Africa-Ennore EC India 60 kt $/Mt Panamax
+CRY CISAE0300000c CISAE03c           MA USD MT  140901 181201 DBF Thermal Coal Richards Bay S Africa-Ennore EC India 60 kt $/Mt Panamax MAvg
+CRY CISAESZ00000u CISAESZu           DW N/A KT  180301 190118 DBF Thermal Coal Richards Bay S Africa-Ennore EC India 60 kt Panamax Cargo Size
+CRY CISAISZ00000u CISAISZu           DW N/A KT  180301 190118 DBF Thermal Coal Richards Bay Diff Mundra-Dahej WC India 55kt Supramax Cargo Size
+CRY CISAK0000000c CISAK00c           DW USD MT  140625 190118 DBF Thermal Coal Richards Bay S Africa-Krishnapatnam EC India 75 kt $/Mt Panamax
+CRY CISAK0300000c CISAK03c           MA USD MT  140901 181201 DBF Thermal Coal Richards Bay S Africa-Krishnapatnam EC India 60 kt $/Mt Panamax MAvg
+CRY CISAKSZ00000u CISAKSZu           DW N/A KT  180301 190118 DBF Thermal Coal Richards Bay S Africa-Krishnapatnam EC India 75 kt Panamax Cargo Size
+CRY CISAV0000000c CISAV00c           DW USD MT  140625 190118 DBF Thermal Coal Richards Bay Diff from Krishnapatnam-Vizag EC India 55kt $/Mt Supramax
+CRY CISAV0300000c CISAV03c           MA USD MT  140901 181201 DBF Thermal Coal Richards Bay Diff from Krishnapatnam-Vizag EC India 55kt Supramax MAvg
+CRY CISAVSZ00000u CISAVSZu           DW N/A KT  180301 190118 DBF Thermal Coal Richards Bay Diff Krishnapatnam-Vizag EC India 55kt Supramx Cargo Size
+CRY CISKDSZ00000u CISKDSZu           DW N/A KT  180301 190118 DBF Thermal Coal S Kalimantan Diff Mundra-Dahej WC India 55kt Supramax Cargo Size
+CRY CISKESZ00000u CISKESZu           DW N/A KT  180301 190118 DBF Thermal Coal S Kalimantan Diff Krishnapatnam-Ennore India 55kt Supramx Cargo Size
+CRY CISKISZ00000u CISKISZu           DW N/A KT  180301 190118 DBF Thermal Coal S Kalimantan Diff Mundra-Kandla WC India 55kt Supramax Cargo Size
+CRY CISKK0000000c CISKK00c           DW USD MT  140625 190118 DBF Thermal Coal S Kalimantan Indo-Krishnapatnam EC India 55kt $/Mt Supramax
+CRY CISKK0300000c CISKK03c           MA USD MT  140901 181201 DBF Thermal Coal S Kalimantan Indo-Krishnapatnam EC India 55kt $/Mt Supramax MAvg
+CRY CISKKSZ00000u CISKKSZu           DW N/A KT  180301 190118 DBF Thermal Coal S Kalimantan Indo-Krishnapatnam EC India 55kt Supramax Cargo Size
+CRY CISKMSZ00000u CISKMSZu           DW N/A KT  180301 190118 DBF Thermal Coal S Kalimantan Indo-Mundra WC India 55kt Supramax Cargo Size
+CRY CISKN0000000c CISKN00c           DW USD MT  140625 190118 DBF Thermal Coal S Kalimantan Diff from Mundra-New Mangalore WC India 55kt $/Mt Supramax
+CRY CISKN0300000c CISKN03c           MA USD MT  140901 181201 DBF Thermal Coal S Kalimantan Diff from Mundra-New Mangalore WC India 55kt Supramax MAvg
+CRY CISKNSZ00000u CISKNSZu           DW N/A KT  180301 190118 DBF Thermal Coal S Kalimantan Diff Mundra-New Mangalore India 55kt Supramx Cargo Size
+CRY CISKO0000000c CISKO00c           DW USD MT  140625 190118 DBF Thermal Coal Richards Bay Diff from Mundra-New Mangalore WC India 55kt $/Mt Supramax
+CRY CISKO0300000c CISKO03c           MA USD MT  140901 181201 DBF Thermal Coal Richards Bay Diff from Mundra-New Mangalore WC India 55kt Supramax MAvg
+CRY CISKOSZ00000u CISKOSZu           DW N/A KT  180301 190118 DBF Thermal Coal Richards Bay Diff Mundra-New Mangalore India 55kt Supramx Cargo Size
+CRY CISKPSZ00000u CISKPSZu           DW N/A KT  180301 190118 DBF Thermal Coal S Kalimantan Diff Krishnapatnam-Paradip India 55kt Supramx Cargo Size
+CRY CISKV0000000c CISKV00c           DW USD MT  140625 190118 DBF Thermal Coal S Kalimantan Diff from Krishnapatnam-Vizag EC India 55kt $/Mt Supramax
+CRY CISKV0300000c CISKV03c           MA USD MT  140901 181201 DBF Thermal Coal S Kalimantan Diff from Krishnapatnam-Vizag EC India 55kt Supramax MAvg
+CRY CISKVSZ00000u CISKVSZu           DW N/A KT  180301 190118 DBF Thermal Coal S Kalimantan Diff Krishnapatnam-Vizag EC India 55kt Supramx Cargo Size
+CRY CIVAC0000000c CIVAC00c           DW USD MT  140625 190118 DBF Coal Hampton Roads Virginia USEC-Qingdao N China 140kt $/Mt Capesize
+CRY CIVAC0300000c CIVAC03c           MA USD MT  140801 181201 DBF Coal Hampton Roads Virginia USEC-Qingdao N China 140kt $/Mt Capesize MAvg
+CRY CIVACSZ00000u CIVACSZu           DW N/A KT  180301 190118 DBF Coal Hampton Roads Virginia USEC-Qingdao N China 140kt Capesize Cargo Size
+CRY CUECI0000000c CUECI00c           DW USD MT  150601 190118 DBF Petcoke US Gulf Coast-East Coast India 50kt $/mt Supramax
+CRY CUECI0300000c CUECI03c           MA USD MT  150601 181201 DBF Petcoke US Gulf Coast-East Coast India 50kt $/mt Supramax MAvg
+CRY CUECISZ00000u CUECISZu           DW N/A KT  180301 190118 DBF Petcoke US Gulf Coast-East Coast India 50kt Supramax Cargo Size
+CRY CUGNC0000000c CUGNC00c           DW USD MT  150601 190118 DBF Petcoke US Gulf Coast-North China 50kt $/mt Supramax
+CRY CUGNC0300000c CUGNC03c           MA USD MT  150601 181201 DBF Petcoke US Gulf Coast-North China 50kt $/mt Supramax MAvg
+CRY CUGNCSZ00000u CUGNCSZu           DW N/A KT  180301 190118 DBF Petcoke US Gulf Coast-North China 50kt Supramax Cargo Size
+CRY CRBKA0000000c CRBKA00c           DW USD MT  171201 190118 DBF Thermal Coal Richards Bay S Africa-Kandla WC India 55kt $/mt Ultramax
+CRY CRBKA0300000c CRBKA03c           MA USD MT  171201 181201 DBF Thermal Coal Richards Bay S Africa-Kandla WC India 55kt $/mt Ultramax MAvg
+CRY CRBKASZ00000u CRBKASZu           DW N/A KT  180301 190118 DBF Thermal Coal Richards Bay S Africa-Kandla WC India 55kt Ultramax Cargo Size
+CRY CRBKB0000000c CRBKB00c           DW USD DAY 180102 190118 DBF Thermal Coal Richards Bay S Africa-Kandla WC India 55kt $/day Ultramax
+CRY CRBKB0300000c CRBKB03c           MA USD DAY 180101 181201 DBF Thermal Coal Richards Bay S Africa-Kandla WC India 55kt $/day Ultramax MAvg
+CRY CRBPA0000000c CRBPA00c           DW USD MT                DBF Thermal Coal Richards Bay S Africa-Paradip EC India 55kt $/mt Ultramax
+CRY CRBPA0300000c CRBPA03c           MA USD MT                DBF Thermal Coal Richards Bay S Africa-Paradip EC India 55kt $/mt Ultramax MAvg
+CRY CRBPB0000000c CRBPB00c           DW USD MT  171201 190118 DBF Thermal Coal Richards Bay S Africa-Port Qasim Pakistan 50kt $/mt Supramax
+CRY CRBPB0300000c CRBPB03c           MA USD MT  171201 181201 DBF Thermal Coal Richards Bay S Africa-Port Qasim Pakistan 50kt $/mt Supramax MAvg
+CRY CRBPBSZ00000u CRBPBSZu           DW N/A KT  180301 190118 DBF Thermal Coal Richards Bay S Africa-Port Qasim Pakistan 50kt $/mt Supramax Cargo Size
+CRY CRBQB0000000c CRBQB00c           DW USD DAY 180102 190118 DBF Thermal Coal Richards Bay S Africa-Paradip EC India 55kt $/day Ultramax
+CRY CRBQB0300000c CRBQB03c           MA USD DAY 180101 181201 DBF Thermal Coal Richards Bay S Africa-Paradip EC India 55kt $/day Ultramax MAvg
+CRY CRYAA0000000c CRYAA00c           DW USD DAY 170103 190118 DBF Puerto Bolivar Colombia-Rdam Netherlands 150kt (plus/minus 10%) $/day Capesize
+CRY CRYAA0300000c CRYAA03c           MA USD DAY 170101 181201 DBF Puerto Bolivar Colombia-Rdam Netherlands 150kt (plus/minus 10%) $/day Capesize MAvg
+CRY CRYAB0000000c CRYAB00c           DW USD DAY 170403 190118 DBF Samarinda Indonesia-Guangzhou China 50kt (plus/minus 10%) $/day Supramax
+CRY CRYAB0300000c CRYAB03c           MA USD DAY 170401 181201 DBF Samarinda Indonesia-Guangzhou China 50kt (plus/minus 10%) $/day Supramax MAvg
+CRY CRYAC0000000c CRYAC00c           DW USD DAY 170403 190118 DBF Samarinda Indonesia-Guangzhou China 65kt (plus/minus 10%) $/day Panamax
+CRY CRYAC0300000c CRYAC03c           MA USD DAY 170401 181201 DBF Samarinda Indonesia-Guangzhou China 65kt (plus/minus 10%) $/day Panamax MAvg
+CRY CRYAD0000000c CRYAD00c           DW USD MT  170403 190118 DBF Samarinda Indonesia-Guangzhou China 50kt (plus/minus 10%) $/mt Supramax
+CRY CRYAD0300000c CRYAD03c           MA USD MT  170401 181201 DBF Samarinda Indonesia-Guangzhou China 50kt (plus/minus 10%) $/mt Supramax MAvg
+CRY CRYADSZ00000u CRYADSZu           DW N/A KT  180301 190118 DBF Samarinda Indonesia-Guangzhou China 50kt (plus/minus 10%) Supramax Cargo Size
+CRY CRYAE0000000c CRYAE00c           DW USD MT  170403 190118 DBF Samarinda Indonesia-Guangzhou China 65kt (plus/minus 10%) $/mt Panamax
+CRY CRYAE0300000c CRYAE03c           MA USD MT  170401 181201 DBF Samarinda Indonesia-Guangzhou China 65kt (plus/minus 10%) $/mt Panamax MAvg
+CRY CRYAESZ00000u CRYAESZu           DW N/A KT  180301 190118 DBF Samarinda Indonesia-Guangzhou China 65kt (plus/minus 10%) Panamax Cargo Size
+CRY CRYBA0000000c CRYBA00c           DW USD DAY 170103 190118 DBF South Kalimantan Indonesia-Paradip India 75kt (plus/minus 10%) $/day Panamax
+CRY CRYBA0300000c CRYBA03c           MA USD DAY 170101 181201 DBF South Kalimantan Indonesia-Paradip India 75kt (plus/minus 10%) $/day Panamax MAvg
+CRY CRYCA0000000c CRYCA00c           DW USD DAY 170103 190118 DBF South Kalimantan Indonesia-Mundra India 75kt (plus/minus 10%) $/day Panamax
+CRY CRYCA0300000c CRYCA03c           MA USD DAY 170101 181201 DBF South Kalimantan Indonesia-Mundra India 75kt (plus/minus 10%) $/day Panamax MAvg
+CRY CRYDA0000000c CRYDA00c           DW USD DAY 170103 190118 DBF Richards Bay South Africa-Paradip India 75kt (plus/minus 10%) $/day Panamax
+CRY CRYDA0300000c CRYDA03c           MA USD DAY 170101 181201 DBF Richards Bay South Africa-Paradip India 75kt (plus/minus 10%) $/day Panamax MAvg
+CRY CRYEA0000000c CRYEA00c           DW USD DAY 170103 190118 DBF Richards Bay South Africa-Mundra India 75kt (plus/minus 10%) $/day Panamax
+CRY CRYEA0300000c CRYEA03c           MA USD DAY 170101 181201 DBF Richards Bay South Africa-Mundra India 75kt (plus/minus 10%) $/day Panamax MAvg
+CRY CRYFA0000000c CRYFA00c           DW USD DAY 170103 190118 DBF South Kalimantan Indonesia-Paradip India 50kt (plus/minus 10%) $/day Supramax
+CRY CRYFA0300000c CRYFA03c           MA USD DAY 170101 181201 DBF South Kalimantan Indonesia-Paradip India 50kt (plus/minus 10%) $/day Supramax MAvg
+CRY CRYGA0000000c CRYGA00c           DW USD DAY 170103 190118 DBF South Kalimantan Indonesia-Navlakhi India 50kt (plus/minus 10%) $/day Supramax
+CRY CRYGA0300000c CRYGA03c           MA USD DAY 170101 181201 DBF South Kalimantan Indonesia-Navlakhi India 50kt (plus/minus 10%) $/day Supramax MAvg
+CRY CRYHA0000000c CRYHA00c           DW USD DAY 170103 190118 DBF Richards Bay South Africa-Paradip India 50kt (plus/minus 10%) $/day Supramax
+CRY CRYHA0300000c CRYHA03c           MA USD DAY 170101 181201 DBF Richards Bay South Africa-Paradip India 50kt (plus/minus 10%) $/day Supramax MAvg
+CRY CRYIA0000000c CRYIA00c           DW USD DAY 170103 190118 DBF Richards Bay South Africa-Navlakhi India 50kt (plus/minus 10%) $/day Supramax
+CRY CRYIA0300000c CRYIA03c           MA USD DAY 170101 181201 DBF Richards Bay South Africa-Navlakhi India 50kt (plus/minus 10%) $/day Supramax MAvg
+CRY CSAKL0000000u CSAKL00u           DW USD MT  100726 190118 Freight Rate Dry Bulk Richards Bay-West Coast India Panamax $/mt
+CRY CSAKL0300000c CSAKL03c           MA USD MT  140701 181201 Freight Rate Dry Bulk Richards Bay-West Coast India Panamax $/mt MAvg
+CRY CSAKLSZ00000u CSAKLSZu           DW N/A KT  180301 190118 DBF Richards Bay-West Coast India Panamax Cargo Size
+CRY CSAKM0000000u CSAKM00u           DW EUR MT  100726 190118 Freight Rate Dry Bulk Richards Bay-East Coast India Panamax Euro/mt
+CRY CSAKN0000000u CSAKN00u           DW USD MT  100726 190118 Freight Rate Dry Bulk Richards Bay-East Coast India Panamax $/mt
+CRY CSAKN0300000c CSAKN03c           MA USD MT  140701 181201 Freight Rate Dry Bulk Richards Bay-East Coast India Panamax $/mt MAvg
+CRY CSAKNSZ00000u CSAKNSZu           DW N/A KT  180301 190118 DBF Richards Bay-East Coast India Panamax Cargo Size
+CRY CSAKO0000000u CSAKO00u           DW EUR MT  100726 190118 Freight Rate Dry Bulk Richards Bay-West Coast India Panamax Euro/mt
+CRY CSAKP0000000u CSAKP00u           DW USD MT  101001 190118 Freight Rate Dry Bulk Kalimantan-West Coast India Panamax $/mt
+CRY CSAKP0300000c CSAKP03c           MA USD MT  140701 181201 Freight Rate Dry Bulk Kalimantan-West Coast India Panamax $/mt MAvg
+CRY CSAKPSZ00000u CSAKPSZu           DW N/A KT  180301 190118 DBF Kalimantan-West Coast India Panamax Cargo Size
+CRY CSAKQ0000000u CSAKQ00u           DW EUR MT  101001 190118 Freight Rate Dry Bulk Kalimantan-West Coast India Panamax Euro/mt
+CRY CSAKR0000000u CSAKR00u           DW USD MT  101001 190118 Freight Rate Dry Bulk Kalimantan-East Coast India Panamax $/mt
+CRY CSAKR0300000c CSAKR03c           MA USD MT  140701 181201 Freight Rate Dry Bulk Kalimantan-East Coast India Panamax $/mt MAvg
+CRY CSAKRSZ00000u CSAKRSZu           DW N/A KT  180301 190118 DBF Kalimantan-East Coast India Panamax Cargo Size
+CRY CSAKS0000000u CSAKS00u           DW EUR MT  101001 190118 Freight Rate Dry Bulk Kalimantan-East Coast India Panamax Euro/mt
+CRY GPHTA0000000c GPHTA00c           DW USD DAY 180301 190118 DBF Petcoke Houston Texas-Krishnapatnam EC India 50kt $/day DOP SWP Supramax
+CRY GPHTA0300000c GPHTA03c           MA USD DAY 180301 181201 DBF Petcoke Houston Texas-Krishnapatnam EC India 50kt $/day DOP SWP Supramax MAvg
+CRY GPHTB0000000c GPHTB00c           DW USD DAY 180301 190118 DBF Petcoke Houston Texas-Krishnapatnam EC India 50kt $/day DOP Gibraltar Supramax
+CRY GPHTB0300000c GPHTB03c           MA USD DAY 180301 181201 DBF Petcoke Houston Texas-Krishnapatnam EC India 50kt $/day DOP Gibraltar Supramax MAvg
+CRY GCHRA0000000c GCHRA00c           DW USD DAY 180301 190118 DBF Met Coal Hampton Roads Virginia-Rotterdam 70kt $/day DOP Rotterdam Panamax
+CRY GCHRA0300000c GCHRA03c           MA USD DAY 180301 181201 DBF Met Coal Hampton Roads Virginia-Rotterdam 70kt $/day DOP Rotterdam Panamax MAvg

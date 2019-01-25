@@ -1,0 +1,562 @@
+RSM                                                           © 2019 by S&P Global Inc.,190119
+RSM GRGSP2100000c GRGSP21c           DW USD MT  130327 190118 FtS Spore 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo21
+RSM GRGSP2200000c GRGSP22c           DW USD MT  140902 190118 FtS Spore 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo22
+RSM GRGSP2300000c GRGSP23c           DW USD MT  140902 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo23
+RSM GRGSP2400000c GRGSP24c           DW USD MT  140902 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo24
+RSM GRGSR0100000c GRGSR01c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Qr01
+RSM GRGSR0200000c GRGSR02c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Qr02
+RSM GRGSR0300000c GRGSR03c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Qr03
+RSM GRGSR0400000c GRGSR04c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Qr04
+RSM GRGSR0500000c GRGSR05c           DW USD MT                FtS Spore Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Qr05
+RSM GRGSR0600000c GRGSR06c           DW USD MT                FtS Spore Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Qr06
+RSM GRGSR0700000c GRGSR07c           DW USD MT                FtS Spore Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Qr07
+RSM GRGSR0800000c GRGSR08c           DW USD MT                FtS Spore Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Qr08
+RSM GRGSS0100000c GRGSS01c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Yr01
+RSM GRGSS0200000c GRGSS02c           DW USD MT  140902 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Yr02
+RSM GNGSP0100000c GNGSP01c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo01
+RSM GNGSP0200000c GNGSP02c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo02
+RSM GNGSP0300000c GNGSP03c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo03
+RSM GNGSP0400000c GNGSP04c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo04
+RSM GNGSP0500000c GNGSP05c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo05
+RSM GNGSP0600000c GNGSP06c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo06
+RSM GNGSP0700000c GNGSP07c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo07
+RSM GNGSP0800000c GNGSP08c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo08
+RSM GNGSP0900000c GNGSP09c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo09
+RSM GNGSP1000000c GNGSP10c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo10
+RSM GNGSP1100000c GNGSP11c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo11
+RSM GNGSP1200000c GNGSP12c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo12
+RSM GNGSP1300000c GNGSP13c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo13
+RSM GNGSP1400000c GNGSP14c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo14
+RSM GNGSP1500000c GNGSP15c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo15
+RSM GNGSP1600000c GNGSP16c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo16
+RSM GNGSP1700000c GNGSP17c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo17
+RSM GNGSP1800000c GNGSP18c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo18
+RSM GNGSP1900000c GNGSP19c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo19
+RSM GNGSP2000000c GNGSP20c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo20
+RSM GNGSP2100000c GNGSP21c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo21
+RSM GNGSP2200000c GNGSP22c           DW USD MT  140902 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo22
+RSM GNGSP2300000c GNGSP23c           DW USD MT  140902 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo23
+RSM GNGSP2400000c GNGSP24c           DW USD MT  140902 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Mo24
+RSM GNGSR0100000c GNGSR01c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Qr01
+RSM GNGSR0200000c GNGSR02c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Qr02
+RSM GNGSR0300000c GNGSR03c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Qr03
+RSM GNGSR0400000c GNGSR04c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Qr04
+RSM GNGSR0500000c GNGSR05c           DW USD MT                FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Qr05
+RSM GNGSR0600000c GNGSR06c           DW USD MT                FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Qr06
+RSM GNGSR0700000c GNGSR07c           DW USD MT                FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Qr07
+RSM GNGSR0800000c GNGSR08c           DW USD MT                FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Qr08
+RSM GNGSS0100000c GNGSS01c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Yr01
+RSM GNGSS0200000c GNGSS02c           DW USD MT  140902 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg vs LS GO Frontline Swap Yr02
+RSM GAMSP0100000c GAMSP01c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo01
+RSM GAMSP0200000c GAMSP02c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo02
+RSM GAMSP0300000c GAMSP03c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo03
+RSM GAMSP0400000c GAMSP04c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo04
+RSM GAMSP0500000c GAMSP05c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo05
+RSM GAMSP0600000c GAMSP06c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo06
+RSM GAMSP0700000c GAMSP07c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo07
+RSM GAMSP0800000c GAMSP08c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo08
+RSM GAMSP0900000c GAMSP09c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo09
+RSM GAMSP1000000c GAMSP10c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo10
+RSM GAMSP1100000c GAMSP11c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo11
+RSM GAMSP1200000c GAMSP12c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo12
+RSM GAMSP1300000c GAMSP13c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo13
+RSM GAMSP1400000c GAMSP14c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo14
+RSM GAMSP1500000c GAMSP15c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo15
+RSM GAMSP1600000c GAMSP16c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo16
+RSM GAMSP1700000c GAMSP17c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo17
+RSM GAMSP1800000c GAMSP18c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo18
+RSM GAMSP1900000c GAMSP19c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo19
+RSM GAMSP2000000c GAMSP20c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo20
+RSM GAMSP2100000c GAMSP21c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo21
+RSM GAMSP2200000c GAMSP22c           DW USD MT  140902 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo22
+RSM GAMSP2300000c GAMSP23c           DW USD MT  140902 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo23
+RSM GAMSP2400000c GAMSP24c           DW USD MT  140902 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Mo24
+RSM GAMSR0100000c GAMSR01c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Qr01
+RSM GAMSR0200000c GAMSR02c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Qr02
+RSM GAMSR0300000c GAMSR03c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Qr03
+RSM GAMSR0400000c GAMSR04c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Qr04
+RSM GAMSR0500000c GAMSR05c           DW USD MT                FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Qr05
+RSM GAMSR0600000c GAMSR06c           DW USD MT                FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Qr06
+RSM GAMSR0700000c GAMSR07c           DW USD MT                FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Qr07
+RSM GAMSR0800000c GAMSR08c           DW USD MT                FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Qr08
+RSM GAMSS0100000c GAMSS01c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Yr01
+RSM GAMSS0200000c GAMSS02c           DW USD MT  140902 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg Flat Prc Swap Yr02
+RSM GNLSP0100000c GNLSP01c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo01
+RSM GNLSP0200000c GNLSP02c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo02
+RSM GNLSP0300000c GNLSP03c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo03
+RSM GNLSP0400000c GNLSP04c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo04
+RSM GNLSP0500000c GNLSP05c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo05
+RSM GNLSP0600000c GNLSP06c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo06
+RSM GNLSP0700000c GNLSP07c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo07
+RSM GNLSP0800000c GNLSP08c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo08
+RSM GNLSP0900000c GNLSP09c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo09
+RSM GNLSP1000000c GNLSP10c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo10
+RSM GNLSP1100000c GNLSP11c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo11
+RSM GNLSP1200000c GNLSP12c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo12
+RSM GNLSP1300000c GNLSP13c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo13
+RSM GNLSP1400000c GNLSP14c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo14
+RSM GNLSP1500000c GNLSP15c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo15
+RSM GNLSP1600000c GNLSP16c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo16
+RSM GNLSP1700000c GNLSP17c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo17
+RSM GNLSP1800000c GNLSP18c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo18
+RSM GNLSP1900000c GNLSP19c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo19
+RSM GNLSP2000000c GNLSP20c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo20
+RSM GNLSP2100000c GNLSP21c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo21
+RSM GNLSP2200000c GNLSP22c           DW USD MT  140902 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo22
+RSM GNLSP2300000c GNLSP23c           DW USD MT  140902 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo23
+RSM GNLSP2400000c GNLSP24c           DW USD MT  140902 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Mo24
+RSM GNLSR0100000c GNLSR01c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Qr01
+RSM GNLSR0200000c GNLSR02c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Qr02
+RSM GNLSR0300000c GNLSR03c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Qr03
+RSM GNLSR0400000c GNLSR04c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Qr04
+RSM GNLSR0500000c GNLSR05c           DW USD MT                FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Qr05
+RSM GNLSR0600000c GNLSR06c           DW USD MT                FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Qr06
+RSM GNLSR0700000c GNLSR07c           DW USD MT                FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Qr07
+RSM GNLSR0800000c GNLSR08c           DW USD MT                FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Qr08
+RSM GNLSS0100000c GNLSS01c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Yr01
+RSM GNLSS0200000c GNLSS02c           DW USD MT  140902 190118 FtS Spore Gasoil 0.1%S NWE CIF Crg Flat Prc Swap Yr02
+RSM GMGSP0100000c GMGSP01c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo01
+RSM GMGSP0200000c GMGSP02c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo02
+RSM GMGSP0300000c GMGSP03c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo03
+RSM GMGSP0400000c GMGSP04c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo04
+RSM GMGSP0500000c GMGSP05c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo05
+RSM GMGSP0600000c GMGSP06c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo06
+RSM GMGSP0700000c GMGSP07c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo07
+RSM GMGSP0800000c GMGSP08c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo08
+RSM GMGSP0900000c GMGSP09c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo09
+RSM GMGSP1000000c GMGSP10c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo10
+RSM GMGSP1100000c GMGSP11c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo11
+RSM GMGSP1200000c GMGSP12c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo12
+RSM GMGSP1300000c GMGSP13c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo13
+RSM GMGSP1400000c GMGSP14c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo14
+RSM GMGSP1500000c GMGSP15c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo15
+RSM GMGSP1600000c GMGSP16c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo16
+RSM GMGSP1700000c GMGSP17c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo17
+RSM GMGSP1800000c GMGSP18c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo18
+RSM GMGSP1900000c GMGSP19c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo19
+RSM GMGSP2000000c GMGSP20c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo20
+RSM GMGSP2100000c GMGSP21c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo21
+RSM GMGSP2200000c GMGSP22c           DW USD MT  140902 190118 FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo22
+RSM GMGSP2300000c GMGSP23c           DW USD MT  140902 190118 FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo23
+RSM GMGSP2400000c GMGSP24c           DW USD MT  140902 190118 FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Mo24
+RSM GMGSR0100000c GMGSR01c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Qr01
+RSM GMGSR0200000c GMGSR02c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Qr02
+RSM GMGSR0300000c GMGSR03c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Qr03
+RSM GMGSR0400000c GMGSR04c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Qr04
+RSM GMGSR0500000c GMGSR05c           DW USD MT                FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Qr05
+RSM GMGSR0600000c GMGSR06c           DW USD MT                FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Qr06
+RSM GMGSR0700000c GMGSR07c           DW USD MT                FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Qr07
+RSM GMGSR0800000c GMGSR08c           DW USD MT                FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Qr08
+RSM GMGSS0100000c GMGSS01c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Yr01
+RSM GMGSS0200000c GMGSS02c           DW USD MT  140902 190118 FtS Spore Gasoil 0.1%S Med CIF Crg vs LS GO Frontline Swap Yr02
+RSM GMLSP0100000c GMLSP01c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo01
+RSM GMLSP0200000c GMLSP02c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo02
+RSM GMLSP0300000c GMLSP03c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo03
+RSM GMLSP0400000c GMLSP04c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo04
+RSM GMLSP0500000c GMLSP05c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo05
+RSM GMLSP0600000c GMLSP06c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo06
+RSM GMLSP0700000c GMLSP07c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo07
+RSM GMLSP0800000c GMLSP08c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo08
+RSM GMLSP0900000c GMLSP09c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo09
+RSM GMLSP1000000c GMLSP10c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo10
+RSM GMLSP1100000c GMLSP11c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo11
+RSM GMLSP1200000c GMLSP12c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo12
+RSM GMLSP1300000c GMLSP13c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo13
+RSM GMLSP1400000c GMLSP14c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo14
+RSM GMLSP1500000c GMLSP15c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo15
+RSM GMLSP1600000c GMLSP16c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo16
+RSM GMLSP1700000c GMLSP17c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo17
+RSM GMLSP1800000c GMLSP18c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo18
+RSM GMLSP1900000c GMLSP19c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo19
+RSM GMLSP2000000c GMLSP20c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo20
+RSM GMLSP2100000c GMLSP21c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo21
+RSM GMLSP2200000c GMLSP22c           DW USD MT  140902 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo22
+RSM GMLSP2300000c GMLSP23c           DW USD MT  140902 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo23
+RSM GMLSP2400000c GMLSP24c           DW USD MT  140902 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Mo24
+RSM GMLSR0100000c GMLSR01c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Qr01
+RSM GMLSR0200000c GMLSR02c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Qr02
+RSM GMLSR0300000c GMLSR03c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Qr03
+RSM GMLSR0400000c GMLSR04c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Qr04
+RSM GMLSR0500000c GMLSR05c           DW USD MT                FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Qr05
+RSM GMLSR0600000c GMLSR06c           DW USD MT                FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Qr06
+RSM GMLSR0700000c GMLSR07c           DW USD MT                FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Qr07
+RSM GMLSR0800000c GMLSR08c           DW USD MT                FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Qr08
+RSM GMLSS0100000c GMLSS01c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Yr01
+RSM GMLSS0200000c GMLSS02c           DW USD MT  140902 190118 FtS Spore Gasoil 0.1%S Med CIF Crg Flat Prc Swap Yr02
+RSM GFSSP0100000c GFSSP01c           DW USD MT  130327 190118 FtS Spore LS Gasoil Frontline Swap Mo01
+RSM GFSSP0200000c GFSSP02c           DW USD MT  130327 190118 FtS Spore LS Gasoil Frontline Swap Mo02
+RSM GFSSP0300000c GFSSP03c           DW USD MT  130327 190118 FtS Spore LS Gasoil Frontline Swap Mo03
+RSM GFSSP0400000c GFSSP04c           DW USD MT  130327 190118 FtS Spore LS Gasoil Frontline Swap Mo04
+RSM GFSSP0500000c GFSSP05c           DW USD MT  130327 190118 FtS Spore LS Gasoil Frontline Swap Mo05
+RSM GFSSP0600000c GFSSP06c           DW USD MT  130327 190118 FtS Spore LS Gasoil Frontline Swap Mo06
+RSM GFSSP0700000c GFSSP07c           DW USD MT  130327 190118 FtS Spore LS Gasoil Frontline Swap Mo07
+RSM GFSSP0800000c GFSSP08c           DW USD MT  130327 190118 FtS Spore LS Gasoil Frontline Swap Mo08
+RSM GFSSP0900000c GFSSP09c           DW USD MT  130327 190118 FtS Spore LS Gasoil Frontline Swap Mo09
+RSM GFSSP1000000c GFSSP10c           DW USD MT  130327 190118 FtS Spore LS Gasoil Frontline Swap Mo10
+RSM GFSSP1100000c GFSSP11c           DW USD MT  130327 190118 FtS Spore LS Gasoil Frontline Swap Mo11
+RSM GFSSP1200000c GFSSP12c           DW USD MT  130327 190118 FtS Spore LS Gasoil Frontline Swap Mo12
+RSM GFSSP1300000c GFSSP13c           DW USD MT  130327 190118 FtS Spore LS Gasoil Frontline Swap Mo13
+RSM GFSSP1400000c GFSSP14c           DW USD MT  130327 190118 FtS Spore LS Gasoil Frontline Swap Mo14
+RSM GFSSP1500000c GFSSP15c           DW USD MT  130327 190118 FtS Spore LS Gasoil Frontline Swap Mo15
+RSM GFSSP1600000c GFSSP16c           DW USD MT  130327 190118 FtS Spore LS Gasoil Frontline Swap Mo16
+RSM GFSSP1700000c GFSSP17c           DW USD MT  130327 190118 FtS Spore LS Gasoil Frontline Swap Mo17
+RSM GFSSP1800000c GFSSP18c           DW USD MT  130327 190118 FtS Spore LS Gasoil Frontline Swap Mo18
+RSM GFSSP1900000c GFSSP19c           DW USD MT  130327 190118 FtS Spore LS Gasoil Frontline Swap Mo19
+RSM GFSSP2000000c GFSSP20c           DW USD MT  130327 190118 FtS Spore LS Gasoil Frontline Swap Mo20
+RSM GFSSP2100000c GFSSP21c           DW USD MT  130327 190118 FtS Spore LS Gasoil Frontline Swap Mo21
+RSM GFSSP2200000c GFSSP22c           DW USD MT  140902 190118 FtS Spore LS Gasoil Frontline Swap Mo22
+RSM GFSSP2300000c GFSSP23c           DW USD MT  140902 190118 FtS Spore LS Gasoil Frontline Swap Mo23
+RSM GFSSP2400000c GFSSP24c           DW USD MT  140902 190118 FtS Spore LS Gasoil Frontline Swap Mo24
+RSM GFSSR0100000c GFSSR01c           DW USD MT  130327 190118 FtS Spore LS Gasoil Frontline Swap Qr01
+RSM GFSSR0200000c GFSSR02c           DW USD MT  130327 190118 FtS Spore LS Gasoil Frontline Swap Qr02
+RSM GFSSR0300000c GFSSR03c           DW USD MT  130327 190118 FtS Spore LS Gasoil Frontline Swap Qr03
+RSM GFSSR0400000c GFSSR04c           DW USD MT  130327 190118 FtS Spore LS Gasoil Frontline Swap Qr04
+RSM GFSSR0500000c GFSSR05c           DW USD MT                FtS Spore Gasoil Frontline Swap Qr05
+RSM GFSSR0600000c GFSSR06c           DW USD MT                FtS Spore Gasoil Frontline Swap Qr06
+RSM GFSSR0700000c GFSSR07c           DW USD MT                FtS Spore Gasoil Frontline Swap Qr07
+RSM GFSSR0800000c GFSSR08c           DW USD MT                FtS Spore Gasoil Frontline Swap Qr08
+RSM GFSSS0100000c GFSSS01c           DW USD MT  130327 190118 FtS Spore LS Gasoil Frontline Swap Yr01
+RSM GFSSS0200000c GFSSS02c           DW USD MT  140902 190118 FtS Spore LS Gasoil Frontline Swap Yr02
+RSM GRGSP0100000c GRGSP01c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo01
+RSM GRGSP0200000c GRGSP02c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo02
+RSM GRGSP0300000c GRGSP03c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo03
+RSM GRGSP0400000c GRGSP04c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo04
+RSM GRGSP0500000c GRGSP05c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo05
+RSM GRGSP0600000c GRGSP06c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo06
+RSM GRGSP0700000c GRGSP07c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo07
+RSM GRGSP0800000c GRGSP08c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo08
+RSM GRGSP0900000c GRGSP09c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo09
+RSM GRGSP1000000c GRGSP10c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo10
+RSM GRGSP1100000c GRGSP11c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo11
+RSM GRGSP1200000c GRGSP12c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo12
+RSM GRGSP1300000c GRGSP13c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo13
+RSM GRGSP1400000c GRGSP14c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo14
+RSM GRGSP1500000c GRGSP15c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo15
+RSM GRGSP1600000c GRGSP16c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo16
+RSM GRGSP1700000c GRGSP17c           DW USD MT  130327 190118 FtS Spore Gasoil 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo17
+RSM GRGSP1800000c GRGSP18c           DW USD MT  130327 190118 FtS Spore 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo18
+RSM GRGSP1900000c GRGSP19c           DW USD MT  130327 190118 FtS Spore 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo19
+RSM GRGSP2000000c GRGSP20c           DW USD MT  130327 190118 FtS Spore 0.1%S ARA FOB Brg vs LS GO Frontline Swap Mo20
+RSM JNGSP0100000c JNGSP01c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo01
+RSM JNGSP0200000c JNGSP02c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo02
+RSM JNGSP0300000c JNGSP03c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo03
+RSM JNGSP0400000c JNGSP04c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo04
+RSM JNGSP0500000c JNGSP05c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo05
+RSM JNGSP0600000c JNGSP06c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo06
+RSM JNGSP0700000c JNGSP07c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo07
+RSM JNGSP0800000c JNGSP08c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo08
+RSM JNGSP0900000c JNGSP09c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo09
+RSM JNGSP1000000c JNGSP10c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo10
+RSM JNGSP1100000c JNGSP11c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo11
+RSM JNGSP1200000c JNGSP12c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo12
+RSM JNGSP1300000c JNGSP13c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo13
+RSM JNGSP1400000c JNGSP14c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo14
+RSM JNGSP1500000c JNGSP15c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo15
+RSM JNGSP1600000c JNGSP16c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo16
+RSM JNGSP1700000c JNGSP17c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo17
+RSM JNGSP1800000c JNGSP18c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo18
+RSM JNGSP1900000c JNGSP19c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo19
+RSM JNGSP2000000c JNGSP20c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo20
+RSM JNGSP2100000c JNGSP21c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo21
+RSM JNGSP2200000c JNGSP22c           DW USD MT  140902 190118 FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo22
+RSM JNGSP2300000c JNGSP23c           DW USD MT  140902 190118 FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo23
+RSM JNGSP2400000c JNGSP24c           DW USD MT  140902 190118 FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo24
+RSM JNGSP2500000c JNGSP25c           DW USD MT                FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo25
+RSM JNGSP2600000c JNGSP26c           DW USD MT                FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo26
+RSM JNGSP2700000c JNGSP27c           DW USD MT                FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo27
+RSM JNGSP2800000c JNGSP28c           DW USD MT                FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo28
+RSM JNGSP2900000c JNGSP29c           DW USD MT                FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo29
+RSM JNGSP3000000c JNGSP30c           DW USD MT                FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo30
+RSM JNGSP3100000c JNGSP31c           DW USD MT                FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo31
+RSM JNGSP3200000c JNGSP32c           DW USD MT                FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo32
+RSM JNGSP3300000c JNGSP33c           DW USD MT                FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo33
+RSM JNGSP3400000c JNGSP34c           DW USD MT                FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo34
+RSM JNGSP3500000c JNGSP35c           DW USD MT                FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo35
+RSM JNGSP3600000c JNGSP36c           DW USD MT                FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Mo36
+RSM JNGSR0100000c JNGSR01c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Qr01
+RSM JNGSR0200000c JNGSR02c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Qr02
+RSM JNGSR0300000c JNGSR03c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Qr03
+RSM JNGSR0400000c JNGSR04c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Qr04
+RSM JNGSR0500000c JNGSR05c           DW USD MT                FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Qr05
+RSM JNGSR0600000c JNGSR06c           DW USD MT                FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Qr06
+RSM JNGSR0700000c JNGSR07c           DW USD MT                FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Qr07
+RSM JNGSR0800000c JNGSR08c           DW USD MT                FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Qr08
+RSM JNGSR0900000c JNGSR09c           DW USD MT                FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Qr09
+RSM JNGSR1000000c JNGSR10c           DW USD MT                FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Qr10
+RSM JNGSR1100000c JNGSR11c           DW USD MT                FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Qr11
+RSM JNGSR1200000c JNGSR12c           DW USD MT                FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Qr12
+RSM JNGSS0100000c JNGSS01c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Yr01
+RSM JNGSS0200000c JNGSS02c           DW USD MT  140902 190118 FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Yr02
+RSM JNGSS0300000c JNGSS03c           DW USD MT                FtS Spore Jet Kero NWE CIF Crg vs LS GO Frontline Swap Yr03
+RSM JNLSP0100000c JNLSP01c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Mo01
+RSM JNLSP0200000c JNLSP02c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Mo02
+RSM JNLSP0300000c JNLSP03c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Mo03
+RSM JNLSP0400000c JNLSP04c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Mo04
+RSM JNLSP0500000c JNLSP05c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Mo05
+RSM JNLSP0600000c JNLSP06c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Mo06
+RSM JNLSP0700000c JNLSP07c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Mo07
+RSM JNLSP0800000c JNLSP08c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Mo08
+RSM JNLSP0900000c JNLSP09c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Mo09
+RSM JNLSP1000000c JNLSP10c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Mo10
+RSM JNLSP1100000c JNLSP11c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Mo11
+RSM JNLSP1200000c JNLSP12c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Mo12
+RSM JNLSP1300000c JNLSP13c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Mo13
+RSM JNLSP1400000c JNLSP14c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Mo14
+RSM JNLSP1500000c JNLSP15c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Mo15
+RSM JNLSP1600000c JNLSP16c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Mo16
+RSM JNLSP1700000c JNLSP17c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Mo17
+RSM JNLSP1800000c JNLSP18c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Mo18
+RSM JNLSP1900000c JNLSP19c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Mo19
+RSM JNLSP2000000c JNLSP20c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Mo20
+RSM JNLSP2100000c JNLSP21c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Mo21
+RSM JNLSP2200000c JNLSP22c           DW USD MT  140902 190118 FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Mo22
+RSM JNLSP2300000c JNLSP23c           DW USD MT  140902 190118 FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Mo23
+RSM JNLSP2400000c JNLSP24c           DW USD MT  140902 190118 FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Mo24
+RSM JNLSR0100000c JNLSR01c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Qr01
+RSM JNLSR0200000c JNLSR02c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Qr02
+RSM JNLSR0300000c JNLSR03c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Qr03
+RSM JNLSR0400000c JNLSR04c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Qr04
+RSM JNLSR0500000c JNLSR05c           DW USD MT                FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Qr05
+RSM JNLSR0600000c JNLSR06c           DW USD MT                FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Qr06
+RSM JNLSR0700000c JNLSR07c           DW USD MT                FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Qr07
+RSM JNLSR0800000c JNLSR08c           DW USD MT                FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Qr08
+RSM JNLSS0100000c JNLSS01c           DW USD MT  130327 190118 FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Yr01
+RSM JNLSS0200000c JNLSS02c           DW USD MT  140902 190118 FtS Spore Jet Kero NWE CIF Crg Flat Prc Swap Yr02
+RSM UMUSP0100000c UMUSP01c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Mo01
+RSM UMUSP0200000c UMUSP02c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Mo02
+RSM UMUSP0300000c UMUSP03c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Mo03
+RSM UMUSP0400000c UMUSP04c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Mo04
+RSM UMUSP0500000c UMUSP05c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Mo05
+RSM UMUSP0600000c UMUSP06c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Mo06
+RSM UMUSP0700000c UMUSP07c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Mo07
+RSM UMUSP0800000c UMUSP08c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Mo08
+RSM UMUSP0900000c UMUSP09c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Mo09
+RSM UMUSP1000000c UMUSP10c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Mo10
+RSM UMUSP1100000c UMUSP11c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Mo11
+RSM UMUSP1200000c UMUSP12c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Mo12
+RSM UMUSP1300000c UMUSP13c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Mo13
+RSM UMUSP1400000c UMUSP14c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Mo14
+RSM UMUSP1500000c UMUSP15c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Mo15
+RSM UMUSP1600000c UMUSP16c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Mo16
+RSM UMUSP1700000c UMUSP17c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Mo17
+RSM UMUSP1800000c UMUSP18c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Mo18
+RSM UMUSP1900000c UMUSP19c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Mo19
+RSM UMUSP2000000c UMUSP20c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Mo20
+RSM UMUSP2100000c UMUSP21c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Mo21
+RSM UMUSP2200000c UMUSP22c           DW USD MT  140902 190118 FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Mo22
+RSM UMUSP2300000c UMUSP23c           DW USD MT  140902 190118 FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Mo23
+RSM UMUSP2400000c UMUSP24c           DW USD MT  140902 190118 FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Mo24
+RSM UMUSR0100000c UMUSR01c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Qr01
+RSM UMUSR0200000c UMUSR02c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Qr02
+RSM UMUSR0300000c UMUSR03c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Qr03
+RSM UMUSR0400000c UMUSR04c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Qr04
+RSM UMUSR0500000c UMUSR05c           DW USD MT                FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Qr05
+RSM UMUSR0600000c UMUSR06c           DW USD MT                FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Qr06
+RSM UMUSR0700000c UMUSR07c           DW USD MT                FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Qr07
+RSM UMUSR0800000c UMUSR08c           DW USD MT                FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Qr08
+RSM UMUSS0100000c UMUSS01c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Yr01
+RSM UMUSS0200000c UMUSS02c           DW USD MT  140902 190118 FtS Spore ULSD 10ppm Med vs NWE CIF Crg Swap Yr02
+RSM UNGSP0100000c UNGSP01c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo01
+RSM UNGSP0200000c UNGSP02c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo02
+RSM UNGSP0300000c UNGSP03c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo03
+RSM UNGSP0400000c UNGSP04c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo04
+RSM UNGSP0500000c UNGSP05c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo05
+RSM UNGSP0600000c UNGSP06c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo06
+RSM UNGSP0700000c UNGSP07c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo07
+RSM UNGSP0800000c UNGSP08c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo08
+RSM UNGSP0900000c UNGSP09c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo09
+RSM UNGSP1000000c UNGSP10c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo10
+RSM UNGSP1100000c UNGSP11c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo11
+RSM UNGSP1200000c UNGSP12c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo12
+RSM UNGSP1300000c UNGSP13c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo13
+RSM UNGSP1400000c UNGSP14c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo14
+RSM UNGSP1500000c UNGSP15c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo15
+RSM UNGSP1600000c UNGSP16c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo16
+RSM UNGSP1700000c UNGSP17c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo17
+RSM UNGSP1800000c UNGSP18c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo18
+RSM UNGSP1900000c UNGSP19c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo19
+RSM UNGSP2000000c UNGSP20c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo20
+RSM UNGSP2100000c UNGSP21c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo21
+RSM UNGSP2200000c UNGSP22c           DW USD MT  140902 190118 FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo22
+RSM UNGSP2300000c UNGSP23c           DW USD MT  140902 190118 FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo23
+RSM UNGSP2400000c UNGSP24c           DW USD MT  140902 190118 FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Mo24
+RSM UNGSR0100000c UNGSR01c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Qr01
+RSM UNGSR0200000c UNGSR02c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Qr02
+RSM UNGSR0300000c UNGSR03c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Qr03
+RSM UNGSR0400000c UNGSR04c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Qr04
+RSM UNGSR0500000c UNGSR05c           DW USD MT                FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Qr05
+RSM UNGSR0600000c UNGSR06c           DW USD MT                FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Qr06
+RSM UNGSR0700000c UNGSR07c           DW USD MT                FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Qr07
+RSM UNGSR0800000c UNGSR08c           DW USD MT                FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Qr08
+RSM UNGSS0100000c UNGSS01c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Yr01
+RSM UNGSS0200000c UNGSS02c           DW USD MT  140902 190118 FtS Spore ULSD 10ppm NWE CIF Crg vs LS GO Frontline Swap Yr02
+RSM UNLSP0100000c UNLSP01c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo01
+RSM UNLSP0200000c UNLSP02c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo02
+RSM UNLSP0300000c UNLSP03c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo03
+RSM UNLSP0400000c UNLSP04c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo04
+RSM UNLSP0500000c UNLSP05c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo05
+RSM UNLSP0600000c UNLSP06c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo06
+RSM UNLSP0700000c UNLSP07c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo07
+RSM UNLSP0800000c UNLSP08c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo08
+RSM UNLSP0900000c UNLSP09c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo09
+RSM UNLSP1000000c UNLSP10c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo10
+RSM UNLSP1100000c UNLSP11c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo11
+RSM UNLSP1200000c UNLSP12c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo12
+RSM UNLSP1300000c UNLSP13c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo13
+RSM UNLSP1400000c UNLSP14c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo14
+RSM UNLSP1500000c UNLSP15c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo15
+RSM UNLSP1600000c UNLSP16c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo16
+RSM UNLSP1700000c UNLSP17c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo17
+RSM UNLSP1800000c UNLSP18c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo18
+RSM UNLSP1900000c UNLSP19c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo19
+RSM UNLSP2000000c UNLSP20c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo20
+RSM UNLSP2100000c UNLSP21c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo21
+RSM UNLSP2200000c UNLSP22c           DW USD MT  140902 190118 FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo22
+RSM UNLSP2300000c UNLSP23c           DW USD MT  140902 190118 FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo23
+RSM UNLSP2400000c UNLSP24c           DW USD MT  140902 190118 FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Mo24
+RSM UNLSR0100000c UNLSR01c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Qr01
+RSM UNLSR0200000c UNLSR02c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Qr02
+RSM UNLSR0300000c UNLSR03c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Qr03
+RSM UNLSR0400000c UNLSR04c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Qr04
+RSM UNLSR0500000c UNLSR05c           DW USD MT                FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Qr05
+RSM UNLSR0600000c UNLSR06c           DW USD MT                FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Qr06
+RSM UNLSR0700000c UNLSR07c           DW USD MT                FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Qr07
+RSM UNLSR0800000c UNLSR08c           DW USD MT                FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Qr08
+RSM UNLSS0100000c UNLSS01c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Yr01
+RSM UNLSS0200000c UNLSS02c           DW USD MT  140902 190118 FtS Spore ULSD 10ppm NWE CIF Crg Flat Prc Swap Yr02
+RSM UMGSP0100000c UMGSP01c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo01
+RSM UMGSP0200000c UMGSP02c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo02
+RSM UMGSP0300000c UMGSP03c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo03
+RSM UMGSP0400000c UMGSP04c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo04
+RSM UMGSP0500000c UMGSP05c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo05
+RSM UMGSP0600000c UMGSP06c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo06
+RSM URGSP0100000c URGSP01c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo01
+RSM URGSP0200000c URGSP02c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo02
+RSM URGSP0300000c URGSP03c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo03
+RSM URGSP0400000c URGSP04c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo04
+RSM URGSP0500000c URGSP05c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo05
+RSM URGSP0600000c URGSP06c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo06
+RSM URGSP0700000c URGSP07c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo07
+RSM URGSP0800000c URGSP08c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo08
+RSM URGSP0900000c URGSP09c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo09
+RSM URGSP1000000c URGSP10c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo10
+RSM URGSP1100000c URGSP11c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo11
+RSM URGSP1200000c URGSP12c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo12
+RSM URGSP1300000c URGSP13c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo13
+RSM URGSP1400000c URGSP14c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo14
+RSM URGSP1500000c URGSP15c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo15
+RSM URGSP1600000c URGSP16c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo16
+RSM URGSP1700000c URGSP17c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo17
+RSM URGSP1800000c URGSP18c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo18
+RSM URGSP1900000c URGSP19c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo19
+RSM URGSP2000000c URGSP20c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo20
+RSM URGSP2100000c URGSP21c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo21
+RSM URGSP2200000c URGSP22c           DW USD MT  140902 190118 FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo22
+RSM URGSP2300000c URGSP23c           DW USD MT  140902 190118 FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo23
+RSM URGSP2400000c URGSP24c           DW USD MT  140902 190118 FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Mo24
+RSM URGSR0100000c URGSR01c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Qr01
+RSM URGSR0200000c URGSR02c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Qr02
+RSM URGSR0300000c URGSR03c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Qr03
+RSM URGSR0400000c URGSR04c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Qr04
+RSM URGSR0500000c URGSR05c           DW USD MT                FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Qr05
+RSM URGSR0600000c URGSR06c           DW USD MT                FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Qr06
+RSM URGSR0700000c URGSR07c           DW USD MT                FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Qr07
+RSM URGSR0800000c URGSR08c           DW USD MT                FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Qr08
+RSM URGSS0100000c URGSS01c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Yr01
+RSM URGSS0200000c URGSS02c           DW USD MT  140902 190118 FtS Spore ULSD 10ppm ARA FOB Brg vs LS GO Frontline Swap Yr02
+RSM UMGSP0700000c UMGSP07c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo07
+RSM UMGSP0800000c UMGSP08c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo08
+RSM UMGSP0900000c UMGSP09c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo09
+RSM UMGSP1000000c UMGSP10c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo10
+RSM UMGSP1100000c UMGSP11c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo11
+RSM UMGSP1200000c UMGSP12c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo12
+RSM UMGSP1300000c UMGSP13c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo13
+RSM UMGSP1400000c UMGSP14c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo14
+RSM UMGSP1500000c UMGSP15c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo15
+RSM UMGSP1600000c UMGSP16c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo16
+RSM UMGSP1700000c UMGSP17c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo17
+RSM UMGSP1800000c UMGSP18c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo18
+RSM UMGSP1900000c UMGSP19c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo19
+RSM UMGSP2000000c UMGSP20c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo20
+RSM UMGSP2100000c UMGSP21c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo21
+RSM UMGSP2200000c UMGSP22c           DW USD MT  140902 190118 FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo22
+RSM UMGSP2300000c UMGSP23c           DW USD MT  140902 190118 FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo23
+RSM UMGSP2400000c UMGSP24c           DW USD MT  140902 190118 FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Mo24
+RSM UMGSR0100000c UMGSR01c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Qr01
+RSM UMGSR0200000c UMGSR02c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Qr02
+RSM UMGSR0300000c UMGSR03c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Qr03
+RSM UMGSR0400000c UMGSR04c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Qr04
+RSM UMGSR0500000c UMGSR05c           DW USD MT                FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Qr05
+RSM UMGSR0600000c UMGSR06c           DW USD MT                FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Qr06
+RSM UMGSR0700000c UMGSR07c           DW USD MT                FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Qr07
+RSM UMGSR0800000c UMGSR08c           DW USD MT                FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Qr08
+RSM UMGSS0100000c UMGSS01c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Yr01
+RSM UMGSS0200000c UMGSS02c           DW USD MT  140902 190118 FtS Spore ULSD 10ppm Med CIF Crg vs LS GO Frontline Swap Yr02
+RSM URMSP0100000c URMSP01c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo01
+RSM URMSP0200000c URMSP02c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo02
+RSM URMSP0300000c URMSP03c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo03
+RSM URMSP0400000c URMSP04c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo04
+RSM URMSP0500000c URMSP05c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo05
+RSM URMSP0600000c URMSP06c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo06
+RSM URMSP0700000c URMSP07c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo07
+RSM URMSP0800000c URMSP08c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo08
+RSM URMSP0900000c URMSP09c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo09
+RSM URMSP1000000c URMSP10c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo10
+RSM URMSP1100000c URMSP11c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo11
+RSM URMSP1200000c URMSP12c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo12
+RSM URMSP1300000c URMSP13c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo13
+RSM URMSP1400000c URMSP14c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo14
+RSM URMSP1500000c URMSP15c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo15
+RSM URMSP1600000c URMSP16c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo16
+RSM URMSP1700000c URMSP17c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo17
+RSM URMSP1800000c URMSP18c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo18
+RSM URMSP1900000c URMSP19c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo19
+RSM UMLSP0100000c UMLSP01c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Mo01
+RSM UMLSP0200000c UMLSP02c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Mo02
+RSM UMLSP0300000c UMLSP03c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Mo03
+RSM UMLSP0400000c UMLSP04c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Mo04
+RSM UMLSP0500000c UMLSP05c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Mo05
+RSM UMLSP0600000c UMLSP06c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Mo06
+RSM UMLSP0700000c UMLSP07c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Mo07
+RSM UMLSP0800000c UMLSP08c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Mo08
+RSM UMLSP0900000c UMLSP09c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Mo09
+RSM UMLSP1000000c UMLSP10c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Mo10
+RSM UMLSP1100000c UMLSP11c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Mo11
+RSM UMLSP1200000c UMLSP12c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Mo12
+RSM UMLSP1300000c UMLSP13c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Mo13
+RSM UMLSP1400000c UMLSP14c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Mo14
+RSM UMLSP1500000c UMLSP15c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Mo15
+RSM UMLSP1600000c UMLSP16c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Mo16
+RSM UMLSP1700000c UMLSP17c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Mo17
+RSM UMLSP1800000c UMLSP18c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Mo18
+RSM UMLSP1900000c UMLSP19c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Mo19
+RSM UMLSP2000000c UMLSP20c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Mo20
+RSM UMLSP2100000c UMLSP21c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Mo21
+RSM UMLSP2200000c UMLSP22c           DW USD MT  140902 190118 FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Mo22
+RSM UMLSP2300000c UMLSP23c           DW USD MT  140902 190118 FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Mo23
+RSM UMLSP2400000c UMLSP24c           DW USD MT  140902 190118 FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Mo24
+RSM UMLSR0100000c UMLSR01c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Qr01
+RSM UMLSR0200000c UMLSR02c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Qr02
+RSM UMLSR0300000c UMLSR03c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Qr03
+RSM UMLSR0400000c UMLSR04c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Qr04
+RSM UMLSR0500000c UMLSR05c           DW USD MT                FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Qr05
+RSM UMLSR0600000c UMLSR06c           DW USD MT                FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Qr06
+RSM UMLSR0700000c UMLSR07c           DW USD MT                FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Qr07
+RSM UMLSR0800000c UMLSR08c           DW USD MT                FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Qr08
+RSM UMLSS0100000c UMLSS01c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Yr01
+RSM UMLSS0200000c UMLSS02c           DW USD MT  140902 190118 FtS Spore ULSD 10ppm Med CIF Crg Flat Prc Swap Yr02
+RSM URMSP2000000c URMSP20c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo20
+RSM URMSP2100000c URMSP21c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo21
+RSM URMSP2200000c URMSP22c           DW USD MT  140902 190118 FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo22
+RSM URMSP2300000c URMSP23c           DW USD MT  140902 190118 FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo23
+RSM URMSP2400000c URMSP24c           DW USD MT  140902 190118 FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Mo24
+RSM URMSR0100000c URMSR01c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Qr01
+RSM URMSR0200000c URMSR02c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Qr02
+RSM URMSR0300000c URMSR03c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Qr03
+RSM URMSR0400000c URMSR04c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Qr04
+RSM URMSR0500000c URMSR05c           DW USD MT                FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Qr05
+RSM URMSR0600000c URMSR06c           DW USD MT                FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Qr06
+RSM URMSR0700000c URMSR07c           DW USD MT                FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Qr07
+RSM URMSR0800000c URMSR08c           DW USD MT                FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Qr08
+RSM URMSS0100000c URMSS01c           DW USD MT  130327 190118 FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Yr01
+RSM URMSS0200000c URMSS02c           DW USD MT  140902 190118 FtS Spore ULSD 10ppm ARA FOB Brg Flat Prc Swap Yr02

@@ -1,0 +1,746 @@
+MM                                                           © 2019 by S&P Global Inc.,190119
+MM AASSO0000000h AASSO00h           BW USC LB  060302 190117 Aluminum Scrap Low Grade Auto Shreds delivered US Midwest
+MM AASSO0000000l AASSO00l           BW USC LB  060302 190117 Aluminum Scrap Low Grade Auto Shreds delivered US Midwest
+MM AASSO0300000c AASSO03c           MA USC LB  060301 181201 Aluminum Scrap Low Grade Auto Shreds delivered US Midwest MAvg
+MM AASSO0400000u AASSO04u           WA USC LB  060512 190118 Aluminum Scrap Low Grade Auto Shreds delivered US Midwest WAvg
+MM AASSO1600000c AASSO16c           YR USC LB  061231 181231 Aluminum Scrap Low Grade Auto Shreds delivered US Midwest YAvg
+MM AASSP0000000h AASSP00h           BW USC LB  060302 190117 Aluminum Scrap High Grade Auto Shreds delivered US Midwest
+MM AASSP0000000l AASSP00l           BW USC LB  060302 190117 Aluminum Scrap High Grade Auto Shreds delivered US Midwest
+MM AASSP0300000c AASSP03c           MA USC LB  060301 181201 Aluminum Scrap High Grade Auto Shreds delivered US Midwest MAvg
+MM AASSP0400000u AASSP04u           WA USC LB  060512 190118 Aluminum Scrap High Grade Auto Shreds delivered US Midwest WAvg
+MM AASSP1600000c AASSP16c           YR USC LB  061231 181231 Aluminum Scrap High Grade Auto Shreds delivered US Midwest YAvg
+MM AAMON0000000c AAMON00c           WA USC LB  000707 190118 Aluminum Scrap High Grade Turnings delivered US Midwest WAvg
+MM AAMOQ0000000c AAMOQ00c           WA USC LB  000707 190118 Aluminum Scrap Mill Grade MLCC delivered US Midwest WAvg
+MM AAMOT0000000c AAMOT00c           WA USC LB  001006 190118 Aluminum Scrap Old Sheet delivered US Midwest WAvg
+MM AAMOU0000000c AAMOU00c           WA USC LB  001006 190118 Aluminum Scrap Old Cast delivered US Midwest WAvg
+MM AAGTD0000000h AAGTD00h           WA USD KG  010405 190115 MW Dealer Rhenium
+MM AAGTD0000000l AAGTD00l           WA USD KG  010405 190115 MW Dealer Rhenium
+MM AAGTE0000000c AAGTE00c           MA USD KG  010401 181201 MW Dealer Rhenium Mo
+MM AAGTE0000000h AAGTE00h           MA USD KG  010401 181201 MW Dealer Rhenium Mo
+MM AAGTE0000000l AAGTE00l           MA USD KG  010401 181201 MW Dealer Rhenium Mo
+MM AANUD0000000h AANUD00h           WA USD MT                Wk Nickel IW Rotterdam $/Mt
+MM AANUD0000000l AANUD00l           WA USD MT                Wk Nickel IW Rotterdam $/Mt
+MM AANUD0300000h AANUD03h           MA USD MT                Wk Nickel IW Rotterdam $/Mt MAvg
+MM AANUD0300000l AANUD03l           MA USD MT                Wk Nickel IW Rotterdam $/Mt MAvg
+MM AAFBJ0000000h AAFBJ00h           BW USC LB  000706 190117 Aluminum Scrap Old Cast delivered US Midwest
+MM AAFBJ0000000l AAFBJ00l           BW USC LB  000706 190117 Aluminum Scrap Old Cast delivered US Midwest
+MM AAFBL0000000h AAFBL00h           BW USC LB  000706 190117 Aluminum Scrap Old Sheet delivered US Midwest
+MM AAFBL0000000l AAFBL00l           BW USC LB  000706 190117 Aluminum Scrap Old Sheet delivered US Midwest
+MM AAFBO0000000c AAFBO00c           MA USC LB  000701 181201 Aluminum Scrap Old Sheet delivered US Midwest MAvg
+MM AAFBO0000000h AAFBO00h           MA USC LB  000701 181201 Aluminum Scrap Old Sheet delivered US Midwest MAvg
+MM AAFBO0000000l AAFBO00l           MA USC LB  000701 181201 Aluminum Scrap Old Sheet delivered US Midwest MAvg
+MM AAFBO1600000c AAFBO16c           YR USC LB  001231 181231 Aluminum Scrap Old Sheet delivered US Midwest YAvg
+MM AAFBP0000000h AAFBP00h           BW USC LB  000706 190117 Aluminum Scrap Mill Grade MLCC delivered US Midwest
+MM AAFBP0000000l AAFBP00l           BW USC LB  000706 190117 Aluminum Scrap Mill Grade MLCC delivered US Midwest
+MM AAFBR0000000c AAFBR00c           MA USC LB  000701 181201 Aluminum Scrap Mill Grade MLCC delivered US Midwest MAvg
+MM AAFBR0000000h AAFBR00h           MA USC LB  000701 181201 Aluminum Scrap Mill Grade MLCC delivered US Midwest MAvg
+MM AAFBR0000000l AAFBR00l           MA USC LB  000701 181201 Aluminum Scrap Mill Grade MLCC delivered US Midwest MAvg
+MM AAFBR1600000c AAFBR16c           YR USC LB  001231 181231 Aluminum Scrap Mill Grade MLCC delivered US Midwest YAvg
+MM AAFBT0000000h AAFBT00h           BW USC LB  000706 190117 Aluminum Scrap Smelter Grade MLCC delivered US Midwest
+MM AAFBT0000000l AAFBT00l           BW USC LB  000706 190117 Aluminum Scrap Smelter Grade MLCC delivered US Midwest
+MM AAFBU0000000u AAFBU00u           WA USC LB  000707 190118 Aluminum Scrap Smelter Grade MLCC delivered US Midwest WAvg
+MM AAFBV0000000c AAFBV00c           MA USC LB  000701 181201 Aluminum Scrap Smelter Grade MLCC delivered US Midwest MAvg
+MM AAFBV0000000h AAFBV00h           MA USC LB  000701 181201 Aluminum Scrap Smelter Grade MLCC delivered US Midwest MAvg
+MM AAFBV0000000l AAFBV00l           MA USC LB  000701 181201 Aluminum Scrap Smelter Grade MLCC delivered US Midwest MAvg
+MM AAFBV1600000c AAFBV16c           YR USC LB  001231 181231 Aluminum Scrap Smelter Grade MLCC delivered US Midwest YAvg
+MM AAFCA0000000h AAFCA00h           BW USC LB  000706 190117 Aluminum Scrap High Grade Turnings delivered US Midwest
+MM AAFCA0000000l AAFCA00l           BW USC LB  000706 190117 Aluminum Scrap High Grade Turnings delivered US Midwest
+MM AAFCC0000000c AAFCC00c           MA USC LB  000701 181201 Aluminum Scrap High Grade Turnings delivered US Midwest MAvg
+MM AAFCC0000000h AAFCC00h           MA USC LB  000701 181201 Aluminum Scrap High Grade Turnings delivered US Midwest MAvg
+MM AAFCC0000000l AAFCC00l           MA USC LB  000701 181201 Aluminum Scrap High Grade Turnings delivered US Midwest MAvg
+MM AAFCC1600000c AAFCC16c           YR USC LB  001231 181231 Aluminum Scrap High Grade Turnings delivered US Midwest YAvg
+MM AAFCD0000000h AAFCD00h           BW USC LB  000706 190117 Aluminum Scrap UBCs delivered US Midwest
+MM AAFCD0000000l AAFCD00l           BW USC LB  000706 190117 Aluminum Scrap UBCs delivered US Midwest
+MM AAFCE0000000h AAFCE00h           WA USC LB  000907 190117 Aluminum 6063 New Bare Extrusion Scrap Discount Delivered US Midwest
+MM AAFCE0000000l AAFCE00l           WA USC LB  000907 190117 Aluminum 6063 New Bare Extrusion Scrap Discount Delivered US Midwest
+MM AAFCE0000000u AAFCE00u           WA USC LB  000907 190117 Aluminum 6063 New Bare Extrusion Scrap Discount Delivered US Midwest
+MM AAFCF0000000h AAFCF00h           DW USC LB  160107 190118 Aluminum 6063 New Bare Extrusion Scrap Delivered US Midwest Range
+MM AAFCF0000000l AAFCF00l           DW USC LB  160107 190118 Aluminum 6063 New Bare Extrusion Scrap Delivered US Midwest Range
+MM AAFCF0000000u AAFCF00u           DW USC LB  160107 190118 Aluminum 6063 New Bare Extrusion Scrap Delivered US Midwest Range
+MM AADDJ0000000u AADDJ00u           WA USC LB  950106 190118 Aluminum P1020 Transaction Premium delivered US Midwest WAvg
+MM AALVE0000000c AALVE00c           DW USD MT  030901 190118 Aluminum Good Western Premium Duty Paid in-warehouse Rotterdam
+MM AALVE0000000h AALVE00h           DW USD MT  030901 190118 Aluminum Good Western Premium Duty Paid in-warehouse Rotterdam
+MM AALVE0000000l AALVE00l           DW USD MT  030901 190118 Aluminum Good Western Premium Duty Paid in-warehouse Rotterdam
+MM AALVH0000000c AALVH00c           MA USD MT  030901 181201 Aluminum Good Western Premium Duty Paid in-warehouse Rotterdam MAvg
+MM AALVH0000000h AALVH00h           MA USD MT  030901 181201 Aluminum Good Western Premium Duty Paid in-warehouse Rotterdam MAvg
+MM AALVH0000000l AALVH00l           MA USD MT  030901 181201 Aluminum Good Western Premium Duty Paid in-warehouse Rotterdam MAvg
+MM AALVH1600000c AALVH16c           YR USD MT  031231 181231 Aluminum Good Western Premium Duty Paid in-warehouse Rotterdam YAvg
+MM AALVI0000000c AALVI00c           DW USD MT  030901 190118 Aluminum Good Western Premium Duty Unpaid in-warehouse Rotterdam
+MM AALVI0000000h AALVI00h           DW USD MT  030901 190118 Aluminum Good Western Premium Duty Unpaid in-warehouse Rotterdam
+MM AALVI0000000l AALVI00l           DW USD MT  030901 190118 Aluminum Good Western Premium Duty Unpaid in-warehouse Rotterdam
+MM AALVK0000000c AALVK00c           MA USD MT  030901 181201 Aluminum Good Western Premium Duty Unpaid in-warehouse Rotterdam MAvg
+MM AALVK0000000h AALVK00h           MA USD MT  030901 181201 Aluminum Good Western Premium Duty Unpaid in-warehouse Rotterdam MAvg
+MM AALVK0000000l AALVK00l           MA USD MT  030901 181201 Aluminum Good Western Premium Duty Unpaid in-warehouse Rotterdam MAvg
+MM AALVK1600000c AALVK16c           YR USD MT  031231 181231 Aluminum Good Western Premium Duty Unpaid in-warehouse Rotterdam YAvg
+MM AALVL0000000h AALVL00h           DW USD MT  030901 190118 Aluminum Russian A7E Premium Duty Unpaid in-warehouse Rotterdam
+MM AALVL0000000l AALVL00l           DW USD MT  030901 190118 Aluminum Russian A7E Premium Duty Unpaid in-warehouse Rotterdam
+MM AALVN0000000c AALVN00c           MA USD MT  030901 181201 Aluminum Russian A7E Premium Duty Unpaid in-warehouse Rotterdam MAvg
+MM AALVN1600000c AALVN16c           YR USD MT  031231 181231 Aluminum Russian A7E Premium Duty Unpaid in-warehouse Rotterdam YAvg
+MM AALVO0000000h AALVO00h           DW USD MT  030901 190118 Aluminum Russian A7E Premium FOB St. Petersburg
+MM AALVO0000000l AALVO00l           DW USD MT  030901 190118 Aluminum Russian A7E Premium FOB St. Petersburg
+MM AALVQ0000000c AALVQ00c           MA USD MT  030901 181201 Aluminum Russian A7E Premium FOB St. Petersburg MAvg
+MM AALVQ1600000c AALVQ16c           YR USD MT  031231 181231 Aluminum Russian A7E Premium FOB St. Petersburg YAvg
+MM AALVT0000000c AALVT00c           WA EUR MT  030905 190118 Aluminum Alloy 226 delivered Europe
+MM AALVT0000000h AALVT00h           WA EUR MT  030905 190118 Aluminum Alloy 226 delivered Europe
+MM AALVT0000000l AALVT00l           WA EUR MT  030905 190118 Aluminum Alloy 226 delivered Europe
+MM AALVU0000000c AALVU00c           MA EUR MT  030901 181201 Aluminum Alloy 226 delivered Europe MAvg
+MM AALVU1600000c AALVU16c           YR EUR MT  031231 181231 Aluminum Alloy 226 delivered Europe YAvg
+MM AALWJ0000000c AALWJ00c           WA USD MT  030905 190118 Nickel Briq Prem IW Rdam
+MM AALWJ0000000h AALWJ00h           WA USD MT  030905 190118 Nickel Briq Prem IW Rdam
+MM AALWJ0000000l AALWJ00l           WA USD MT  030905 190118 Nickel Briq Prem IW Rdam
+MM AASJB0400000u AASJB04u           WA USD MT                Tin Spore In-Whse Prem $/Mt WAvg
+MM AASJC0400000u AASJC04u           WA USD MT                Tin Spore InWhs Fxd Prc $/Mt WAv
+MM AADDN0000000c AADDN00c           MA USC LB  980801 181201 Lead North American Market MAvg
+MM AAFFN0000000c AAFFN00c           MA USC LB  000701 181201 Aluminum Scrap Old Cast delivered US Midwest MAvg
+MM AAFFN0000000h AAFFN00h           MA USC LB  000701 181201 Aluminum Scrap Old Cast delivered US Midwest MAvg
+MM AAFFN0000000l AAFFN00l           MA USC LB  000701 181201 Aluminum Scrap Old Cast delivered US Midwest MAvg
+MM AAFFN1600000c AAFFN16c           YR USC LB  001231 181231 Aluminum Scrap Old Cast delivered US Midwest YAvg
+MM AALWK0000000c AALWK00c           MA USD MT  030801 181201 Nickel Briq Prem IW Rdam MAvg
+MM AALXJ0000000u AALXJ00u           WA USD MT  051216 190118 Aluminum Good Western Premium Duty Paid in-warehouse Rotterdam WAvg
+MM AALXK0000000u AALXK00u           WA USD MT  051216 190118 Aluminum Good Western Premium Duty Unpaid in-warehouse Rotterdam WAvg
+MM AALXL0000000u AALXL00u           WA USD MT  051216 190118 Aluminum Russian A7E Premium Duty Unpaid in-warehouse Rotterdam WAvg
+MM AALXM0000000u AALXM00u           WA USD MT  051216 190118 Aluminum Russian A7E Premium FOB St. Petersburg WAvg
+MM AAFGA0000000h AAFGA00h           DW USD MT  000901 190118 Aluminum CIF Japan Quarterly Contract Premium
+MM AAFGA0000000l AAFGA00l           DW USD MT  000901 190118 Aluminum CIF Japan Quarterly Contract Premium
+MM AAFGA0400000c AAFGA04c           WA USD MT  171215 190118 Aluminum CIF Japan Quarterly Contract Premium WAvg
+MM AAFGA0400000h AAFGA04h           WA USD MT  171215 190118 Aluminum CIF Japan Quarterly Contract Premium WAvg
+MM AAFGA0400000l AAFGA04l           WA USD MT  171215 190118 Aluminum CIF Japan Quarterly Contract Premium WAvg
+MM AAFGB0000000c AAFGB00c           MA USD MT  080501 181201 Aluminum CIF Japan Quarterly Contract Premium MAvg
+MM AAFGB0000000h AAFGB00h           MA USD MT  080501 181201 Aluminum CIF Japan Quarterly Contract Premium MAvg
+MM AAFGB0000000l AAFGB00l           MA USD MT  080501 181201 Aluminum CIF Japan Quarterly Contract Premium MAvg
+MM AAFGC0000000h AAFGC00h           DW USD MT  000901 181228 Copper Concentrate CIF Japan
+MM AAFGC0000000l AAFGC00l           DW USD MT  000901 181228 Copper Concentrate CIF Japan
+MM AAFGD0000000c AAFGD00c           MA USD MT                Japan Conc CIF Mthly
+MM AAFGD0000000h AAFGD00h           MA USD MT                Japan Conc CIF Mthly
+MM AAFGD0000000l AAFGD00l           MA USD MT                Japan Conc CIF Mthly
+MM AASNW0200000h AASNW02h           WA USC LB  060302 190117 Aluminum Scrap Painted Siding delivered US Midwest
+MM AASNW0200000l AASNW02l           WA USC LB  060302 190117 Aluminum Scrap Painted Siding delivered US Midwest
+MM AASNW0300000c AASNW03c           MA USC LB  060301 181201 Aluminum Scrap Painted Siding delivered US Midwest MAvg
+MM AASNW1600000c AASNW16c           YR USC LB  061231 181231 Aluminum Scrap Painted Siding delivered US Midwest YAvg
+MM AAMCZ0000000c AAMCZ00c           MA USC LB  000901 181201 Aluminum 6063 New Bare Extrusion Scrap Discount delivered US Midwest MAvg
+MM AAMCZ1600000c AAMCZ16c           YR USC LB  001231 181231 Aluminum 6063 New Bare Extrusion Scrap Discount delivered US Midwest YAvg
+MM AAMDC0000000c AAMDC00c           MA USC LB  000701 181201 Aluminum Scrap UBCs delivered US Midwest MAvg
+MM AAMDC1600000c AAMDC16c           YR USC LB  001231 181231 Aluminum Scrap UBCs delivered US Midwest YAvg
+MM AAMDO0000000c AAMDO00c           MA USC LB  030901 181201 Aluminum 6063 Billet Upcharge delivered US Midwest MAvg
+MM AAMDO1600000c AAMDO16c           YR USC LB  031231 181231 Aluminum 6063 Billet Upcharge delivered US Midwest YAvg
+MM AAMDP0000000c AAMDP00c           MA USD MT  030901 181201 Aluminum Premium CIF Japan MAvg
+MM AAMDP1600000c AAMDP16c           YR USD MT  031231 181231 Aluminum Premium CIF Japan YAvg
+MM AALDQ0000000h AALDQ00h           WA USD GRT 030206 190117 Stainless Steel Scrap 18-8 delivered US plant
+MM AALDQ0000000l AALDQ00l           WA USD GRT 030206 190117 Stainless Steel Scrap 18-8 delivered US plant
+MM AALDS0000000c AALDS00c           MA USD GRT 030201 181201 Stainless Steel Scrap 18-8 delivered US Plant MAvg
+MM AALDS0000000h AALDS00h           MA USD GRT 030201 181201 Stainless Steel Scrap 18-8 delivered US Plant MAvg
+MM AALDS0000000l AALDS00l           MA USD GRT 030201 181201 Stainless Steel Scrap 18-8 delivered US Plant MAvg
+MM AALDS1600000c AALDS16c           YR USD GRT 031231 181231 Stainless Steel Scrap 18-8 Delivered US Plant YAvg
+MM AAXVM0000000c AAXVM00c           DW USC LB  160107 190118 Aluminum 6022 New Bare Scrap Delivered US Midwest
+MM AAXVM0000000h AAXVM00h           DW USC LB  160107 190118 Aluminum 6022 New Bare Scrap Delivered US Midwest
+MM AAXVM0000000l AAXVM00l           DW USC LB  160107 190118 Aluminum 6022 New Bare Scrap Delivered US Midwest
+MM AAXVM0300000c AAXVM03c           MA USC LB  160101 181201 Aluminum 6022 New Bare Scrap Delivered US Midwest Discount Range MAvg
+MM AAXVM0300000h AAXVM03h           MA USC LB  160101 181201 Aluminum 6022 New Bare Scrap Delivered US Midwest Discount Range MAvg
+MM AAXVM0300000l AAXVM03l           MA USC LB  160101 181201 Aluminum 6022 New Bare Scrap Delivered US Midwest Discount Range MAvg
+MM AAXVM0400000c AAXVM04c           WA USC LB  160107 190117 Aluminum 6022 New Bare Scrap Delivered US Midwest Discount Range Wkly
+MM AAXVM0400000h AAXVM04h           WA USC LB  160107 190117 Aluminum 6022 New Bare Scrap Delivered US Midwest Discount Range Wkly
+MM AAXVM0400000l AAXVM04l           WA USC LB  160107 190117 Aluminum 6022 New Bare Scrap Delivered US Midwest Discount Range Wkly
+MM AAXVM1600000c AAXVM16c           MA USC LB  161231 181231 Aluminum 6022 New Bare Scrap Delivered US Midwest Discount Range YAvg
+MM AAXVM1600000h AAXVM16h           MA USC LB  161231 181231 Aluminum 6022 New Bare Scrap Delivered US Midwest Discount Range YAvg
+MM AAXVM1600000l AAXVM16l           MA USC LB  161231 181231 Aluminum 6022 New Bare Scrap Delivered US Midwest Discount Range YAvg
+MM AAXVX0300000c AAXVX03c           MA USC LB  160101 181201 Aluminum 6022 New Bare Scrap Delivered US Midwest MAvg
+MM AAXVX0300000h AAXVX03h           MA USC LB  160101 181201 Aluminum 6022 New Bare Scrap Delivered US Midwest MAvg
+MM AAXVX0300000l AAXVX03l           MA USC LB  160101 181201 Aluminum 6022 New Bare Scrap Delivered US Midwest MAvg
+MM AAXVX0400000c AAXVX04c           WA USC LB  160108 190118 Aluminum 6022 New Bare Scrap Delivered US Midwest WAvg
+MM AAXVX0400000h AAXVX04h           WA USC LB  160108 190118 Aluminum 6022 New Bare Scrap Delivered US Midwest WAvg
+MM AAXVX0400000l AAXVX04l           WA USC LB  160108 190118 Aluminum 6022 New Bare Scrap Delivered US Midwest WAvg
+MM AAXVY0300000c AAXVY03c           MA USC LB                Aluminum 10/10 Extrusion Scrap Delivered US Midwest Range MAvg
+MM AAXVY0300000h AAXVY03h           MA USC LB                Aluminum 10/10 Extrusion Scrap Delivered US Midwest Range MAvg
+MM AAXVY0300000l AAXVY03l           MA USC LB                Aluminum 10/10 Extrusion Scrap Delivered US Midwest Range MAvg
+MM AAXVY0400000c AAXVY04c           WA USC LB                Aluminum 10/10 Extrusion Scrap Delivered US Midwest Range WAvg
+MM AAXVY0400000h AAXVY04h           WA USC LB                Aluminum 10/10 Extrusion Scrap Delivered US Midwest Range WAvg
+MM AAXVY0400000l AAXVY04l           WA USC LB                Aluminum 10/10 Extrusion Scrap Delivered US Midwest Range WAvg
+MM AAXVZ0300000h AAXVZ03h           MA USC LB  160101 181201 Aluminum 6063 New Bare Extrusion Scrap Delivered US Midwest Range MAvg
+MM AAXVZ0300000l AAXVZ03l           MA USC LB  160101 181201 Aluminum 6063 New Bare Extrusion Scrap Delivered US Midwest Range MAvg
+MM AAXVZ0300000u AAXVZ03u           MA USC LB  160101 181201 Aluminum 6063 New Bare Extrusion Scrap Delivered US Midwest Range MAvg
+MM AAXVZ0400000h AAXVZ04h           WA USC LB  160108 190118 Aluminum 6063 New Bare Extrusion Scrap Delivered US Midwest Range WAvg
+MM AAXVZ0400000l AAXVZ04l           WA USC LB  160108 190118 Aluminum 6063 New Bare Extrusion Scrap Delivered US Midwest Range WAvg
+MM AAXVZ0400000u AAXVZ04u           WA USC LB  160108 190118 Aluminum 6063 New Bare Extrusion Scrap Delivered US Midwest Range WAvg
+MM AAXWM0000000c AAXWM00c           DW USC LB                Aluminum 10/10 Extrusion Scrap Delivered US Midwest Range
+MM AAXWM0000000h AAXWM00h           DW USC LB                Aluminum 10/10 Extrusion Scrap Delivered US Midwest Range
+MM AAXWM0000000l AAXWM00l           DW USC LB                Aluminum 10/10 Extrusion Scrap Delivered US Midwest Range
+MM AAXWM0300000c AAXWM03c           MA USC LB                Aluminum 10/10 Extrusion Scrap Delivered US Midwest Discount Range MAvg
+MM AAXWM0300000h AAXWM03h           MA USC LB                Aluminum 10/10 Extrusion Scrap Delivered US Midwest Discount Range MAvg
+MM AAXWM0300000l AAXWM03l           MA USC LB                Aluminum 10/10 Extrusion Scrap Delivered US Midwest Discount Range MAvg
+MM AAXWM0400000c AAXWM04c           WA USC LB                Aluminum 10/10 Extrusion Scrap Delivered US Midwest Discount Range Wkly
+MM AAXWM0400000h AAXWM04h           WA USC LB                Aluminum 10/10 Extrusion Scrap Delivered US Midwest Discount Range Wkly
+MM AAXWM0400000l AAXWM04l           WA USC LB                Aluminum 10/10 Extrusion Scrap Delivered US Midwest Discount Range Wkly
+MM AAXWM1600000c AAXWM16c           MA USC LB                Aluminum 10/10 Extrusion Scrap Delivered US Midwest Discount Range YAvg
+MM AAXWM1600000h AAXWM16h           MA USC LB                Aluminum 10/10 Extrusion Scrap Delivered US Midwest Discount Range YAvg
+MM AAXWM1600000l AAXWM16l           MA USC LB                Aluminum 10/10 Extrusion Scrap Delivered US Midwest Discount Range YAvg
+MM AAXXA0300000c AAXXA03c           MA MXN KG  160201 181201 Aluminum Scrap Old Cast Dlvd NE Mexico pesos/kg MAvg
+MM AAXXA0300000h AAXXA03h           MA MXN KG  160201 181201 Aluminum Scrap Old Cast Dlvd NE Mexico pesos/kg MAvg
+MM AAXXA0300000l AAXXA03l           MA MXN KG  160201 181201 Aluminum Scrap Old Cast Dlvd NE Mexico pesos/kg MAvg
+MM AAXXA0400000c AAXXA04c           WA MXN KG  160204 190117 Aluminum Scrap Old Cast Dlvd NE Mexico pesos/kg Wkly
+MM AAXXA0400000h AAXXA04h           WA MXN KG  160204 190117 Aluminum Scrap Old Cast Dlvd NE Mexico pesos/kg Wkly
+MM AAXXA0400000l AAXXA04l           WA MXN KG  160204 190117 Aluminum Scrap Old Cast Dlvd NE Mexico pesos/kg Wkly
+MM AAXXA1600000c AAXXA16c           YR MXN KG  161231 181231 Aluminum Scrap Old Cast Dlvd NE Mexico pesos/kg YAvg
+MM AAXXA1600000h AAXXA16h           YR MXN KG  161231 181231 Aluminum Scrap Old Cast Dlvd NE Mexico pesos/kg YAvg
+MM AAXXA1600000l AAXXA16l           YR MXN KG  161231 181231 Aluminum Scrap Old Cast Dlvd NE Mexico pesos/kg YAvg
+MM AAXXB0300000c AAXXB03c           MA MXN KG  160201 181201 Aluminum Scrap Old Sheet Dlvd NE Mexico pesos/kg MAvg
+MM AAXXB0300000h AAXXB03h           MA MXN KG  160201 181201 Aluminum Scrap Old Sheet Dlvd NE Mexico pesos/kg MAvg
+MM AAXXB0300000l AAXXB03l           MA MXN KG  160201 181201 Aluminum Scrap Old Sheet Dlvd NE Mexico pesos/kg MAvg
+MM AAXXB0400000c AAXXB04c           WA MXN KG  160204 190117 Aluminum Scrap Old Sheet Dlvd NE Mexico pesos/kg Wkly
+MM AAXXB0400000h AAXXB04h           WA MXN KG  160204 190117 Aluminum Scrap Old Sheet Dlvd NE Mexico pesos/kg Wkly
+MM AAXXB0400000l AAXXB04l           WA MXN KG  160204 190117 Aluminum Scrap Old Sheet Dlvd NE Mexico pesos/kg Wkly
+MM AAXXB1600000c AAXXB16c           YR MXN KG  161231 181231 Aluminum Scrap Old Sheet Dlvd NE Mexico pesos/kg YAvg
+MM AAXXB1600000h AAXXB16h           YR MXN KG  161231 181231 Aluminum Scrap Old Sheet Dlvd NE Mexico pesos/kg YAvg
+MM AAXXB1600000l AAXXB16l           YR MXN KG  161231 181231 Aluminum Scrap Old Sheet Dlvd NE Mexico pesos/kg YAvg
+MM AAXXC0300000c AAXXC03c           MA MXN KG  160201 181201 Aluminum Scrap UBC Dlvd NE Mexico pesos/kg MAvg
+MM AAXXC0300000h AAXXC03h           MA MXN KG  160201 181201 Aluminum Scrap UBC Dlvd NE Mexico pesos/kg MAvg
+MM AAXXC0300000l AAXXC03l           MA MXN KG  160201 181201 Aluminum Scrap UBC Dlvd NE Mexico pesos/kg MAvg
+MM AAXXC0400000c AAXXC04c           WA MXN KG  160204 190117 Aluminum Scrap UBC Dlvd NE Mexico pesos/kg Wkly
+MM AAXXC0400000h AAXXC04h           WA MXN KG  160204 190117 Aluminum Scrap UBC Dlvd NE Mexico pesos/kg Wkly
+MM AAXXC0400000l AAXXC04l           WA MXN KG  160204 190117 Aluminum Scrap UBC Dlvd NE Mexico pesos/kg Wkly
+MM AAXXC1600000c AAXXC16c           YR MXN KG  161231 181231 Aluminum Scrap UBC Dlvd NE Mexico pesos/kg YAvg
+MM AAXXC1600000h AAXXC16h           YR MXN KG  161231 181231 Aluminum Scrap UBC Dlvd NE Mexico pesos/kg YAvg
+MM AAXXC1600000l AAXXC16l           YR MXN KG  161231 181231 Aluminum Scrap UBC Dlvd NE Mexico pesos/kg YAvg
+MM AAXXD0300000c AAXXD03c           MA MXN KG  160201 181201 Aluminum Scrap 6063 New Bare Dlvd NE Mexico pesos/kg MAvg
+MM AAXXD0300000h AAXXD03h           MA MXN KG  160201 181201 Aluminum Scrap 6063 New Bare Dlvd NE Mexico pesos/kg MAvg
+MM AAXXD0300000l AAXXD03l           MA MXN KG  160201 181201 Aluminum Scrap 6063 New Bare Dlvd NE Mexico pesos/kg MAvg
+MM AAXXD0400000c AAXXD04c           WA MXN KG  160204 190117 Aluminum Scrap 6063 New Bare Dlvd NE Mexico pesos/kg Wkly
+MM AAXXD0400000h AAXXD04h           WA MXN KG  160204 190117 Aluminum Scrap 6063 New Bare Dlvd NE Mexico pesos/kg Wkly
+MM AAXXD0400000l AAXXD04l           WA MXN KG  160204 190117 Aluminum Scrap 6063 New Bare Dlvd NE Mexico pesos/kg Wkly
+MM AAXXD1600000c AAXXD16c           YR MXN KG  161231 181231 Aluminum Scrap 6063 New Bare Dlvd NE Mexico pesos/kg YAvg
+MM AAXXD1600000h AAXXD16h           YR MXN KG  161231 181231 Aluminum Scrap 6063 New Bare Dlvd NE Mexico pesos/kg YAvg
+MM AAXXD1600000l AAXXD16l           YR MXN KG  161231 181231 Aluminum Scrap 6063 New Bare Dlvd NE Mexico pesos/kg YAvg
+MM AFLSA0000000c AFLSA00c           DW USD MT  180801 190118 Aluminum US P1020 Duty Freight Factor $/mt
+MM AFLSB0000000c AFLSB00c           DW USC LB  180801 190118 Aluminum US P1020 Duty Freight Factor cts/lb
+MM AAVSE1600000c AAVSE16c           YR USD MT  111231 181231 Caustic Soda FOB NE Asia YAvg
+MM AAVSF1600000c AAVSF16c           YR USD MT  111231 181231 Caustic Soda CFR SE Asia YAvg
+MM AAVSI0000000h AAVSI00h           WA USD MT  080129 190115 Aluminum ADC12 Ex Works China
+MM AAVSI0000000l AAVSI00l           WA USD MT  080129 190115 Aluminum ADC12 Ex Works China
+MM AAVSI0200000h AAVSI02h           WA CNY MT  080108 190115 Aluminum ADC12 Ex Works China Yuan/Mt
+MM AAVSI0200000l AAVSI02l           WA CNY MT  080108 190115 Aluminum ADC12 Ex Works China Yuan/Mt
+MM AAVSI0300000c AAVSI03c           MA USD MT  080101 181201 Aluminum ADC12 Ex Works China MAvg
+MM AAVSI1300000c AAVSI13c           MA CNY MT  080101 181201 Aluminum ADC12 Ex Works China Yuan/Mt MAvg
+MM AAVSI1600000c AAVSI16c           YR USD MT  141231 181231 Aluminum ADC12 Ex Works China YAvg
+MM AAVSJ0000000h AAVSJ00h           WA USD MT  080108 190115 Aluminum ADC12 FOB China
+MM AAVSJ0000000l AAVSJ00l           WA USD MT  080108 190115 Aluminum ADC12 FOB China
+MM AAVSJ0300000c AAVSJ03c           MA USD MT  080101 181201 Aluminum ADC12 FOB China MAvg
+MM AAVSJ1600000c AAVSJ16c           YR USD MT  141231 181231 Aluminum ADC12 FOB China YAvg
+MM ABGEA0300000c ABGEA03c           MA USD MT  180901 181201 Aluminum Billet DDP Germany $/mt MAvg
+MM ABGEA0400000c ABGEA04c           WA USD MT  180907 190118 Aluminum Billet DDP Germany $/mt Wkly
+MM ABGEA0500000c ABGEA05c           QR USD MT  180701 181001 Aluminum Billet DDP Germany $/mt QAvg
+MM ABGEA1600000c ABGEA16c           YR USD MT  181231 181231 Aluminum Billet DDP Germany $/mt YAvg
+MM ABGEB0300000c ABGEB03c           MA EUR MT  180901 181201 Aluminum Billet DDP Germany Eur/mt MAvg
+MM ABGEB0400000c ABGEB04c           WA EUR MT  180907 190118 Aluminum Billet DDP Germany Eur/mt Wkly
+MM ABITA0300000c ABITA03c           MA USD MT  180901 181201 Aluminum Billet DDP Italy $/mt MAvg
+MM ABITA0400000c ABITA04c           WA USD MT  180907 190118 Aluminum Billet DDP Italy $/mt Wkly
+MM ABITA0500000c ABITA05c           QR USD MT  180701 181001 Aluminum Billet DDP Italy $/mt QAvg
+MM ABITA1600000c ABITA16c           YR USD MT  181231 181231 Aluminum Billet DDP Italy $/mt YAvg
+MM ABITB0300000c ABITB03c           MA EUR MT  180901 181201 Aluminum Billet DDP Italy Eur/mt MAvg
+MM ABITB0400000c ABITB04c           WA EUR MT  180907 190118 Aluminum Billet DDP Italy Eur/mt Wkly
+MM ABLVT0300000c ABLVT03c           MA EUR MT  180801 181201 Aluminum Alloy 231 Delivered Europe MAvg
+MM ABLVT0300000h ABLVT03h           MA EUR MT  180801 181201 Aluminum Alloy 231 Delivered Europe MAvg
+MM ABLVT0300000l ABLVT03l           MA EUR MT  180801 181201 Aluminum Alloy 231 Delivered Europe MAvg
+MM ABLVT0400000c ABLVT04c           WA EUR MT  180803 190118 Aluminum Alloy 231 Delivered Europe Wkly
+MM ABLVT0400000h ABLVT04h           WA EUR MT  180803 190118 Aluminum Alloy 231 Delivered Europe Wkly
+MM ABLVT0400000l ABLVT04l           WA EUR MT  180803 190118 Aluminum Alloy 231 Delivered Europe Wkly
+MM ABLVT1600000c ABLVT16c           YR EUR MT  181231 181231 Aluminum Alloy 231 Delivered Europe YAvg
+MM ABLVT1600000h ABLVT16h           YR EUR MT  181231 181231 Aluminum Alloy 231 Delivered Europe YAvg
+MM ABLVT1600000l ABLVT16l           YR EUR MT  181231 181231 Aluminum Alloy 231 Delivered Europe YAvg
+MM AAXUA0300000c AAXUA03c           MA USC LB  160201 181201 Aluminum Scrap Old Cast Dlvd NE Mexico cts/lb MAvg
+MM AAXUA0300000h AAXUA03h           MA USC LB  160201 181201 Aluminum Scrap Old Cast Dlvd NE Mexico cts/lb MAvg
+MM AAXUA0300000l AAXUA03l           MA USC LB  160201 181201 Aluminum Scrap Old Cast Dlvd NE Mexico cts/lb MAvg
+MM AAXUA0400000c AAXUA04c           WA USC LB  160204 190117 Aluminum Scrap Old Cast Dlvd NE Mexico cts/lb Wkly
+MM AAXUA0400000h AAXUA04h           WA USC LB  160204 190117 Aluminum Scrap Old Cast Dlvd NE Mexico cts/lb Wkly
+MM AAXUA0400000l AAXUA04l           WA USC LB  160204 190117 Aluminum Scrap Old Cast Dlvd NE Mexico cts/lb Wkly
+MM AAXUA1600000c AAXUA16c           YR USC LB  161231 181231 Aluminum Scrap Old Cast Dlvd NE Mexico cts/lb YAvg
+MM AAXUA1600000h AAXUA16h           YR USC LB  161231 181231 Aluminum Scrap Old Cast Dlvd NE Mexico cts/lb YAvg
+MM AAXUA1600000l AAXUA16l           YR USC LB  161231 181231 Aluminum Scrap Old Cast Dlvd NE Mexico cts/lb YAvg
+MM AAXUB0300000c AAXUB03c           MA USC LB  160201 181201 Aluminum Scrap Old Sheet Dlvd NE Mexico cts/lb MAvg
+MM AAXUB0300000h AAXUB03h           MA USC LB  160201 181201 Aluminum Scrap Old Sheet Dlvd NE Mexico cts/lb MAvg
+MM AAXUB0300000l AAXUB03l           MA USC LB  160201 181201 Aluminum Scrap Old Sheet Dlvd NE Mexico cts/lb MAvg
+MM AAXUB0400000c AAXUB04c           WA USC LB  160204 190117 Aluminum Scrap Old Sheet Dlvd NE Mexico cts/lb Wkly
+MM AAXUB0400000h AAXUB04h           WA USC LB  160204 190117 Aluminum Scrap Old Sheet Dlvd NE Mexico cts/lb Wkly
+MM AAXUB0400000l AAXUB04l           WA USC LB  160204 190117 Aluminum Scrap Old Sheet Dlvd NE Mexico cts/lb Wkly
+MM AAXUB1600000c AAXUB16c           YR USC LB  161231 181231 Aluminum Scrap Old Sheet Dlvd NE Mexico cts/lb YAvg
+MM AAXUB1600000h AAXUB16h           YR USC LB  161231 181231 Aluminum Scrap Old Sheet Dlvd NE Mexico cts/lb YAvg
+MM AAXUB1600000l AAXUB16l           YR USC LB  161231 181231 Aluminum Scrap Old Sheet Dlvd NE Mexico cts/lb YAvg
+MM AAXUC0300000c AAXUC03c           MA USC LB  160201 181201 Aluminum Scrap UBC Dlvd NE Mexico cts/lb MAvg
+MM AAXUC0300000h AAXUC03h           MA USC LB  160201 181201 Aluminum Scrap UBC Dlvd NE Mexico cts/lb MAvg
+MM AAXUC0300000l AAXUC03l           MA USC LB  160201 181201 Aluminum Scrap UBC Dlvd NE Mexico cts/lb MAvg
+MM AAXUC0400000c AAXUC04c           WA USC LB  160204 190117 Aluminum Scrap UBC Dlvd NE Mexico cts/lb Wkly
+MM AAXUC0400000h AAXUC04h           WA USC LB  160204 190117 Aluminum Scrap UBC Dlvd NE Mexico cts/lb Wkly
+MM AAXUC0400000l AAXUC04l           WA USC LB  160204 190117 Aluminum Scrap UBC Dlvd NE Mexico cts/lb Wkly
+MM AAXUC1600000c AAXUC16c           YR USC LB  161231 181231 Aluminum Scrap UBC Dlvd NE Mexico cts/lb YAvg
+MM AAXUC1600000h AAXUC16h           YR USC LB  161231 181231 Aluminum Scrap UBC Dlvd NE Mexico cts/lb YAvg
+MM AAXUC1600000l AAXUC16l           YR USC LB  161231 181231 Aluminum Scrap UBC Dlvd NE Mexico cts/lb YAvg
+MM AAXUD0300000c AAXUD03c           MA USC LB  160201 181201 Aluminum Scrap 6063 New Bare Dlvd NE Mexico cts/lb MAvg
+MM AAXUD0300000h AAXUD03h           MA USC LB  160201 181201 Aluminum Scrap 6063 New Bare Dlvd NE Mexico cts/lb MAvg
+MM AAXUD0300000l AAXUD03l           MA USC LB  160201 181201 Aluminum Scrap 6063 New Bare Dlvd NE Mexico cts/lb MAvg
+MM AAXUD0400000c AAXUD04c           WA USC LB  160204 190117 Aluminum Scrap 6063 New Bare Dlvd NE Mexico cts/lb Wkly
+MM AAXUD0400000h AAXUD04h           WA USC LB  160204 190117 Aluminum Scrap 6063 New Bare Dlvd NE Mexico cts/lb Wkly
+MM AAXUD0400000l AAXUD04l           WA USC LB  160204 190117 Aluminum Scrap 6063 New Bare Dlvd NE Mexico cts/lb Wkly
+MM AAXUD1600000c AAXUD16c           YR USC LB  161231 181231 Aluminum Scrap 6063 New Bare Dlvd NE Mexico cts/lb YAvg
+MM AAXUD1600000h AAXUD16h           YR USC LB  161231 181231 Aluminum Scrap 6063 New Bare Dlvd NE Mexico cts/lb YAvg
+MM AAXUD1600000l AAXUD16l           YR USC LB  161231 181231 Aluminum Scrap 6063 New Bare Dlvd NE Mexico cts/lb YAvg
+MM FAALB0000000h FAALB00h           BW USC LB  130610 190117 Aluminum B390 Alloy delivered US Midwest
+MM FAALB0000000l FAALB00l           BW USC LB  130610 190117 Aluminum B390 Alloy delivered US Midwest
+MM FAALB0300000c FAALB03c           MA USC LB  130601 181201 Aluminum B390 Alloy delivered US Midwest MAvg
+MM FAALB0400000c FAALB04c           WA USC LB  130614 190118 Aluminum B390 Alloy delivered US Midwest WAvg
+MM FAALB1600000c FAALB16c           YR USC LB  141231 181231 Aluminum B390 Alloy delivered US Midwest YAvg
+MM LMABF1600000c LMABF16c           YR USD MT  001231 181231 Nickel LME Cash London $/MT YAvg
+MM LMZNY1600000c LMZNY16c           YR USD MT  111231 181231 Zinc SHG LME London 1Y $/MT YAvg
+MM LMZNY2600000c LMZNY26c           YR USD MT  111231 181231 Zinc SHG LME London 2Y $/MT YAvg
+MM LMZNY3600000c LMZNY36c           YR USD MT  111231 181231 Zinc SHG LME London 3Y $/MT YAvg
+MM LMALY1600000c LMALY16c           YR USD MT  111231 181231 Aluminum Alloy LME London 1Y $/MT YAvg
+MM LMCUY1600000c LMCUY16c           YR USD MT  111231 181231 Copper Grade A LME London 1Y $/MT YAvg
+MM LMCUY2600000c LMCUY26c           YR USD MT  111231 181231 Copper Grade A LME London 2Y $/MT YAvg
+MM LMCUY3600000c LMCUY36c           YR USD MT  111231 181231 Copper Grade A LME London 3Y $/MT YAvg
+MM LMHGY1600000c LMHGY16c           YR USD MT  111231 181231 Aluminum HG LME London 1Y $/MT YAvg
+MM LMHGY2600000c LMHGY26c           YR USD MT  111231 181231 Aluminum HG LME London 2Y $/MT YAvg
+MM LMHGY3600000c LMHGY36c           YR USD MT  111231 181231 Aluminum HG LME London 3Y $/MT YAvg
+MM LMNAY1600000c LMNAY16c           YR USD MT  121231 181231 Aluminum NA Alloy LME London 1Y $/MT YAvg
+MM LMNIY1600000c LMNIY16c           YR USD MT  111231 181231 Nickel LME London 1Y $/MT YAvg
+MM LMNIY2600000c LMNIY26c           YR USD MT  111231 181231 Nickel LME London 2Y $/MT YAvg
+MM LMNIY3600000c LMNIY36c           YR USD MT  111231 181231 Nickel LME London 3Y $/MT YAvg
+MM MMAJW3000000h MMAJW30h           DW JPY KG  031204 190118 Aluminum Jpn InWhse Mo 3 Yen/Kg
+MM MMAJW3000000l MMAJW30l           DW JPY KG  031204 190118 Aluminum Jpn InWhse Mo 3 Yen/Kg
+MM MMAJW3300000h MMAJW33h           MA JPY KG                Aluminum Jpn InWhs Mo3 Yen/Kg MA
+MM MMAJW3300000l MMAJW33l           MA JPY KG                Aluminum Jpn InWhs Mo3 Yen/Kg MA
+MM MMAJW4000000h MMAJW40h           DW JPY KG  031204 190118 Aluminum Jpn InWhse Mo 4 Yen/Kg
+MM MMAJW4000000l MMAJW40l           DW JPY KG  031204 190118 Aluminum Jpn InWhse Mo 4 Yen/Kg
+MM MMAJW4300000h MMAJW43h           MA JPY KG                Aluminum Jpn InWhs Mo4 Yen/Kg MA
+MM MMAJW4300000l MMAJW43l           MA JPY KG                Aluminum Jpn InWhs Mo4 Yen/Kg MA
+MM MEMA6BSPTAAAc MMAKC00c           WA USC LB  960606 190117 Aluminum 6063 Billet Upcharge delivered US Midwest
+MM MEMA6BSPTAAAh MMAKC00h WM5B0USSH WA USC LB  960606 190117 Aluminum 6063 Billet Upcharge delivered US Midwest
+MM MEMA6BSPTAAAl MMAKC00l WM5B0USSL WA USC LB  960606 190117 Aluminum 6063 Billet Upcharge delivered US Midwest
+MM MEMALUTRPAAAu MMAKE00u WM5C0USSU DW USC LB  841105 190118 Aluminum P1020 Transaction Premium delivered US Midwest
+MM MMAKE0300000c MMAKE03c           MA USC LB  000101 181201 Aluminum P1020 Transaction Premium delivered US Midwest MAvg
+MM MMAKE1600000c MMAKE16c           YR USC LB  061231 181231 Aluminum P1020 Transaction Premium delivered US Midwest YAvg
+MM MEMZNSFOTAAAh MMALC00h WM0M1FOEH MA USD MT  960913 190116 Euro Physical Zinc Monthly
+MM MEMZNSFOTAAAl MMALC00l WM0M1FOEL MA USD MT  960913 190116 Euro Physical Zinc Monthly
+MM MEMCRCCIFAAAh MMALD00h WM1B1CFRH WA USD MT  960913 190118 Euro Copper Cathode Wk
+MM MEMCRCCIFAAAl MMALD00l WM1B1CFRL WA USD MT  960913 190118 Euro Copper Cathode Wk
+MM MEMLEDSPTAAAh MMALF00h WM0F0NAMH WA USC LB  980828 130426 Lead NA Market Wk
+MM MEMLEDSPTAAAl MMALF00l WM0F0NAML WA USC LB  980828 130426 Lead NA Market Wk
+MM MMALF0100000c MMALF01c           DW USC LB  130429 190118 Lead North American Market
+MM MMALF0400000c MMALF04c           WA USC LB  130503 190118 Lead North American Market WAvg
+MM MMALF1600000c MMALF16c           YR USC LB  141231 181231 Lead North American Market YAvg
+MM MEMALUFXHAAAh MMALU00h WM0A1XWJH DW USD MT  970901 190118 Alum Japan First Mo Ex-whse
+MM MEMALUFXHAAAl MMALU00l WM0A1XWJL DW USD MT  970901 190118 Alum Japan First Mo Ex-whse
+MM MMALU0400000c MMALU04c           WA USD MT  171215 190118 Alum Japan First Mo Ex-whse WAvg
+MM MMALU0400000h MMALU04h           WA USD MT  171215 190118 Alum Japan First Mo Ex-whse WAvg
+MM MMALU0400000l MMALU04l           WA USD MT  171215 190118 Alum Japan First Mo Ex-whse WAvg
+MM MEMALUSXHAAAh MMALX00h WM0A12XJH DW USD MT  970901 190118 Alum Japan Sec Mo Ex-whse
+MM MEMALUSXHAAAl MMALX00l WM0A12XJL DW USD MT  970901 190118 Alum Japan Sec Mo Ex-whse
+MM MMALX0400000c MMALX04c           WA USD MT  171215 190118 Alum Japan Sec Mo Ex-whse WAvg
+MM MMALX0400000h MMALX04h           WA USD MT  171215 190118 Alum Japan Sec Mo Ex-whse WAvg
+MM MMALX0400000l MMALX04l           WA USD MT  171215 190118 Alum Japan Sec Mo Ex-whse WAvg
+MM MEMALAACFAAAc MMALZ00c           DW USD MT  970901 190118 Alumina CFR China $/Mt
+MM MEMALAACFAAAh MMALZ00h           DW USD MT  970901 190118 Alumina CFR China $/Mt
+MM MEMALAACFAAAl MMALZ00l           DW USD MT  970901 190118 Alumina CFR China $/Mt
+MM MMALZ0300000c MMALZ03c           MA USD MT  060301 181201 Alumina CFR China $/Mt MAvg
+MM MMALZ0400000u MMALZ04u           WA USD MT  060217 190118 Alumina CFR China $/Mt WAvg
+MM MMALZ1600000c MMALZ16c           YR USD MT  061231 181231 Alumina CFR China $/MT YAvg
+MM MEMCPACNFAAAh MMAMJ00h WM0E1CFCH DW USD MT  970901 190118 Copper C&F China
+MM MEMCPACNFAAAl MMAMJ00l WM0E1CFCL DW USD MT  970901 190118 Copper C&F China
+MM MMAMJ0400000c MMAMJ04c           WA USD MT  171215 190118 Copper C&F China WAvg
+MM MMAMJ0400000h MMAMJ04h           WA USD MT  171215 190118 Copper C&F China WAvg
+MM MMAMJ0400000l MMAMJ04l           WA USD MT  171215 190118 Copper C&F China WAvg
+MM MEMCPMCNFAAAh MMAMK00h WM3W1CFCH DW USD MT  970901 190118 Copper LME Prem C&F China
+MM MEMCPMCNFAAAl MMAMK00l WM3W1CFCL DW USD MT  970901 190118 Copper LME Prem C&F China
+MM MEMALUCNFAAAh MMAML00h WM0A1CFCH DW USD MT  970901 151029 Aluminum C&F China
+MM MEMALUCNFAAAl MMAML00l WM0A1CFCL DW USD MT  970901 151029 Aluminum C&F China
+MM MEMNKTUNSAAAh MMAMN04h WM0H1RUSH WA USD MT  970606 190118 Nickel Russian Cathode
+MM MEMNKTUNSAAAl MMAMN04l WM0H1RUSL WA USD MT  970606 190118 Nickel Russian Cathode
+MM MEMNKPUNSAAAh MMAMR00h WM0J1EURH WA USD MT  970606 190118 Nickel European Plating Wk
+MM MEMNKPUNSAAAl MMAMR00l WM0J1EURL WA USD MT  970606 190118 Nickel European Plating Wk
+MM MEMLPHUNSAAAh MMAMS00h WM0F1EURH MA USD MT  970606 190116 Lead European Physical Monthly
+MM MEMLPHUNSAAAl MMAMS00l WM0F1EURL MA USD MT  970606 190116 Lead European Physical Monthly
+MM MMAMX0000000c MMAMX00c           WA USD MT  150701 190116 Aluminum CIF South Korea Spot Premium Wkly
+MM MMAMX0000000h MMAMX00h           WA USD MT  150701 190116 Aluminum CIF South Korea Spot Premium Wkly
+MM MMAMX0000000l MMAMX00l           WA USD MT  150701 190116 Aluminum CIF South Korea Spot Premium Wkly
+MM MMAMX0300000c MMAMX03c           MA USD MT  150701 181201 Aluminum CIF South Korea Spot Premium MAvg
+MM MMAMX0300000h MMAMX03h           MA USD MT  150701 181201 Aluminum CIF South Korea Spot Premium MAvg
+MM MMAMX0300000l MMAMX03l           MA USD MT  150701 181201 Aluminum CIF South Korea Spot Premium MAvg
+MM MEMALPCIFAAAh MMANA00h WM111CJSH DW USD MT  970901 190118 Aluminum Premium CIF Japan
+MM MEMALPCIFAAAl MMANA00l WM111CJSL DW USD MT  970901 190118 Aluminum Premium CIF Japan
+MM MEMALPCIFAABu MMANB04u WM111CJS7 WA USD MT  140627 190118 Aluminum Premium CIF Japan WAvg
+MM MEMALU6P1AAAu MMANJ04u WM5D0USSU WA USC LB  960613 190117 Aluminum 6 Mon P1020 Ingot Wkly
+MM MEMT98INWAAAh MMANS04h WM8T1INRH MA USD MT  971212 190116 99.85% Tin In-Warehouse R'dam Monthly
+MM MEMT98INWAAAl MMANS04l WM8T1INRL MA USD MT  971212 190116 99.85% Tin In-Warehouse R'dam Monthly
+MM MEMT99INWAAAh MMANT04h WM9T1INRH MA USD MT  971212 190116 99.9% Tin In-Warehouse R'dam Monthly
+MM MEMT99INWAAAl MMANT04l WM9T1INRL MA USD MT  971212 190116 99.9% Tin In-Warehouse R'dam Monthly
+MM MEMCRCSPTAAAh MMAOH04h WM1B1NOSH WA USD MT  980605 190118 CopperCathodes Novorossiysk Wk
+MM MEMCRCSPTAAAl MMAOH04l WM1B1NOSL WA USD MT  980605 190118 CopperCathodes Novorossiysk Wk
+MM MEMCRCSPPAAAc MMAOI04c           WA USD MT  980605 190118 CopperCathodes Prem Novorossiysk Wk
+MM MEMCRCSPPAAAh MMAOI04h WM1B1NOPH WA USD MT  980605 190118 CopperCathodes Prem Novorossiysk Wk
+MM MEMCRCSPPAAAl MMAOI04l WM1B1NOPL WA USD MT  980605 190118 CopperCathodes Prem Novorossiysk Wk
+MM MEMCPACJSAAAh MMAOL04h WM0E1LISH WA USD MT  980605 190118 Copper(GrdA)CIFLiv/Sal Wk
+MM MEMCPACJSAAAl MMAOL04l WM0E1LISL WA USD MT  980605 190118 Copper(GrdA)CIFLiv/Sal Wk
+MM MMAOM0300000c MMAOM03c           MA USD MT                Copper(GrdA)CIFPrm Liv/Sal Wk MA
+MM MEMCPASPPAAAc MMAOM04c           WA USD MT  030829 190118 Copper(GrdA)CIFPrem Liv/Sal Wk
+MM MEMCPASPPAAAh MMAOM04h WM0E1LIPH WA USD MT  030829 190118 Copper(GrdA)CIFPrem Liv/Sal Wk
+MM MEMCPASPPAAAl MMAOM04l WM0E1LIPL WA USD MT  030829 190118 Copper(GrdA)CIFPrem Liv/Sal Wk
+MM MEMCPUIMPAAAu MMAON03u           MA UNS MT  981007 181101 Coppr UnwrghtUnwrt Imp ChinaVol
+MM MEMCPSIMPAAAu MMAOO03u           MA UNS MT  981007 181101 Copper Semis Imp China
+MM MEMCPWIMPAAAu MMAOP03u           MA UNS MT  981007 181101 Copper Waste&Scraps Imp ChinaVol
+MM MEMCPEIMPAAAu MMAOQ03u           MA UNS MT  981007 181101 Copper Concentrt Imp China
+MM MEMAUNIMPAAAu MMAOS03u           MA UNS MT  981007 181101 Alum UnwrghtUnwrts Imp ChinaVol
+MM MEMALSIMPAAAu MMAOT03u           MA UNS MT  981007 181101 Alum Semis Imp China
+MM MEMALWIMPAAAu MMAOU03u           MA UNS MT  981007 181101 Alum Waste&Scraps Imp China
+MM MEMALOIMPAAAu MMAOV03u           MA UNS MT  981007 181101 Alum Oxide Alumina Imp China
+MM MEMCPUEXPAAAu MMAOW03u           MA UNS MT  981007 181101 Coppr UnwrghtUnwrt Exp ChinaVol
+MM MEMCPSEXPAAAu MMAOX03u           MA UNS MT  981007 181101 Copper Semis Exp China
+MM MEMCPTEXPAAAu MMAOY03u           MA UNS MT  981007 181101 Copper Total Exp China
+MM MEMAUNEXPAAAu MMAOZ03u           MA UNS MT  981007 181101 Alum UnwrghtUnwrts Exp ChinaVol
+MM MEMALSEXPAAAu MMAPA03u           MA UNS MT  981007 181101 Alum Semis Exp China
+MM MEMALTEXPAAAu MMAPB03u           MA UNS MT  981007 181101 Alum Total Exp China
+MM MEMBAUEXPAAAu MMAPC03u           MA UNS MT  981007 181101 Bauxite Exp China
+MM MEMALAEXPAAAu MMAPD03u           MA UNS MT  981007 181101 Alumina Exp China
+MM MEMZNUEXPAAAu MMAPE03u           MA UNS MT  981007 181101 Zinc Unwrght Alloy Exp China
+MM MEMZNOEXPAAAu MMAPF03u           MA UNS MT  981007 181101 Zinc Oxide&Peroxide Exp ChinaVol
+MM MEMTNUEXPAAAu MMAPG03u           MA UNS MT  981007 181101 Tin Unwrght Alloys Exp China
+MM MEMANWEXPAAAu MMAPH03u           MA UNS MT  981007 181101 Antimony Unwrght Exp China
+MM MEMTGPEXPAAAu MMAPI03u           MA UNS MT  981007 181101 Tungston Products Exp China
+MM MEMSTSIMPAAAu MMAPK03u           MA UNS MT  981007 181101 Steel Semis Imp China
+MM MEMSTAIMPAAAu MMAPM03u           MA UNS MT  981007 181101 Steel All Category Imp China
+MM MEMSTBIMPAAAu MMAPN03u           MA UNS MT  981007 181101 Steel Bars&Rods Imp China
+MM MEMSTNIMPAAAu MMAPO03u           MA UNS MT  981007 181101 Steel Angles&Shapes Imp ChinaVol
+MM MEMSTTIMPAAAu MMAPP03u           MA UNS MT  981007 181101 Steel Sheets&Plates Imp ChinaVol
+MM MEMSTUIMPAAAu MMAPQ03u           MA UNS MT  981007 181101 Steel Tubes&Pipes Imp China
+MM MEMIROIMPAAAu MMAPR03u           MA UNS MT  981007 181101 Iron Ore Imp China
+MM MEMSTSEXPAAAu MMAPT03u           MA UNS MT  981007 181101 Steel Semis Exp China
+MM MEMSTAEXPAAAu MMAPV03u           MA UNS MT  981007 181101 Steel All Category Exp China
+MM MEMSTBEXPAAAu MMAPW03u           MA UNS MT  981007 181101 Steel Bars&Rods Exp China
+MM MEMSTTEXPAAAu MMAPX03u           MA UNS MT  981007 181101 Steel Sheets&Plates Exp ChinaVol
+MM MEMSTWEXPAAAu MMAPY03u           MA UNS MT  981007 181101 Steel Wire Exp China
+MM MEMSTUEXPAAAu MMAPZ03u           MA UNS MT  981007 181101 Steel Tubes&Pipes Exp China
+MM MEMSWSEXPAAAu MMAQA03u           MA UNS MT  981007 181101 Steel Waste&Scraps Exp China
+MM MEMFSLEXPAAAu MMAQB03u           MA UNS MT  981007 181101 Ferrosilicon Exp China
+MM MEMFM1EXPAAAu MMAQC03u           MA UNS MT  981007 181101 Ferromanganese Exp China
+MM MEMMGOIMPAAAu MMAQD03u           MA UNS MT  981007 181101 Manganese Ore Imp China
+MM MEMCHRIMPAAAu MMAQE03u           MA UNS MT  981007 181101 Chrome Ore Imp China
+MM MEMCPUIMVAAAu MMAQF03u           MA USD UNS 981007 181101 Copper Unwrought ImpVal China
+MM MEMCPSIMVAAAu MMAQG03u WM6BNIMVU MA USD UNS 981007 181101 Copper Semis Imp Value China
+MM MEMCPWIMVAAAu MMAQH03u WM6CNIMVU MA USD UNS 981007 181101 Coppr Waste&Scraps Imp Val China
+MM MEMCPEIMVAAAu MMAQI03u           MA USD UNS 981007 181101 Copper Concentrate Imp Val China
+MM MEMAUNIMVAAAu MMAQJ03u           MA USD UNS 981007 181101 Aluminum Unwrought ImpVal China
+MM MEMALSIMVAAAu MMAQK03u WM6ENIMVU MA USD UNS 981007 181101 Alum Semis Imp Value China
+MM MEMALWIMVAAAu MMAQL03u WM6FNIMVU MA USD UNS 981007 181101 Alum Waste&Scraps Imp Val China
+MM MEMALOIMVAAAu MMAQM03u WM6GNIMVU MA USD UNS 981007 181101 Alum Oxide Alumina Imp Val China
+MM MEMCPUEXVAAAu MMAQN03u           MA USD UNS 981007 181101 Copper Unwrought ExpVal China
+MM MEMCPSEXVAAAu MMAQO03u WM6BNEXVU MA USD UNS 981007 181101 Copper Semis Exp Value China
+MM MEMCPTEXVAAAu MMAQP03u WM6HNEXVU MA USD UNS 981007 181101 Copper Total Exp Value China
+MM MEMAUNEXVAAAu MMAQQ03u           MA USD UNS 981007 181101 Aluminum Unwrought ExpVal China
+MM MEMALSEXVAAAu MMAQR03u WM6ENEXVU MA USD UNS 981007 181101 Alum Semis Exp Value China
+MM MEMALTEXVAAAu MMAQS03u WM6INEXVU MA USD UNS 981007 181101 Alum Total Exp Value China
+MM MEMBAUEXVAAAu MMAQT03u WM6JNEXVU MA USD UNS 981007 181101 Bauxite Exp Value China
+MM MEMALAEXVAAAu MMAQU03u WM12NEXVU MA USD UNS 981007 181101 Alumina Exp Value China
+MM MEMZNUEXVAAAu MMAQV03u WM6KNEXVU MA USD UNS 981007 181101 Zinc Unwrght Alloys ExpVal China
+MM MEMZNOEXVAAAu MMAQW03u WM6LNEXVU MA USD UNS 981007 181101 Zinc Oxide&Peroxide ExpVal China
+MM MEMTNUEXVAAAu MMAQX03u WM6MNEXVU MA USD UNS 981007 181101 Tin Unwrght Alloys Exp Val China
+MM MEMANWEXVAAAu MMAQY03u WM6NNEXVU MA USD UNS 981007 181101 Antimony Unwrght Exp Val China
+MM MEMTGPEXVAAAu MMAQZ03u WM6PNEXVU MA USD UNS 981007 181101 Tungston Products Exp Val China
+MM MEMSTSIMVAAAu MMARB03u WM6RNIMVU MA USD UNS 981007 181101 Steel Semis Imp Value China
+MM MEMSTAIMVAAAu MMARD03u WM6TNIMVU MA USD UNS 981007 181101 Steel All Category Imp Val China
+MM MEMSTBIMVAAAu MMARE03u WM6UNIMVU MA USD UNS 981007 181101 Steel Bars&Rods Imp Value China
+MM MEMSTNIMVAAAu MMARF03u WM6VNIMVU MA USD UNS 981007 181101 Steel Angles&Shapes ImpVal China
+MM MEMSTTIMVAAAu MMARG03u WM6WNIMVU MA USD UNS 981007 181101 Steel Sheets&Plates ImpVal China
+MM MEMSTUIMVAAAu MMARH03u WM6XNIMVU MA USD UNS 981007 181101 Steel Tubes&Pipes Imp Val China
+MM MEMIROIMVAAAu MMARI03u WM6YNIMVU MA USD UNS 981007 181101 Iron Ore Imp Value China
+MM MEMSTSEXVAAAu MMARK03u WM6RNEXVU MA USD UNS 981007 181101 Steel Semis Exp Value China
+MM MEMSTAEXVAAAu MMARM03u WM6TNEXVU MA USD UNS 981007 181101 Steel All Category Exp Val China
+MM MEMSTBEXVAAAu MMARN03u WM6UNEXVU MA USD UNS 981007 181101 Steel Bars&Rods Exp Value China
+MM MEMSTTEXVAAAu MMARO03u WM6WNEXVU MA USD UNS 981007 181101 Steel Sheets&Plates ExpVal China
+MM MEMSTWEXVAAAu MMARP03u WM6ZNEXVU MA USD UNS 981007 181101 Steel Wire Exp Value China
+MM MEMSTUEXVAAAu MMARQ03u WM6XNEXVU MA USD UNS 981007 181101 Steel Tubes&Pipes Exp Val China
+MM MEMSWSEXVAAAu MMARR03u WM7ANEXVU MA USD UNS 981007 181101 Steel Waste&Scraps Exp Val China
+MM MEMFSLEXVAAAu MMARS03u WMSTNEXVU MA USD UNS 981007 181101 Ferrosilicon Exp Value China
+MM MEMFM1EXVAAAu MMART03u WM32NEXVU MA USD UNS 981007 181101 Ferromanganese Exp Value China
+MM MEMMGOIMVAAAu MMARU03u WM7BNIMVU MA USD UNS 981007 181101 Manganese Ore Imp Value China
+MM MEMCHRIMVAAAu MMARV03u WM7CNIMVU MA USD UNS 981007 181101 Chrome Ore Imp Value China
+MM MEMSTNEXVAAAu MMARW03u WM6VNEXVU MA USD UNS 981007 181101 Steel Angles&Shapes ExpVal China
+MM MMATK1300000h MMATK13h           MA JPY KG                Alum Tokyo KERB Cash Yen/Kg MA
+MM MMATK1300000l MMATK13l           MA JPY KG                Alum Tokyo KERB Cash Yen/Kg MA
+MM MMATP0000000u MMATP00u           DW USD MT  960715 190118 US Alum Trans Prem $/Mt
+MM MEMCBCJPIAAFc MMATP03c           MA USD MT  960701 181201 US Alum Trans Prem $/Mt MAvg
+MM MMATP0400000u MMATP04u           WA USD MT  960719 190118 US Alum Trans Prem $/Mt Wkly
+MM MEMAULJPIAACu MMAWH03u           MA UNS MT                AlumUnwrght-LME JpnImprt Austrla
+MM MEMZNSCAPAAAu MMAYH00u           WA USC LB  980814 190117 Zinc MW SHG Premium
+MM MMAYH0300000c MMAYH03c           MA USC LB  100101 181201 Zinc MW SHG Premium MAvg
+MM MEMZNCCAPAAAu MMAYI00u           WA USC LB  980814 190117 Zinc US Galvanizer Premium Wkly
+MM MEMZN3CAPAAAu MMAYJ00u           WA USC LB  980814 190117 Zinc Alloy No. 3 Premium
+MM MEMT99SPPAAAh MMAYL04h WM9T1RDMA MA USD MT  990416 190116 Tin 99.9% Prem Rotterdam Monthly
+MM MEMT99SPPAAAl MMAYL04l WM9T1RDMB MA USD MT  990416 190116 Tin 99.9% Prem Rotterdam Monthly
+MM MEMT98SPPAAAh MMAYM04h WM8T1RDMA MA USD MT  990416 190116 Tin 99.85% Prem Rotterdam Monthly
+MM MEMT98SPPAAAl MMAYM04l WM8T1RDMB MA USD MT  990416 190116 Tin 99.85% Prem Rotterdam Monthly
+MM MEMZNSSPPAAAh MMAYN04h WM0M1RDMA MA USD MT  990416 190116 Zinc (SHG) Prem Rotterdam Monthly
+MM MEMZNSSPPAAAl MMAYN04l WM0M1RDMB MA USD MT  990416 190116 Zinc (SHG) Prem Rotterdam Monthly
+MM MEMNKPSPPAAAc MMAYO04c           WA USD MT  990416 190118 Nickel Plate Prem Rotterdam
+MM MEMNKPSPPAAAh MMAYO04h WM0J1RDMA WA USD MT  990416 190118 Nickel Plate Prem Rotterdam
+MM MEMNKPSPPAAAl MMAYO04l WM0J1RDMB WA USD MT  990416 190118 Nickel Plate Prem Rotterdam
+MM MEMNCPRCFAAAc MMAYP04c           WA USD MT  990416 190118 Nickel Prem Russian Rotterdam
+MM MEMNCPRCFAAAh MMAYP04h WM131RDMA WA USD MT  990416 190118 Nickel Prem Russian Rotterdam
+MM MEMNCPRCFAAAl MMAYP04l WM131RDMB WA USD MT  990416 190118 Nickel Prem Russian Rotterdam
+MM MMAYR0300000c MMAYR03c           MA USD MT                Copper (Grd A) Prem Rdam Wk MAvg
+MM MEMCPASPPAABc MMAYR04c           WA USD MT  990416 190118 Copper (Grd A) Prem Rotterdam
+MM MEMCPASPPAABh MMAYR04h WM0E1RDMA WA USD MT  990416 190118 Copper (Grd A) Prem Rotterdam
+MM MEMCPASPPAABl MMAYR04l WM0E1RDMB WA USD MT  990416 190118 Copper (Grd A) Prem Rotterdam
+MM MEMLEDSPPAAAh MMAYV04h WM0F1RDMA MA USD MT  990416 190116 Lead 99.985% Prem Rotterdam Monthly
+MM MEMLEDSPPAAAl MMAYV04l WM0F1RDMB MA USD MT  990416 190116 Lead 99.985% Prem Rotterdam Monthly
+MM MEMFVMSDLAAAc MMAYY04c           WA USD KG  990520 190117 Ferrovanadium Spot Euro Wkly Cl
+MM MEMFVMSDLAAAh MMAYY04h           WA USD KG  990520 190117 Ferrovanadium Spot Euro Wkly Cl
+MM MEMFVMSDLAAAl MMAYY04l           WA USD KG  990520 190117 Ferrovanadium Spot Euro Wkly Cl
+MM MEMNMGSPTAAAu MMAZI04u           WA USC LB  991216 190117 Nickel Melt Prem Spot US
+MM MEMNMGSPTAABc MMAZJ03c           MA USC LB  991201 181201 Nickel Melt Prem Spot US Mth
+MM MEMNKPSPTAAAu MMAZK04u           WA USC LB  991216 190117 Nickel Plate Prem Spot US
+MM MEMNKPSPTAABc MMAZL03c           MA USC LB  991201 181201 Nickel Plate Prem Spot US Mth
+MM MEMNKTSPTAAAu MMAZM04u           WA USC LB  991216 190117 Nickel Cathode Prem Spot US
+MM MMBAA0000000c MMBAA00c           DW USD MT  151102 190118 Aluminum CFR China All-in Import Price $/MT
+MM MMBAA0300000c MMBAA03c           MA USD MT  151101 181201 Aluminum CFR China All-in Import Price $/MT MAvg
+MM MMBAA0400000c MMBAA04c           WA USD MT  171215 190118 Aluminum CFR China All-in Import Price $/MT WAvg
+MM MMBAB0000000c MMBAB00c           DW CNY MT  151102 190118 Aluminum CFR China All-in Import Price Yuan/MT
+MM MMBAB0300000c MMBAB03c           MA CNY MT  151101 181201 Aluminum CFR China All-in Import Price Yuan/MT MAvg
+MM MMCCJ0000000h MMCCJ00h           DW USC LB  031204 181228 Copper Conc CIF Japan cts/lb
+MM MMCCJ0000000l MMCCJ00l           DW USC LB  031204 181228 Copper Conc CIF Japan cts/lb
+MM MMCCJ0300000h MMCCJ03h           MA USC LB                Copper Conc CIF Japan cts/lb MA
+MM MMCCJ0300000l MMCCJ03l           MA USC LB                Copper Conc CIF Japan cts/lb MA
+MM MMCSC0000000h MMCSC00h           DW CNY MT  040210 190118 Copper C+F China Spot Yuan/Mt
+MM MMCSC0000000l MMCSC00l           DW CNY MT  040210 190118 Copper C+F China Spot Yuan/Mt
+MM MMCSC0300000h MMCSC03h           MA CNY MT                Copper C+F China Spot Yuan/Mt MA
+MM MMCSC0300000l MMCSC03l           MA CNY MT                Copper C+F China Spot Yuan/Mt MA
+MM MMCUC0000000h MMCUC00h           DW USD MT  040210 190118 Copper C+F China Fxd Prc Equiv
+MM MMCUC0000000l MMCUC00l           DW USD MT  040210 190118 Copper C+F China Fxd Prc Equiv
+MM MMCUC0300000h MMCUC03h           MA USD MT                Copper C+F China FxdPrc Equiv MA
+MM MMCUC0300000l MMCUC03l           MA USD MT                Copper C+F China FxdPrc Equiv MA
+MM MMCUS0300000h MMCUS03h           MA CNY MT                Copper SporeInWhs FxdPrcEquiv MA
+MM MMCUS0300000l MMCUS03l           MA CNY MT                Copper SporeInWhs FxdPrcEquiv MA
+MM MMCUT0000000c MMCUT00c           DW USC LB  140401 190118 Copper Transaction delivered US Midwest
+MM MMCUT0300000c MMCUT03c           MA USC LB  140501 181201 Copper Transaction delivered US Midwest MAvg
+MM MMCUT0400000c MMCUT04c           WA USC LB  140404 190118 Copper Transaction delivered US Midwest WAvg
+MM MMCUT1600000c MMCUT16c           YR USC LB  141231 181231 Copper Transaction delivered US Midwest YAvg
+MM MMIAI0000000u MMIAI00u           MA N/A TMT 080101 181101 IAI PrimAlum China Prod Mo
+MM MMJAL0000000h MMJAL00h           DW USD MT  040210 190118 Aluminum CIF Japan Fxd Prc Equiv
+MM MMJAL0000000l MMJAL00l           DW USD MT  040210 190118 Aluminum CIF Japan Fxd Prc Equiv
+MM MMJAL0300000h MMJAL03h           MA USD MT                Aluminum CIF Jpn FxdPrc Equiv MA
+MM MMJAL0300000l MMJAL03l           MA USD MT                Aluminum CIF Jpn FxdPrc Equiv MA
+MM MMJAQ0000000h MMJAQ00h           DW USD MT  090401 190118 Aluminum CIF Jpn Qr FxdPrc Equiv
+MM MMJAQ0000000l MMJAQ00l           DW USD MT  090401 190118 Aluminum CIF Jpn Qr FxdPrc Equiv
+MM MMJAQ0300000h MMJAQ03h           MA USD MT                Alum CIF Jpn Qr FxdPrc Equiv MA
+MM MMJAQ0300000l MMJAQ03l           MA USD MT                Alum CIF Jpn Qr FxdPrc Equiv MA
+MM MMLAA0300000c MMLAA03c           MA USC LB  130101 181201 Lead-acid batteries Used picked up US Midwest MAvg
+MM MMLAA0400000h MMLAA04h           WA USC LB  121030 190115 Lead-acid batteries Used picked up US Midwest
+MM MMLAA0400000l MMLAA04l           WA USC LB  121030 190115 Lead-acid batteries Used picked up US Midwest
+MM MMLAA1600000c MMLAA16c           YR USC LB  141231 181231 Lead-acid batteries Used picked up US Midwest Yavg
+MM MMLAB0300000c MMLAB03c           MA USC LB  150801 181201 Lead-acid Batteries Used Picked Up US Northeast MAvg
+MM MMLAB0300000h MMLAB03h           MA USC LB  150801 181201 Lead-acid Batteries Used Picked Up US Northeast MAvg
+MM MMLAB0300000l MMLAB03l           MA USC LB  150801 181201 Lead-acid Batteries Used Picked Up US Northeast MAvg
+MM MMLAB0400000c MMLAB04c           WA USC LB  150804 190115 Lead-acid Batteries Used Picked Up US Northeast Wkly
+MM MMLAB0400000h MMLAB04h           WA USC LB  150804 190115 Lead-acid Batteries Used Picked Up US Northeast Wkly
+MM MMLAB0400000l MMLAB04l           WA USC LB  150804 190115 Lead-acid Batteries Used Picked Up US Northeast Wkly
+MM MMNDU0000000c MMNDU00c           DW USC LB  180201 190118 Aluminum CIF New Orleans Duty-Unpaid Premium cts/lb
+MM MMNDU0300000c MMNDU03c           MA USC LB  180201 181201 Aluminum CIF New Orleans Duty-Unpaid Premium cts/lb MAvg
+MM MMNDU0400000c MMNDU04c           WA USC LB  180209 190118 Aluminum CIF New Orleans Duty-Unpaid Premium cts/lb WAvg
+MM MMNDU1600000c MMNDU16c           YR USC LB  181231 181231 Aluminum CIF New Orleans Duty-Unpaid Premium cts/lb YAvg
+MM MMNOL0000000c MMNOL00c           DW USC LB  180201 190118 Aluminum CIF NOLA-MW Premium Differential cts/lb
+MM MMNOL0300000c MMNOL03c           MA USC LB  180201 181201 Aluminum CIF NOLA-MW Premium Differential cts/lb MAvg
+MM MMNOL0400000c MMNOL04c           WA USC LB  180209 190118 Aluminum CIF NOLA-MW Premium Differential cts/lb WAvg
+MM MMNOL1600000c MMNOL16c           YR USC LB  181231 181231 Aluminum CIF NOLA-MW Premium Differential cts/lb YAvg
+MM MMODU0000000c MMODU00c           DW USD MT  180201 190118 Aluminum CIF New Orleans Duty-Unpaid Premium $/mt
+MM MMODU0300000c MMODU03c           MA USD MT  180201 181201 Aluminum CIF New Orleans Duty-Unpaid Premium $/mt MAvg
+MM MMODU0400000c MMODU04c           WA USD MT  180209 190118 Aluminum CIF New Orleans Duty-Unpaid Premium $/mt WAvg
+MM MMODU1600000c MMODU16c           YR USD MT  181231 181231 Aluminum CIF New Orleans Duty-Unpaid Premium $/mt YAvg
+MM MMOEU0000000c MMOEU00c           DW USC LB  180801 190118 Aluminum P1020 US Import Duty cts/lb
+MM MMOEU0300000c MMOEU03c           MA USC LB  180801 181201 Aluminum P1020 US Import Duty cts/lb MAvg
+MM MMOEU0400000c MMOEU04c           WA USC LB  180803 190118 Aluminum P1020 US Import Duty cts/lb WAvg
+MM MMOEU1600000c MMOEU16c           YR USC LB  181231 181231 Aluminum P1020 US Import Duty cts/lb YAvg
+MM MMOFU0000000c MMOFU00c           DW USC LB  180801 190118 Aluminum P1020 MW US Transaction Premium (Implied Duty-Unpaid) Dlvd US Midwest cts/lb
+MM MMOFU0300000c MMOFU03c           MA USC LB  180801 181201 Aluminum P1020 MW US Transaction Premium (Implied Duty-Unpaid) Dlvd US Midwest cts/lb MAvg
+MM MMOFU0400000c MMOFU04c           WA USC LB  180803 190118 Aluminum P1020 MW US Transaction Premium (Implied Duty-Unpaid) Dlvd US Midwest cts/lb WAvg
+MM MMOFU1600000c MMOFU16c           YR USC LB  181231 181231 Aluminum P1020 MW US Transaction Premium (Implied Duty-Unpaid) Dlvd US Midwest cts/lb YAvg
+MM MMOGU0000000c MMOGU00c           DW USC LB  180801 190118 Aluminum P1020 Transaction Price (Implied Duty-Unpaid) Delivered US Midwest cts/lb
+MM MMOGU0300000c MMOGU03c           MA USC LB  180801 181201 Aluminum P1020 Transaction Price (Implied Duty-Unpaid) Delivered US Midwest cts/lb MAvg
+MM MMOGU0400000c MMOGU04c           WA USC LB  180803 190118 Aluminum P1020 Transaction Price (Implied Duty-Unpaid) Delivered US Midwest cts/lb WAvg
+MM MMOGU1600000c MMOGU16c           YR USC LB  181231 181231 Aluminum P1020 Transaction Price (Implied Duty-Unpaid) Delivered US Midwest cts/lb YAvg
+MM MMOHU0000000c MMOHU00c           DW USD MT  180801 190118 Aluminum P1020 US Import Duty $/mt
+MM MMOHU0300000c MMOHU03c           MA USD MT  180801 181201 Aluminum P1020 US Import Duty $/mt MAvg
+MM MMOHU0400000c MMOHU04c           WA USD MT  180803 190118 Aluminum P1020 US Import Duty $/mt WAvg
+MM MMOHU1600000c MMOHU16c           YR USD MT  181231 181231 Aluminum P1020 US Import Duty $/mt YAvg
+MM MMOIU0000000c MMOIU00c           DW USD MT  180801 190118 Aluminum P1020 MW US Transaction Premium (Implied Duty-Unpaid) Dlvd US Midwest $/mt
+MM MMOIU0300000c MMOIU03c           MA USD MT  180801 181201 Aluminum P1020 MW US Transaction Premium (Implied Duty-Unpaid) Dlvd US Midwest $/mt MAvg
+MM MMOIU0400000c MMOIU04c           WA USD MT  180803 190118 Aluminum P1020 MW US Transaction Premium (Implied Duty-Unpaid) Dlvd US Midwest $/mt WAvg
+MM MMOIU1600000c MMOIU16c           YR USD MT  181231 181231 Aluminum P1020 MW US Transaction Premium (Implied Duty-Unpaid) Dlvd US Midwest $/mt YAvg
+MM MMOJU0000000c MMOJU00c           DW USD MT  180801 190118 Aluminum P1020 Transaction Price (Implied Duty-Unpaid) Delivered US Midwest $/mt
+MM MMOJU0300000c MMOJU03c           MA USD MT  180801 181201 Aluminum P1020 Transaction Price (Implied Duty-Unpaid) Delivered US Midwest $/mt MAvg
+MM MMOJU0400000c MMOJU04c           WA USD MT  180803 190118 Aluminum P1020 Transaction Price (Implied Duty-Unpaid) Delivered US Midwest $/mt WAvg
+MM MMOJU1600000c MMOJU16c           YR USD MT  181231 181231 Aluminum P1020 Transaction Price (Implied Duty-Unpaid) Delivered US Midwest $/mt YAvg
+MM MMPAF0000000u MMPAF00u           MA N/A TMT 050101 181101 IAI PrimAlum Africa Prod Mo
+MM MMPAS0000000u MMPAS00u           MA N/A TMT 050101 181101 IAI PrimAlum Asia Prod Mo
+MM MMPCD0000000u MMPCD00u           MA N/A TMT 090801 181101 IAI PrimAlum China Prod Dly Avg
+MM MMPDA0000000u MMPDA00u           MA N/A TMT 050101 181101 IAI PrimAlum World Prod Mo Avg TMT/Day
+MM MMPEC0000000u MMPEC00u           MA N/A TMT 050101 181101 IAI PrimAlum E/C Eur Prod Mo
+MM MMPGF0000000u MMPGF00u           MA N/A TMT 090801 181101 IAI PrimAlum GAC/Gulf Prod Mo
+MM MMPLA0000000u MMPLA00u           MA N/A TMT 050101 181101 IAI PrimAlum LatAm Prod Mo
+MM MMPNA0000000u MMPNA00u           MA N/A TMT 050101 181101 IAI PrimAlum N.Amer Prod Mo
+MM MMPOC0000000u MMPOC00u           MA N/A TMT 050101 181101 IAI PrimAlum Oceania Prod Mo
+MM MMPWE0000000u MMPWE00u           MA N/A TMT 050101 181101 IAI PrimAlum W.Europe Prod Mo
+MM MMPWT0000000u MMPWT00u           MA N/A TMT 050101 181101 IAI PrimAlum World Prod Mo
+MM MMWAU0000000u MMWAU00u           DW USD MT  100816 190118 Alumina FOB Australia $/Mt
+MM MMWAU0300000u MMWAU03u           MA USD MT  100801 181201 Alumina FOB Australia $/Mt MAvg
+MM MMWAU0400000u MMWAU04u           WA USD MT  100820 190118 Alumina FOB Australia $/Mt WAvg
+MM MMWAU1600000c MMWAU16c           YR USD MT  101231 181231 Alumina FOB Australia $/MT YAvg
+MM MMWUS0000000h MMWUS00h           BW USC LB  100802 190117 Aluminum A413 delivered US Midwest
+MM MMWUS0000000l MMWUS00l           BW USC LB  100802 190117 Aluminum A413 delivered US Midwest
+MM MMWUS0300000u MMWUS03u           MA USC LB  100801 181201 Aluminum A413 delivered US Midwest MAvg
+MM MMWUS0400000u MMWUS04u           WA USC LB  100806 190118 Aluminum A413 delivered US Midwest WAvg
+MM MMWUS1600000c MMWUS16c           YR USC LB  101231 181231 Aluminum A413 delivered US Midwest YAvg
+MM MMXCD0000000c MMXCD00c           WA USC LB  130430 190115 Lead Premium delivered US Midwest
+MM MMXCD0300000c MMXCD03c           MA USC LB  130501 181201 Lead Premium delivered US Midwest MAvg
+MM MMXCD1600000c MMXCD16c           YR USC LB  141231 181231 Lead Premium delivered US Midwest YAvg
+MM MMXCY0000000u MMXCY00u           DW CNY MT  100816 190118 Alumina ExWorks China Yuan/Mt
+MM MMXCY0300000u MMXCY03u           MA CNY MT  100801 121201 Alumina ExWorks China Yuan/Mt MA
+MM MMXCY0400000u MMXCY04u           WA CNY MT  100820 190118 Alumina ExWorks China Yuan/Mt WA
+MM MMXEV0000000c MMXEV00c           MA USD MT  130531 181231 Calcined Pet Coke FOB US Gulf Coast $/MT
+MM MMXEV0000000h MMXEV00h           MA USD MT  130531 181231 Calcined Pet Coke FOB US Gulf Coast $/MT
+MM MMXEV0000000l MMXEV00l           MA USD MT  130531 181231 Calcined Pet Coke FOB US Gulf Coast $/MT
+MM MMXWC0000000u MMXWC00u           DW USD MT  100816 190118 Alumina ExWorks China $/Mt
+MM MMXWC0300000u MMXWC03u           MA USD MT  100801 181201 Alumina ExWorks China $/Mt MAvg
+MM MMXWC0400000u MMXWC04u           WA USD MT  100820 190118 Alumina ExWorks China $/Mt WAvg
+MM MMXWC1600000c MMXWC16c           YR USD MT  101231 181231 Alumina Ex-Works China $/MT YAvg
+MM MEMALUAF1AHUc MMAAA00c           BW USC LB  930419 190117 Aluminum F132 Alloy delivered US Midwest
+MM MEMALUAF1AHUh MMAAA00h WM0A0AL2H BW USC LB  930419 190117 Aluminum F132 Alloy delivered US Midwest
+MM MEMALUAF1AHUl MMAAA00l WM0A0AL2L BW USC LB  930419 190117 Aluminum F132 Alloy delivered US Midwest
+MM MEMALUAF1AHTu MMAAA01u WM0A0AL27 WA USC LB  930423 190118 Aluminum F132 Alloy delivered US Midwest WAvg
+MM MEMALUAF1AHSu MMAAA02u WM0A0AL23 MA USC LB  930501 181201 Aluminum F132 Alloy delivered US Midwest MAvg
+MM MMAAA1600000c MMAAA16c           YR USC LB  001231 181231 Aluminum F132 Alloy delivered US Midwest YAvg
+MM MEMALUA35AHXc MMAAB00c           BW USC LB  930419 190117 Aluminum 356 Alloy delivered US Midwest
+MM MEMALUA35AHXh MMAAB00h WM0A0AL6H BW USC LB  930419 190117 Aluminum 356 Alloy delivered US Midwest
+MM MEMALUA35AHXl MMAAB00l WM0A0AL6L BW USC LB  930419 190117 Aluminum 356 Alloy delivered US Midwest
+MM MEMALUA35AHWu MMAAB01u WM0A0AL67 WA USC LB  930423 190118 Aluminum 356 Alloy delivered US Midwest WAvg
+MM MEMALUA35AHVu MMAAB02u WM0A0AL63 MA USC LB  930501 181201 Aluminum 356 Alloy delivered US Midwest MAvg
+MM MMAAB1600000c MMAAB16c           YR USC LB  001231 181231 Aluminum 356 Alloy delivered US Midwest YAvg
+MM MEMALUA31AIAc MMAAC00c           BW USC LB  930419 190117 Aluminum 319 Alloy delivered US Midwest
+MM MEMALUA31AIAh MMAAC00h WM0A0AL9H BW USC LB  930419 190117 Aluminum 319 Alloy delivered US Midwest
+MM MEMALUA31AIAl MMAAC00l WM0A0AL9L BW USC LB  930419 190117 Aluminum 319 Alloy delivered US Midwest
+MM MEMALUA31AHZu MMAAC01u WM0A0AL97 WA USC LB  930423 190118 Aluminum 319 Alloy delivered US Midwest WAvg
+MM MEMALUA31AHYu MMAAC02u WM0A0AL93 MA USC LB  930501 181201 Aluminum 319 Alloy delivered US Midwest MAvg
+MM MMAAC1600000c MMAAC16c           YR USC LB  001231 181231 Aluminum 319 Alloy delivered US Midwest YAvg
+MM MEMALUA38AIDc MMAAD00c           BW USC LB  920702 190117 Aluminum A380 Alloy delivered US Midwest
+MM MEMALUA38AIDh MMAAD00h WM0A0ALLH BW USC LB  920702 190117 Aluminum A380 Alloy delivered US Midwest
+MM MEMALUA38AIDl MMAAD00l WM0A0ALLL BW USC LB  920702 190117 Aluminum A380 Alloy delivered US Midwest
+MM MEMALUA38AICu MMAAD01u WM0A0ALL7 WA USC LB  920807 190118 Aluminum A380 Alloy delivered US Midwest WAvg
+MM MEMALUA38AIBu MMAAD02u WM0A0ALL3 MA USC LB  920701 181201 Aluminum A380 Alloy delivered US Midwest MAvg
+MM MMAAD1600000c MMAAD16c           YR USC LB  001231 181231 Aluminum A380 Alloy delivered US Midwest YAvg
+MM MEMALUMKTAIGc MMAAE00c           DW USC LB  720106 190118 Aluminum delivered US Midwest
+MM MEMALUMKTAIGh MMAAE00h WM0A0USMH DW USC LB  720106 190118 Aluminum delivered US Midwest
+MM MEMALUMKTAIGl MMAAE00l WM0A0USML DW USC LB  720106 190118 Aluminum delivered US Midwest
+MM MEMALUMKTAIEl MMAAE03l           MA USC LB  720101 181201 Aluminum Market delivered US Midwest MAvg
+MM MEMALUMKTAIEu MMAAE03u WM0A0USM2 MA USC LB  720101 181201 Aluminum Market delivered US Midwest MAvg
+MM MMAAE0400000c MMAAE04c           WA USC LB  150501 190118 Aluminum Market delivered US Midwest WAvg
+MM MMAAE0400000h MMAAE04h           WA USC LB  150501 190118 Aluminum Market delivered US Midwest WAvg
+MM MMAAE0400000l MMAAE04l           WA USC LB  150501 190118 Aluminum Market delivered US Midwest WAvg
+MM MMAAE1600000c MMAAE16c           YR USC LB  001231 181231 Aluminum Market delivered US Midwest YAvg
+MM MEMALUTRAAIJu MMAAF01u WM0A0UST7 WA USC LB  850104 190118 Aluminum P1020 Transaction delivered US Midwest WAvg
+MM MEMALUTRAAIIu MMAAF02u WM0A0UST3 MA USC LB  841201 181201 Aluminum P1020 Transaction delivered US Midwest MAvg
+MM MEMALUTRAAIKu MMAAF10u WM0A0USTU DW USC LB  841105 190118 Aluminum P1020 Transaction delivered US Midwest
+MM MMAAF1600000c MMAAF16c           YR USC LB  001231 181231 Aluminum P1020 Transaction delivered US Midwest YAvg
+MM MEMNKTDLRAJKc MMAAQ00c           WA USD LB  720113 190117 Nickel Cathode delivered US
+MM MEMNKTDLRAJKh MMAAQ00h WM0HVNYDH WA USD LB  720113 190117 Nickel Cathode delivered US
+MM MEMNKTDLRAJKl MMAAQ00l WM0HVNYDL WA USD LB  720113 190117 Nickel Cathode delivered US
+MM MEMNKTDLRAJJc MMAAQ03c WM0HVNYD0 MA USD LB  720101 181201 Nickel Cathode delivered US MAvg
+MM MEMNKTDLRAJJh MMAAQ03h           MA USD LB  720101 181201 Nickel Cathode delivered US MAvg
+MM MEMNKTDLRAJJl MMAAQ03l WM0HVNYD2 MA USD LB  720101 181201 Nickel Cathode delivered US MAvg
+MM MMAAQ1600000c MMAAQ16c           YR USD LB  001231 181231 Nickel Cathode delivered US YAvg
+MM MEMNMGDLRAJOc MMAAS00c           WA USD LB  840712 190117 Nickel Melt delivered US
+MM MEMNMGDLRAJOh MMAAS00h           WA USD LB  840712 190117 Nickel Melt delivered US
+MM MEMNMGDLRAJOl MMAAS00l           WA USD LB  840712 190117 Nickel Melt delivered US
+MM MEMNMGDLRAJNc MMAAS03c WM0IVNYD0 MA USD LB  880101 181201 Nickel Melt delivered US MAvg
+MM MEMNMGDLRAJNh MMAAS03h           MA USD LB  880101 181201 Nickel Melt delivered US MAvg
+MM MEMNMGDLRAJNl MMAAS03l WM0IVNYD2 MA USD LB  880101 181201 Nickel Melt delivered US MAvg
+MM MMAAS1600000c MMAAS16c           YR USD LB  001231 181231 Nickel Melt delivered US YAvg
+MM MEMNKPDLRAJQc MMAAU00c           WA USD LB  840712 190117 Nickel NY Dealer Plate Wk
+MM MEMNKPDLRAJQh MMAAU00h WM0JVNYDH WA USD LB  840712 190117 Nickel NY Dealer Plate Wk
+MM MEMNKPDLRAJQl MMAAU00l WM0JVNYDL WA USD LB  840712 190117 Nickel NY Dealer Plate Wk
+MM MEMTINDLRAJVu MMAAW01u WM0K0NYD7 WA USC LB  721103 190118 Tin in warehouse US WAvg
+MM MEMTINDLRAJUu MMAAW02u WM0K0NYD3 MA USC LB  721101 181201 Tin in warehouse US MAvg
+MM MEMTINDLRAJWu MMAAW10u WM0K0NYDU BW USC LB  880606 190117 Tin in warehouse US
+MM MMAAW1600000c MMAAW16c           YR USC LB  001231 181231 Tin in warehouse US YAvg
+MM MMAAY1600000c MMAAY16c           YR USC LB  001231 131231 Tin Kuala Lumpur cts/lb YAvg
+MM MEMZNSNASAKJu MMABD01u WM0M0NAS7 WA USC LB  920103 190118 Zinc SHG delivered US Midwest WAvg
+MM MEMZNSNASAKIu MMABD02u WM0M0NAS3 MA USC LB  910101 181201 Zinc SHG delivered US Midwest MAvg
+MM MEMZNSNASAKKu MMABD10u           DW USC LB  911230 190118 Zinc SHG delivered US Midwest
+MM MMABD1600000c MMABD16c           YR USC LB  001231 181231 Zinc SHG delivered US Midwest YAvg
+MM MEMZNSDRSAKNu MMABF10u WM0M0USHU WA USC LB  720615 190117 Zinc US Dealer SHG Wkly
+MM MEMZNCAL3AKPu MMABH01u WM0N0AL37 WA USC LB  920103 190118 Zinc Alloy No.3 delivered US Midwest WAvg
+MM MEMZNCAL3AKOu MMABH02u WM0N0AL33 MA USC LB  901001 181201 Zinc Alloy No.3 delivered US Midwest MAvg
+MM MEMZNCAL3AKQu MMABH10u           DW USC LB  901015 190118 Zinc Alloy No.3 delivered US Midwest
+MM MMABH1600000c MMABH16c           YR USC LB  001231 181231 Zinc Alloy No.3 delivered US Midwest YAvg
+MM MEMZNCNAGAKSu MMABI01u WM0N0NAG7 WA USC LB  920103 190118 Zinc Galvanizer North America delivered US Midwest WAvg
+MM MEMZNCNAGAKRu MMABI02u WM0N0NAG3 MA USC LB  910101 181201 Zinc Galvanizer North America delivered US Midwest MAvg
+MM MEMZNCNAGAKTu MMABI10u           DW USC LB  911230 190118 Zinc Galvanizer North America delivered US Midwest
+MM MMABI1600000c MMABI16c           YR USC LB  001231 181231 Zinc Galvanizer North America delivered US Midwest YAvg
+MM MMABM1600000c MMABM16c           YR USD TOZ 001231 181231 Gold London Initial YAvg
+MM MMABP0300000c MMABP03c           MA USD MT  140601 181201 Aluminum CIF Brazil duty unpaid premium MAvg
+MM MMABP0300000h MMABP03h           MA USD MT  140601 181201 Aluminum CIF Brazil duty unpaid premium MAvg
+MM MMABP0300000l MMABP03l           MA USD MT  140601 181201 Aluminum CIF Brazil duty unpaid premium MAvg
+MM MMABP0400000c MMABP04c           WA USD MT  140530 190118 Aluminum CIF Brazil duty unpaid premium
+MM MMABP0400000h MMABP04h           WA USD MT  140530 190118 Aluminum CIF Brazil duty unpaid premium
+MM MMABP0400000l MMABP04l           WA USD MT  140530 190118 Aluminum CIF Brazil duty unpaid premium
+MM MMABP1600000c MMABP16c           YR USD MT  141231 181231 Aluminum CIF Brazil duty unpaid premium YAvg
+MM MMABS0300000c MMABS03c           MA USD MT  140601 181201 Aluminum Brazil DDP Southeast premium $/Mt MAvg
+MM MMABS0300000h MMABS03h           MA USD MT  140601 181201 Aluminum Brazil DDP Southeast premium $/Mt MAvg
+MM MMABS0300000l MMABS03l           MA USD MT  140601 181201 Aluminum Brazil DDP Southeast premium $/Mt MAvg
+MM MMABS0400000c MMABS04c           WA USD MT  140530 190118 Aluminum Brazil DDP Southeast premium $/Mt
+MM MMABS0400000h MMABS04h           WA USD MT  140530 190118 Aluminum Brazil DDP Southeast premium $/Mt
+MM MMABS0400000l MMABS04l           WA USD MT  140530 190118 Aluminum Brazil DDP Southeast premium $/Mt
+MM MMABS1600000c MMABS16c           YR USD MT  141231 181231 Aluminum Brazil DDP Southeast premium $/Mt YAvg
+MM MMACA0000000c MMACA00c           DW CNY MT  040210 190118 Alumina CFR China Yuan/Mt
+MM MMACA0000000h MMACA00h           DW CNY MT  040210 190118 Alumina CFR China Yuan/Mt
+MM MMACA0000000l MMACA00l           DW CNY MT  040210 190118 Alumina CFR China Yuan/Mt
+MM MMACA0300000c MMACA03c           MA CNY MT  040201 181201 Alumina CFR China Yuan/Mt MAvg
+MM MMACA0300000h MMACA03h           MA CNY MT  040201 181201 Alumina CFR China Yuan/Mt MAvg
+MM MMACA0300000l MMACA03l           MA CNY MT  040201 181201 Alumina CFR China Yuan/Mt MAvg
+MM MEMCBSTRAANHu MMACJ02u WM0X0UST3 MA USC LB  900101 181201 Copper No1 Burnt Discount delivered US Midwest MAvg
+MM MEMCBSTRAANIu MMACJ10u WM0X0USTU WA USC LB  920102 190116 Copper No1 Burnt Discount delivered US Midwest
+MM MMACJ1600000c MMACJ16c           YR USC LB  001231 181231 Copper No1 Burnt Discount delivered US Midwest YAvg
+MM MEMCBBTRAANLu MMACL02u WM0Y0UST3 MA USC LB  900101 181201 Copper No1 Bare Bright Discount/Premium delivered US Midwest MAvg
+MM MEMCBBTRAANMu MMACL10u WM0Y0USTU WA USC LB  920102 190116 Copper No1 Bare Bright Discount/Premium delivered US Midwest
+MM MMACL1600000c MMACL16c           YR USC LB  001231 181231 Copper No1 Bare Bright Discount/Premium delivered US Midwest YAvg
+MM MMACN0000000u MMACN00u           DW USC LB  090601 190118 Aluminum P1020 Net-Cash Premium delivered US Midwest
+MM MEMC2STRAANPu MMACN02u WM0Z0UST3 MA USC LB  720101 181201 Copper No2 Scrap Discount FAS US Ports MAvg
+MM MEMC2STRAANOu MMACN03u           MA USC LB  090601 181201 Aluminum P1020 Net-Cash Premium delivered US Midwest MAvg
+MM MMACN0400000u MMACN04u           WA USC LB  090605 190118 Aluminum P1020 Net-Cash Premium delivered US Midwest WAvg
+MM MMACN0600000c MMACN06c           YR USC LB  001231 181231 Copper No2 Scrap Discount FAS US Ports YAvg
+MM MEMC2STRAANQu MMACN10u           WA USC LB  720106 190116 Copper No2 Scrap Discount FAS US Ports
+MM MMACN1600000c MMACN16c           YR USC LB  091231 181231 Aluminum P1020 Net-Cash Premium delivered US Midwest YAvg
+MM MEMCPCDLRANTc MMACP00c           WA USC LB  790802 190117 Copper Cathode Premium delivered US Midwest
+MM MEMCPCDLRANTh MMACP00h WM1A0NYDH WA USC LB  790802 190117 Copper Cathode Premium delivered US Midwest
+MM MEMCPCDLRANTl MMACP00l WM1A0NYDL WA USC LB  790802 190117 Copper Cathode Premium delivered US Midwest
+MM MEMCPCDLRANSl MMACP03l           MA USC LB  790801 181201 Copper Cathode Premium delivered US Midwest MAvg
+MM MEMCPCDLRANSu MMACP03u WM1A0NYD2 MA USC LB  790801 181201 Copper Cathode Premium delivered US Midwest MAvg
+MM MMACP1600000c MMACP16c           YR USC LB  001231 181231 Copper Cathode Premium delivered US Midwest YAvg
+MM MMACR0300000h MMACR03h           MA USD MT  040201 151001 Alum C+F China-Russ FxdPrcEqvMA
+MM MMACR0300000l MMACR03l           MA USD MT  040201 151001 Alum C+F China-Russ FxdPrcEqvMA
+MM MMACS0000000h MMACS00h           DW CNY MT  040210 151029 Aluminum C+F China Spot Yuan/Mt
+MM MMACS0000000l MMACS00l           DW CNY MT  040210 151029 Aluminum C+F China Spot Yuan/Mt
+MM MMACS0300000h MMACS03h           MA CNY MT                Alum C+F China Spot Yuan/Mt MA
+MM MMACS0300000l MMACS03l           MA CNY MT                Alum C+F China Spot Yuan/Mt MA
+MM MEMCRCPROAOEc MMACT00c           DW USC LB  920102 131226 Copper Prod Cathode Wk
+MM MEMCRCPROAOEh MMACT00h WM1B0USPH DW USC LB  920102 131226 Copper Prod Cathode Wk
+MM MEMCRCPROAOEl MMACT00l WM1B0USPL DW USC LB  920102 131226 Copper Prod Cathode Wk
+MM MMACW0300000h MMACW03h           MA USD MT                Alum C+F China-West FxdPrcEqv MA
+MM MMACW0300000l MMACW03l           MA USD MT                Alum C+F China-West FxdPrcEqv MA
+MM MMADB0300000c MMADB03c           MA USD MT  140601 181201 Aluminum Brazil DDP Southeast $/Mt MAvg
+MM MMADB0400000c MMADB04c           WA USD MT  140530 190118 Aluminum Brazil DDP Southeast $/Mt
+MM MMADB1600000c MMADB16c           YR USD MT  141231 181231 Aluminum Brazil DDP Southeast $/Mt YAvg
+MM MMAFT1600000c MMAFT16c           YR USC LB  001231 181231 Ferrosilicon 75% SI in-warehouse US YAvg
+MM MMAFT1600000h MMAFT16h           YR USC LB  001231 181231 Ferrosilicon 75% SI in-warehouse US YAvg
+MM MMAFT1600000l MMAFT16l           YR USC LB  001231 181231 Ferrosilicon 75% SI in-warehouse US YAvg
+MM SB0101800000c SB01018c           WA BRL KG  100614 190114 Alum Cans Scrap Brazil Dom Prod Dlvd Mill Wkly
+MM SB0101800000h SB01018h           WA BRL KG  100614 190114 Alum Cans Scrap Brazil Dom Prod Dlvd Mill Wkly
+MM SB0101800000l SB01018l           WA BRL KG  100614 190114 Alum Cans Scrap Brazil Dom Prod Dlvd Mill Wkly
+MM SB0102000000c SB01020c           WA BRL KG  100726 190114 Alum Castings Brazil Dom Prod Dlvd Mill Wkly
+MM SB0102000000h SB01020h           WA BRL KG  100726 190114 Alum Castings Brazil Dom Prod Dlvd Mill Wkly
+MM SB0102000000l SB01020l           WA BRL KG  100726 190114 Alum Castings Brazil Dom Prod Dlvd Mill Wkly
+MM SB0102200000c SB01022c           WA BRL KG  100614 190114 Alum Profile Extru Brazil Dom Prod Dlvd Mill Wkly
+MM SB0102200000h SB01022h           WA BRL KG  100614 190114 Alum Profile Extru Brazil Dom Prod Dlvd Mill Wkly
+MM SB0102200000l SB01022l           WA BRL KG  100614 190114 Alum Profile Extru Brazil Dom Prod Dlvd Mill Wkly

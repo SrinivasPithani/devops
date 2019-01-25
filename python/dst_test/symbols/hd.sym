@@ -1,0 +1,20 @@
+HD                                                           © 2019 by S&P Global Inc.,190119
+HD CALBR0000000u CALBR00u           DW N/A N/A 150101 200101 Calendar for Bursa Malaysia
+HD CALBZ0000000u CALBZ00u           DW N/A N/A 160101 200101 Calendar for Brazil
+HD CALCA0000000u CALCA00u           DW N/A N/A 160101 200101 Calendar for Canada
+HD CALCH0000000u CALCH00u           DW N/A N/A 150101 200101 Calendar for China
+HD CALHK0000000u CALHK00u           DW N/A N/A 150101 200101 Calendar for Hong Kong
+HD CALIC0000000u CALIC00u           DW N/A N/A 150101 200101 Calendar for ICE
+HD CALKT0000000u CALKT00u           DW N/A N/A 150101 200101 Calendar for KLTM
+HD CALLM0000000u CALLM00u           DW N/A N/A 150101 200101 Calendar for LME
+HD CALLN0000000u CALLN00u           DW N/A N/A 150101 200101 Calendar for London
+HD CALMB0000000u CALMB00u           DW N/A N/A 150101 200101 Calendar for Melbourne
+HD CALME0000000u CALME00u           DW N/A N/A 150101 200101 Calendar for Moscow Exchange
+HD CALMS0000000u CALMS00u           DW N/A N/A 150101 200101 Calendar for Moscow
+HD CALNM0000000u CALNM00u           DW N/A N/A 150101 200101 Calendar for NYMEX
+HD CALSF0000000u CALSF00u           DW N/A N/A 150101 200101 Calendar for SHFE
+HD CALSG0000000u CALSG00u           DW N/A N/A 150101 200101 Calendar for Singapore
+HD CALSN0000000u CALSN00u           DW N/A N/A 150101 200101 Calendar for Sydney
+HD CALTC0000000u CALTC00u           DW N/A N/A 150101 200101 Calendar for TOCOM
+HD CALTY0000000u CALTY00u           DW N/A N/A 150101 200101 Calendar for Tokyo
+HD CALUS0000000u CALUS00u           DW N/A N/A 150101 200101 Calendar for US Region

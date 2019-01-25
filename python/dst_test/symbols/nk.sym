@@ -1,0 +1,85 @@
+NK                                                           © 2019 by S&P Global Inc.,190119
+NK FNAGH0000000u FNAGH00u           WA USD BBL 020104 131025 Basrah Light Midwest Cracking Netback WAvg
+NK FNAGT0000000u FNAGT00u           WA USD BBL 020104 131025 Bonny Light Midwest Cracking Netback WAvg
+NK FNAGV0000000u FNAGV00u           WA USD BBL 020104 190111 Bow River Midwest Coking Netback WAvg
+NK FNAIJ0000000u FNAIJ00u           WA USD BBL 020104 131025 Cabinda Midwest Cracking Netback WAvg
+NK FNAKZ0000000u FNAKZ00u           WA USD BBL 020104 131025 Forcados Midwest Cracking Netback WAvg
+NK FNANR0000000u FNANR00u           WA USD BBL 020104 190111 LLS Midwest Coking Netback WAvg
+NK FNANT0000000u FNANT00u           WA USD BBL 020104 190111 LLS Midwest Cracking Netback WAvg
+NK FNAPP0000000u FNAPP00u           WA USD BBL 020104 131025 Mesa Midwest Cracking Netback WAvg
+NK FNAPV0000000u FNAPV00u           WA USD BBL 020104 190111 Mixed Light Sour Midwest Coking Netback WAvg
+NK FNAPX0000000u FNAPX00u           WA USD BBL 020104 190111 Mixed Light Sour Midwest Cracking Netback WAvg
+NK FNAQJ0000000u FNAQJ00u           WA USD BBL 020104 131025 Olmeca Midwest Cracking Netback WAvg
+NK FNAQX0000000u FNAQX00u           WA USD BBL 020104 190111 Mixed Light Sweet Midwest Coking Netback WAvg
+NK FNAQZ0000000u FNAQZ00u           WA USD BBL 020104 190111 Mixed Light Sweet Midwest Cracking Netback WAvg
+NK FNASA0000000u FNASA00u           WA USD BBL 130906 190111 Bakken Midwest Cracking Netback WAvg
+NK FNATZ0000000u FNATZ00u           WA USD BBL 020104 190111 WTI Midwest Coking Netback WAvg
+NK FNAUB0000000u FNAUB00u           WA USD BBL 020104 190111 WTI Midwest Cracking Netback WAvg
+NK FNAUH0000000u FNAUH00u           WA USD BBL 020104 190111 WTS Midwest Coking Netback WAvg
+NK FNAUJ0000000u FNAUJ00u           WA USD BBL 020104 190111 WTS Midwest Cracking Netback WAvg
+NK FNAUR0000000u FNAUR00u           WA USD BBL 040305 190111 Syncrude Midwest Cracking Netback WAvg
+NK FNAVG0000000u FNAVG00u           WA USD BBL 130510 190111 WCS Midwest Coking Netback WAvg
+NK TNAKZMR00000c TNAKZMRc           DW USD BBL               Forcados Midwest Cracking Netback Margin
+NK TNANR0000000u TNANR00u           DW USD BBL 020102 190118 LLS Midwest Coking Netback
+NK TNANR0300000u TNANR03u           MA USD BBL 020101 181226 LLS Midwest Coking Netback MAvg
+NK TNANRMR00000c TNANRMRc           DW USD BBL 130501 190118 LLS Midwest Coking Netback Margin
+NK TNANT0000000u TNANT00u           DW USD BBL 020102 190118 LLS Midwest Cracking Netback
+NK TNANT0300000u TNANT03u           MA USD BBL 020101 181226 LLS Midwest Cracking Netback MAvg
+NK TNANTMR00000c TNANTMRc           DW USD BBL 130501 190118 LLS Midwest Cracking Netback Margin
+NK TNAPNMR00000c TNAPNMRc           DW USD BBL               Mesa Midwest Coking Netback Margin
+NK TNAPP0000000u TNAPP00u           DW USD BBL 020102 131031 Mesa Midwest Cracking Netback
+NK TNAPP0300000u TNAPP03u           MA USD BBL 020101 131001 Mesa Midwest Cracking Netback MAvg
+NK TNAPPMR00000c TNAPPMRc           DW USD BBL               Mesa Midwest Cracking Netback Margin
+NK TNAPV0000000u TNAPV00u           DW USD BBL 020102 190118 Mixed Light Sour Midwest Coking Netback
+NK TNAPV0300000u TNAPV03u           MA USD BBL 020101 181201 Mixed Light Sour Midwest Coking Netback MAvg
+NK TNAPVMR00000c TNAPVMRc           DW USD BBL 130501 190118 Mixed Light Sour Midwest Coking Netback Margin
+NK TNAPX0000000u TNAPX00u           DW USD BBL 020102 190118 Mixed Light Sour Midwest Cracking Netback
+NK TNAPX0300000u TNAPX03u           MA USD BBL 020101 181201 Mixed Light Sour Midwest Cracking Netback MAvg
+NK TNAPXMR00000c TNAPXMRc           DW USD BBL 130501 190118 Mixed Light Sour Midwest Cracking Netback Margin
+NK TNAQHMR00000c TNAQHMRc           DW USD BBL               Olmeca Midwest Coking Netback Margin
+NK TNAQJ0000000u TNAQJ00u           DW USD BBL 020102 131031 Olmeca Midwest Cracking Netback
+NK TNAQJ0300000u TNAQJ03u           MA USD BBL 020101 131001 Olmeca Midwest Cracking Netback MAvg
+NK TNAQJMR00000c TNAQJMRc           DW USD BBL               Olmeca Midwest Cracking Netback Margin
+NK TNAQX0000000u TNAQX00u           DW USD BBL 020102 190118 Mixed Light Sweet Midwest Coking Netback
+NK TNAQX0300000u TNAQX03u           MA USD BBL 020101 181201 Mixed Light Sweet Midwest Coking Netback MAvg
+NK TNAQXMR00000c TNAQXMRc           DW USD BBL 130501 190118 Mixed Light Sweet Midwest Coking Netback Margin
+NK TNAQZ0000000u TNAQZ00u           DW USD BBL 020102 190118 Mixed Light Sweet Midwest Cracking Netback
+NK TNAQZ0300000u TNAQZ03u           MA USD BBL 020101 181201 Mixed Light Sweet Midwest Cracking Netback MAvg
+NK TNAQZMR00000c TNAQZMRc           DW USD BBL 130501 190118 Mixed Light Sweet Midwest Cracking Netback Margin
+NK TNASA0000000u TNASA00u           DW USD BBL 130902 190118 Bakken Midwest Cracking Netback
+NK TNASA0300000u TNASA03u           MA USD BBL 130901 181201 Bakken Midwest Cracking Netback MAvg
+NK TNASAMR00000c TNASAMRc           DW USD BBL 130902 190118 Bakken Midwest Cracking Netback Margin
+NK TNATZ0000000u TNATZ00u           DW USD BBL 020102 190118 WTI Midwest Coking Netback
+NK TNATZ0300000u TNATZ03u           MA USD BBL 020101 181226 WTI Midwest Coking Netback MAvg
+NK TNATZMR00000c TNATZMRc           DW USD BBL 130501 190118 WTI Midwest Coking Netback Margin
+NK TNAUB0000000u TNAUB00u           DW USD BBL 020102 190118 WTI Midwest Cracking Netback
+NK TNAUB0300000u TNAUB03u           MA USD BBL 020101 181226 WTI Midwest Cracking Netback MAvg
+NK TNAUBMR00000c TNAUBMRc           DW USD BBL 130501 190118 WTI Midwest Cracking Netback Margin
+NK TNAGFMR00000c TNAGFMRc           DW USD BBL               Basrah Light Midwest Coking Netback Margin
+NK TNAGH0000000u TNAGH00u           DW USD BBL 020102 131031 Basrah Light Midwest Cracking Netback
+NK TNAGH0300000u TNAGH03u           MA USD BBL 020101 131001 Basrah Light Midwest Cracking Netback MAvg
+NK TNAGHMR00000c TNAGHMRc           DW USD BBL               Basrah Light Midwest Cracking Netback Margin
+NK TNAGT0000000u TNAGT00u           DW USD BBL 020102 131031 Bonny Light Midwest Cracking Netback
+NK TNAGT0300000u TNAGT03u           MA USD BBL 020101 131001 Bonny Light Midwest Cracking Netback MAvg
+NK TNAGTMR00000c TNAGTMRc           DW USD BBL               Bonny Light Midwest Cracking Netback Margin
+NK TNAGV0000000u TNAGV00u           DW USD BBL 020102 190118 Bow River Midwest Coking Netback
+NK TNAGV0300000u TNAGV03u           MA USD BBL 020101 181201 Bow River Midwest Coking Netback MAvg
+NK TNAGVMR00000c TNAGVMRc           DW USD BBL               Bow River Midwest Coking Netback Margin
+NK TNAIHMR00000c TNAIHMRc           DW USD BBL               Cabinda Midwest Coking Netback Margin
+NK TNAIJ0000000u TNAIJ00u           DW USD BBL 020102 131031 Cabinda Midwest Cracking Netback
+NK TNAIJ0300000u TNAIJ03u           MA USD BBL 020101 131001 Cabinda Midwest Cracking Netback MAvg
+NK TNAIJMR00000c TNAIJMRc           DW USD BBL               Cabinda Midwest Cracking Netback Margin
+NK TNAKZ0000000u TNAKZ00u           DW USD BBL 020102 131031 Forcados Midwest Cracking Netback
+NK TNAKZ0300000u TNAKZ03u           MA USD BBL 020101 131001 Forcados Midwest Cracking Netback MAvg
+NK TNAUH0000000u TNAUH00u           DW USD BBL 020102 190118 WTS Midwest Coking Netback
+NK TNAUH0300000u TNAUH03u           MA USD BBL 020101 181226 WTS Midwest Coking Netback MAvg
+NK TNAUHMR00000c TNAUHMRc           DW USD BBL 130501 190118 WTS Midwest Coking Netback Margin
+NK TNAUJ0000000u TNAUJ00u           DW USD BBL 020102 190118 WTS Midwest Cracking Netback
+NK TNAUJ0300000u TNAUJ03u           MA USD BBL 020101 181226 WTS Midwest Cracking Netback MAvg
+NK TNAUJMR00000c TNAUJMRc           DW USD BBL 130501 190118 WTS Midwest Cracking Netback Margin
+NK TNAUR0000000u TNAUR00u           DW USD BBL 040301 190118 Syncrude Midwest Cracking Netback
+NK TNAUR0300000u TNAUR03u           MA USD BBL 040301 181201 Syncrude Midwest Cracking Netback MAvg
+NK TNAURMR00000c TNAURMRc           DW USD BBL 130501 190118 Syncrude Midwest Cracking Netback Margin
+NK TNAVG0000000u TNAVG00u           DW USD BBL 130508 190118 WCS Midwest Coking Netback
+NK TNAVG0300000u TNAVG03u           MA USD BBL 130501 181201 WCS Midwest Coking Netback MAvg
+NK TNAVGMR00000c TNAVGMRc           DW USD BBL 130508 190118 WCS Midwest Coking Netback Margin

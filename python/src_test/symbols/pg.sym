@@ -1,0 +1,30 @@
+PG                                                           © 2019 by S&P Global Inc.,190119
+PG AATHB0000000c AATHB00c           DW USC GAL 060501 190118 ULSD Group 3 Pipeline
+PG AATHB0000000h AATHB00h           DW USC GAL 060501 190118 ULSD Group 3 Pipeline
+PG AATHB0000000l AATHB00l           DW USC GAL 060501 190118 ULSD Group 3 Pipeline
+PG AATHB0300000c AATHB03c           MA USC GAL 060501 181201 ULSD Group 3 Pipeline MAvg
+PG AATHB0300000h AATHB03h           MA USC GAL 060501 181201 ULSD Group 3 Pipeline MAvg
+PG AATHB0300000l AATHB03l           MA USC GAL 060501 181201 ULSD Group 3 Pipeline MAvg
+PG AANYC0300000c AANYC03c           MA USC GAL 171001 181201 Gasoline Unleaded Suboctane Group 3 Differential to NYMEX RBOB MAvg
+PG AANYX0100000c AANYX01c           DW USC GAL 170407 190118 Gasoline Unleaded Suboctane Group 3 Differential to NYMEX RBOB
+PG AAXIX0000000c AAXIX00c           DW USC GAL 130903 190118 Gasoline Unl Sub Octane Group 3 Pipeline
+PG AAXIX0000000h AAXIX00h           DW USC GAL 130903 190118 Gasoline Unl Sub Octane Group 3 Pipeline
+PG AAXIX0000000l AAXIX00l           DW USC GAL 130903 190118 Gasoline Unl Sub Octane Group 3 Pipeline
+PG AAXIX0300000c AAXIX03c           MA USC GAL 130901 181201 Gasoline Unl Sub Octane Group 3 Pipeline MAvg
+PG AAXIX0300000h AAXIX03h           MA USC GAL 130901 181201 Gasoline Unl Sub Octane Group 3 Pipeline MAvg
+PG AAXIX0300000l AAXIX03l           MA USC GAL 130901 181201 Gasoline Unl Sub Octane Group 3 Pipeline MAvg
+PG AAXIXRV00000u AAXIXRVu           DW N/A N/A 130903 190118 Gasoline Unl Sub Octane Group 3 Pipeline RVP
+PG ADIKA0000000c ADIKA00c           DW USC GAL 170314 190118 Jet Fuel Group 3 Differential to NYMEX ULSD
+PG ADIKA0300000c ADIKA03c           MA USC GAL 171001 181201 Jet Kero Group 3 Differential to NYMEX ULSD MAvg
+PG ADLAB0000000c ADLAB00c           DW USC GAL 170314 190118 ULSD Group 3 Differential to NYMEX ULSD
+PG ADLAB0300000c ADLAB03c           MA USC GAL 171001 181201 ULSD Group 3 Differential to NYMEX ULSD MAvg
+PG PRPPRUG3$CECc PGABD00c           DW USC GAL 880803 190118 Gasoline Prem Unl 91 Group 3 Pipeline
+PG PRPPRUG3$CECh PGABD00h           DW USC GAL 880803 190118 Gasoline Prem Unl 91 Group 3 Pipeline
+PG PRPPRUG3$CECl PGABD00l           DW USC GAL 880803 190118 Gasoline Prem Unl 91 Group 3 Pipeline
+PG PGABDRV00000u PGABDRVu           DW UNS UNS 101101 190118 Gasoline Prem Unl 93 Group 3 Pipeline RVP
+PG PRPJKLG3$AABc PJACB00c           DW USC GAL 970102 190118 Jet Kero ULS No1 Group 3 Pipeline
+PG PRPJKLG3$AABh PJACB00h           DW USC GAL 970102 190118 Jet Kero ULS No1 Group 3 Pipeline
+PG PRPJKLG3$AABl PJACB00l           DW USC GAL 970102 190118 Jet Kero ULS No1 Group 3 Pipeline
+PG PRPJK$G3$CKYc PJAAI00c PPJKG3SC$ DW USC GAL 910102 190118 Jet Kero Group 3 Pipeline
+PG PRPJK$G3$CKYh PJAAI00h PPJKG3SCH DW USC GAL 910102 190118 Jet Kero Group 3 Pipeline
+PG PRPJK$G3$CKYl PJAAI00l PPJKG3SCL DW USC GAL 910102 190118 Jet Kero Group 3 Pipeline

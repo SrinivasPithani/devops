@@ -1,0 +1,77 @@
+SG                                                           © 2019 by S&P Global Inc.,190119
+SG AAFEW0000000c AAFEW00c           DW MXN N/A 150330 190118 USD/Peso Forex
+SG AAFGW0000000c AAFGW00c           DW INR N/A 150317 190118 USD/Indian Rupee Forex
+SG SGAAA0000000c SGAAA00c           DW USP LB  130228 190118 Raw Sugar Thai J-Spec Premium
+SG SGAAB0000000c SGAAB00c           DW USC LB  130228 190118 Raw Sugar Thai J-Spec Flat Price
+SG SGAAC0000000c SGAAC00c           DW USP LB  060501 190118 Raw Sugar Thai HiPol Points Premium
+SG SGAAD0000000c SGAAD00c           DW USC LB  130228 190118 Raw Sugar Thai HiPol Flat Price
+SG SGAAE0000000c SGAAE00c           DW USP LB  060501 190118 Raw Sugar Brazil VHP CS Premium
+SG SGAAW0000000c SGAAW00c           DW USC LB  160712 190118 Raw Sugar Brazil VHP CS Second Month Flat Price
+SG SGAAX0000000c SGAAX00c           DW USP LB  160712 190118 Raw Sugar Brazil VHP CS Second Month Premium
+SG SGAAY0000000c SGAAY00c           DW USC LB  160712 190118 Raw Sugar Brazil VHP CS Third Month Flat Price
+SG SGAAZ0000000c SGAAZ00c           DW USP LB  160712 190118 Raw Sugar Brazil VHP CS Third Month Premium
+SG SGABA0000000c SGABA00c           DW USC LB  130228 190118 Raw Sugar Brazil VHP CS Flat Price
+SG SGABB0000000c SGABB00c           DW USP LB  130228 190118 Raw Sugar Brazil NNE Premium
+SG SGABC0000000c SGABC00c           DW USC LB  130228 190118 Raw Sugar Brazil NNE Flat Price
+SG SGABD0000000c SGABD00c           DW USD MT  060501 190118 White Sugar Breakbulk Brazil 150 Premium
+SG SGABE0000000c SGABE00c           DW USD MT  130228 190118 White Sugar Breakbulk Brazil 150 Flat Price
+SG SGACA0000000c SGACA00c           DW USD MT  130228 190118 White Sugar Breakbulk Brazil 45 Premium
+SG SGACB0000000c SGACB00c           DW USD MT  130228 190118 White Sugar Breakbulk Brazil 45 Flat Price
+SG SGACC0000000c SGACC00c           DW USD MT  060501 190118 White Sugar Breakbulk Thai 45 Premium
+SG SGACD0000000c SGACD00c           DW USD MT  130228 190118 White Sugar Breakbulk Thai 45 Flat Price
+SG SGACE0000000c SGACE00c           DW USD MT  130228 190118 White Sugar Containers Brazil 150 Premium
+SG SGADA0000000c SGADA00c           DW USD MT  130228 190118 White Sugar Containers Brazil 150 Flat Price
+SG SGADB0000000c SGADB00c           DW USD MT  130228 190118 White Sugar Containers Brazil 45 Premium
+SG SGADC0000000c SGADC00c           DW USD MT  130228 190118 White Sugar Containers Brazil 45 Flat Price
+SG SGADD0000000c SGADD00c           DW USD MT  130228 190118 White Sugar Containers Thai 45 Premium
+SG SGADE0000000c SGADE00c           DW USD MT  130228 190118 White Sugar Containers Thai 45 Flat Price
+SG SGAEA0000000c SGAEA00c           DW USD MT  130228 190118 White Sugar Containers EU 45IC Premium
+SG SGAEA0300000c SGAEA03c           MA USD MT  140901 181201 White Sugar Containers EU 45IC Premium MAvg
+SG SGAEB0000000c SGAEB00c           DW USD MT  130228 190118 White Sugar Containers EU 45IC Flat Price
+SG SGAEB0300000c SGAEB03c           MA USD MT  140901 181201 White Sugar Containers EU 45IC Flat Price MAvg
+SG SGAEC0000000c SGAEC00c           DW BRL CBM 081021 190118 Hydrous ethanol ANP domestic ex-mill Ribeirao inc taxes Real/CBM
+SG SGAED0000000c SGAED00c           DW USD CBM 090320 190118 Hydrous ethanol ANP FOB Santos/Paranagua $/CBM
+SG SGAEE0000000c SGAEE00c           DW USD MT  060501 190118 Raw Sugar FOB Brazil CS - 1100 London Time
+SG SGAEF0300000c SGAEF03c           MA EUR MT  160701 181201 White Sugar delivered UK MAvg
+SG SGAEF0400000c SGAEF04c           WA EUR MT  160701 190118 White Sugar delivered UK Weekly
+SG SGAEG0300000c SGAEG03c           MA EUR MT  160701 181201 White Sugar delivered Germany MAvg
+SG SGAEG0400000c SGAEG04c           WA EUR MT  160701 190118 White Sugar delivered Germany Weekly
+SG SGAEH0300000c SGAEH03c           MA EUR MT  160701 181201 White Sugar delivered France MAvg
+SG SGAEH0400000c SGAEH04c           WA EUR MT  160701 190118 White Sugar delivered France Weekly
+SG SGAEJ0300000c SGAEJ03c           MA EUR MT  160701 181201 White Sugar delivered Netherlands MAvg
+SG SGAEJ0400000c SGAEJ04c           WA EUR MT  160701 190118 White Sugar delivered Netherlands Weekly
+SG SGAEK0300000c SGAEK03c           MA EUR MT  160701 181201 White Sugar delivered Belgium MAvg
+SG SGAEK0400000c SGAEK04c           WA EUR MT  160701 190118 White Sugar delivered Belgium Weekly
+SG SGAEL0300000c SGAEL03c           MA EUR MT  160701 181201 White Sugar delivered Northern Italy MAvg
+SG SGAEL0400000c SGAEL04c           WA EUR MT  160701 190118 White Sugar delivered Northern Italy Weekly
+SG SGAEM0300000c SGAEM03c           MA EUR MT  160701 181201 White Sugar delivered Southern Italy MAvg
+SG SGAEM0400000c SGAEM04c           WA EUR MT  160701 190118 White Sugar delivered Southern Italy Weekly
+SG SGAEN0300000c SGAEN03c           MA EUR MT  160701 181201 White Sugar delivered Spain MAvg
+SG SGAEN0400000c SGAEN04c           WA EUR MT  160701 190118 White Sugar delivered Spain Weekly
+SG SGAEP0300000c SGAEP03c           MA EUR MT  160701 181201 White Sugar delivered Greece MAvg
+SG SGAEP0400000c SGAEP04c           WA EUR MT  160701 190118 White Sugar delivered Greece Weekly
+SG SGAFA0000000c SGAFA00c           DW USD MT  150330 190118 ICE White Sugar Futures (London 5) 1630 London Time Mo02
+SG SGAFD0000000c SGAFD00c           DW USC LB  151005 190118 Thai HiPol Sugar Premium First 75-day Window
+SG SGAGA0000000c SGAGA00c           DW USD MT  150330 190118 ICE White Sugar Futures (London 5) 1630 London Time Mo03
+SG SGAGD0000000c SGAGD00c           DW USC LB  151005 190118 Thai HiPol Sugar Flat Price First 75-day Window
+SG SGAHD0000000c SGAHD00c           DW USC LB  151005 190118 Thai HiPol Sugar Premium Second 75-day Window
+SG SGAID0000000c SGAID00c           DW USC LB  151005 190118 Thai HiPol Sugar Flat Price Second 75-day Window
+SG SGAJD0000000c SGAJD00c           DW USC LB  151005 190118 Thai HiPol Sugar Premium Third 75-day Window
+SG SGAKD0000000c SGAKD00c           DW USC LB  151005 190118 Thai HiPol Sugar Flat Price Third 75-day Window
+SG SGALD0000000c SGALD00c           DW USC LB  151005 190118 Thai HiPol Sugar Inter-Window Spread 1
+SG SGAMD0000000c SGAMD00c           DW USC LB  151005 190118 Thai HiPol Sugar Inter-Window Spread 2
+SG SGBAA0000000c SGBAA00c           DW USD MT  060501 190118 Raw Sugar CFR Brazil - 1100 London Time
+SG SGBAB0000000c SGBAB00c           DW USD MT  060501 190118 White Sugar FOB Brazil - 1100 London Time
+SG SGBAC0000000c SGBAC00c           DW USC LB  130605 190118 Raw Sugar Equivalent Cts/Lb
+SG SGBAE0000000c SGBAE00c           DW USC LB  130228 190118 Sugar No. 11 Futures (New York 11) 1630 London Time Assessment Mo01
+SG SGBAE0000000c SGBAE03c           MA USC LB  140901 181201 NY No. 11 1630 London Mo01 MAvg
+SG SGBBA0000000c SGBBA00c           DW USD MT  130228 190118 White Sugar Futures (London 5) 1630 London Time Assessment Mo01
+SG SGBBA0300000c SGBBA03c           MA USD MT  140901 181201 LIFFE No. 5 1630 London Mo01 MAvg
+SG SGBBB0000000c SGBBB00c           WA EUR MT  100323 190118 White Sugar Delivered NWE Wkly
+SG SGBBD0000000c SGBBD00c           WA EUR MT  100323 190118 White Sugar Delivered Med Europe Wkly
+SG SGBBE0000000c SGBBE00c           WA EUR MT  100420 190118 White Sugar Containers CNF IPR-45ic Wkly
+SG SGBCA0000000c SGBCA00c           WA EUR MT  100323 190118 Raw Sugar CNF Antwerp Wkly
+SG SGBCB0000000c SGBCB00c           WA USD MT  100420 160226 White LIFFE No. 5 FAS Antwerp Export Weekly Premium
+SG SGBCC0000000c SGBCC00c           WA EUR MT  100323 190118 White Sugar EU Export Price Equivalent Ex-works Weekly Flat Price
+SG SGBFE0000000c SGBFE00c           DW USD LB  150330 190118 ICE Sugar No. 11 Futures (New York 11) 1630 London Time Mo02
+SG SGBGE0000000c SGBGE00c           DW USD LB  150330 190118 ICE Sugar No. 11 Futures (New York 11) 1630 London Time Mo03

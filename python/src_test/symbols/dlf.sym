@@ -1,0 +1,422 @@
+DLF                                                           © 2019 by S&P Global Inc.,190119
+DLF JKLMO0100000c JKLMO01c           DW USD MMB 181203 190118 LNG Japan/Korea at London MOC Financial $/Mmbtu Mo01
+DLF JKLMO0200000c JKLMO02c           DW USD MMB 181203 190118 LNG Japan/Korea at London MOC Financial $/Mmbtu Mo02
+DLF JKLMO0300000c JKLMO03c           DW USD MMB 181203 190118 LNG Japan/Korea at London MOC Financial $/Mmbtu Mo03
+DLF JKLQR0100000c JKLQR01c           DW USD MMB 181203 190118 LNG Japan/Korea at London MOC Financial $/Mmbtu Qr01
+DLF JKLQR0200000c JKLQR02c           DW USD MMB 181203 190118 LNG Japan/Korea at London MOC Financial $/Mmbtu Qr02
+DLF JKLYR0100000c JKLYR01c           DW USD MMB 181203 190118 LNG Japan/Korea at London MOC Financial $/Mmbtu Cal Yr01
+DLF LJKMO0100000c LJKMO01c           DW USD MMB 120601 190118 LNG Japan/Korea swap $/Mmbtu Mo01
+DLF LJKMO0200000c LJKMO02c           DW USD MMB 120601 190118 LNG Japan/Korea swap $/Mmbtu Mo02
+DLF LJKMO0300000c LJKMO03c           DW USD MMB 120601 190118 LNG Japan/Korea swap $/Mmbtu Mo03
+DLF LJKMO3100000c LJKMO31c           MA USD MMB 120601 181201 LNG Japan/Korea swap $/Mmbtu Mo01 MAvg
+DLF LJKMO3200000c LJKMO32c           MA USD MMB 120601 181201 LNG Japan/Korea swap $/Mmbtu Mo02 MAvg
+DLF LJKMO3300000c LJKMO33c           MA USD MMB 120601 181201 LNG Japan/Korea swap $/Mmbtu Mo03 MAvg
+DLF LJKQR0100000c LJKQR01c           DW USD MMB 161116 190118 LNG Japan/Korea swap $/Mmbtu Qr01
+DLF LJKQR0200000c LJKQR02c           DW USD MMB 161116 190118 LNG Japan/Korea swap $/Mmbtu Qr02
+DLF LJKYR0100000c LJKYR01c           DW USD MMB 171016 190118 LNG Japan/Korea swap $/Mmbtu Cal Yr01
+DLF QGCMF1700000c QGCMF17c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Jan 17
+DLF QGCMF1800000c QGCMF18c           DW USD MMB 170407 171229 LNG FOB USGC Cargo M2M Financial $/Mmbtu Jan 18
+DLF QGCMF1900000c QGCMF19c           DW USD MMB 170407 181231 LNG FOB USGC Cargo M2M Financial $/Mmbtu Jan 19
+DLF QGCMF2000000c QGCMF20c           DW USD MMB 170407 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Jan 20
+DLF QGCMF2100000c QGCMF21c           DW USD MMB 170407 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Jan 21
+DLF QGCMF2200000c QGCMF22c           DW USD MMB 171201 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Jan 22
+DLF QGCMF2300000c QGCMF23c           DW USD MMB 181203 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Jan 23
+DLF QGCMF2400000c QGCMF24c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Jan 24
+DLF QGCMF2500000c QGCMF25c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Jan 25
+DLF QGCMF2600000c QGCMF26c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Jan 26
+DLF QGCMF2700000c QGCMF27c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Jan 27
+DLF QGCMF2800000c QGCMF28c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Jan 28
+DLF QGCMF2900000c QGCMF29c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Jan 29
+DLF QGCMG1700000c QGCMG17c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Feb 17
+DLF QGCMG1800000c QGCMG18c           DW USD MMB 170407 180131 LNG FOB USGC Cargo M2M Financial $/Mmbtu Feb 18
+DLF QGCMG1900000c QGCMG19c           DW USD MMB 170407 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Feb 19
+DLF QGCMG2000000c QGCMG20c           DW USD MMB 170407 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Feb 20
+DLF QGCMG2100000c QGCMG21c           DW USD MMB 170407 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Feb 21
+DLF QGCMG2200000c QGCMG22c           DW USD MMB 180102 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Feb 22
+DLF QGCMG2300000c QGCMG23c           DW USD MMB 190102 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Feb 23
+DLF QGCMG2400000c QGCMG24c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Feb 24
+DLF QGCMG2500000c QGCMG25c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Feb 25
+DLF QGCMG2600000c QGCMG26c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Feb 26
+DLF QGCMG2700000c QGCMG27c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Feb 27
+DLF QGCMG2800000c QGCMG28c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Feb 28
+DLF QGCMG2900000c QGCMG29c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Feb 29
+DLF QGCMH1700000c QGCMH17c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Mar 17
+DLF QGCMH1800000c QGCMH18c           DW USD MMB 170407 180228 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mar 18
+DLF QGCMH1900000c QGCMH19c           DW USD MMB 170407 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mar 19
+DLF QGCMH2000000c QGCMH20c           DW USD MMB 170407 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mar 20
+DLF QGCMH2100000c QGCMH21c           DW USD MMB 170407 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mar 21
+DLF QGCMH2200000c QGCMH22c           DW USD MMB 180201 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mar 22
+DLF QGCMH2300000c QGCMH23c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Mar 23
+DLF QGCMH2400000c QGCMH24c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Mar 24
+DLF QGCMH2500000c QGCMH25c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Mar 25
+DLF QGCMH2600000c QGCMH26c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Mar 26
+DLF QGCMH2700000c QGCMH27c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Mar 27
+DLF QGCMH2800000c QGCMH28c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Mar 28
+DLF QGCMH2900000c QGCMH29c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Mar 29
+DLF QGCMJ1700000c QGCMJ17c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Apr 17
+DLF QGCMJ1800000c QGCMJ18c           DW USD MMB 170407 180329 LNG FOB USGC Cargo M2M Financial $/Mmbtu Apr 18
+DLF QGCMJ1900000c QGCMJ19c           DW USD MMB 170407 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Apr 19
+DLF QGCMJ2000000c QGCMJ20c           DW USD MMB 170407 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Apr 20
+DLF QGCMJ2100000c QGCMJ21c           DW USD MMB 170407 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Apr 21
+DLF QGCMJ2200000c QGCMJ22c           DW USD MMB 180301 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Apr 22
+DLF QGCMJ2300000c QGCMJ23c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Apr 23
+DLF QGCMJ2400000c QGCMJ24c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Apr 24
+DLF QGCMJ2500000c QGCMJ25c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Apr 25
+DLF QGCMJ2600000c QGCMJ26c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Apr 26
+DLF QGCMJ2700000c QGCMJ27c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Apr 27
+DLF QGCMJ2800000c QGCMJ28c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Apr 28
+DLF QGCMJ2900000c QGCMJ29c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Apr 29
+DLF QGCMK1700000c QGCMK17c           DW USD MMB 170407 170428 LNG FOB USGC Cargo M2M Financial $/Mmbtu May 17
+DLF QGCMK1800000c QGCMK18c           DW USD MMB 170407 180430 LNG FOB USGC Cargo M2M Financial $/Mmbtu May 18
+DLF QGCMK1900000c QGCMK19c           DW USD MMB 170407 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu May 19
+DLF QGCMK2000000c QGCMK20c           DW USD MMB 170407 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu May 20
+DLF QGCMK2100000c QGCMK21c           DW USD MMB 170501 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu May 21
+DLF QGCMK2200000c QGCMK22c           DW USD MMB 180402 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu May 22
+DLF QGCMK2300000c QGCMK23c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu May 23
+DLF QGCMK2400000c QGCMK24c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu May 24
+DLF QGCMK2500000c QGCMK25c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu May 25
+DLF QGCMK2600000c QGCMK26c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu May 26
+DLF QGCMK2700000c QGCMK27c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu May 27
+DLF QGCMK2800000c QGCMK28c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu May 28
+DLF QGCMK2900000c QGCMK29c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu May 29
+DLF QGCMM1700000c QGCMM17c           DW USD MMB 170407 170531 LNG FOB USGC Cargo M2M Financial $/Mmbtu Jun 17
+DLF QGCMM1800000c QGCMM18c           DW USD MMB 170407 180531 LNG FOB USGC Cargo M2M Financial $/Mmbtu Jun 18
+DLF QGCMM1900000c QGCMM19c           DW USD MMB 170407 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Jun 19
+DLF QGCMM2000000c QGCMM20c           DW USD MMB 170407 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Jun 20
+DLF QGCMM2100000c QGCMM21c           DW USD MMB 170601 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Jun 21
+DLF QGCMM2200000c QGCMM22c           DW USD MMB 180501 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Jun 22
+DLF QGCMM2300000c QGCMM23c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Jun 23
+DLF QGCMM2400000c QGCMM24c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Jun 24
+DLF QGCMM2500000c QGCMM25c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Jun 25
+DLF QGCMM2600000c QGCMM26c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Jun 26
+DLF QGCMM2700000c QGCMM27c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Jun 27
+DLF QGCMM2800000c QGCMM28c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Jun 28
+DLF QGCMM2900000c QGCMM29c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Jun 29
+DLF QGCMN1700000c QGCMN17c           DW USD MMB 170407 170630 LNG FOB USGC Cargo M2M Financial $/Mmbtu Jul 17
+DLF QGCMN1800000c QGCMN18c           DW USD MMB 170407 180629 LNG FOB USGC Cargo M2M Financial $/Mmbtu Jul 18
+DLF QGCMN1900000c QGCMN19c           DW USD MMB 170407 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Jul 19
+DLF QGCMN2000000c QGCMN20c           DW USD MMB 170407 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Jul 20
+DLF QGCMN2100000c QGCMN21c           DW USD MMB 170619 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Jul 21
+DLF QGCMN2200000c QGCMN22c           DW USD MMB 180601 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Jul 22
+DLF QGCMN2300000c QGCMN23c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Jul 23
+DLF QGCMN2400000c QGCMN24c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Jul 24
+DLF QGCMN2500000c QGCMN25c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Jul 25
+DLF QGCMN2600000c QGCMN26c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Jul 26
+DLF QGCMN2700000c QGCMN27c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Jul 27
+DLF QGCMN2800000c QGCMN28c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Jul 28
+DLF QGCMN2900000c QGCMN29c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Jul 29
+DLF QGCMQ1700000c QGCMQ17c           DW USD MMB 170407 170731 LNG FOB USGC Cargo M2M Financial $/Mmbtu Aug 17
+DLF QGCMQ1800000c QGCMQ18c           DW USD MMB 170407 180731 LNG FOB USGC Cargo M2M Financial $/Mmbtu Aug 18
+DLF QGCMQ1900000c QGCMQ19c           DW USD MMB 170407 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Aug 19
+DLF QGCMQ2000000c QGCMQ20c           DW USD MMB 170407 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Aug 20
+DLF QGCMQ2100000c QGCMQ21c           DW USD MMB 170703 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Aug 21
+DLF QGCMQ2200000c QGCMQ22c           DW USD MMB 180702 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Aug 22
+DLF QGCMQ2300000c QGCMQ23c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Aug 23
+DLF QGCMQ2400000c QGCMQ24c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Aug 24
+DLF QGCMQ2500000c QGCMQ25c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Aug 25
+DLF QGCMQ2600000c QGCMQ26c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Aug 26
+DLF QGCMQ2700000c QGCMQ27c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Aug 27
+DLF QGCMQ2800000c QGCMQ28c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Aug 28
+DLF QGCMQ2900000c QGCMQ29c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Aug 29
+DLF QGCMU1700000c QGCMU17c           DW USD MMB 170407 170831 LNG FOB USGC Cargo M2M Financial $/Mmbtu Sep 17
+DLF QGCMU1800000c QGCMU18c           DW USD MMB 170407 180831 LNG FOB USGC Cargo M2M Financial $/Mmbtu Sep 18
+DLF QGCMU1900000c QGCMU19c           DW USD MMB 170407 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Sep 19
+DLF QGCMU2000000c QGCMU20c           DW USD MMB 170407 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Sep 20
+DLF QGCMU2100000c QGCMU21c           DW USD MMB 170801 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Sep 21
+DLF QGCMU2200000c QGCMU22c           DW USD MMB 180801 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Sep 22
+DLF QGCMU2300000c QGCMU23c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Sep 23
+DLF QGCMU2400000c QGCMU24c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Sep 24
+DLF QGCMU2500000c QGCMU25c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Sep 25
+DLF QGCMU2600000c QGCMU26c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Sep 26
+DLF QGCMU2700000c QGCMU27c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Sep 27
+DLF QGCMU2800000c QGCMU28c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Sep 28
+DLF QGCMU2900000c QGCMU29c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Sep 29
+DLF QGCMV1700000c QGCMV17c           DW USD MMB 170407 170929 LNG FOB USGC Cargo M2M Financial $/Mmbtu Oct 17
+DLF QGCMV1800000c QGCMV18c           DW USD MMB 170407 180928 LNG FOB USGC Cargo M2M Financial $/Mmbtu Oct 18
+DLF QGCMV1900000c QGCMV19c           DW USD MMB 170407 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Oct 19
+DLF QGCMV2000000c QGCMV20c           DW USD MMB 170407 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Oct 20
+DLF QGCMV2100000c QGCMV21c           DW USD MMB 170901 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Oct 21
+DLF QGCMV2200000c QGCMV22c           DW USD MMB 180903 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Oct 22
+DLF QGCMV2300000c QGCMV23c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Oct 23
+DLF QGCMV2400000c QGCMV24c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Oct 24
+DLF QGCMV2500000c QGCMV25c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Oct 25
+DLF QGCMV2600000c QGCMV26c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Oct 26
+DLF QGCMV2700000c QGCMV27c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Oct 27
+DLF QGCMV2800000c QGCMV28c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Oct 28
+DLF QGCMV2900000c QGCMV29c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Oct 29
+DLF QGCMX1700000c QGCMX17c           DW USD MMB 170407 171031 LNG FOB USGC Cargo M2M Financial $/Mmbtu Nov 17
+DLF QGCMX1800000c QGCMX18c           DW USD MMB 170407 181031 LNG FOB USGC Cargo M2M Financial $/Mmbtu Nov 18
+DLF QGCMX1900000c QGCMX19c           DW USD MMB 170407 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Nov 19
+DLF QGCMX2000000c QGCMX20c           DW USD MMB 170407 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Nov 20
+DLF QGCMX2100000c QGCMX21c           DW USD MMB 171002 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Nov 21
+DLF QGCMX2200000c QGCMX22c           DW USD MMB 181001 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Nov 22
+DLF QGCMX2300000c QGCMX23c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Nov 23
+DLF QGCMX2400000c QGCMX24c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Nov 24
+DLF QGCMX2500000c QGCMX25c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Nov 25
+DLF QGCMX2600000c QGCMX26c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Nov 26
+DLF QGCMX2700000c QGCMX27c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Nov 27
+DLF QGCMX2800000c QGCMX28c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Nov 28
+DLF QGCMX2900000c QGCMX29c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Nov 29
+DLF QGCMZ1700000c QGCMZ17c           DW USD MMB 170407 171130 LNG FOB USGC Cargo M2M Financial $/Mmbtu Dec 17
+DLF QGCMZ1800000c QGCMZ18c           DW USD MMB 170407 181130 LNG FOB USGC Cargo M2M Financial $/Mmbtu Dec 18
+DLF QGCMZ1900000c QGCMZ19c           DW USD MMB 170407 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Dec 19
+DLF QGCMZ2000000c QGCMZ20c           DW USD MMB 170407 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Dec 20
+DLF QGCMZ2100000c QGCMZ21c           DW USD MMB 171101 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Dec 21
+DLF QGCMZ2200000c QGCMZ22c           DW USD MMB 181101 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Dec 22
+DLF QGCMZ2300000c QGCMZ23c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Dec 23
+DLF QGCMZ2400000c QGCMZ24c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Dec 24
+DLF QGCMZ2500000c QGCMZ25c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Dec 25
+DLF QGCMZ2600000c QGCMZ26c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Dec 26
+DLF QGCMZ2700000c QGCMZ27c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Dec 27
+DLF QGCMZ2800000c QGCMZ28c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Dec 28
+DLF QGCMZ2900000c QGCMZ29c           DW USD MMB               LNG FOB USGC Cargo M2M Financial $/Mmbtu Dec 29
+DLF QGCSM0100000c QGCSM01c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo01
+DLF QGCSM0200000c QGCSM02c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo02
+DLF QGCSM0300000c QGCSM03c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo03
+DLF QGCSM0400000c QGCSM04c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo04
+DLF QGCSM0500000c QGCSM05c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo05
+DLF QGCSM0600000c QGCSM06c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo06
+DLF QGCSM0700000c QGCSM07c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo07
+DLF QGCSM0800000c QGCSM08c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo08
+DLF QGCSM0900000c QGCSM09c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo09
+DLF QGCSM1000000c QGCSM10c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo10
+DLF QGCSM1100000c QGCSM11c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo11
+DLF QGCSM1200000c QGCSM12c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo12
+DLF QGCSM1300000c QGCSM13c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo13
+DLF QGCSM1400000c QGCSM14c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo14
+DLF QGCSM1500000c QGCSM15c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo15
+DLF QGCSM1600000c QGCSM16c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo16
+DLF QGCSM1700000c QGCSM17c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo17
+DLF QGCSM1800000c QGCSM18c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo18
+DLF QGCSM1900000c QGCSM19c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo19
+DLF QGCSM2000000c QGCSM20c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo20
+DLF QGCSM2100000c QGCSM21c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo21
+DLF QGCSM2200000c QGCSM22c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo22
+DLF QGCSM2300000c QGCSM23c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo23
+DLF QGCSM2400000c QGCSM24c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo24
+DLF QGCSM2500000c QGCSM25c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo25
+DLF QGCSM2600000c QGCSM26c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo26
+DLF QGCSM2700000c QGCSM27c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo27
+DLF QGCSM2800000c QGCSM28c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo28
+DLF QGCSM2900000c QGCSM29c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo29
+DLF QGCSM3000000c QGCSM30c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo30
+DLF QGCSM3100000c QGCSM31c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo31
+DLF QGCSM3200000c QGCSM32c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo32
+DLF QGCSM3300000c QGCSM33c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo33
+DLF QGCSM3400000c QGCSM34c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo34
+DLF QGCSM3500000c QGCSM35c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo35
+DLF QGCSM3600000c QGCSM36c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo36
+DLF QGCSM3700000c QGCSM37c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo37
+DLF QGCSM3800000c QGCSM38c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo38
+DLF QGCSM3900000c QGCSM39c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo39
+DLF QGCSM4000000c QGCSM40c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo40
+DLF QGCSM4100000c QGCSM41c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo41
+DLF QGCSM4200000c QGCSM42c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo42
+DLF QGCSM4300000c QGCSM43c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo43
+DLF QGCSM4400000c QGCSM44c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo44
+DLF QGCSM4500000c QGCSM45c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo45
+DLF QGCSM4600000c QGCSM46c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo46
+DLF QGCSM4700000c QGCSM47c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo47
+DLF QGCSM4800000c QGCSM48c           DW USD MMB 170331 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo48
+DLF QGCSM4900000c QGCSM49c           DW USD MMB 170619 190118 LNG FOB USGC Cargo M2M Financial $/Mmbtu Mo49
+DLF QJKMF1700000c QJKMF17c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Jan 17
+DLF QJKMF1800000c QJKMF18c           DW USD MMB 170517 171115 LNG Japan/Korea M2M Financial $/Mmbtu Jan 18
+DLF QJKMF1900000c QJKMF19c           DW USD MMB 170517 181115 LNG Japan/Korea M2M Financial $/Mmbtu Jan 19
+DLF QJKMF2000000c QJKMF20c           DW USD MMB 170517 190118 LNG Japan/Korea M2M Financial $/Mmbtu Jan 20
+DLF QJKMF2100000c QJKMF21c           DW USD MMB 170517 190118 LNG Japan/Korea M2M Financial $/Mmbtu Jan 21
+DLF QJKMF2200000c QJKMF22c           DW USD MMB 171116 190118 LNG Japan/Korea M2M Financial $/Mmbtu Jan 22
+DLF QJKMF2300000c QJKMF23c           DW USD MMB 181116 190118 LNG Japan/Korea M2M Financial $/Mmbtu Jan 23
+DLF QJKMF2400000c QJKMF24c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Jan 24
+DLF QJKMF2500000c QJKMF25c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Jan 25
+DLF QJKMF2600000c QJKMF26c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Jan 26
+DLF QJKMF2700000c QJKMF27c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Jan 27
+DLF QJKMF2800000c QJKMF28c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Jan 28
+DLF QJKMF2900000c QJKMF29c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Jan 29
+DLF QJKMG1700000c QJKMG17c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Feb 17
+DLF QJKMG1800000c QJKMG18c           DW USD MMB 170517 171215 LNG Japan/Korea M2M Financial $/Mmbtu Feb 18
+DLF QJKMG1900000c QJKMG19c           DW USD MMB 170517 181214 LNG Japan/Korea M2M Financial $/Mmbtu Feb 19
+DLF QJKMG2000000c QJKMG20c           DW USD MMB 170517 190118 LNG Japan/Korea M2M Financial $/Mmbtu Feb 20
+DLF QJKMG2100000c QJKMG21c           DW USD MMB 170517 190118 LNG Japan/Korea M2M Financial $/Mmbtu Feb 21
+DLF QJKMG2200000c QJKMG22c           DW USD MMB 171218 190118 LNG Japan/Korea M2M Financial $/Mmbtu Feb 22
+DLF QJKMG2300000c QJKMG23c           DW USD MMB 181217 190118 LNG Japan/Korea M2M Financial $/Mmbtu Feb 23
+DLF QJKMG2400000c QJKMG24c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Feb 24
+DLF QJKMG2500000c QJKMG25c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Feb 25
+DLF QJKMG2600000c QJKMG26c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Feb 26
+DLF QJKMG2700000c QJKMG27c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Feb 27
+DLF QJKMG2800000c QJKMG28c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Feb 28
+DLF QJKMG2900000c QJKMG29c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Feb 29
+DLF QJKMH1700000c QJKMH17c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Mar 17
+DLF QJKMH1800000c QJKMH18c           DW USD MMB 170517 180115 LNG Japan/Korea M2M Financial $/Mmbtu Mar 18
+DLF QJKMH1900000c QJKMH19c           DW USD MMB 170517 190115 LNG Japan/Korea M2M Financial $/Mmbtu Mar 19
+DLF QJKMH2000000c QJKMH20c           DW USD MMB 170517 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mar 20
+DLF QJKMH2100000c QJKMH21c           DW USD MMB 170517 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mar 21
+DLF QJKMH2200000c QJKMH22c           DW USD MMB 180116 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mar 22
+DLF QJKMH2300000c QJKMH23c           DW USD MMB 190116 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mar 23
+DLF QJKMH2400000c QJKMH24c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Mar 24
+DLF QJKMH2500000c QJKMH25c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Mar 25
+DLF QJKMH2600000c QJKMH26c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Mar 26
+DLF QJKMH2700000c QJKMH27c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Mar 27
+DLF QJKMH2800000c QJKMH28c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Mar 28
+DLF QJKMH2900000c QJKMH29c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Mar 29
+DLF QJKMJ1700000c QJKMJ17c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Apr 17
+DLF QJKMJ1800000c QJKMJ18c           DW USD MMB 170517 180215 LNG Japan/Korea M2M Financial $/Mmbtu Apr 18
+DLF QJKMJ1900000c QJKMJ19c           DW USD MMB 170517 190118 LNG Japan/Korea M2M Financial $/Mmbtu Apr 19
+DLF QJKMJ2000000c QJKMJ20c           DW USD MMB 170517 190118 LNG Japan/Korea M2M Financial $/Mmbtu Apr 20
+DLF QJKMJ2100000c QJKMJ21c           DW USD MMB 170517 190118 LNG Japan/Korea M2M Financial $/Mmbtu Apr 21
+DLF QJKMJ2200000c QJKMJ22c           DW USD MMB 180219 190118 LNG Japan/Korea M2M Financial $/Mmbtu Apr 22
+DLF QJKMJ2300000c QJKMJ23c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Apr 23
+DLF QJKMJ2400000c QJKMJ24c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Apr 24
+DLF QJKMJ2500000c QJKMJ25c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Apr 25
+DLF QJKMJ2600000c QJKMJ26c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Apr 26
+DLF QJKMJ2700000c QJKMJ27c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Apr 27
+DLF QJKMJ2800000c QJKMJ28c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Apr 28
+DLF QJKMJ2900000c QJKMJ29c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Apr 29
+DLF QJKMK1700000c QJKMK17c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu May 17
+DLF QJKMK1800000c QJKMK18c           DW USD MMB 170517 180315 LNG Japan/Korea M2M Financial $/Mmbtu May 18
+DLF QJKMK1900000c QJKMK19c           DW USD MMB 170517 190118 LNG Japan/Korea M2M Financial $/Mmbtu May 19
+DLF QJKMK2000000c QJKMK20c           DW USD MMB 170517 190118 LNG Japan/Korea M2M Financial $/Mmbtu May 20
+DLF QJKMK2100000c QJKMK21c           DW USD MMB 170517 190118 LNG Japan/Korea M2M Financial $/Mmbtu May 21
+DLF QJKMK2200000c QJKMK22c           DW USD MMB 180316 190118 LNG Japan/Korea M2M Financial $/Mmbtu May 22
+DLF QJKMK2300000c QJKMK23c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu May 23
+DLF QJKMK2400000c QJKMK24c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu May 24
+DLF QJKMK2500000c QJKMK25c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu May 25
+DLF QJKMK2600000c QJKMK26c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu May 26
+DLF QJKMK2700000c QJKMK27c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu May 27
+DLF QJKMK2800000c QJKMK28c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu May 28
+DLF QJKMK2900000c QJKMK29c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu May 29
+DLF QJKMM1700000c QJKMM17c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Jun 17
+DLF QJKMM1800000c QJKMM18c           DW USD MMB 170517 180413 LNG Japan/Korea M2M Financial $/Mmbtu Jun 18
+DLF QJKMM1900000c QJKMM19c           DW USD MMB 170517 190118 LNG Japan/Korea M2M Financial $/Mmbtu Jun 19
+DLF QJKMM2000000c QJKMM20c           DW USD MMB 170517 190118 LNG Japan/Korea M2M Financial $/Mmbtu Jun 20
+DLF QJKMM2100000c QJKMM21c           DW USD MMB 170517 190118 LNG Japan/Korea M2M Financial $/Mmbtu Jun 21
+DLF QJKMM2200000c QJKMM22c           DW USD MMB 180416 190118 LNG Japan/Korea M2M Financial $/Mmbtu Jun 22
+DLF QJKMM2300000c QJKMM23c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Jun 23
+DLF QJKMM2400000c QJKMM24c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Jun 24
+DLF QJKMM2500000c QJKMM25c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Jun 25
+DLF QJKMM2600000c QJKMM26c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Jun 26
+DLF QJKMM2700000c QJKMM27c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Jun 27
+DLF QJKMM2800000c QJKMM28c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Jun 28
+DLF QJKMM2900000c QJKMM29c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Jun 29
+DLF QJKMN1700000c QJKMN17c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Jul 17
+DLF QJKMN1800000c QJKMN18c           DW USD MMB 170517 180515 LNG Japan/Korea M2M Financial $/Mmbtu Jul 18
+DLF QJKMN1900000c QJKMN19c           DW USD MMB 170517 190118 LNG Japan/Korea M2M Financial $/Mmbtu Jul 19
+DLF QJKMN2000000c QJKMN20c           DW USD MMB 170517 190118 LNG Japan/Korea M2M Financial $/Mmbtu Jul 20
+DLF QJKMN2100000c QJKMN21c           DW USD MMB 170517 190118 LNG Japan/Korea M2M Financial $/Mmbtu Jul 21
+DLF QJKMN2200000c QJKMN22c           DW USD MMB 180516 190118 LNG Japan/Korea M2M Financial $/Mmbtu Jul 22
+DLF QJKMN2300000c QJKMN23c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Jul 23
+DLF QJKMN2400000c QJKMN24c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Jul 24
+DLF QJKMN2500000c QJKMN25c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Jul 25
+DLF QJKMN2600000c QJKMN26c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Jul 26
+DLF QJKMN2700000c QJKMN27c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Jul 27
+DLF QJKMN2800000c QJKMN28c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Jul 28
+DLF QJKMN2900000c QJKMN29c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Jul 29
+DLF QJKMO0400000c QJKMO04c           DW USD MMB 160531 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo04
+DLF QJKMO0500000c QJKMO05c           DW USD MMB 170124 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo05
+DLF QJKMO0600000c QJKMO06c           DW USD MMB 170124 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo06
+DLF QJKMO0700000c QJKMO07c           DW USD MMB 170124 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo07
+DLF QJKMO0800000c QJKMO08c           DW USD MMB 170124 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo08
+DLF QJKMO0900000c QJKMO09c           DW USD MMB 170124 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo09
+DLF QJKMO1000000c QJKMO10c           DW USD MMB 170124 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo10
+DLF QJKMO1100000c QJKMO11c           DW USD MMB 170124 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo11
+DLF QJKMO1200000c QJKMO12c           DW USD MMB 170124 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo12
+DLF QJKMO1300000c QJKMO13c           DW USD MMB 170124 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo13
+DLF QJKMO1400000c QJKMO14c           DW USD MMB 170124 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo14
+DLF QJKMO1500000c QJKMO15c           DW USD MMB 170124 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo15
+DLF QJKMO1600000c QJKMO16c           DW USD MMB 170124 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo16
+DLF QJKMO1700000c QJKMO17c           DW USD MMB 170124 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo17
+DLF QJKMO1800000c QJKMO18c           DW USD MMB 170124 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo18
+DLF QJKMO1900000c QJKMO19c           DW USD MMB 170124 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo19
+DLF QJKMO2000000c QJKMO20c           DW USD MMB 170124 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo20
+DLF QJKMO2100000c QJKMO21c           DW USD MMB 170124 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo21
+DLF QJKMO2200000c QJKMO22c           DW USD MMB 170124 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo22
+DLF QJKMO2300000c QJKMO23c           DW USD MMB 170124 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo23
+DLF QJKMO2400000c QJKMO24c           DW USD MMB 170124 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo24
+DLF QJKMO2500000c QJKMO25c           DW USD MMB 170321 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo25
+DLF QJKMO2600000c QJKMO26c           DW USD MMB 170321 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo26
+DLF QJKMO2700000c QJKMO27c           DW USD MMB 170321 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo27
+DLF QJKMO2800000c QJKMO28c           DW USD MMB 170321 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo28
+DLF QJKMO2900000c QJKMO29c           DW USD MMB 170321 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo29
+DLF QJKMO3000000c QJKMO30c           DW USD MMB 170321 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo30
+DLF QJKMO3100000c QJKMO31c           DW USD MMB 170321 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo31
+DLF QJKMO3200000c QJKMO32c           DW USD MMB 170321 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo32
+DLF QJKMO3300000c QJKMO33c           DW USD MMB 170321 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo33
+DLF QJKMO3400000c QJKMO34c           DW USD MMB 170321 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo34
+DLF QJKMO3500000c QJKMO35c           DW USD MMB 170321 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo35
+DLF QJKMO3600000c QJKMO36c           DW USD MMB 170321 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo36
+DLF QJKMO3700000c QJKMO37c           DW USD MMB 170321 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo37
+DLF QJKMO3800000c QJKMO38c           DW USD MMB 170321 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo38
+DLF QJKMO3900000c QJKMO39c           DW USD MMB 170321 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo39
+DLF QJKMO4000000c QJKMO40c           DW USD MMB 170321 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo40
+DLF QJKMO4100000c QJKMO41c           DW USD MMB 170321 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo41
+DLF QJKMO4200000c QJKMO42c           DW USD MMB 170321 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo42
+DLF QJKMO4300000c QJKMO43c           DW USD MMB 170321 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo43
+DLF QJKMO4400000c QJKMO44c           DW USD MMB 170321 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo44
+DLF QJKMO4500000c QJKMO45c           DW USD MMB 170321 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo45
+DLF QJKMO4600000c QJKMO46c           DW USD MMB 170321 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo46
+DLF QJKMO4700000c QJKMO47c           DW USD MMB 170321 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo47
+DLF QJKMO4800000c QJKMO48c           DW USD MMB 170321 190118 LNG Japan/Korea M2M Financial $/Mmbtu Mo48
+DLF QJKMQ1700000c QJKMQ17c           DW USD MMB 170517 170615 LNG Japan/Korea M2M Financial $/Mmbtu Aug 17
+DLF QJKMQ1800000c QJKMQ18c           DW USD MMB 170517 180614 LNG Japan/Korea M2M Financial $/Mmbtu Aug 18
+DLF QJKMQ1900000c QJKMQ19c           DW USD MMB 170517 190118 LNG Japan/Korea M2M Financial $/Mmbtu Aug 19
+DLF QJKMQ2000000c QJKMQ20c           DW USD MMB 170517 190118 LNG Japan/Korea M2M Financial $/Mmbtu Aug 20
+DLF QJKMQ2100000c QJKMQ21c           DW USD MMB 170616 190118 LNG Japan/Korea M2M Financial $/Mmbtu Aug 21
+DLF QJKMQ2200000c QJKMQ22c           DW USD MMB 180618 190118 LNG Japan/Korea M2M Financial $/Mmbtu Aug 22
+DLF QJKMQ2300000c QJKMQ23c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Aug 23
+DLF QJKMQ2400000c QJKMQ24c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Aug 24
+DLF QJKMQ2500000c QJKMQ25c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Aug 25
+DLF QJKMQ2600000c QJKMQ26c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Aug 26
+DLF QJKMQ2700000c QJKMQ27c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Aug 27
+DLF QJKMQ2800000c QJKMQ28c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Aug 28
+DLF QJKMQ2900000c QJKMQ29c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Aug 29
+DLF QJKMU1700000c QJKMU17c           DW USD MMB 170517 170714 LNG Japan/Korea M2M Financial $/Mmbtu Sep 17
+DLF QJKMU1800000c QJKMU18c           DW USD MMB 170517 180713 LNG Japan/Korea M2M Financial $/Mmbtu Sep 18
+DLF QJKMU1900000c QJKMU19c           DW USD MMB 170517 190118 LNG Japan/Korea M2M Financial $/Mmbtu Sep 19
+DLF QJKMU2000000c QJKMU20c           DW USD MMB 170517 190118 LNG Japan/Korea M2M Financial $/Mmbtu Sep 20
+DLF QJKMU2100000c QJKMU21c           DW USD MMB 170717 190118 LNG Japan/Korea M2M Financial $/Mmbtu Sep 21
+DLF QJKMU2200000c QJKMU22c           DW USD MMB 180716 190118 LNG Japan/Korea M2M Financial $/Mmbtu Sep 22
+DLF QJKMU2300000c QJKMU23c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Sep 23
+DLF QJKMU2400000c QJKMU24c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Sep 24
+DLF QJKMU2500000c QJKMU25c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Sep 25
+DLF QJKMU2600000c QJKMU26c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Sep 26
+DLF QJKMU2700000c QJKMU27c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Sep 27
+DLF QJKMU2800000c QJKMU28c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Sep 28
+DLF QJKMU2900000c QJKMU29c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Sep 29
+DLF QJKMV1700000c QJKMV17c           DW USD MMB 170517 170815 LNG Japan/Korea M2M Financial $/Mmbtu Oct 17
+DLF QJKMV1800000c QJKMV18c           DW USD MMB 170517 180815 LNG Japan/Korea M2M Financial $/Mmbtu Oct 18
+DLF QJKMV1900000c QJKMV19c           DW USD MMB 170517 190118 LNG Japan/Korea M2M Financial $/Mmbtu Oct 19
+DLF QJKMV2000000c QJKMV20c           DW USD MMB 170517 190118 LNG Japan/Korea M2M Financial $/Mmbtu Oct 20
+DLF QJKMV2100000c QJKMV21c           DW USD MMB 170816 190118 LNG Japan/Korea M2M Financial $/Mmbtu Oct 21
+DLF QJKMV2200000c QJKMV22c           DW USD MMB 180816 190118 LNG Japan/Korea M2M Financial $/Mmbtu Oct 22
+DLF QJKMV2300000c QJKMV23c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Oct 23
+DLF QJKMV2400000c QJKMV24c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Oct 24
+DLF QJKMV2500000c QJKMV25c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Oct 25
+DLF QJKMV2600000c QJKMV26c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Oct 26
+DLF QJKMV2700000c QJKMV27c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Oct 27
+DLF QJKMV2800000c QJKMV28c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Oct 28
+DLF QJKMV2900000c QJKMV29c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Oct 29
+DLF QJKMX1700000c QJKMX17c           DW USD MMB 170517 170915 LNG Japan/Korea M2M Financial $/Mmbtu Nov 17
+DLF QJKMX1800000c QJKMX18c           DW USD MMB 170517 180914 LNG Japan/Korea M2M Financial $/Mmbtu Nov 18
+DLF QJKMX1900000c QJKMX19c           DW USD MMB 170517 190118 LNG Japan/Korea M2M Financial $/Mmbtu Nov 19
+DLF QJKMX2000000c QJKMX20c           DW USD MMB 170517 190118 LNG Japan/Korea M2M Financial $/Mmbtu Nov 20
+DLF QJKMX2100000c QJKMX21c           DW USD MMB 170918 190118 LNG Japan/Korea M2M Financial $/Mmbtu Nov 21
+DLF QJKMX2200000c QJKMX22c           DW USD MMB 180917 190118 LNG Japan/Korea M2M Financial $/Mmbtu Nov 22
+DLF QJKMX2300000c QJKMX23c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Nov 23
+DLF QJKMX2400000c QJKMX24c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Nov 24
+DLF QJKMX2500000c QJKMX25c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Nov 25
+DLF QJKMX2600000c QJKMX26c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Nov 26
+DLF QJKMX2700000c QJKMX27c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Nov 27
+DLF QJKMX2800000c QJKMX28c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Nov 28
+DLF QJKMX2900000c QJKMX29c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Nov 29
+DLF QJKMZ1700000c QJKMZ17c           DW USD MMB 170517 171013 LNG Japan/Korea M2M Financial $/Mmbtu Dec 17
+DLF QJKMZ1800000c QJKMZ18c           DW USD MMB 170517 181015 LNG Japan/Korea M2M Financial $/Mmbtu Dec 18
+DLF QJKMZ1900000c QJKMZ19c           DW USD MMB 170517 190118 LNG Japan/Korea M2M Financial $/Mmbtu Dec 19
+DLF QJKMZ2000000c QJKMZ20c           DW USD MMB 170517 190118 LNG Japan/Korea M2M Financial $/Mmbtu Dec 20
+DLF QJKMZ2100000c QJKMZ21c           DW USD MMB 171016 190118 LNG Japan/Korea M2M Financial $/Mmbtu Dec 21
+DLF QJKMZ2200000c QJKMZ22c           DW USD MMB 181016 190118 LNG Japan/Korea M2M Financial $/Mmbtu Dec 22
+DLF QJKMZ2300000c QJKMZ23c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Dec 23
+DLF QJKMZ2400000c QJKMZ24c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Dec 24
+DLF QJKMZ2500000c QJKMZ25c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Dec 25
+DLF QJKMZ2600000c QJKMZ26c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Dec 26
+DLF QJKMZ2700000c QJKMZ27c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Dec 27
+DLF QJKMZ2800000c QJKMZ28c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Dec 28
+DLF QJKMZ2900000c QJKMZ29c           DW USD MMB               LNG Japan/Korea M2M Financial $/Mmbtu Dec 29

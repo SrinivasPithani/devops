@@ -1,0 +1,183 @@
+LG                                                           © 2019 by S&P Global Inc.,190119
+LG AAIVD0000000c AAIVD00c           DW USC GAL 020311 190118 Isobutane LST FOB Mt Belvieu pipe
+LG AAIVD0000000h AAIVD00h           DW USC GAL 020311 190118 Isobutane LST FOB Mt Belvieu pipe
+LG AAIVD0000000l AAIVD00l           DW USC GAL 020311 190118 Isobutane LST FOB Mt Belvieu pipe
+LG AAIVE0000000c AAIVE00c           MA USC GAL 020301 181201 Isobutane LST FOB Mt Belvieu pipe MAvg
+LG AAIVE0000000h AAIVE00h           MA USC GAL 020301 181201 Isobutane LST FOB Mt Belvieu pipe MAvg
+LG AAIVE0000000l AAIVE00l           MA USC GAL 020301 181201 Isobutane LST FOB Mt Belvieu pipe MAvg
+LG AAIVF0000000c AAIVF00c           DW USC GAL 020311 190118 Natural Gasoline LST FOB Mt Belvieu pipe
+LG AAIVF0000000h AAIVF00h           DW USC GAL 020311 190118 Natural Gasoline LST FOB Mt Belvieu pipe
+LG AAIVF0000000l AAIVF00l           DW USC GAL 020311 190118 Natural Gasoline LST FOB Mt Belvieu pipe
+LG AAIVG0000000c AAIVG00c           MA USC GAL 020301 181201 Natural Gasoline LST FOB Mt Belvieu pipe MAvg
+LG AAIVG0000000h AAIVG00h           MA USC GAL 020301 181201 Natural Gasoline LST FOB Mt Belvieu pipe MAvg
+LG AAIVG0000000l AAIVG00l           MA USC GAL 020301 181201 Natural Gasoline LST FOB Mt Belvieu pipe MAvg
+LG AALBC0000000c AALBC00c           DW USC GAL 030102 190118 Propane Hattiesburg
+LG AALBC0000000h AALBC00h           DW USC GAL 030102 190118 Propane Hattiesburg
+LG AALBC0000000l AALBC00l           DW USC GAL 030102 190118 Propane Hattiesburg
+LG AALBD0000000c AALBD00c           MA USC GAL 030101 181201 Propane Hattiesburg MAvg
+LG AALBD0000000h AALBD00h           MA USC GAL 030101 181201 Propane Hattiesburg MAvg
+LG AALBD0000000l AALBD00l           MA USC GAL 030101 181201 Propane Hattiesburg MAvg
+LG AALBE0000000c AALBE00c           DW USC GAL 030102 190118 Propane Bushton
+LG AALBE0000000h AALBE00h           DW USC GAL 030102 190118 Propane Bushton
+LG AALBE0000000l AALBE00l           DW USC GAL 030102 190118 Propane Bushton
+LG AALBF0000000c AALBF00c           MA USC GAL 030101 181201 Propane Bushton MAvg
+LG AALBF0000000h AALBF00h           MA USC GAL 030101 181201 Propane Bushton MAvg
+LG AALBF0000000l AALBF00l           MA USC GAL 030101 181201 Propane Bushton MAvg
+LG AALBG0000000c AALBG00c           DW USC GAL 030102 190118 Natural Gasoline The River
+LG AALBG0000000h AALBG00h           DW USC GAL 030102 190118 Natural Gasoline The River
+LG AALBG0000000l AALBG00l           DW USC GAL 030102 190118 Natural Gasoline The River
+LG AALBH0000000c AALBH00c           MA USC GAL 030101 181201 Natural Gasoline The River MAvg
+LG AALBH0000000h AALBH00h           MA USC GAL 030101 181201 Natural Gasoline The River MAvg
+LG AALBH0000000l AALBH00l           MA USC GAL 030101 181201 Natural Gasoline The River MAvg
+LG AAXIM0000000c AAXIM00c           DW USD MT  130701 190118 Propane FOB USGC
+LG AAXIM0000000h AAXIM00h           DW USD MT  130701 190118 Propane FOB USGC
+LG AAXIM0000000l AAXIM00l           DW USD MT  130701 190118 Propane FOB USGC
+LG AAXIM0300000c AAXIM03c           MA USD MT  130701 181201 Propane FOB USGC MAvg
+LG AAXIM0300000h AAXIM03h           MA USD MT  130701 181201 Propane FOB USGC MAvg
+LG AAXIM0300000l AAXIM03l           MA USD MT  130701 181201 Propane FOB USGC MAvg
+LG AAXIN0000000c AAXIN00c           DW USC GAL 130701 190118 Propane FOB USGC cts/gal
+LG AAXIN0000000h AAXIN00h           DW USC GAL 130701 190118 Propane FOB USGC cts/gal
+LG AAXIN0000000l AAXIN00l           DW USC GAL 130701 190118 Propane FOB USGC cts/gal
+LG AAXIN0300000c AAXIN03c           MA USC GAL 130701 181201 Propane FOB USGC cts/gal MAvg
+LG AAXIN0300000h AAXIN03h           MA USC GAL 130701 181201 Propane FOB USGC cts/gal MAvg
+LG AAXIN0300000l AAXIN03l           MA USC GAL 130701 181201 Propane FOB USGC cts/gal MAvg
+LG AAXIO0000000c AAXIO00c           DW USD MT  130701 190118 Propane FOB USGC vs Propane Mt Belvieu
+LG AAXIO0000000h AAXIO00h           DW USD MT  130701 190118 Propane FOB USGC vs Propane Mt Belvieu
+LG AAXIO0000000l AAXIO00l           DW USD MT  130701 190118 Propane FOB USGC vs Propane Mt Belvieu
+LG AAXIO0300000c AAXIO03c           MA USD MT  130701 181201 Propane FOB USGC vs Propane Mt Belvieu MAvg
+LG AAXIO0300000h AAXIO03h           MA USD MT  130701 181201 Propane FOB USGC vs Propane Mt Belvieu MAvg
+LG AAXIO0300000l AAXIO03l           MA USD MT  130701 181201 Propane FOB USGC vs Propane Mt Belvieu MAvg
+LG AAXIP0000000c AAXIP00c           DW USC GAL 130701 190118 Propane FOB USGC vs Propane Mt Belvieu cts/gal
+LG AAXIP0000000h AAXIP00h           DW USC GAL 130701 190118 Propane FOB USGC vs Propane Mt Belvieu cts/gal
+LG AAXIP0000000l AAXIP00l           DW USC GAL 130701 190118 Propane FOB USGC vs Propane Mt Belvieu cts/gal
+LG AAXIP0300000c AAXIP03c           MA USC GAL 130701 181201 Propane FOB USGC vs Propane Mt Belvieu cts/gal MAvg
+LG AAXIP0300000h AAXIP03h           MA USC GAL 130701 181201 Propane FOB USGC vs Propane Mt Belvieu cts/gal MAvg
+LG AAXIP0300000l AAXIP03l           MA USC GAL 130701 181201 Propane FOB USGC vs Propane Mt Belvieu cts/gal MAvg
+LG AAWUB0000000c AAWUB00c           DW USC GAL 120601 190118 E/P Mix non-LST Mt Belvieu pipe Mo02
+LG AAWUB0000000h AAWUB00h           DW USC GAL 120601 190118 E/P Mix non-LST Mt Belvieu pipe Mo02
+LG AAWUB0000000l AAWUB00l           DW USC GAL 120601 190118 E/P Mix non-LST Mt Belvieu pipe Mo02
+LG AAWUB0300000c AAWUB03c           MA USC GAL 120601 181201 E/P Mix non-LST Mt Belvieu pipe Mo02 MAvg
+LG AAWUB0300000h AAWUB03h           MA USC GAL 120601 181201 E/P Mix non-LST Mt Belvieu pipe Mo02 MAvg
+LG AAWUB0300000l AAWUB03l           MA USC GAL 120601 181201 E/P Mix non-LST Mt Belvieu pipe Mo02 MAvg
+LG AAWUC0000000c AAWUC00c           DW USD GAL 120601 190118 Purity Ethane non-LST Mt Belvieu pipe Mo02
+LG AAWUC0000000h AAWUC00h           DW USD GAL 120601 190118 Purity Ethane non-LST Mt Belvieu pipe Mo02
+LG AAWUC0000000l AAWUC00l           DW USD GAL 120601 190118 Purity Ethane non-LST Mt Belvieu pipe Mo02
+LG AAWUC0300000c AAWUC03c           MA USD GAL 120601 181201 Purity Ethane non-LST Mt Belvieu pipe Mo02 MAvg
+LG AAWUC0300000h AAWUC03h           MA USD GAL 120601 181201 Purity Ethane non-LST Mt Belvieu pipe Mo02 MAvg
+LG AAWUC0300000l AAWUC03l           MA USD GAL 120601 181201 Purity Ethane non-LST Mt Belvieu pipe Mo02 MAvg
+LG AAWUD0000000c AAWUD00c           DW USC GAL 120601 190118 Propane non-LST Mt Belvieu pipe Mo02
+LG AAWUD0000000h AAWUD00h           DW USC GAL 120601 190118 Propane non-LST Mt Belvieu pipe Mo02
+LG AAWUD0000000l AAWUD00l           DW USC GAL 120601 190118 Propane non-LST Mt Belvieu pipe Mo02
+LG AAWUD0300000c AAWUD03c           MA USC GAL 120601 181201 Propane non-LST Mt Belvieu pipe Mo02 MAvg
+LG AAWUD0300000h AAWUD03h           MA USC GAL 120601 181201 Propane non-LST Mt Belvieu pipe Mo02 MAvg
+LG AAWUD0300000l AAWUD03l           MA USC GAL 120601 181201 Propane non-LST Mt Belvieu pipe Mo02 MAvg
+LG AAWUE0000000c AAWUE00c           DW USC GAL 120601 190118 Propane LST Mt Belvieu pipe Mo02
+LG AAWUE0000000h AAWUE00h           DW USC GAL 120601 190118 Propane LST Mt Belvieu pipe Mo02
+LG AAWUE0000000l AAWUE00l           DW USC GAL 120601 190118 Propane LST Mt Belvieu pipe Mo02
+LG AAWUE0300000c AAWUE03c           MA USC GAL 120601 181201 Propane LST Mt Belvieu pipe Mo02 MAvg
+LG AAWUE0300000h AAWUE03h           MA USC GAL 120601 181201 Propane LST Mt Belvieu pipe Mo02 MAvg
+LG AAWUE0300000l AAWUE03l           MA USC GAL 120601 181201 Propane LST Mt Belvieu pipe Mo02 MAvg
+LG AAWUF0000000c AAWUF00c           DW USC GAL 120601 190118 Butane non-LST Mt Belvieu pipe Mo02
+LG AAWUF0000000h AAWUF00h           DW USC GAL 120601 190118 Butane non-LST Mt Belvieu pipe Mo02
+LG AAWUF0000000l AAWUF00l           DW USC GAL 120601 190118 Butane non-LST Mt Belvieu pipe Mo02
+LG AAWUF0300000c AAWUF03c           MA USC GAL 120601 181201 Butane non-LST Mt Belvieu pipe Mo02 MAvg
+LG AAWUF0300000h AAWUF03h           MA USC GAL 120601 181201 Butane non-LST Mt Belvieu pipe Mo02 MAvg
+LG AAWUF0300000l AAWUF03l           MA USC GAL 120601 181201 Butane non-LST Mt Belvieu pipe Mo02 MAvg
+LG AAWUG0000000c AAWUG00c           DW USC GAL 120601 190118 Natural Gasoline non-LST non-Targa Mt Belvieu pipe Mo02
+LG AAWUG0000000h AAWUG00h           DW USC GAL 120601 190118 Natural Gasoline non-LST non-Targa Mt Belvieu pipe Mo02
+LG AAWUG0000000l AAWUG00l           DW USC GAL 120601 190118 Natural Gasoline non-LST non-Targa Mt Belvieu pipe Mo02
+LG AAWUG0300000c AAWUG03c           MA USC GAL 120601 181201 Natural Gasoline non-LST non-Targa Mt Belvieu pipe Mo02 MAvg
+LG AAWUG0300000h AAWUG03h           MA USC GAL 120601 181201 Natural Gasoline non-LST non-Targa Mt Belvieu pipe Mo02 MAvg
+LG AAWUG0300000l AAWUG03l           MA USC GAL 120601 181201 Natural Gasoline non-LST non-Targa Mt Belvieu pipe Mo02 MAvg
+LG AAXDC0000000c AAXDC00c           DW USD MT  130301 190118 Butane non-LST Mt Belvieu pipe $/mt Mo01
+LG AAXDC0000000h AAXDC00h           DW USD MT  130301 190118 Butane non-LST Mt Belvieu pipe $/mt Mo01
+LG AAXDC0000000l AAXDC00l           DW USD MT  130301 190118 Butane non-LST Mt Belvieu pipe $/mt Mo01
+LG AAXDC0300000c AAXDC03c           MA USD MT  130301 181201 Butane non-LST Mt Belvieu pipe $/mt Mo01 MAvg
+LG AAXDC0300000h AAXDC03h           MA USD MT  130301 181201 Butane non-LST Mt Belvieu pipe $/mt Mo01 MAvg
+LG AAXDC0300000l AAXDC03l           MA USD MT  130301 181201 Butane non-LST Mt Belvieu pipe $/mt Mo01 MAvg
+LG AAXDD0000000c AAXDD00c           DW USD MT  130301 190118 Propane non-LST Mt Belvieu pipe $/mt Mo01
+LG AAXDD0000000h AAXDD00h           DW USD MT  130301 190118 Propane non-LST Mt Belvieu pipe $/mt Mo01
+LG AAXDD0000000l AAXDD00l           DW USD MT  130301 190118 Propane non-LST Mt Belvieu pipe $/mt Mo01
+LG AAXDD0300000c AAXDD03c           MA USD MT  130301 181201 Propane non-LST Mt Belvieu pipe $/mt Mo01 MAvg
+LG AAXDD0300000h AAXDD03h           MA USD MT  130301 181201 Propane non-LST Mt Belvieu pipe $/mt Mo01 MAvg
+LG AAXDD0300000l AAXDD03l           MA USD MT  130301 181201 Propane non-LST Mt Belvieu pipe $/mt Mo01 MAvg
+LG BLSAA0000000c BLSAA00c           DW USD MT  181109 190118 Propane CFR Santos Cargo $/mt
+LG BLSAA0300000c BLSAA03c           MA USD MT  181101 181201 Propane CFR Santos Cargo $/mt MAvg
+LG BLSAB0000000c BLSAB00c           DW BRL KG  181109 190118 Propane CFR Santos Cargo BRL/Kg
+LG BLSAB0300000c BLSAB03c           MA BRL KG  181101 181201 Propane CFR Santos Cargo BRL/Kg MAvg
+LG BLSAC0000000c BLSAC00c           DW USD MT  181105 190118 LPG Santos Import Parity Price $/mt
+LG BLSAC0300000c BLSAC03c           MA USD MT  181101 181201 LPG Santos Import Parity Price $/mt MAvg
+LG BLSAC0400000c BLSAC04c           WA USD MT  181116 190118 LPG Santos Import Parity Price $/mt WAvg
+LG BLSAD0000000c BLSAD00c           DW BRL KG  181105 190118 LPG Santos Import Parity Price BRL/Kg
+LG BLSAD0300000c BLSAD03c           MA BRL KG  181101 181201 LPG Santos Import Parity Price BRL/Kg MAvg
+LG BLSAD0400000c BLSAD04c           WA BRL KG  181116 190118 LPG Santos Import Parity Price BRL/Kg WAvg
+LG BLSUA0000000c BLSUA00c           DW USD MT  181109 190118 Propane CFR Suape Cargo $/mt
+LG BLSUA0300000c BLSUA03c           MA USD MT  181101 181201 Propane CFR Suape Cargo $/mt MAvg
+LG BLSUB0000000c BLSUB00c           DW BRL KG  181109 190118 Propane CFR Suape Cargo BRL/Kg
+LG BLSUB0300000c BLSUB03c           MA BRL KG  181101 181201 Propane CFR Suape Cargo BRL/Kg MAvg
+LG BLSUC0000000c BLSUC00c           DW USD MT  181105 190118 LPG Suape Import Parity Price $/mt
+LG BLSUC0300000c BLSUC03c           MA USD MT  181101 181201 LPG Suape Import Parity Price $/mt MAvg
+LG BLSUC0400000c BLSUC04c           WA USD MT  181116 190118 LPG Suape Import Parity Price $/mt WAvg
+LG BLSUD0000000c BLSUD00c           DW BRL KG  181105 190118 LPG Suape Import Parity Price BRL/Kg
+LG BLSUD0300000c BLSUD03c           MA BRL KG  181101 181201 LPG Suape Import Parity Price BRL/Kg MAvg
+LG BLSUD0400000c BLSUD04c           WA BRL KG  181116 190118 LPG Suape Import Parity Price BRL/Kg WAvg
+LG GDCBU0000000c GDCBU00c           DW USD MMB 130514 190118 Purity Ethane non-LST Mt Belvieu Pipe Mo01 $/MMBtu
+LG GDCBU0000000h GDCBU00h           DW USD MMB 130514 190118 Purity Ethane non-LST Mt Belvieu Pipe Mo01 $/MMBtu
+LG GDCBU0000000l GDCBU00l           DW USD MMB 130514 190118 Purity Ethane non-LST Mt Belvieu Pipe Mo01 $/MMBtu
+LG GDCBV0000000c GDCBV00c           DW USD MMB 130514 190118 Propane non-LST Mt Belvieu Pipe Mo01 $/MMBtu
+LG GDCBV0000000h GDCBV00h           DW USD MMB 130514 190118 Propane non-LST Mt Belvieu Pipe Mo01 $/MMBtu
+LG GDCBV0000000l GDCBV00l           DW USD MMB 130514 190118 Propane non-LST Mt Belvieu Pipe Mo01 $/MMBtu
+LG PRPEMEMTBAABc PMUDA03c           MA USC GAL 960901 181201 E/P Mix non-LST Mt Belvieu pipe Mo01 MAvg
+LG PRPEMEMTBAABh PMUDA03h           MA USC GAL 960901 181201 E/P Mix non-LST Mt Belvieu pipe Mo01 MAvg
+LG PRPEMEMTBAABl PMUDA03l           MA USC GAL 960901 181201 E/P Mix non-LST Mt Belvieu pipe Mo01 MAvg
+LG PRPEMEMTBAAAc PMUDA05c           DW USC GAL 960903 190118 E/P Mix non-LST Mt Belvieu pipe Mo01
+LG PRPEMEMTBAAAh PMUDA05h           DW USC GAL 960903 190118 E/P Mix non-LST Mt Belvieu pipe Mo01
+LG PRPEMEMTBAAAl PMUDA05l           DW USC GAL 960903 190118 E/P Mix non-LST Mt Belvieu pipe Mo01
+LG PRPPUEMTBAAAc PMUDB05c           DW USC GAL 960903 190118 Purity Ethane non-LST Mt Belvieu pipe Mo01
+LG PRPPUEMTBAAAh PMUDB05h           DW USC GAL 960903 190118 Purity Ethane non-LST Mt Belvieu pipe Mo01
+LG PRPPUEMTBAAAl PMUDB05l           DW USC GAL 960903 190118 Purity Ethane non-LST Mt Belvieu pipe Mo01
+LG PRPPUEMTBAABc PMUDG03c           MA USC GAL 960901 181201 Purity Ethane non-LST Mt Belvieu pipe Mo01 MAvg
+LG PRPPUEMTBAABh PMUDG03h           MA USC GAL 960901 181201 Purity Ethane non-LST Mt Belvieu pipe Mo01 MAvg
+LG PRPPUEMTBAABl PMUDG03l           MA USC GAL 960901 181201 Purity Ethane non-LST Mt Belvieu pipe Mo01 MAvg
+LG PRPISOCWYBFRc PMAAA00c           DW USC GAL 830701 190118 Isobutane Conway pipeline
+LG PRPISOCWYBFRh PMAAA00h PPBICWSCH DW USC GAL 830701 190118 Isobutane Conway pipeline
+LG PRPISOCWYBFRl PMAAA00l PPBICWSCL DW USC GAL 830701 190118 Isobutane Conway pipeline
+LG PRPISOMTBBFTc PMAAB00c           DW USC GAL 830701 190118 Isobutane non-LST Mt Belvieu pipe
+LG PRPISOMTBBFTh PMAAB00h           DW USC GAL 830701 190118 Isobutane non-LST Mt Belvieu pipe
+LG PRPISOMTBBFTl PMAAB00l           DW USC GAL 830701 190118 Isobutane non-LST Mt Belvieu pipe
+LG PRPBTNCWYBHGc PMAAD00c           DW USC GAL 830701 190118 Butane Conway pipeline
+LG PRPBTNCWYBHGh PMAAD00h           DW USC GAL 830701 190118 Butane Conway pipeline
+LG PRPBTNCWYBHGl PMAAD00l           DW USC GAL 830701 190118 Butane Conway pipeline
+LG PRPBTNMTBBHOc PMAAI00c           DW USC GAL 830701 190118 Butane non-LST Mt Belvieu pipe Mo01
+LG PRPBTNMTBBHOh PMAAI00h           DW USC GAL 830701 190118 Butane non-LST Mt Belvieu pipe Mo01
+LG PRPBTNMTBBHOl PMAAI00l           DW USC GAL 830701 190118 Butane non-LST Mt Belvieu pipe Mo01
+LG PRPETNCWYBQCc PMAAO00c           DW USC GAL 830701 190118 E/P Mix Conway pipeline
+LG PRPETNCWYBQCh PMAAO00h           DW USC GAL 830701 190118 E/P Mix Conway pipeline
+LG PRPETNCWYBQCl PMAAO00l           DW USC GAL 830701 190118 E/P Mix Conway pipeline
+LG PRPNGSCWYCFEc PMAAQ00c           DW USC GAL 830701 190118 Natural Gasoline Conway pipeline
+LG PRPNGSCWYCFEh PMAAQ00h           DW USC GAL 830701 190118 Natural Gasoline Conway pipeline
+LG PRPNGSCWYCFEl PMAAQ00l           DW USC GAL 830701 190118 Natural Gasoline Conway pipeline
+LG PRPPN$CWYCUSc PMAAT00c           DW USC GAL 830701 190118 Propane Conway pipeline
+LG PRPPN$CWYCUSh PMAAT00h           DW USC GAL 830701 190118 Propane Conway pipeline
+LG PRPPN$CWYCUSl PMAAT00l           DW USC GAL 830701 190118 Propane Conway pipeline
+LG PRPPN$MTBCVAc PMAAY00c           DW USC GAL 830701 190118 Propane non-LST Mt Belvieu pipe Mo01
+LG PRPPN$MTBCVAh PMAAY00h           DW USC GAL 830701 190118 Propane non-LST Mt Belvieu pipe Mo01
+LG PRPPN$MTBCVAl PMAAY00l           DW USC GAL 830701 190118 Propane non-LST Mt Belvieu pipe Mo01
+LG PRPPN$MBTDBAc PMABQ00c           DW USC GAL 951201 190118 Propane LST Mt Belvieu pipe Mo01
+LG PRPPN$MBTDBAh PMABQ00h           DW USC GAL 951201 190118 Propane LST Mt Belvieu pipe Mo01
+LG PRPPN$MBTDBAl PMABQ00l           DW USC GAL 951201 190118 Propane LST Mt Belvieu pipe Mo01
+LG PRPBTNMBTDAOc PMABR00c           DW USC GAL 951201 190118 Butane LST Mt Belvieu pipe
+LG PRPBTNMBTDAOh PMABR00h           DW USC GAL 951201 190118 Butane LST Mt Belvieu pipe
+LG PRPBTNMBTDAOl PMABR00l           DW USC GAL 951201 190118 Butane LST Mt Belvieu pipe
+LG PRPNGSMBWAAAc PMABW05c           DW USC GAL 960903 190118 Natural Gasoline non-LST Targa Mt Belvieu pipe
+LG PRPNGSMBWAAAh PMABW05h           DW USC GAL 960903 190118 Natural Gasoline non-LST Targa Mt Belvieu pipe
+LG PRPNGSMBWAAAl PMABW05l           DW USC GAL 960903 190118 Natural Gasoline non-LST Targa Mt Belvieu pipe
+LG PRPNGSMBWAABc PMABX03c           MA USC GAL 960901 181201 Natural Gasoline non-LST Targa Mt Belvieu pipe MAvg
+LG PRPNGSMBWAABh PMABX03h           MA USC GAL 960901 181201 Natural Gasoline non-LST Targa Mt Belvieu pipe MAvg
+LG PRPNGSMBWAABl PMABX03l           MA USC GAL 960901 181201 Natural Gasoline non-LST Targa Mt Belvieu pipe MAvg
+LG PRPNGSMBEAAAc PMABY05c           DW USC GAL 960903 190118 Natural Gasoline non-LST non-Targa Mt Belvieu pipe Mo01
+LG PRPNGSMBEAAAh PMABY05h           DW USC GAL 960903 190118 Natural Gasoline non-LST non-Targa Mt Belvieu pipe Mo01
+LG PRPNGSMBEAAAl PMABY05l           DW USC GAL 960903 190118 Natural Gasoline non-LST non-Targa Mt Belvieu pipe Mo01
+LG PRPNGSMBEAABc PMABZ03c           MA USC GAL 960901 181201 Natural Gasoline non-LST non-Targa Mt Belvieu pipe Mo01 MAvg
+LG PRPNGSMBEAABh PMABZ03h           MA USC GAL 960901 181201 Natural Gasoline non-LST non-Targa Mt Belvieu pipe Mo01 MAvg
+LG PRPNGSMBEAABl PMABZ03l           MA USC GAL 960901 181201 Natural Gasoline non-LST non-Targa Mt Belvieu pipe Mo01 MAvg

@@ -1,0 +1,157 @@
+EJ                                                           © 2019 by S&P Global Inc.,190119
+EJ EDNOX1700000a EDNOX17a           WA USD ALW               US Emissions NOx 2017 $/Allowance Wkly
+EJ EDNOX1700000b EDNOX17b           WA USD ALW               US Emissions NOx 2017 $/Allowance Wkly
+EJ EDNOX1700000u EDNOX17u           WA USD ALW               US Emissions NOx 2017 $/Allowance Wkly
+EJ EDNOX1800000a EDNOX18a           WA USD ALW               US Emissions NOx 2018 $/Allowance Wkly
+EJ EDNOX1800000b EDNOX18b           WA USD ALW               US Emissions NOx 2018 $/Allowance Wkly
+EJ EDNOX1800000u EDNOX18u           WA USD ALW               US Emissions NOx 2018 $/Allowance Wkly
+EJ EDNOX1900000a EDNOX19a           DW USD ALW               US Emissions NOx 2019 $/Allowance
+EJ EDNOX1900000b EDNOX19b           DW USD ALW               US Emissions NOx 2019 $/Allowance
+EJ EDNOX1900000u EDNOX19u           DW USD ALW               US Emissions NOx 2019 $/Allowance
+EJ EDNOX2000000a EDNOX20a           DW USD ALW               US Emissions NOx 2020 $/Allowance
+EJ EDNOX2000000b EDNOX20b           DW USD ALW               US Emissions NOx 2020 $/Allowance
+EJ EDNOX2000000u EDNOX20u           DW USD ALW               US Emissions NOx 2020 $/Allowance
+EJ EDNXA1700000a EDNXA17a           DW USD ST                US Emissions NOx 2017 $/st
+EJ EDNXA1700000b EDNXA17b           DW USD ST                US Emissions NOx 2017 $/st
+EJ EDNXA1700000u EDNXA17u           DW USD ST                US Emissions NOx 2017 $/st
+EJ EDNXA1800000a EDNXA18a           DW USD ST                US Emissions NOx 2018 $/st
+EJ EDNXA1800000b EDNXA18b           DW USD ST                US Emissions NOx 2018 $/st
+EJ EDNXA1800000u EDNXA18u           DW USD ST                US Emissions NOx 2018 $/st
+EJ EDNXA1900000a EDNXA19a           DW USD ST                US Emissions NOx 2019 $/st
+EJ EDNXA1900000b EDNXA19b           DW USD ST                US Emissions NOx 2019 $/st
+EJ EDNXA1900000u EDNXA19u           DW USD ST                US Emissions NOx 2019 $/st
+EJ EDNXA2000000a EDNXA20a           DW USD ST                US Emissions NOx 2020 $/st
+EJ EDNXA2000000b EDNXA20b           DW USD ST                US Emissions NOx 2020 $/st
+EJ EDNXA2000000u EDNXA20u           DW USD ST                US Emissions NOx 2020 $/st
+EJ EDNXS1700000a EDNXS17a           DW USD ST                US Emissions NOx Sn 2017 $/st
+EJ EDNXS1700000b EDNXS17b           DW USD ST                US Emissions NOx Sn 2017 $/st
+EJ EDNXS1700000u EDNXS17u           DW USD ST                US Emissions NOx Sn 2017 $/st
+EJ EDNXS1800000a EDNXS18a           DW USD ST                US Emissions NOx Sn 2018 $/st
+EJ EDNXS1800000b EDNXS18b           DW USD ST                US Emissions NOx Sn 2018 $/st
+EJ EDNXS1800000u EDNXS18u           DW USD ST                US Emissions NOx Sn 2018 $/st
+EJ EDNXS1900000a EDNXS19a           DW USD ST                US Emissions NOx Sn 2019 $/st
+EJ EDNXS1900000b EDNXS19b           DW USD ST                US Emissions NOx Sn 2019 $/st
+EJ EDNXS1900000u EDNXS19u           DW USD ST                US Emissions NOx Sn 2019 $/st
+EJ EDNXS2000000a EDNXS20a           DW USD ST                US Emissions NOx Sn 2020 $/st
+EJ EDNXS2000000b EDNXS20b           DW USD ST                US Emissions NOx Sn 2020 $/st
+EJ EDNXS2000000u EDNXS20u           DW USD ST                US Emissions NOx Sn 2020 $/st
+EJ EDS2A1700000a EDS2A17a           DW USD ST                US Emissions SO2 2017 $/st
+EJ EDS2A1700000b EDS2A17b           DW USD ST                US Emissions SO2 2017 $/st
+EJ EDS2A1700000u EDS2A17u           DW USD ST                US Emissions SO2 2017 $/st
+EJ EDS2A1800000a EDS2A18a           DW USD ST                US Emissions SO2 2018 $/st
+EJ EDS2A1800000b EDS2A18b           DW USD ST                US Emissions SO2 2018 $/st
+EJ EDS2A1800000u EDS2A18u           DW USD ST                US Emissions SO2 2018 $/st
+EJ EDS2A1900000a EDS2A19a           DW USD ST                US Emissions SO2 2019 $/st
+EJ EDS2A1900000b EDS2A19b           DW USD ST                US Emissions SO2 2019 $/st
+EJ EDS2A1900000u EDS2A19u           DW USD ST                US Emissions SO2 2019 $/st
+EJ EDS2A2000000a EDS2A20a           DW USD ST                US Emissions SO2 2020 $/st
+EJ EDS2A2000000b EDS2A20b           DW USD ST                US Emissions SO2 2020 $/st
+EJ EDS2A2000000u EDS2A20u           DW USD ST                US Emissions SO2 2020 $/st
+EJ EDSO21700000a EDSO217a           DW USD ALW               US Emissions CAIR SO2 2017 $/Allowance
+EJ EDSO21700000b EDSO217b           DW USD ALW               US Emissions CAIR SO2 2017 $/Allowance
+EJ EDSO21700000u EDSO217u           DW USD ALW               US Emissions CAIR SO2 2017 $/Allowance
+EJ EDSO21800000a EDSO218a           DW USD ALW               US Emissions CAIR SO2 2018 $/Allowance
+EJ EDSO21800000b EDSO218b           DW USD ALW               US Emissions CAIR SO2 2018 $/Allowance
+EJ EDSO21800000u EDSO218u           DW USD ALW               US Emissions CAIR SO2 2018 $/Allowance
+EJ EDSO21900000a EDSO219a           DW USD ALW               US Emissions CAIR SO2 2019 $/Allowance
+EJ EDSO21900000b EDSO219b           DW USD ALW               US Emissions CAIR SO2 2019 $/Allowance
+EJ EDSO21900000u EDSO219u           DW USD ALW               US Emissions CAIR SO2 2019 $/Allowance
+EJ EDSO22000000a EDSO220a           DW USD ALW               US Emissions CAIR SO2 2020 $/Allowance
+EJ EDSO22000000b EDSO220b           DW USD ALW               US Emissions CAIR SO2 2020 $/Allowance
+EJ EDSO22000000u EDSO220u           DW USD ALW               US Emissions CAIR SO2 2020 $/Allowance
+EJ ENOXA1600000h ENOXA16h           DW USD ST  150106 170228 US Emissions CSAPR NOx Annual 2016 $/st
+EJ ENOXA1600000l ENOXA16l           DW USD ST  150106 170228 US Emissions CSAPR NOx Annual 2016 $/st
+EJ ENOXA1600000u ENOXA16u           DW USD ST  150106 170228 US Emissions CSAPR NOx Annual 2016 $/st
+EJ ENOXA1700000h ENOXA17h           DW USD ST  160301 180228 US Emissions CSAPR NOx Annual 2017 $/st
+EJ ENOXA1700000l ENOXA17l           DW USD ST  160301 180228 US Emissions CSAPR NOx Annual 2017 $/st
+EJ ENOXA1700000u ENOXA17u           DW USD ST  160301 180228 US Emissions CSAPR NOx Annual 2017 $/st
+EJ ENOXA1800000h ENOXA18h           DW USD ST  170301 190118 US Emissions CSAPR NOx Annual 2018 $/st
+EJ ENOXA1800000l ENOXA18l           DW USD ST  170301 190118 US Emissions CSAPR NOx Annual 2018 $/st
+EJ ENOXA1800000u ENOXA18u           DW USD ST  170301 190118 US Emissions CSAPR NOx Annual 2018 $/st
+EJ ENOXA1900000h ENOXA19h           DW USD ST  180301 190118 US Emissions CSAPR NOx Annual 2019 $/st
+EJ ENOXA1900000l ENOXA19l           DW USD ST  180301 190118 US Emissions CSAPR NOx Annual 2019 $/st
+EJ ENOXA1900000u ENOXA19u           DW USD ST  180301 190118 US Emissions CSAPR NOx Annual 2019 $/st
+EJ ENOXA2000000h ENOXA20h           DW USD ST                US Emissions CSAPR NOx Annual 2020 $/st
+EJ ENOXA2000000l ENOXA20l           DW USD ST                US Emissions CSAPR NOx Annual 2020 $/st
+EJ ENOXA2000000u ENOXA20u           DW USD ST                US Emissions CSAPR NOx Annual 2020 $/st
+EJ ENOXA2100000h ENOXA21h           DW USD ST                US Emissions CSAPR NOx Annual 2021 $/st
+EJ ENOXA2100000l ENOXA21l           DW USD ST                US Emissions CSAPR NOx Annual 2021 $/st
+EJ ENOXA2100000u ENOXA21u           DW USD ST                US Emissions CSAPR NOx Annual 2021 $/st
+EJ ENOXS0100000h ENOXS01h           DW USD ST  111216 190118 US Emissions CSAPR NOx Seasonal Vintage 1 $/st
+EJ ENOXS0100000l ENOXS01l           DW USD ST  111216 190118 US Emissions CSAPR NOx Seasonal Vintage 1 $/st
+EJ ENOXS0100000u ENOXS01u           DW USD ST  111216 190118 US Emissions CSAPR NOx Seasonal Vintage 1 $/st
+EJ ENOXS0200000h ENOXS02h           DW USD ST  111216 190118 US Emissions CSAPR NOx Seasonal Vintage 2 $/st
+EJ ENOXS0200000l ENOXS02l           DW USD ST  111216 190118 US Emissions CSAPR NOx Seasonal Vintage 2 $/st
+EJ ENOXS0200000u ENOXS02u           DW USD ST  111216 190118 US Emissions CSAPR NOx Seasonal Vintage 2 $/st
+EJ ENOXS1600000h ENOXS16h           DW USD ST  150106 170228 US Emissions CSAPR NOx Seasonal 2016 $/st
+EJ ENOXS1600000l ENOXS16l           DW USD ST  150106 170228 US Emissions CSAPR NOx Seasonal 2016 $/st
+EJ ENOXS1600000u ENOXS16u           DW USD ST  150106 170228 US Emissions CSAPR NOx Seasonal 2016 $/st
+EJ ENOXS1700000h ENOXS17h           DW USD ST  160301 180228 US Emissions CSAPR NOx Seasonal 2017 $/st
+EJ ENOXS1700000l ENOXS17l           DW USD ST  160301 180228 US Emissions CSAPR NOx Seasonal 2017 $/st
+EJ ENOXS1700000u ENOXS17u           DW USD ST  160301 180228 US Emissions CSAPR NOx Seasonal 2017 $/st
+EJ ENOXS1800000h ENOXS18h           DW USD ST  170301 190118 US Emissions CSAPR NOx Seasonal 2018 $/st
+EJ ENOXS1800000l ENOXS18l           DW USD ST  170301 190118 US Emissions CSAPR NOx Seasonal 2018 $/st
+EJ ENOXS1800000u ENOXS18u           DW USD ST  170301 190118 US Emissions CSAPR NOx Seasonal 2018 $/st
+EJ ENOXS1900000h ENOXS19h           DW USD ST  180301 190118 US Emissions CSAPR NOx Seasonal 2019 $/st
+EJ ENOXS1900000l ENOXS19l           DW USD ST  180301 190118 US Emissions CSAPR NOx Seasonal 2019 $/st
+EJ ENOXS1900000u ENOXS19u           DW USD ST  180301 190118 US Emissions CSAPR NOx Seasonal 2019 $/st
+EJ ENOXS2000000h ENOXS20h           DW USD ST                US Emissions CSAPR NOx Seasonal 2020 $/st
+EJ ENOXS2000000l ENOXS20l           DW USD ST                US Emissions CSAPR NOx Seasonal 2020 $/st
+EJ ENOXS2000000u ENOXS20u           DW USD ST                US Emissions CSAPR NOx Seasonal 2020 $/st
+EJ ENOXS2100000h ENOXS21h           DW USD ST                US Emissions CSAPR NOx Seasonal 2021 $/st
+EJ ENOXS2100000l ENOXS21l           DW USD ST                US Emissions CSAPR NOx Seasonal 2021 $/st
+EJ ENOXS2100000u ENOXS21u           DW USD ST                US Emissions CSAPR NOx Seasonal 2021 $/st
+EJ ENOXY0100000h ENOXY01h           DW USD ST  111216 190118 US Emissions CSAPR NOx Annual Vintage 1 $/st
+EJ ENOXY0100000l ENOXY01l           DW USD ST  111216 190118 US Emissions CSAPR NOx Annual Vintage 1 $/st
+EJ ENOXY0100000u ENOXY01u           DW USD ST  111216 190118 US Emissions CSAPR NOx Annual Vintage 1 $/st
+EJ ENOXY0200000h ENOXY02h           DW USD ST  111216 190118 US Emissions CSAPR NOx Annual Vintage 2 $/st
+EJ ENOXY0200000l ENOXY02l           DW USD ST  111216 190118 US Emissions CSAPR NOx Annual Vintage 2 $/st
+EJ ENOXY0200000u ENOXY02u           DW USD ST  111216 190118 US Emissions CSAPR NOx Annual Vintage 2 $/st
+EJ ESO211600000h ESO2116h           DW USD ST  150106 170228 US Emissions CSAPR SO2 G1 2016 $/st
+EJ ESO211600000l ESO2116l           DW USD ST  150106 170228 US Emissions CSAPR SO2 G1 2016 $/st
+EJ ESO211600000u ESO2116u           DW USD ST  150106 170228 US Emissions CSAPR SO2 G1 2016 $/st
+EJ ESO211700000h ESO2117h           DW USD ST  160301 180228 US Emissions CSAPR SO2 G1 2017 $/st
+EJ ESO211700000l ESO2117l           DW USD ST  160301 180228 US Emissions CSAPR SO2 G1 2017 $/st
+EJ ESO211700000u ESO2117u           DW USD ST  160301 180228 US Emissions CSAPR SO2 G1 2017 $/st
+EJ ESO211800000h ESO2118h           DW USD ST  170301 190118 US Emissions CSAPR SO2 G1 2018 $/st
+EJ ESO211800000l ESO2118l           DW USD ST  170301 190118 US Emissions CSAPR SO2 G1 2018 $/st
+EJ ESO211800000u ESO2118u           DW USD ST  170301 190118 US Emissions CSAPR SO2 G1 2018 $/st
+EJ ESO211900000h ESO2119h           DW USD ST  180301 190118 US Emissions CSAPR SO2 G1 2019 $/st
+EJ ESO211900000l ESO2119l           DW USD ST  180301 190118 US Emissions CSAPR SO2 G1 2019 $/st
+EJ ESO211900000u ESO2119u           DW USD ST  180301 190118 US Emissions CSAPR SO2 G1 2019 $/st
+EJ ESO212000000h ESO2120h           DW USD ST                US Emissions CSAPR SO2 G1 2020 $/st
+EJ ESO212000000l ESO2120l           DW USD ST                US Emissions CSAPR SO2 G1 2020 $/st
+EJ ESO212000000u ESO2120u           DW USD ST                US Emissions CSAPR SO2 G1 2020 $/st
+EJ ESO212100000h ESO2121h           DW USD ST                US Emissions CSAPR SO2 G1 2021 $/st
+EJ ESO212100000l ESO2121l           DW USD ST                US Emissions CSAPR SO2 G1 2021 $/st
+EJ ESO212100000u ESO2121u           DW USD ST                US Emissions CSAPR SO2 G1 2021 $/st
+EJ ESO21Y100000h ESO21Y1h           DW USD ST  111216 190118 US Emissions CSAPR SO2 G1 Vintage 1 $/st
+EJ ESO21Y100000l ESO21Y1l           DW USD ST  111216 190118 US Emissions CSAPR SO2 G1 Vintage 1 $/st
+EJ ESO21Y100000u ESO21Y1u           DW USD ST  111216 190118 US Emissions CSAPR SO2 G1 Vintage 1 $/st
+EJ ESO21Y200000h ESO21Y2h           DW USD ST  111216 190118 US Emissions CSAPR SO2 G1 Vintage 2 $/st
+EJ ESO21Y200000l ESO21Y2l           DW USD ST  111216 190118 US Emissions CSAPR SO2 G1 Vintage 2 $/st
+EJ ESO21Y200000u ESO21Y2u           DW USD ST  111216 190118 US Emissions CSAPR SO2 G1 Vintage 2 $/st
+EJ ESO221600000h ESO2216h           DW USD ST  150106 170228 US Emissions CSAPR SO2 G2 2016 $/st
+EJ ESO221600000l ESO2216l           DW USD ST  150106 170228 US Emissions CSAPR SO2 G2 2016 $/st
+EJ ESO221600000u ESO2216u           DW USD ST  150106 170228 US Emissions CSAPR SO2 G2 2016 $/st
+EJ ESO221700000h ESO2217h           DW USD ST  160301 180228 US Emissions CSAPR SO2 G2 2017 $/st
+EJ ESO221700000l ESO2217l           DW USD ST  160301 180228 US Emissions CSAPR SO2 G2 2017 $/st
+EJ ESO221700000u ESO2217u           DW USD ST  160301 180228 US Emissions CSAPR SO2 G2 2017 $/st
+EJ ESO221800000h ESO2218h           DW USD ST  170301 190118 US Emissions CSAPR SO2 G2 2018 $/st
+EJ ESO221800000l ESO2218l           DW USD ST  170301 190118 US Emissions CSAPR SO2 G2 2018 $/st
+EJ ESO221800000u ESO2218u           DW USD ST  170301 190118 US Emissions CSAPR SO2 G2 2018 $/st
+EJ ESO221900000h ESO2219h           DW USD ST  180301 190118 US Emissions CSAPR SO2 G2 2019 $/st
+EJ ESO221900000l ESO2219l           DW USD ST  180301 190118 US Emissions CSAPR SO2 G2 2019 $/st
+EJ ESO221900000u ESO2219u           DW USD ST  180301 190118 US Emissions CSAPR SO2 G2 2019 $/st
+EJ ESO222000000h ESO2220h           DW USD ST                US Emissions CSAPR SO2 G2 2020 $/st
+EJ ESO222000000l ESO2220l           DW USD ST                US Emissions CSAPR SO2 G2 2020 $/st
+EJ ESO222000000u ESO2220u           DW USD ST                US Emissions CSAPR SO2 G2 2020 $/st
+EJ ESO222100000h ESO2221h           DW USD ST                US Emissions CSAPR SO2 G2 2021 $/st
+EJ ESO222100000l ESO2221l           DW USD ST                US Emissions CSAPR SO2 G2 2021 $/st
+EJ ESO222100000u ESO2221u           DW USD ST                US Emissions CSAPR SO2 G2 2021 $/st
+EJ ESO22Y100000h ESO22Y1h           DW USD ST  111216 190118 US Emissions CSAPR SO2 G2 Vintage 1 $/st
+EJ ESO22Y100000l ESO22Y1l           DW USD ST  111216 190118 US Emissions CSAPR SO2 G2 Vintage 1 $/st
+EJ ESO22Y100000u ESO22Y1u           DW USD ST  111216 190118 US Emissions CSAPR SO2 G2 Vintage 1 $/st
+EJ ESO22Y200000h ESO22Y2h           DW USD ST  111216 190118 US Emissions CSAPR SO2 G2 Vintage 2 $/st
+EJ ESO22Y200000l ESO22Y2l           DW USD ST  111216 190118 US Emissions CSAPR SO2 G2 Vintage 2 $/st
+EJ ESO22Y200000u ESO22Y2u           DW USD ST  111216 190118 US Emissions CSAPR SO2 G2 Vintage 2 $/st

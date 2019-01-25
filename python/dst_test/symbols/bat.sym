@@ -1,0 +1,23 @@
+BAT                                                           © 2019 by S&P Global Inc.,190119
+BAT BATCA0300000c BATCA03c           MA CNY MT  180901 181101 Lithium Carbonate DDP China Yuan/mt MAvg
+BAT BATCA0400000c BATCA04c           WA CNY MT  180907 190118 Lithium Carbonate DDP China Yuan/mt Wkly
+BAT BATCA0500000c BATCA05c           QR CNY MT  180701 181001 Lithium Carbonate DDP China Yuan/mt QAvg
+BAT BATCO0300000c BATCO03c           MA USD MT                Cobalt Sulfate 20.5% CIF North Asia $/mt MAvg
+BAT BATCO0400000c BATCO04c           WA USD MT  190103 190117 Cobalt Sulfate 20.5% CIF North Asia $/mt Wkly
+BAT BATCO0500000c BATCO05c           QR USD MT                Cobalt Sulfate 20.5% CIF North Asia $/mt QAvg
+BAT BATCP0300000c BATCP03c           MA CNY MT                Lithium Carbonate 99.5% CIF North Asia Import Parity Yuan/mt MAvg
+BAT BATCP0400000c BATCP04c           WA CNY MT                Lithium Carbonate 99.5% CIF North Asia Import Parity Yuan/mt Wkly
+BAT BATCP0500000c BATCP05c           QR CNY MT                Lithium Carbonate 99.5% CIF North Asia Import Parity Yuan/mt QAvg
+BAT BATHP0300000c BATHP03c           MA CNY MT                Lithium Hydroxide 56.5% CIF North Asia Import Parity Yuan/mt MAvg
+BAT BATHP0400000c BATHP04c           WA CNY MT                Lithium Hydroxide 56.5% CIF North Asia Import Parity Yuan/mt Wkly
+BAT BATHP0500000c BATHP05c           QR CNY MT                Lithium Hydroxide 56.5% CIF North Asia Import Parity Yuan/mt QAvg
+BAT BATHY0300000c BATHY03c           MA CNY MT  180901 181101 Lithium Hydroxide DDP China Yuan/mt MAvg
+BAT BATHY0400000c BATHY04c           WA CNY MT  180907 190118 Lithium Hydroxide DDP China Yuan/mt Wkly
+BAT BATHY0500000c BATHY05c           QR CNY MT  180701 181001 Lithium Hydroxide DDP China Yuan/mt QAvg
+BAT BATLC0300000c BATLC03c           MA USD MT  180501 181101 Lithium Carbonate CIF North Asia $/mt MAvg
+BAT BATLC0400000c BATLC04c           WA USD MT  180504 190118 Lithium Carbonate CIF North Asia $/mt Wkly
+BAT BATLC0500000c BATLC05c           QR USD MT  180401 181001 Lithium Carbonate CIF North Asia $/mt QAvg
+BAT BATLH0300000c BATLH03c           MA USD MT  180901 181101 Lithium Hydroxide CIF North Asia $/mt MAvg
+BAT BATLH0400000c BATLH04c           WA USD MT  180907 190118 Lithium Hydroxide CIF North Asia $/mt Wkly
+BAT BATLH0500000c BATLH05c           QR USD MT  180701 181001 Lithium Hydroxide CIF North Asia $/mt QAvg
+BAT BATSP0300000c BATSP03c           MA USD MT                Lithium Spodumene 6% FOB Australia $/mt Mthly
