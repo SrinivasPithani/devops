@@ -5,7 +5,7 @@
 house_price_array = []
 house_price_hash = {}
 
-File.readlines("data/houseprices.txt").each do |lines|
+File.readlines("data/houseprices.csv").each do |lines|
 	lines.chomp
 	house_price_array << lines.split(",") 
 end

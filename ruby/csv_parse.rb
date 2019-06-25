@@ -2,6 +2,6 @@
 
 require 'csv'
 
-table = CSV.read("data/houseprices.txt")
+table = CSV.read("data/houseprices.csv")
 puts table[1][0]
 
