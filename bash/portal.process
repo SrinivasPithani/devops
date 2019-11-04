@@ -1,0 +1,4 @@
+localhost component -x post-release
+localhost platts-search pbe
+localhost component -x aspect-post-release
+localhost aspect 
