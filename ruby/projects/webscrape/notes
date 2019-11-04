@@ -1,0 +1,40 @@
+#1. Get the country
+2.6.3 :029 > f1 = parsed_page.xpath("//tr/td//a").last
+ => #<Nokogiri::XML::Element:0x18c200c name="a" attributes=[#<Nokogiri::XML::Attr:0x18c31f0 name="href" value="/ports/index/YEM.php">] children=[#<Nokogiri::XML::Text:0x18c7a0c "Yemen">]>
+
+2.6.3 :037 > f1.children
+ => [#<Nokogiri::XML::Text:0x18c7a0c "Yemen">]
+ 2.6.3 :038 > f1.children.text
+  => "Yemen"
+
+
+#2. Get the country URL
+
+2.6.3 :039 > f1["href"]
+ => "/ports/index/YEM.php"
+ 2.6.3 :040 >
+
+
+#Ports URL
+2.6.3 :019 > port_url = base_url + [value we got above]
+ => "http://www.worldportsource.com/ports/index/YEM.php"
+ 2.6.3 :020 >
+
+#Wrap around Noki
+
+2.6.3 :040 > f1 = "http://www.worldportsource.com/ports/index/YEM.php"
+ => "http://www.worldportsource.com/ports/index/YEM.php"
+2.6.3 :048 > f2 = HTTParty.get(f1)
+
+2.6.3 :042 > f2 = Nokogiri::HTML(f2)
+
+#How many ports that country has given by HTML selector ( I dont want to disturb f3) 
+2.6.3 :050 > f4 = f3
+2.6.3 :056 > f4.css('div.headlineDivLevel2Margin').css('div.headline_small').text
+ => "Yemen has 8 ports"
+
+#
+
+
+
+

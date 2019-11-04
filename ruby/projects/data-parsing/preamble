@@ -1,0 +1,5 @@
+The context of the program is to parse the character given in the data file 
+
+- semi-colon.dat contains lot of ";" chars
+- idea is to split them based on ";"
+- You can use the string method split
