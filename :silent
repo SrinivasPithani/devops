@@ -1,0 +1,14 @@
+class Book
+	def initialize(title, author)
+		@title = title
+		@author = author
+	end
+
+	def get_title(title)
+		puts @title
+	end
+end
+
+bo = Book.new("Godfather", "Mario Puzo")
+puts bo
+

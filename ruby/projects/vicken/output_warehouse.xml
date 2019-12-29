@@ -1,0 +1,896 @@
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="4STOX NV"> Antwerp  4STOX NV />
+	<ivar name="aspect-edit-name">4STOX</ivar>
+	<ivar name="aspect-edit-pid" id="Antwerp">Antwerp</ivar>
+	<ivar name="aspect-edit-description"> 4STOX  Antwerp </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Access World Vlissingen BV"> Antwerp  Access World Vlissingen BV />
+	<ivar name="aspect-edit-name">HAVEN</ivar>
+	<ivar name="aspect-edit-pid" id="Antwerp">Antwerp</ivar>
+	<ivar name="aspect-edit-description"> HAVEN  Antwerp </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="C. Steinweg Belgium N.V."> Antwerp  C. Steinweg Belgium N.V. />
+	<ivar name="aspect-edit-name">CSTNV</ivar>
+	<ivar name="aspect-edit-pid" id="Antwerp">Antwerp</ivar>
+	<ivar name="aspect-edit-description"> CSTNV  Antwerp </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="CWT Commodities Metals BV"> Antwerp  CWT Commodities Metals BV />
+	<ivar name="aspect-edit-name">CPEU</ivar>
+	<ivar name="aspect-edit-pid" id="Antwerp">Antwerp</ivar>
+	<ivar name="aspect-edit-description"> CPEU  Antwerp </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Erus Metals Ltd"> Antwerp  Erus Metals Ltd />
+	<ivar name="aspect-edit-name">ERUSUK</ivar>
+	<ivar name="aspect-edit-pid" id="Antwerp">Antwerp</ivar>
+	<ivar name="aspect-edit-description"> ERUSUK  Antwerp </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Henry Bath BV"> Antwerp  Henry Bath BV />
+	<ivar name="aspect-edit-name">OCEAN</ivar>
+	<ivar name="aspect-edit-pid" id="Antwerp">Antwerp</ivar>
+	<ivar name="aspect-edit-description"> OCEAN  Antwerp </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="P Global Services NV"> Antwerp  P Global Services NV />
+	<ivar name="aspect-edit-name">PGSPAC</ivar>
+	<ivar name="aspect-edit-pid" id="Antwerp">Antwerp</ivar>
+	<ivar name="aspect-edit-description"> PGSPAC  Antwerp </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Vollers Group GmbH"> Antwerp  Vollers Group GmbH />
+	<ivar name="aspect-edit-name">BVANT</ivar>
+	<ivar name="aspect-edit-pid" id="Antwerp">Antwerp</ivar>
+	<ivar name="aspect-edit-description"> BVANT  Antwerp </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Zuidnatie NV"> Antwerp  Zuidnatie NV />
+	<ivar name="aspect-edit-name">ZUINV</ivar>
+	<ivar name="aspect-edit-pid" id="Antwerp">Antwerp</ivar>
+	<ivar name="aspect-edit-description"> ZUINV  Antwerp </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="BLG Cargo Logistics GmbH"> Bremen  BLG Cargo Logistics GmbH />
+	<ivar name="aspect-edit-name">BLGGMB</ivar>
+	<ivar name="aspect-edit-pid" id="Bremen">Bremen</ivar>
+	<ivar name="aspect-edit-description"> BLGGMB  Bremen </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="C. Steinweg (Sud-West Terminal) GmbH & Co."> Hamburg  C. Steinweg (Sud-West Terminal) GmbH & Co. />
+	<ivar name="aspect-edit-name">CSTEIN</ivar>
+	<ivar name="aspect-edit-pid" id="Hamburg">Hamburg</ivar>
+	<ivar name="aspect-edit-description"> CSTEIN  Hamburg </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Vollers Group GmbH"> Hamburg  Vollers Group GmbH />
+	<ivar name="aspect-edit-name">BEVGMB</ivar>
+	<ivar name="aspect-edit-pid" id="Hamburg">Hamburg</ivar>
+	<ivar name="aspect-edit-description"> BEVGMB  Hamburg </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Access World (Italy) S.r.l."> Genoa  Access World (Italy) S.r.l. />
+	<ivar name="aspect-edit-name">BPASRL</ivar>
+	<ivar name="aspect-edit-pid" id="Genoa">Genoa</ivar>
+	<ivar name="aspect-edit-description"> BPASRL  Genoa </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="C. Steinweg - GMT S.r.l."> Genoa  C. Steinweg - GMT S.r.l. />
+	<ivar name="aspect-edit-name">GMTSRL</ivar>
+	<ivar name="aspect-edit-pid" id="Genoa">Genoa</ivar>
+	<ivar name="aspect-edit-description"> GMTSRL  Genoa </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Access World (Italy) S.r.l."> Leghorn  Access World (Italy) S.r.l. />
+	<ivar name="aspect-edit-name">BPASRL</ivar>
+	<ivar name="aspect-edit-pid" id="Leghorn">Leghorn</ivar>
+	<ivar name="aspect-edit-description"> BPASRL  Leghorn </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="C. Steinweg - GMT S.r.l."> Leghorn  C. Steinweg - GMT S.r.l. />
+	<ivar name="aspect-edit-name">GMTSRL</ivar>
+	<ivar name="aspect-edit-pid" id="Leghorn">Leghorn</ivar>
+	<ivar name="aspect-edit-description"> GMTSRL  Leghorn </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="F. lli Bartoli"> Leghorn  F. lli Bartoli />
+	<ivar name="aspect-edit-name">FLBART</ivar>
+	<ivar name="aspect-edit-pid" id="Leghorn">Leghorn</ivar>
+	<ivar name="aspect-edit-description"> FLBART  Leghorn </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Access World (Italy) S.r.l."> Trieste  Access World (Italy) S.r.l. />
+	<ivar name="aspect-edit-name">BPASRL</ivar>
+	<ivar name="aspect-edit-pid" id="Trieste">Trieste</ivar>
+	<ivar name="aspect-edit-description"> BPASRL  Trieste </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="C. Steinweg - GMT S.r.l."> Trieste  C. Steinweg - GMT S.r.l. />
+	<ivar name="aspect-edit-name">GMTSRL</ivar>
+	<ivar name="aspect-edit-pid" id="Trieste">Trieste</ivar>
+	<ivar name="aspect-edit-description"> GMTSRL  Trieste </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="P Global Services NV"> Trieste  P Global Services NV />
+	<ivar name="aspect-edit-name">PGSPAC</ivar>
+	<ivar name="aspect-edit-pid" id="Trieste">Trieste</ivar>
+	<ivar name="aspect-edit-description"> PGSPAC  Trieste </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Mitsubishi Logistics Corp."> Nagoya  Mitsubishi Logistics Corp. />
+	<ivar name="aspect-edit-name">MLCORP</ivar>
+	<ivar name="aspect-edit-pid" id="Nagoya">Nagoya</ivar>
+	<ivar name="aspect-edit-description"> MLCORP  Nagoya </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="The Sumitomo Warehouse Co. Ltd"> Nagoya  The Sumitomo Warehouse Co. Ltd />
+	<ivar name="aspect-edit-name">SUMLTD</ivar>
+	<ivar name="aspect-edit-pid" id="Nagoya">Nagoya</ivar>
+	<ivar name="aspect-edit-description"> SUMLTD  Nagoya </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Hokkai Mitsui Soko Co. Ltd"> Yokohama  Hokkai Mitsui Soko Co. Ltd />
+	<ivar name="aspect-edit-name">HOKKAI</ivar>
+	<ivar name="aspect-edit-pid" id="Yokohama">Yokohama</ivar>
+	<ivar name="aspect-edit-description"> HOKKAI  Yokohama </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Mitsubishi Logistics Corp."> Yokohama  Mitsubishi Logistics Corp. />
+	<ivar name="aspect-edit-name">MLCORP</ivar>
+	<ivar name="aspect-edit-pid" id="Yokohama">Yokohama</ivar>
+	<ivar name="aspect-edit-description"> MLCORP  Yokohama </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="The Sumitomo Warehouse Co. Ltd"> Yokohama  The Sumitomo Warehouse Co. Ltd />
+	<ivar name="aspect-edit-name">SUMLTD</ivar>
+	<ivar name="aspect-edit-pid" id="Yokohama">Yokohama</ivar>
+	<ivar name="aspect-edit-description"> SUMLTD  Yokohama </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Access World Logistics (Singapore) Pte. Ltd."> Busan  Access World Logistics (Singapore) Pte. Ltd. />
+	<ivar name="aspect-edit-name">PACSEM</ivar>
+	<ivar name="aspect-edit-pid" id="Busan">Busan</ivar>
+	<ivar name="aspect-edit-description"> PACSEM  Busan </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="C. Steinweg Warehousing (FE) Pte Ltd"> Busan  C. Steinweg Warehousing (FE) Pte Ltd />
+	<ivar name="aspect-edit-name">CSTPTE</ivar>
+	<ivar name="aspect-edit-pid" id="Busan">Busan</ivar>
+	<ivar name="aspect-edit-description"> CSTPTE  Busan </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="CWT Commodities Logistics Pte. Ltd."> Busan  CWT Commodities Logistics Pte. Ltd. />
+	<ivar name="aspect-edit-name">CORHOO</ivar>
+	<ivar name="aspect-edit-pid" id="Busan">Busan</ivar>
+	<ivar name="aspect-edit-description"> CORHOO  Busan </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="H&M Metal Warehousing (S) Pte. Ltd."> Busan  H&M Metal Warehousing (S) Pte. Ltd. />
+	<ivar name="aspect-edit-name">NESI</ivar>
+	<ivar name="aspect-edit-pid" id="Busan">Busan</ivar>
+	<ivar name="aspect-edit-description"> NESI  Busan </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Henry Bath Singapore Pte Ltd"> Busan  Henry Bath Singapore Pte Ltd />
+	<ivar name="aspect-edit-name">HBSING</ivar>
+	<ivar name="aspect-edit-pid" id="Busan">Busan</ivar>
+	<ivar name="aspect-edit-description"> HBSING  Busan </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="ISTIM UK Ltd."> Busan  ISTIM UK Ltd. />
+	<ivar name="aspect-edit-name">ISTUK</ivar>
+	<ivar name="aspect-edit-pid" id="Busan">Busan</ivar>
+	<ivar name="aspect-edit-description"> ISTUK  Busan </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Metro International Trade Services (UK) Ltd"> Busan  Metro International Trade Services (UK) Ltd />
+	<ivar name="aspect-edit-name">MITLTD</ivar>
+	<ivar name="aspect-edit-pid" id="Busan">Busan</ivar>
+	<ivar name="aspect-edit-description"> MITLTD  Busan </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="P Global Services NV"> Busan  P Global Services NV />
+	<ivar name="aspect-edit-name">PGSPAC</ivar>
+	<ivar name="aspect-edit-pid" id="Busan">Busan</ivar>
+	<ivar name="aspect-edit-description"> PGSPAC  Busan </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Access World Logistics (Singapore) Pte. Ltd."> Gwangyang  Access World Logistics (Singapore) Pte. Ltd. />
+	<ivar name="aspect-edit-name">PACSEM</ivar>
+	<ivar name="aspect-edit-pid" id="Gwangyang">Gwangyang</ivar>
+	<ivar name="aspect-edit-description"> PACSEM  Gwangyang </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="C. Steinweg Warehousing (FE) Pte Ltd"> Gwangyang  C. Steinweg Warehousing (FE) Pte Ltd />
+	<ivar name="aspect-edit-name">CSTPTE</ivar>
+	<ivar name="aspect-edit-pid" id="Gwangyang">Gwangyang</ivar>
+	<ivar name="aspect-edit-description"> CSTPTE  Gwangyang </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="H&M Metal Warehousing (S) Pte. Ltd."> Gwangyang  H&M Metal Warehousing (S) Pte. Ltd. />
+	<ivar name="aspect-edit-name">NESI</ivar>
+	<ivar name="aspect-edit-pid" id="Gwangyang">Gwangyang</ivar>
+	<ivar name="aspect-edit-description"> NESI  Gwangyang </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Henry Bath Singapore Pte Ltd"> Gwangyang  Henry Bath Singapore Pte Ltd />
+	<ivar name="aspect-edit-name">HBSING</ivar>
+	<ivar name="aspect-edit-pid" id="Gwangyang">Gwangyang</ivar>
+	<ivar name="aspect-edit-description"> HBSING  Gwangyang </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="ISTIM UK Ltd."> Gwangyang  ISTIM UK Ltd. />
+	<ivar name="aspect-edit-name">ISTUK</ivar>
+	<ivar name="aspect-edit-pid" id="Gwangyang">Gwangyang</ivar>
+	<ivar name="aspect-edit-description"> ISTUK  Gwangyang </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="P Global Services NV"> Gwangyang  P Global Services NV />
+	<ivar name="aspect-edit-name">PGSPAC</ivar>
+	<ivar name="aspect-edit-pid" id="Gwangyang">Gwangyang</ivar>
+	<ivar name="aspect-edit-description"> PGSPAC  Gwangyang </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Access World Logistics (Singapore) Pte. Ltd."> Incheon  Access World Logistics (Singapore) Pte. Ltd. />
+	<ivar name="aspect-edit-name">PACSEM</ivar>
+	<ivar name="aspect-edit-pid" id="Incheon">Incheon</ivar>
+	<ivar name="aspect-edit-description"> PACSEM  Incheon </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="C. Steinweg Warehousing (FE) Pte Ltd"> Incheon  C. Steinweg Warehousing (FE) Pte Ltd />
+	<ivar name="aspect-edit-name">CSTPTE</ivar>
+	<ivar name="aspect-edit-pid" id="Incheon">Incheon</ivar>
+	<ivar name="aspect-edit-description"> CSTPTE  Incheon </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="H&M Metal Warehousing (S) Pte. Ltd."> Incheon  H&M Metal Warehousing (S) Pte. Ltd. />
+	<ivar name="aspect-edit-name">NESI</ivar>
+	<ivar name="aspect-edit-pid" id="Incheon">Incheon</ivar>
+	<ivar name="aspect-edit-description"> NESI  Incheon </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Metro International Trade Services (UK) Ltd"> Incheon  Metro International Trade Services (UK) Ltd />
+	<ivar name="aspect-edit-name">MITLTD</ivar>
+	<ivar name="aspect-edit-pid" id="Incheon">Incheon</ivar>
+	<ivar name="aspect-edit-description"> MITLTD  Incheon </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="P Global Services NV"> Incheon  P Global Services NV />
+	<ivar name="aspect-edit-name">PGSPAC</ivar>
+	<ivar name="aspect-edit-pid" id="Incheon">Incheon</ivar>
+	<ivar name="aspect-edit-description"> PGSPAC  Incheon </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Access World Logistics (Singapore) Pte. Ltd."> Johor  Access World Logistics (Singapore) Pte. Ltd. />
+	<ivar name="aspect-edit-name">PACSEM</ivar>
+	<ivar name="aspect-edit-pid" id="Johor">Johor</ivar>
+	<ivar name="aspect-edit-description"> PACSEM  Johor </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="C. Steinweg Warehousing (FE) Pte Ltd"> Johor  C. Steinweg Warehousing (FE) Pte Ltd />
+	<ivar name="aspect-edit-name">CSTPTE</ivar>
+	<ivar name="aspect-edit-pid" id="Johor">Johor</ivar>
+	<ivar name="aspect-edit-description"> CSTPTE  Johor </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="CWT Commodities Logistics Pte. Ltd."> Johor  CWT Commodities Logistics Pte. Ltd. />
+	<ivar name="aspect-edit-name">CORHOO</ivar>
+	<ivar name="aspect-edit-pid" id="Johor">Johor</ivar>
+	<ivar name="aspect-edit-description"> CORHOO  Johor </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="H&M Metal Warehousing (S) Pte. Ltd."> Johor  H&M Metal Warehousing (S) Pte. Ltd. />
+	<ivar name="aspect-edit-name">NESI</ivar>
+	<ivar name="aspect-edit-pid" id="Johor">Johor</ivar>
+	<ivar name="aspect-edit-description"> NESI  Johor </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Henry Bath Singapore Pte Ltd"> Johor  Henry Bath Singapore Pte Ltd />
+	<ivar name="aspect-edit-name">HBSING</ivar>
+	<ivar name="aspect-edit-pid" id="Johor">Johor</ivar>
+	<ivar name="aspect-edit-description"> HBSING  Johor </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="ISTIM UK Ltd."> Johor  ISTIM UK Ltd. />
+	<ivar name="aspect-edit-name">ISTUK</ivar>
+	<ivar name="aspect-edit-pid" id="Johor">Johor</ivar>
+	<ivar name="aspect-edit-description"> ISTUK  Johor </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="P Global Services NV"> Johor  P Global Services NV />
+	<ivar name="aspect-edit-name">PGSPAC</ivar>
+	<ivar name="aspect-edit-pid" id="Johor">Johor</ivar>
+	<ivar name="aspect-edit-description"> PGSPAC  Johor </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Access World Logistics (Singapore) Pte. Ltd."> Port Klang  Access World Logistics (Singapore) Pte. Ltd. />
+	<ivar name="aspect-edit-name">PACSEM</ivar>
+	<ivar name="aspect-edit-pid" id="Port Klang">Port Klang</ivar>
+	<ivar name="aspect-edit-description"> PACSEM  Port Klang </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="ACE (Asia) Pte. Ltd."> Port Klang  ACE (Asia) Pte. Ltd. />
+	<ivar name="aspect-edit-name">ACEK</ivar>
+	<ivar name="aspect-edit-pid" id="Port Klang">Port Klang</ivar>
+	<ivar name="aspect-edit-description"> ACEK  Port Klang </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="C. Steinweg Warehousing (FE) Pte Ltd"> Port Klang  C. Steinweg Warehousing (FE) Pte Ltd />
+	<ivar name="aspect-edit-name">CSTPTE</ivar>
+	<ivar name="aspect-edit-pid" id="Port Klang">Port Klang</ivar>
+	<ivar name="aspect-edit-description"> CSTPTE  Port Klang </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Edgemere Terminals Ltd"> Port Klang  Edgemere Terminals Ltd />
+	<ivar name="aspect-edit-name">EDGEUK</ivar>
+	<ivar name="aspect-edit-pid" id="Port Klang">Port Klang</ivar>
+	<ivar name="aspect-edit-description"> EDGEUK  Port Klang </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Henry Bath Singapore Pte Ltd"> Port Klang  Henry Bath Singapore Pte Ltd />
+	<ivar name="aspect-edit-name">HBSING</ivar>
+	<ivar name="aspect-edit-pid" id="Port Klang">Port Klang</ivar>
+	<ivar name="aspect-edit-description"> HBSING  Port Klang </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="ISTIM UK Ltd."> Port Klang  ISTIM UK Ltd. />
+	<ivar name="aspect-edit-name">ISTUK</ivar>
+	<ivar name="aspect-edit-pid" id="Port Klang">Port Klang</ivar>
+	<ivar name="aspect-edit-description"> ISTUK  Port Klang </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Metro International Trade Services (UK) Ltd"> Port Klang  Metro International Trade Services (UK) Ltd />
+	<ivar name="aspect-edit-name">MITLTD</ivar>
+	<ivar name="aspect-edit-pid" id="Port Klang">Port Klang</ivar>
+	<ivar name="aspect-edit-description"> MITLTD  Port Klang </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="P Global Services NV"> Port Klang  P Global Services NV />
+	<ivar name="aspect-edit-name">PGSPAC</ivar>
+	<ivar name="aspect-edit-pid" id="Port Klang">Port Klang</ivar>
+	<ivar name="aspect-edit-description"> PGSPAC  Port Klang </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="CWT Commodities Metals BV"> Amsterdam  CWT Commodities Metals BV />
+	<ivar name="aspect-edit-name">CPEU</ivar>
+	<ivar name="aspect-edit-pid" id="Amsterdam">Amsterdam</ivar>
+	<ivar name="aspect-edit-description"> CPEU  Amsterdam </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Independent Commodities Logistics BV"> Moerdijk  Independent Commodities Logistics BV />
+	<ivar name="aspect-edit-name">ICLBV</ivar>
+	<ivar name="aspect-edit-pid" id="Moerdijk">Moerdijk</ivar>
+	<ivar name="aspect-edit-description"> ICLBV  Moerdijk </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Access World Vlissingen BV"> Rotterdam  Access World Vlissingen BV />
+	<ivar name="aspect-edit-name">HAVEN</ivar>
+	<ivar name="aspect-edit-pid" id="Rotterdam">Rotterdam</ivar>
+	<ivar name="aspect-edit-description"> HAVEN  Rotterdam </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="C. Steinweg-Handelsveem BV"> Rotterdam  C. Steinweg-Handelsveem BV />
+	<ivar name="aspect-edit-name">CSTHAN</ivar>
+	<ivar name="aspect-edit-pid" id="Rotterdam">Rotterdam</ivar>
+	<ivar name="aspect-edit-description"> CSTHAN  Rotterdam </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="CWT Commodities Metals BV"> Rotterdam  CWT Commodities Metals BV />
+	<ivar name="aspect-edit-name">CPEU</ivar>
+	<ivar name="aspect-edit-pid" id="Rotterdam">Rotterdam</ivar>
+	<ivar name="aspect-edit-description"> CPEU  Rotterdam </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Henry Bath BV"> Rotterdam  Henry Bath BV />
+	<ivar name="aspect-edit-name">OCEAN</ivar>
+	<ivar name="aspect-edit-pid" id="Rotterdam">Rotterdam</ivar>
+	<ivar name="aspect-edit-description"> OCEAN  Rotterdam </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Independent Commodities Logistics BV"> Rotterdam  Independent Commodities Logistics BV />
+	<ivar name="aspect-edit-name">ICLBV</ivar>
+	<ivar name="aspect-edit-pid" id="Rotterdam">Rotterdam</ivar>
+	<ivar name="aspect-edit-description"> ICLBV  Rotterdam </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Kloosterboer Vlissingen B.V."> Rotterdam  Kloosterboer Vlissingen B.V. />
+	<ivar name="aspect-edit-name">BTGUK</ivar>
+	<ivar name="aspect-edit-pid" id="Rotterdam">Rotterdam</ivar>
+	<ivar name="aspect-edit-description"> BTGUK  Rotterdam </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Metaal Transport BV"> Rotterdam  Metaal Transport BV />
+	<ivar name="aspect-edit-name">MTRANS</ivar>
+	<ivar name="aspect-edit-pid" id="Rotterdam">Rotterdam</ivar>
+	<ivar name="aspect-edit-description"> MTRANS  Rotterdam </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="P Global Services NV"> Rotterdam  P Global Services NV />
+	<ivar name="aspect-edit-name">PGSPAC</ivar>
+	<ivar name="aspect-edit-pid" id="Rotterdam">Rotterdam</ivar>
+	<ivar name="aspect-edit-description"> PGSPAC  Rotterdam </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Vollers Group GmbH"> Rotterdam  Vollers Group GmbH />
+	<ivar name="aspect-edit-name">VHWROT</ivar>
+	<ivar name="aspect-edit-pid" id="Rotterdam">Rotterdam</ivar>
+	<ivar name="aspect-edit-description"> VHWROT  Rotterdam </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Access World Vlissingen BV"> Vlissingen  Access World Vlissingen BV />
+	<ivar name="aspect-edit-name">HAVEN</ivar>
+	<ivar name="aspect-edit-pid" id="Vlissingen">Vlissingen</ivar>
+	<ivar name="aspect-edit-description"> HAVEN  Vlissingen </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="ISTIM UK Ltd."> Vlissingen  ISTIM UK Ltd. />
+	<ivar name="aspect-edit-name">ISTUK</ivar>
+	<ivar name="aspect-edit-pid" id="Vlissingen">Vlissingen</ivar>
+	<ivar name="aspect-edit-description"> ISTUK  Vlissingen </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Kloosterboer Vlissingen B.V."> Vlissingen  Kloosterboer Vlissingen B.V. />
+	<ivar name="aspect-edit-name">BTGUK</ivar>
+	<ivar name="aspect-edit-pid" id="Vlissingen">Vlissingen</ivar>
+	<ivar name="aspect-edit-description"> BTGUK  Vlissingen </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Verbrugge International B.V."> Vlissingen  Verbrugge International B.V. />
+	<ivar name="aspect-edit-name">VERVLI</ivar>
+	<ivar name="aspect-edit-pid" id="Vlissingen">Vlissingen</ivar>
+	<ivar name="aspect-edit-description"> VERVLI  Vlissingen </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Access World Logistics (Singapore) Pte. Ltd."> Singapore  Access World Logistics (Singapore) Pte. Ltd. />
+	<ivar name="aspect-edit-name">PACSEM</ivar>
+	<ivar name="aspect-edit-pid" id="Singapore">Singapore</ivar>
+	<ivar name="aspect-edit-description"> PACSEM  Singapore </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="C. Steinweg Warehousing (FE) Pte Ltd"> Singapore  C. Steinweg Warehousing (FE) Pte Ltd />
+	<ivar name="aspect-edit-name">CSTPTE</ivar>
+	<ivar name="aspect-edit-pid" id="Singapore">Singapore</ivar>
+	<ivar name="aspect-edit-description"> CSTPTE  Singapore </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="CWT Commodities Logistics Pte. Ltd."> Singapore  CWT Commodities Logistics Pte. Ltd. />
+	<ivar name="aspect-edit-name">CORHOO</ivar>
+	<ivar name="aspect-edit-pid" id="Singapore">Singapore</ivar>
+	<ivar name="aspect-edit-description"> CORHOO  Singapore </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="GKE Metal Logistics Pte Ltd"> Singapore  GKE Metal Logistics Pte Ltd />
+	<ivar name="aspect-edit-name">MACNEL</ivar>
+	<ivar name="aspect-edit-pid" id="Singapore">Singapore</ivar>
+	<ivar name="aspect-edit-description"> MACNEL  Singapore </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="H&M Metal Warehousing (S) Pte. Ltd."> Singapore  H&M Metal Warehousing (S) Pte. Ltd. />
+	<ivar name="aspect-edit-name">NESI</ivar>
+	<ivar name="aspect-edit-pid" id="Singapore">Singapore</ivar>
+	<ivar name="aspect-edit-description"> NESI  Singapore </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Henry Bath Singapore Pte Ltd"> Singapore  Henry Bath Singapore Pte Ltd />
+	<ivar name="aspect-edit-name">HBSING</ivar>
+	<ivar name="aspect-edit-pid" id="Singapore">Singapore</ivar>
+	<ivar name="aspect-edit-description"> HBSING  Singapore </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="ISTIM (Singapore) Pte Ltd"> Singapore  ISTIM (Singapore) Pte Ltd />
+	<ivar name="aspect-edit-name">ISTSIN</ivar>
+	<ivar name="aspect-edit-pid" id="Singapore">Singapore</ivar>
+	<ivar name="aspect-edit-description"> ISTSIN  Singapore </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Access World (Spain) S.A.U."> Barcelona  Access World (Spain) S.A.U. />
+	<ivar name="aspect-edit-name">BARMET</ivar>
+	<ivar name="aspect-edit-pid" id="Barcelona">Barcelona</ivar>
+	<ivar name="aspect-edit-description"> BARMET  Barcelona </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="C. Steinweg-Handelsveem BV"> Barcelona  C. Steinweg-Handelsveem BV />
+	<ivar name="aspect-edit-name">CSTHAN</ivar>
+	<ivar name="aspect-edit-pid" id="Barcelona">Barcelona</ivar>
+	<ivar name="aspect-edit-description"> CSTHAN  Barcelona </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="P Global Services NV"> Barcelona  P Global Services NV />
+	<ivar name="aspect-edit-name">PGSPAC</ivar>
+	<ivar name="aspect-edit-pid" id="Barcelona">Barcelona</ivar>
+	<ivar name="aspect-edit-description"> PGSPAC  Barcelona </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Access World (Spain) S.A.U."> Bilbao  Access World (Spain) S.A.U. />
+	<ivar name="aspect-edit-name">BARMET</ivar>
+	<ivar name="aspect-edit-pid" id="Bilbao">Bilbao</ivar>
+	<ivar name="aspect-edit-description"> BARMET  Bilbao </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="C. Steinweg-Handelsveem BV"> Bilbao  C. Steinweg-Handelsveem BV />
+	<ivar name="aspect-edit-name">CSTHAN</ivar>
+	<ivar name="aspect-edit-pid" id="Bilbao">Bilbao</ivar>
+	<ivar name="aspect-edit-description"> CSTHAN  Bilbao </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Halley Metals Iberica SA"> Bilbao  Halley Metals Iberica SA />
+	<ivar name="aspect-edit-name">HABI</ivar>
+	<ivar name="aspect-edit-pid" id="Bilbao">Bilbao</ivar>
+	<ivar name="aspect-edit-description"> HABI  Bilbao </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="P Global Services NV"> Bilbao  P Global Services NV />
+	<ivar name="aspect-edit-name">PGSPAC</ivar>
+	<ivar name="aspect-edit-pid" id="Bilbao">Bilbao</ivar>
+	<ivar name="aspect-edit-description"> PGSPAC  Bilbao </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="C. Steinweg (Scandinavia) AB"> Helsingborg  C. Steinweg (Scandinavia) AB />
+	<ivar name="aspect-edit-name">ABSKAN</ivar>
+	<ivar name="aspect-edit-pid" id="Helsingborg">Helsingborg</ivar>
+	<ivar name="aspect-edit-description"> ABSKAN  Helsingborg </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Access World Logistics (Singapore) Pte. Ltd."> Kaohsiung  Access World Logistics (Singapore) Pte. Ltd. />
+	<ivar name="aspect-edit-name">PACSEM</ivar>
+	<ivar name="aspect-edit-pid" id="Kaohsiung">Kaohsiung</ivar>
+	<ivar name="aspect-edit-description"> PACSEM  Kaohsiung </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="ACE (Asia) Pte. Ltd."> Kaohsiung  ACE (Asia) Pte. Ltd. />
+	<ivar name="aspect-edit-name">ACEK</ivar>
+	<ivar name="aspect-edit-pid" id="Kaohsiung">Kaohsiung</ivar>
+	<ivar name="aspect-edit-description"> ACEK  Kaohsiung </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="C. Steinweg Warehousing (FE) Pte Ltd"> Kaohsiung  C. Steinweg Warehousing (FE) Pte Ltd />
+	<ivar name="aspect-edit-name">CSTPTE</ivar>
+	<ivar name="aspect-edit-pid" id="Kaohsiung">Kaohsiung</ivar>
+	<ivar name="aspect-edit-description"> CSTPTE  Kaohsiung </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="H&M Metal Warehousing (S) Pte. Ltd."> Kaohsiung  H&M Metal Warehousing (S) Pte. Ltd. />
+	<ivar name="aspect-edit-name">NESI</ivar>
+	<ivar name="aspect-edit-pid" id="Kaohsiung">Kaohsiung</ivar>
+	<ivar name="aspect-edit-description"> NESI  Kaohsiung </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Henry Bath Singapore Pte Ltd"> Kaohsiung  Henry Bath Singapore Pte Ltd />
+	<ivar name="aspect-edit-name">HBSING</ivar>
+	<ivar name="aspect-edit-pid" id="Kaohsiung">Kaohsiung</ivar>
+	<ivar name="aspect-edit-description"> HBSING  Kaohsiung </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Independent Commodities Logistics BV"> Kaohsiung  Independent Commodities Logistics BV />
+	<ivar name="aspect-edit-name">ICLBV</ivar>
+	<ivar name="aspect-edit-pid" id="Kaohsiung">Kaohsiung</ivar>
+	<ivar name="aspect-edit-description"> ICLBV  Kaohsiung </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="P Global Services NV"> Kaohsiung  P Global Services NV />
+	<ivar name="aspect-edit-name">PGSPAC</ivar>
+	<ivar name="aspect-edit-pid" id="Kaohsiung">Kaohsiung</ivar>
+	<ivar name="aspect-edit-description"> PGSPAC  Kaohsiung </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Access World Logistics LLC"> Dubai  Access World Logistics LLC />
+	<ivar name="aspect-edit-name">AWDUB</ivar>
+	<ivar name="aspect-edit-pid" id="Dubai">Dubai</ivar>
+	<ivar name="aspect-edit-description"> AWDUB  Dubai </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="C. Steinweg-Handelsveem BV"> Dubai  C. Steinweg-Handelsveem BV />
+	<ivar name="aspect-edit-name">CSTHAN</ivar>
+	<ivar name="aspect-edit-pid" id="Dubai">Dubai</ivar>
+	<ivar name="aspect-edit-description"> CSTHAN  Dubai </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="CWT Commodities Logistics Pte. Ltd."> Dubai  CWT Commodities Logistics Pte. Ltd. />
+	<ivar name="aspect-edit-name">CORHOO</ivar>
+	<ivar name="aspect-edit-pid" id="Dubai">Dubai</ivar>
+	<ivar name="aspect-edit-description"> CORHOO  Dubai </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Erus Metals Ltd"> Hull  Erus Metals Ltd />
+	<ivar name="aspect-edit-name">ERUSUK</ivar>
+	<ivar name="aspect-edit-pid" id="Hull">Hull</ivar>
+	<ivar name="aspect-edit-description"> ERUSUK  Hull </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Keystore Ltd"> Hull  Keystore Ltd />
+	<ivar name="aspect-edit-name">KEYLTD</ivar>
+	<ivar name="aspect-edit-pid" id="Hull">Hull</ivar>
+	<ivar name="aspect-edit-description"> KEYLTD  Hull </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Henry Bath & Son Ltd"> Liverpool  Henry Bath & Son Ltd />
+	<ivar name="aspect-edit-name">HEBLIV</ivar>
+	<ivar name="aspect-edit-pid" id="Liverpool">Liverpool</ivar>
+	<ivar name="aspect-edit-description"> HEBLIV  Liverpool </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Henry Diaper & Co. Ltd"> Liverpool  Henry Diaper & Co. Ltd />
+	<ivar name="aspect-edit-name">DIAPER</ivar>
+	<ivar name="aspect-edit-pid" id="Liverpool">Liverpool</ivar>
+	<ivar name="aspect-edit-description"> DIAPER  Liverpool </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="ISTIM UK Ltd."> Liverpool  ISTIM UK Ltd. />
+	<ivar name="aspect-edit-name">ISTUK</ivar>
+	<ivar name="aspect-edit-pid" id="Liverpool">Liverpool</ivar>
+	<ivar name="aspect-edit-description"> ISTUK  Liverpool </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Access World (USA) LLC"> Baltimore  Access World (USA) LLC />
+	<ivar name="aspect-edit-name">PACUSA</ivar>
+	<ivar name="aspect-edit-pid" id="Baltimore">Baltimore</ivar>
+	<ivar name="aspect-edit-description"> PACUSA  Baltimore </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="C. Steinweg (Baltimore) Inc."> Baltimore  C. Steinweg (Baltimore) Inc. />
+	<ivar name="aspect-edit-name">CSTINC</ivar>
+	<ivar name="aspect-edit-pid" id="Baltimore">Baltimore</ivar>
+	<ivar name="aspect-edit-description"> CSTINC  Baltimore </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Edgemere Metals USA LLC"> Baltimore  Edgemere Metals USA LLC />
+	<ivar name="aspect-edit-name">EDGEUS</ivar>
+	<ivar name="aspect-edit-pid" id="Baltimore">Baltimore</ivar>
+	<ivar name="aspect-edit-description"> EDGEUS  Baltimore </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Henry Bath LLC"> Baltimore  Henry Bath LLC />
+	<ivar name="aspect-edit-name">HEBINC</ivar>
+	<ivar name="aspect-edit-pid" id="Baltimore">Baltimore</ivar>
+	<ivar name="aspect-edit-description"> HEBINC  Baltimore </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="PGS USA Holding, LLC"> Baltimore  PGS USA Holding, LLC />
+	<ivar name="aspect-edit-name">PGSHOL</ivar>
+	<ivar name="aspect-edit-pid" id="Baltimore">Baltimore</ivar>
+	<ivar name="aspect-edit-description"> PGSHOL  Baltimore </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="S. H. Bell Company"> Baltimore  S. H. Bell Company />
+	<ivar name="aspect-edit-name">CAMTER</ivar>
+	<ivar name="aspect-edit-pid" id="Baltimore">Baltimore</ivar>
+	<ivar name="aspect-edit-description"> CAMTER  Baltimore </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Access World (USA) LLC"> Chicago  Access World (USA) LLC />
+	<ivar name="aspect-edit-name">PACUSA</ivar>
+	<ivar name="aspect-edit-pid" id="Chicago">Chicago</ivar>
+	<ivar name="aspect-edit-description"> PACUSA  Chicago </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Henry Bath LLC"> Chicago  Henry Bath LLC />
+	<ivar name="aspect-edit-name">HEBINC</ivar>
+	<ivar name="aspect-edit-pid" id="Chicago">Chicago</ivar>
+	<ivar name="aspect-edit-description"> HEBINC  Chicago </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Metro International Trade Services LLC"> Chicago  Metro International Trade Services LLC />
+	<ivar name="aspect-edit-name">MITINC</ivar>
+	<ivar name="aspect-edit-pid" id="Chicago">Chicago</ivar>
+	<ivar name="aspect-edit-description"> MITINC  Chicago </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="PGS USA Holding, LLC"> Chicago  PGS USA Holding, LLC />
+	<ivar name="aspect-edit-name">PGSHOL</ivar>
+	<ivar name="aspect-edit-pid" id="Chicago">Chicago</ivar>
+	<ivar name="aspect-edit-description"> PGSHOL  Chicago </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Access World (USA) LLC"> Detroit  Access World (USA) LLC />
+	<ivar name="aspect-edit-name">PACUSA</ivar>
+	<ivar name="aspect-edit-pid" id="Detroit">Detroit</ivar>
+	<ivar name="aspect-edit-description"> PACUSA  Detroit </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="ISTIM Metals LLC"> Detroit  ISTIM Metals LLC />
+	<ivar name="aspect-edit-name">WHELAN</ivar>
+	<ivar name="aspect-edit-pid" id="Detroit">Detroit</ivar>
+	<ivar name="aspect-edit-description"> WHELAN  Detroit </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Metro International Trade Services LLC"> Detroit  Metro International Trade Services LLC />
+	<ivar name="aspect-edit-name">MITINC</ivar>
+	<ivar name="aspect-edit-pid" id="Detroit">Detroit</ivar>
+	<ivar name="aspect-edit-description"> MITINC  Detroit </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Access World (USA) LLC"> Los Angeles  Access World (USA) LLC />
+	<ivar name="aspect-edit-name">PACUSA</ivar>
+	<ivar name="aspect-edit-pid" id="Los Angeles">Los Angeles</ivar>
+	<ivar name="aspect-edit-description"> PACUSA  Los Angeles </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Metro International Trade Services LLC"> Mobile  Metro International Trade Services LLC />
+	<ivar name="aspect-edit-name">MITINC</ivar>
+	<ivar name="aspect-edit-pid" id="Mobile">Mobile</ivar>
+	<ivar name="aspect-edit-description"> MITINC  Mobile </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="PGS USA Holding, LLC"> Mobile  PGS USA Holding, LLC />
+	<ivar name="aspect-edit-name">PGSHOL</ivar>
+	<ivar name="aspect-edit-pid" id="Mobile">Mobile</ivar>
+	<ivar name="aspect-edit-description"> PGSHOL  Mobile </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Access World (USA) LLC"> New Orleans  Access World (USA) LLC />
+	<ivar name="aspect-edit-name">PACUSA</ivar>
+	<ivar name="aspect-edit-pid" id="New Orleans">New Orleans</ivar>
+	<ivar name="aspect-edit-description"> PACUSA  New Orleans </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Henry Bath LLC"> New Orleans  Henry Bath LLC />
+	<ivar name="aspect-edit-name">HEBINC</ivar>
+	<ivar name="aspect-edit-pid" id="New Orleans">New Orleans</ivar>
+	<ivar name="aspect-edit-description"> HEBINC  New Orleans </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="ISTIM Metals LLC"> New Orleans  ISTIM Metals LLC />
+	<ivar name="aspect-edit-name">WHELAN</ivar>
+	<ivar name="aspect-edit-pid" id="New Orleans">New Orleans</ivar>
+	<ivar name="aspect-edit-description"> WHELAN  New Orleans </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Metro International Trade Services LLC"> New Orleans  Metro International Trade Services LLC />
+	<ivar name="aspect-edit-name">MITINC</ivar>
+	<ivar name="aspect-edit-pid" id="New Orleans">New Orleans</ivar>
+	<ivar name="aspect-edit-description"> MITINC  New Orleans </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="PGS USA Holding, LLC"> New Orleans  PGS USA Holding, LLC />
+	<ivar name="aspect-edit-name">PGSHOL</ivar>
+	<ivar name="aspect-edit-pid" id="New Orleans">New Orleans</ivar>
+	<ivar name="aspect-edit-description"> PGSHOL  New Orleans </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="Access World (USA) LLC"> Owensboro  Access World (USA) LLC />
+	<ivar name="aspect-edit-name">PACUSA</ivar>
+	<ivar name="aspect-edit-pid" id="Owensboro">Owensboro</ivar>
+	<ivar name="aspect-edit-description"> PACUSA  Owensboro </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="PGS USA Holding, LLC"> Owensboro  PGS USA Holding, LLC />
+	<ivar name="aspect-edit-name">PGSHOL</ivar>
+	<ivar name="aspect-edit-pid" id="Owensboro">Owensboro</ivar>
+	<ivar name="aspect-edit-description"> PGSHOL  Owensboro </ivar>
+</item>
+ 
+<item type="com.oilspace.apps.aspect.items.Location">
+	<ivar name="aspect-edit-id" id="PGS USA Holding, LLC"> Toledo  PGS USA Holding, LLC />
+	<ivar name="aspect-edit-name">PGSHOL</ivar>
+	<ivar name="aspect-edit-pid" id="Toledo">Toledo</ivar>
+	<ivar name="aspect-edit-description"> PGSHOL  Toledo </ivar>
+</item>
+ 

@@ -9,4 +9,5 @@ puts "Input an integer:"
 input = gets.to_i
 
 value = factorial(input)
-puts value
+
+puts "Factorial of #{input} is #{value}"
