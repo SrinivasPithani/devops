@@ -2,7 +2,7 @@ I have been doing system adminstration for quite sometime and now I want to disc
 
 I am dividing this article into 3 parts 
 
-- What is Docker and what advantages it offers 
+1. **What is Docker and what advantages it offers **
 - How it differs from virtualsation platforms
 - Install docker on CentOS platform .
 
