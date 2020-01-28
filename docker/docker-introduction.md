@@ -9,7 +9,7 @@ A Second Level Header
 _How it differs from virtualsation platforms_
 - Install docker on CentOS platform .
 
-What is Docker and what advantages it offers 
+`What is Docker and what advantages it offers `
 
 *What is Docker in italic* and what advantages it offers 
 
