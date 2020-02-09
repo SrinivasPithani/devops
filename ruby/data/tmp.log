@@ -1,0 +1,94 @@
+Instance Identifier: anaspdbt1
+New Instance Identifier: aesaadbt
+Endpoint: anaspdbt1.cbbcasui6wsn.eu-west-1.rds.amazonaws.com
+NewEndpoint: aesaadbt.cbbcasui6wsn.eu-west-1.rds.amazonaws.com
+DB name: ANASPT1
+DB name: aesaadbt
+
+Instance Identifier: anaspdbp
+New Instance Identifier: aesaadbp
+Endpoint: anaspdbp.cbbcasui6wsn.eu-west-1.rds.amazonaws.com
+NewEndpoint: aesaadbp.cbbcasui6wsn.eu-west-1.rds.amazonaws.com
+DB name: ANASPP
+DB name: aesaadbp
+
+env: control
+Name: asp-ie-angaspman1-awslinux2-man
+NewName: aesaactrl
+InstanceId: i-0bc1962b87a97360b
+IP: 10.232.26.30
+InstanceType: t3.small
+ServerHostName: angaspman1
+NewServerHostName: aesaactrl
+
+env: test2
+Name: asp-ie-angaspapp1t2-awslinux2-test
+NewName: aesaat2
+InstanceId: i-07265b68cfb4685fd
+IP: 10.232.26.29
+InstanceType: m5.4xlarge
+ServerHostName: angaspapp1t2
+NewServerHostName: aesaat2
+
+env: test3
+Name: asp-ie-angaspapp1t3-awslinux2-test
+NewName: aesaat3
+InstanceId: i-06eaa5b743c864c9b
+IP: 10.232.26.13
+InstanceType: m5.4xlarge
+ServerHostName: angaspapp1t3
+NewServerHostName: aesaat3
+
+env: dev1
+Name: asp-ie-angaspapp1d1-awslinux2-dev
+NewName: aesaad1
+InstanceId: i-069ccb58016f9f98f
+IP: 10.232.26.12
+InstanceType: m5.4xlarge
+ServerHostName: angaspapp1d1
+NewServerHostName: aesaad1
+
+env: uat
+Name: asp-ie-angaspapp1u1-awslinux2-uat
+NewName: aesaau
+InstanceId: i-0523877f772e77f35
+IP: 10.232.26.11
+InstanceType: m5.4xlarge
+ServerHostName: angaspapp1u1
+NewServerHostName: aesaau
+
+env: reg
+Name: asp-ie-angaspapp1r1-awslinux2-reg
+NewName: aesaar
+InstanceId: i-089c9bf5a2611a8ef
+IP: 10.232.26.4
+InstanceType: m5.4xlarge
+ServerHostName: angaspapp1r1
+NewServerHostName: aesaar
+
+env: dev2
+Name: asp-ie-angaspapp1d2-awslinux2-dev
+NewName: aesaad2
+InstanceId: i-0fb07d14363321712
+IP: 10.232.26.27
+InstanceType: m5.4xlarge
+ServerHostName: angaspapp1d2
+NewServerHostName: aesaad2
+
+env: prod
+Name: asp-ie-angaspapp1p-awslinux2-prod
+NewName: aesaap
+InstanceId: i-0a2766c3cbd6b1db0
+IP: 10.232.26.15
+InstanceType: m5.4xlarge
+ServerHostName: angaspapp1p
+NewServerHostName: aesaap
+
+env: staging
+Name: asp-ie-angaspapp1s1-awslinux2-stg
+NewName: aesaas
+InstanceId: i-05f855750598dc6e8
+IP: 10.232.26.20
+InstanceType: m5.4xlarge
+ServerHostName: angaspapp1s1
+NewServerHostName: aesaas
