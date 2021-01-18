@@ -18,15 +18,15 @@ house_price_hash = {
 	:med_Detached	=>	[],
 	:med_Flat		=>	[],
 	:med_Other		=>	[],
-	:'med_Semi-detached'		=>	[], 
+	:med_Semi-detached	=>	[], 
 	:med_Terraced		=>	[],
 	:count_Detached		=>	[],
 	:count_Flat		=>	[],
 	:count_Other		=>	[], 
-	:'count_Semi-detached'		=>	[],
+	:count_Semi-detached	=>	[],
 	:count_Terraced		=>	[], 
 	:overall_median		=>	[],
-	:overall_count		=>  [],
+	:overall_count		=>  	[],
 }
 
 puts house_price_hash["borough"].mergeb[0][0]
