@@ -1,5 +1,9 @@
-def say
-	puts "hello"
+def say(b)
+	puts "hello #{b}"
+
 end
 
-say
+print ("Enter a string:")
+a = gets.chomp
+
+say(a)

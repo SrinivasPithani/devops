@@ -1,0 +1,29 @@
+{
+	"order id" : 123456 ,
+	"userid"  : "srini438" ,
+	"useremail" : "srini@gmail.com" ,
+
+	"Products": [
+	{
+		"Product id" : 4321 ,
+		"Product name" : "oneplus7" ,
+		"quantity" : 1 
+	},
+
+	{	
+		"Product id" : 4567 ,
+		"Product name" : "oneplus8" ,
+		"quantity" : 2 
+	},
+	
+	{	"Product id" : 9876 ,
+		"Product name" : "oneplus9" ,
+		"quantity" : 4 
+	}
+	],
+
+	"Orderstatus" : "Pending",
+	"validuser" : true,
+	"HomeDeilivery" : false,
+	"CashOnDelivery" : false 
+}
