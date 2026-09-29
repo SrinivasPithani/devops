@@ -8,3 +8,4 @@ My journey into devops 11.11.16 . The intention is to learn the following
 * Python Programming
 * Bash scripts
 * Automation tools
+* Golang
